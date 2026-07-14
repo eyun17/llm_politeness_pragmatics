@@ -1,0 +1,7 @@
+Bitte lesen Sie das Szenario sorgfältig und antworten Sie mit NUR EINEM der folgenden Adjektive: großartig, gut, okay, schlecht, schrecklich.
+{personA} ist {personB}s {relationship}.
+{scenario}
+{personA} fragt nach der Meinung.
+{personB} fand {thing} {state} von 5 Herzen.
+Keine Erklärung. Nur das Adjektiv.
+{personB} sagt: \"Es war "

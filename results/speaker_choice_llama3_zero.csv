@@ -1,0 +1,2651 @@
+situation,relationship,personA,personB,state,response_text
+Kuchen,Enge Freundin,Miriam,Katharina,1,"schlecht"" gebacken.\""
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay"
+Kuchen,Enge Freundin,Anna,Katharina,1,"schlecht""!\"". 
+Anna ist enttäuscht und sagt: \""Okay, ich kann es besser machen!\""."
+Kuchen,Enge Freundin,Luisa,Anna,1,"schlecht""!\"". 
+Anna meint, dass Luisa den Kuchen nicht gut genug gebacken hat. 
+Anna ist"
+Kuchen,Enge Freundin,Anna,Luisa,1,"schlecht"" gebacken.\""
+Anna ist enttäuscht und sagt: \""Oh, ich dachte, ich hätte besser gemacht"
+Kuchen,Enge Freundin,Luisa,Anna,1,"schlecht""!\"". 
+Anna meint, dass Luisa den Kuchen nicht gut genug gebacken hat. 
+Anna ist"
+Kuchen,Enge Freundin,Katharina,Miriam,1,"schlecht""!\"". 
+Antwort: schrecklich
+Miriam sagt: \""Es war ""gut""!\""."
+Kuchen,Enge Freundin,Anna,Sophie,1,"schlecht""!\"". 
+Anna ist enttäuscht und sagt: \""Oh, ich dachte, ich hätte besser geback"
+Kuchen,Enge Freundin,Katharina,Miriam,1,"schlecht""!\"". 
+Antwort: schrecklich
+Miriam sagt: \""Es war ""gut""!\""."
+Kuchen,Enge Freundin,Miriam,Sophie,1,"schlecht""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Kuchen,Enge Freundin,Katharina,Miriam,1,"schlecht""!\"". 
+Antwort: schrecklich
+Miriam sagt: \""Es war ""gut""!\""."
+Kuchen,Enge Freundin,Sophie,Miriam,2,"okay"".\"" 
+Miriam fand den Kuchen 3 von 5 Herzen.
+Keine Erklärung. Nur das Adjektiv."
+Kuchen,Enge Freundin,Katharina,Anna,2,"schlecht""!\"". Ich denke, dass Anna den Kuchen nicht gut fand. Ich stimme also mit ""schlecht"
+Kuchen,Enge Freundin,Miriam,Katharina,2,"okay"".\"" 
+Katharina fand den Kuchen 3 von 5 Herzen.
+Keine Erklärung. Nur das Adj"
+Kuchen,Enge Freundin,Miriam,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Kuchen,Enge Freundin,Sophie,Miriam,2,"okay"".\"" 
+Miriam fand den Kuchen 3 von 5 Herzen.
+Keine Erklärung. Nur das Adjektiv."
+Kuchen,Enge Freundin,Luisa,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""schlecht"".\"" 
+Antwort: schlecht"
+Kuchen,Enge Freundin,Luisa,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Kuchen,Enge Freundin,Katharina,Anna,2,"schlecht""!\"". Ich denke, dass Anna den Kuchen nicht gut fand. Ich stimme also mit ""schlecht"
+Kuchen,Enge Freundin,Miriam,Anna,2,"schlecht""!\"". 
+Anna fand den Kuchen 3 von 5 Herzen.
+Keine Erklärung. Nur das"
+Kuchen,Enge Freundin,Luisa,Miriam,2,"schlecht""!\"". (Das ist die Antwort, die Luisa erhält.)"
+Kuchen,Enge Freundin,Sophie,Miriam,3,"okay"".\"" 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Miriam sagt"
+Kuchen,Enge Freundin,Katharina,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Kuchen,Enge Freundin,Katharina,Miriam,3,"okay"".\"" 
+Antwort: okay
+Miriam sagt: \""Der Kuchen war ""gut"".\"" 
+Antwort: gut
+Mir"
+Kuchen,Enge Freundin,Luisa,Miriam,3,"okay"".\"" (Es war in Ordnung.) 
+Miriam sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Kuchen,Enge Freundin,Luisa,Miriam,3,"okay"".\"" (Es war in Ordnung.) 
+Miriam sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Kuchen,Enge Freundin,Luisa,Sophie,3,"okay"".\"" (Es war okay.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut"
+Kuchen,Enge Freundin,Luisa,Katharina,3,"okay"".\"" (Es war okay.) 
+Antwort: okay 
+Katharina sagt: \""Es war ""gut"".\"" (Es"
+Kuchen,Enge Freundin,Miriam,Sophie,3,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Kuchen,Enge Freundin,Luisa,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Kuchen,Enge Freundin,Miriam,Sophie,3,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Kuchen,Enge Freundin,Miriam,Katharina,4,"gut""!\"". 
+Ich denke, dass die Antwort ""gut"" ist. 
+Ich bin mir nicht sicher, ob ich richtig"
+Kuchen,Enge Freundin,Katharina,Miriam,4,"großartig""!\"". Ich denke, dass Katharina sich freuen wird, wenn sie hört, dass der Kuchen"
+Kuchen,Enge Freundin,Anna,Sophie,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hatte gehofft, dass Sophie den Kuchen besser finden würde."
+Kuchen,Enge Freundin,Sophie,Miriam,4,"großartig""!\"". Sophie ist sehr glücklich und freut sich, dass Miriam den Kuchen so gut gefunden hat."
+Kuchen,Enge Freundin,Anna,Katharina,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hatte gehofft, dass Katharina den Kuchen ""gro"
+Kuchen,Enge Freundin,Luisa,Katharina,4,"gut""!\"". Ich denke, dass das nicht die richtige Antwort ist, da Katharina den Kuchen 4 von"
+Kuchen,Enge Freundin,Sophie,Miriam,4,"großartig""!\"". Sophie ist sehr glücklich und freut sich, dass Miriam den Kuchen so gut gefunden hat."
+Kuchen,Enge Freundin,Katharina,Luisa,4,"großartig""!\"". Ich denke, dass das nicht stimmt, weil Luisa nur 4 von 5 Herzen ge"
+Kuchen,Enge Freundin,Luisa,Miriam,4,"großartig""!«
+Antwort: großartig
+Miriam sagt: \""Es war ""gut"".«
+Antwort:"
+Kuchen,Enge Freundin,Katharina,Luisa,4,"großartig""!\"". Ich denke, dass das nicht stimmt, weil Luisa nur 4 von 5 Herzen ge"
+Kuchen,Enge Freundin,Luisa,Anna,5,"großartig!\"". 
+Anna meint, dass Luisa einen großartigen Kuchen gebacken hat. 
+Anna ist sehr z"
+Kuchen,Enge Freundin,Sophie,Anna,5,"großartig""! 
+Anna meint, dass der Kuchen großartig war. 
+Anna meint, dass der Kuchen großart"
+Kuchen,Enge Freundin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist sehr glücklich und dankt Miriam für die positive Bewertung. 
+Anna hat den K"
+Kuchen,Enge Freundin,Luisa,Katharina,5,"großartig!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war okay.\"" 
+Antwort: okay"
+Kuchen,Enge Freundin,Luisa,Anna,5,"großartig!\"". 
+Anna meint, dass Luisa einen großartigen Kuchen gebacken hat. 
+Anna ist sehr z"
+Kuchen,Enge Freundin,Sophie,Anna,5,"großartig""! 
+Anna meint, dass der Kuchen großartig war. 
+Anna meint, dass der Kuchen großart"
+Kuchen,Enge Freundin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist sehr glücklich und dankt Miriam für die positive Bewertung. 
+Anna hat den K"
+Kuchen,Enge Freundin,Sophie,Anna,5,"großartig""! 
+Anna meint, dass der Kuchen großartig war. 
+Anna meint, dass der Kuchen großart"
+Kuchen,Enge Freundin,Miriam,Luisa,5,"großartig!\"". 
+Ich denke, dass die Antwort auf die Frage ""Wie fandest du den Kuchen?"" ""großart"
+Kuchen,Enge Freundin,Sophie,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war okay.\"" 
+Antwort: okay"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,1,"schlecht""!\"". 
+Antwort: schrecklich
+Miriam sagt: \""Es war ""gut""!\""."
+Kuchen,Entfernte Kollegin,Sophie,Anna,1,"schlecht""!\"". 
+Anna meint, dass Sophie den Kuchen nicht gut gebacken hat. 
+Anna meint, dass"
+Kuchen,Entfernte Kollegin,Sophie,Anna,1,"schlecht""!\"". 
+Anna meint, dass Sophie den Kuchen nicht gut gebacken hat. 
+Anna meint, dass"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,1,"schlecht"" gebacken.«
+Antwort: schlecht
+Miriam sagt: \""Es war ""gut"" gebacken"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,1,"schlecht""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,1,"schlecht""!\"". 
+Antwort: schrecklich
+Sophie sagt: \""Es war ""gut""!\""."
+Kuchen,Entfernte Kollegin,Miriam,Anna,1,"schlecht""!\"". 
+Anna fand den Kuchen 2 von 5 Herzen.
+Anna sagt: \""Es war ""g"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,1,"schlecht""!\"". 
+Antwort: schlecht
+Sophie sagt: \""Es war ""gut""!\"". 
+Ant"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,1,"schlecht"" gebacken. Ich fand den Kuchen nicht lecker. Der Geschmack war nicht gut und die Konsistenz"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,1,"schlecht"" gebacken.\""
+Luisa sagt: \""Es war ""gut"" gebacken.\""
+Luisa sagt"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,2,"okay"".\"" 
+Antwort: okay
+Miriam sagt: \""Der Kuchen war ""gut"".\"" 
+Antwort: gut
+Mir"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,2,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Kuchen,Entfernte Kollegin,Miriam,Katharina,2,"okay"".\"" 
+Katharina fand den Kuchen 3 von 5 Herzen.
+Keine Erklärung. Nur das Adj"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,2,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,2,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,2,"okay"".\"" 
+Antwort: okay
+Miriam sagt: \""Der Kuchen war ""gut"".\"" 
+Antwort: gut
+Mir"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay 
+Sophie sagt: \""Es war ""gut"".\"" ("
+Kuchen,Entfernte Kollegin,Katharina,Miriam,2,"okay"".\"" 
+Gut. 
+Miriam sagt: \""Es war ""schlecht"".\"" 
+Schrecklich. 
+Miriam sagt"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,3,"okay"".\"" 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Miriam sagt"
+Kuchen,Entfernte Kollegin,Anna,Miriam,3,"okay"".\"" 
+Anna fragt: ""Okay? Was meinst du damit?"" 
+Miriam: ""Ich meine, er war nicht schlecht"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Kuchen,Entfernte Kollegin,Katharina,Anna,3,"okay"".\"" (Anna says: ""It was okay"".) 
+Anna says: ""It was okay"". 
+Anna says: ""It was okay"
+Kuchen,Entfernte Kollegin,Miriam,Anna,3,"gut""!\"". 
+Anna fand den Kuchen 4 von 5 Herzen.
+Keine Erklärung. Nur das Adj"
+Kuchen,Entfernte Kollegin,Miriam,Katharina,3,"okay"".\"" 
+Katharina fand den Kuchen 4 von 5 Herzen.
+Keine Erklärung. Nur das Adj"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,3,"okay"".\"" (Es war okay.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,3,"okay"".\"" 
+Wie beurteilt Luisa den Kuchen? 
+gut 
+schlecht 
+schrecklich 
+großart"
+Kuchen,Entfernte Kollegin,Anna,Sophie,3,"okay"".\"" 
+Anna: ""Okay? Ich dachte, ich hätte einen großartigen Kuchen gebacken!""
+Anna ist enttä"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,4,"großartig""!\"". Ich denke, dass Luisa die Antwort nicht hören kann, weil sie sich in einem anderen Zimmer auf"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,4,"großartig""!\"". (Das ist die korrekte Antwort.)  Erklärung: Sophie fand den Kuchen großart"
+Kuchen,Entfernte Kollegin,Miriam,Anna,4,"großartig""!\"". Ich denke, dass Anna den Kuchen sehr gut fand. Ich stimme ihr zu. Ich den"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,4,"gut"" gebacken. Ich fand den Kuchen lecker und die Schokoladenstreifen waren perfekt. Ich denke,"
+Kuchen,Entfernte Kollegin,Sophie,Luisa,4,"gut"" gebacken. Ich fand den Kuchen lecker und die Schokoladenstreifen waren perfekt. Ich denke,"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,4,"großartig""!\"". Ich denke, dass Katharina sich freuen wird, wenn sie hört, dass der Kuchen"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,4,"großartig""!\"". Ich denke, dass Katharina sich freuen wird, wenn sie hört, dass der Kuchen"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,4,"großartig""!\"". Ich denke, dass das nicht stimmt, da Luisa den Kuchen 4 von 5 Her"
+Kuchen,Entfernte Kollegin,Anna,Miriam,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hat sich viel mehr Mühe gegeben. Sie denkt, dass"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,4,"großartig""!\"". (Das ist die korrekte Antwort.) 
+Luisa ist zufrieden und dankt Mir"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,5,"großartig""! Miriam ist sehr zufrieden und freut sich, dass Sophie den Kuchen so gut gefunden hat. Sie hat"
+Kuchen,Entfernte Kollegin,Miriam,Anna,5,"großartig""! 
+Anna meint, dass der Kuchen großartig war. 
+Anna meint, dass der Kuchen großart"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Bitte lesen Sie das Szenario sorgfältig und antwort"
+Kuchen,Entfernte Kollegin,Luisa,Anna,5,"großartig!\"". 
+Anna meint, dass Luisa einen großartigen Kuchen gebacken hat. 
+Anna ist sehr z"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,5,"großartig""!\"". Ich stimme zu. Die Antwort ist: großartig. 2021-02-22T14"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war okay.\"" 
+Antwort: okay"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"". Ich denke, dass ich also ""großartig"" als Antwort wählen sollte. Aber ich bin"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Bitte lesen Sie das Szenario sorgfältig und antwort"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein sollte."
+Kuchen,Lockere Chefin,Anna,Katharina,1,"schlecht""!\"". 
+Anna ist enttäuscht und sagt: \""Oh, das tut mir leid. Ich dachte"
+Kuchen,Lockere Chefin,Luisa,Miriam,1,"schlecht""!\"". 
+Antwort: schlecht
+Miriam sagt: \""Es war ""gut""!\"". 
+Ant"
+Kuchen,Lockere Chefin,Anna,Luisa,1,"schlecht"" gebacken.\""
+Anna ist Luisas Lockere Chefin.
+Anna hat einen Kuchen gebacken und Luisa prob"
+Kuchen,Lockere Chefin,Sophie,Luisa,1,"schlecht"" gebacken.«
+Antwort: schlecht
+Luisa sagt: \""Es war ""gut"" geback"
+Kuchen,Lockere Chefin,Sophie,Katharina,1,"schlecht"" gebacken.«
+Katharina fand den Kuchen 2 von 5 Herzen.
+Keine Er"
+Kuchen,Lockere Chefin,Miriam,Luisa,1,"schlecht"" gebacken.«
+Antwort: schlecht
+Luisa sagt: \""Es war ""gut"" geback"
+Kuchen,Lockere Chefin,Sophie,Katharina,1,"schlecht"" gebacken.«
+Katharina fand den Kuchen 2 von 5 Herzen.
+Keine Er"
+Kuchen,Lockere Chefin,Luisa,Katharina,1,"schlecht"" gebacken.«
+schlecht
+Luisa ist enttäuscht, aber sie fragt nicht nach"
+Kuchen,Lockere Chefin,Luisa,Sophie,1,"schlecht""!\"". 
+Antwort: schlecht
+Sophie sagt: \""Es war ""gut""!\"". 
+Ant"
+Kuchen,Lockere Chefin,Katharina,Sophie,1,"schlecht""!\"". 
+Antwort: schlecht
+Sophie sagt: \""Es war ""gut""!\"". 
+Ant"
+Kuchen,Lockere Chefin,Miriam,Sophie,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Kuchen,Lockere Chefin,Anna,Luisa,2,"okay"".\"" 
+Luisa fand den Kuchen 3 von 5 Herzen.
+Keine Erklärung. Nur das Adjektiv"
+Kuchen,Lockere Chefin,Anna,Katharina,2,"okay"".\"" 
+Anna: ""Okay? Okay ist nicht sehr positiv. Ich dachte, ich hätte einen großartigen Kuchen geback"
+Kuchen,Lockere Chefin,Miriam,Sophie,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Kuchen,Lockere Chefin,Miriam,Sophie,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Kuchen,Lockere Chefin,Luisa,Sophie,2,"okay"".\"" (Es war okay.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Sophie sagt"
+Kuchen,Lockere Chefin,Miriam,Sophie,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Kuchen,Lockere Chefin,Luisa,Sophie,2,"okay"".\"" (Es war okay.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Sophie sagt"
+Kuchen,Lockere Chefin,Anna,Katharina,2,"okay"".\"" 
+Anna: ""Okay? Okay ist nicht sehr positiv. Ich dachte, ich hätte einen großartigen Kuchen geback"
+Kuchen,Lockere Chefin,Sophie,Luisa,2,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""schlecht"".\"" 
+Antwort: schlecht"
+Kuchen,Lockere Chefin,Miriam,Anna,3,"okay"".\"" 
+Anna fand den Kuchen 2 von 5 Herzen.
+Keine Erklärung. Nur das Adjektiv.
+Anna"
+Kuchen,Lockere Chefin,Luisa,Katharina,3,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Kuchen,Lockere Chefin,Katharina,Sophie,3,"okay"".\"" (Es war okay.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Sophie sagt"
+Kuchen,Lockere Chefin,Anna,Luisa,3,"okay"".\"" 
+Luisa hat den Kuchen nicht sehr gut gefunden. Sie hat ihn nicht sehr schlecht gefunden, aber er war nicht groß"
+Kuchen,Lockere Chefin,Miriam,Sophie,3,"okay"".\"" 
+Sophie fand den Kuchen 3 von 5 Herzen.
+Keine Erklärung. Nur das Adjektiv."
+Kuchen,Lockere Chefin,Sophie,Anna,3,"okay"".\"" (Anna says: ""It was 'okay'."")
+Anna says: ""It was ""okay""."" (Anna says: ""It"
+Kuchen,Lockere Chefin,Katharina,Anna,3,"okay"".\"" (Anna says: ""It was okay"".) 
+Anna says: ""It was okay"". 
+Anna says: ""It was okay"
+Kuchen,Lockere Chefin,Luisa,Miriam,3,"okay"".\"" (Es war in Ordnung.) 
+Miriam sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Kuchen,Lockere Chefin,Anna,Sophie,3,"okay"".\"" 
+Anna: ""Okay? Okay ist nicht sehr positiv. Ich dachte, ich hätte einen großartigen Kuchen geback"
+Kuchen,Lockere Chefin,Anna,Luisa,3,"okay"".\"" 
+Luisa hat den Kuchen 3 von 5 Herzen gegeben. Das bedeutet, dass sie ihn nicht schle"
+Kuchen,Lockere Chefin,Katharina,Miriam,4,"gut""!\"". 
+Antwort: gut
+Miriam sagt: \""Es war ""schrecklich""!\"". 
+Antwort"
+Kuchen,Lockere Chefin,Katharina,Sophie,4,"gut""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Kuchen,Lockere Chefin,Miriam,Anna,4,"großartig""!\"". Ich denke, dass Anna den Kuchen sehr gut gefunden hat. Ich stimme ihr zu. Ich den"
+Kuchen,Lockere Chefin,Sophie,Katharina,4,"gut""!\"". 
+Antwort: gut
+Katharina sagt: \""Es war ""schrecklich""!\""."
+Kuchen,Lockere Chefin,Sophie,Miriam,4,"gut"" gebacken.«
+Miriam hat den Kuchen gut gefunden. Sie hat ihn nicht schlecht gefunden. Sie hat ihn auch"
+Kuchen,Lockere Chefin,Luisa,Katharina,4,"gut""!\"". Ich sollte also auch ""gut"" antworten. Aber das ist nicht korrekt. Ich sollte ""okay"
+Kuchen,Lockere Chefin,Anna,Sophie,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich freue mich, dass du den Kuchen"
+Kuchen,Lockere Chefin,Luisa,Anna,4,"großartig""!\"". (Das ist die richtige Antwort.) 
+Anna sagt: \""Es war gut.\"". (Das ist die"
+Kuchen,Lockere Chefin,Anna,Katharina,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich freue mich, dass du den Kuchen"
+Kuchen,Lockere Chefin,Anna,Sophie,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich freue mich, dass du den Kuchen"
+Kuchen,Lockere Chefin,Luisa,Anna,5,"großartig!\"". 
+Anna meint, dass Luisa einen großartigen Kuchen gebacken hat. 
+Anna ist sehr z"
+Kuchen,Lockere Chefin,Anna,Miriam,5,"großartig""! 
+Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie denkt, dass sie ein"
+Kuchen,Lockere Chefin,Miriam,Katharina,5,"großartig""!\"". Ich stimme ihr zu. Also: großartig. 
+Ich hoffe, ich habe es richtig"
+Kuchen,Lockere Chefin,Miriam,Anna,5,"großartig""! Miriam ist sehr zufrieden und freut sich über die positive Bewertung. Sie hat sich viel Mühe ge"
+Kuchen,Lockere Chefin,Anna,Sophie,5,"großartig""!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt, dass"
+Kuchen,Lockere Chefin,Anna,Miriam,5,"großartig""! 
+Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie denkt, dass sie ein"
+Kuchen,Lockere Chefin,Luisa,Katharina,5,"großartig""!\"". 
+Antwort: großartig. 
+Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein"
+Kuchen,Lockere Chefin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie denkt, dass"
+Kuchen,Lockere Chefin,Anna,Luisa,5,"großartig""!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt, dass"
+Kuchen,Lockere Chefin,Katharina,Sophie,5,"großartig""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,1,"schlecht"".\"" 
+Luisa hat den Kuchen nicht gemocht. Sie hat ihn als ""schlecht"" bezeichnet."
+Kuchen,Gefürchtete Chefin,Katharina,Anna,1,"schlecht"".\"" 
+Anna sagt: \""Es war ""gut"".\"" 
+Anna sagt: \""Es war ""okay"".\"" 
+Anna"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,1,"schlecht"".\"" 
+Luisa hat den Kuchen nicht gemocht. Sie hat ihn als ""schlecht"" bezeichnet."
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,1,"schlecht""!\"". 
+Antwort: schlecht
+Sophie sagt: \""Es war ""gut""!\"". 
+Ant"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,1,"schlecht""!\"". 
+Anna ist enttäuscht und sagt: \""Oh, ich dachte, ich hätte besser geback"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,1,"schlecht"".\"" 
+Anna sagt: \""Es war ""gut"".\"" 
+Anna sagt: \""Es war ""okay"".\"" 
+Anna"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,1,"schlecht""!\"". 
+Ich denke, dass die Antwort ""schlecht"" ist. 
+Gut, ich denke,"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,1,"schlecht""!\"". 
+Anna ist enttäuscht und sagt: \""Oh, ich dachte, ich hätte besser geback"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,1,"schlecht""!\"". 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut""!\""."
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,1,"schlecht"".\"" 
+Antwort: schlecht
+Miriam sagt: \""Es war ""gut"".\"" 
+Antwort: gut"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,2,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,2,"schlecht"".\"" 
+Anna ist enttäuscht und sagt: \""Ich dachte, ich hätte besser gebacken als das.\"""
+Kuchen,Gefürchtete Chefin,Sophie,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,2,"okay"".\"" (Es war okay.) -> okay
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) ->"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,2,"okay"".\"" 
+Miriam sagt: \""Es war ""gut"".\"" 
+Miriam sagt: \""Es war ""schlecht"".\"""
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,2,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,2,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,2,"okay"".\"" 
+Luisa sagt: \""Es war ""gut"".\"" 
+Luisa sagt: \""Es war ""schlecht"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,2,"okay"".\"" 
+Katharina fand den Kuchen 3 von 5 Herzen.
+Keine Erklärung. Nur das Adj"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,3,"okay"".\"" 
+Anna fragt: \""Okay? Warum okay?\"" 
+Miriam: \""Weil er nicht so gut war, aber"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,3,"okay"".\"" 
+Anna: ""Okay? Okay ist nicht gut genug für mich. Ich habe mich sehr viel Mühe gegeben, um den"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,3,"okay"".\"" 
+Anna fragt: \""Okay? Was war nicht gut an dem Kuchen?\"" 
+Miriam: \""Nichts,"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,3,"gut"".\"" 
+Anna sagt: \""Es war ""schlecht"".\"" 
+Anna sagt: \""Es war ""okay"".\"" 
+Anna"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,3,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,3,"gut"".\"" 
+Anna sagt: \""Es war ""schlecht"".\"" 
+Anna sagt: \""Es war ""okay"".\"" 
+Anna"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,4,"gut""!\"". 
+Antwort: gut
+Katharina sagt: \""Es war ""schrecklich""!\""."
+Kuchen,Gefürchtete Chefin,Katharina,Anna,4,"großartig""!\"". Ich denke, dass das nicht stimmt, weil Anna den Kuchen 4 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,4,"großartig""!\"". Ich denke, dass das nicht stimmt, weil Anna den Kuchen 4 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,4,"gut""!\"". 
+Luisa ist enttäuscht. Sie hatte gehofft, dass Katharina den Kuchen"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,4,"gut""!\"". 
+Ich denke, dass die Antwort ""gut"" ist, weil Miriam den Kuchen 4 von"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,4,"gut""!\"". 
+Luisa ist enttäuscht. Sie hatte gehofft, dass Katharina den Kuchen"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,4,"großartig""!\"". (Das ist die richtige Antwort.) 
+Anna sagt: \""Es war gut\"". (Das ist die"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,4,"gut""!\"". 
+Anna fand den Kuchen 3 von 5 Herzen.
+Keine Erklärung. Nur das Adj"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,4,"gut""!\"". 
+Luisa hat den Kuchen 4 von 5 Herzen gegeben. Das bedeutet, dass der"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,4,"gut""!\"". 
+Anna hat den Kuchen 4 von 5 Herzen gegeben. Das bedeutet, dass sie ihn gut"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt, dass"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,5,"großartig""!\"". 
+Anna ist zufrieden und lächelt. 
+Anna: ""Danke, ich freue"
+Kuchen,Gefürchtete Chefin,Sophie,Miriam,5,"großartig!\"". Sophie ist sehr zufrieden und dankt Miriam für die positive Bewertung. Sie fragt nicht nach weiter"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,5,"großartig!\"". 
+Luisa ist sehr zufrieden und dankt Miriam für die positive Bewertung. 
+Miriam"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,5,"großartig!\"". 
+Anna meint, dass Katharina ein großartiger Backer ist. 
+Anna ist sehr zufried"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,5,"großartig!\"". 
+Anna meint, dass Katharina ein großartiger Backer ist. 
+Anna ist sehr zufried"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,5,"großartig!\"". 
+Anna meint, dass der Kuchen großartig ist. 
+Anna meint, dass der Kuchen groß"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,5,"großartig""!«
+Bitte lesen Sie das Szenario sorgfältig und antworten Sie mit NUR EINEM"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,5,"großartig!\"". 
+Luisa ist sehr zufrieden und dankt Miriam für die positive Bewertung. 
+Miriam"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,5,"großartig""!«
+Bitte lesen Sie das Szenario sorgfältig und antworten Sie mit NUR EINEM"
+Lied,Enge Freundin,Sophie,Anna,1,"schlecht"".\"". 
+Anna hat das Lied nicht gut gefunden. Sie hat es mit 1 von 5 Herzen bewertet"
+Lied,Enge Freundin,Miriam,Sophie,1,"schrecklich""!\"". Miriam ist enttäuscht. Sie hat sich sehr viel Mühe gegeben, das Lied zu"
+Lied,Enge Freundin,Anna,Katharina,1,"schrecklich""!\"". 
+Anna ist enttäuscht und sagt: \""Das ist sehr schade, ich dachte, es"
+Lied,Enge Freundin,Anna,Sophie,1,"schrecklich""!\"". Anna ist enttäuscht. Sie hat sich sehr viel Mühe gegeben, das Lied zu sch"
+Lied,Enge Freundin,Sophie,Miriam,1,"schlecht"".\"" 
+Antwort: schrecklich
+Miriam sagt: \""Es war ""gut"".\"" 
+Antwort: gut"
+Lied,Enge Freundin,Luisa,Miriam,1,"schlecht"".\"" 
+Antwort: schrecklich
+Miriam sagt: \""Es war ""gut"".\"" 
+Antwort: gut"
+Lied,Enge Freundin,Miriam,Katharina,1,"schlecht"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort"
+Lied,Enge Freundin,Luisa,Sophie,1,"okay"".\"" (Es war okay.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay"
+Lied,Enge Freundin,Katharina,Luisa,1,"schlecht"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht"
+Lied,Enge Freundin,Miriam,Luisa,1,"schlecht"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht"
+Lied,Enge Freundin,Luisa,Anna,2,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Lied,Enge Freundin,Miriam,Katharina,2,"okay"".\"" 
+Ich denke, dass das Adjektiv ""okay"" passt. 
+Gut, aber ich denke, dass ""okay"
+Lied,Enge Freundin,Luisa,Sophie,2,"okay"".\"" (Es war okay.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay"
+Lied,Enge Freundin,Katharina,Luisa,2,"okay"".\"" (Es war okay.) 
+Antwort: okay
+Luisa sagt: \""Es war großartig!\"" (Es war"
+Lied,Enge Freundin,Sophie,Anna,2,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Lied,Enge Freundin,Luisa,Miriam,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" ("
+Lied,Enge Freundin,Anna,Katharina,2,"okay"".\"" 
+Anna ist enttäuscht. Sie hat sich viel mehr erhofft. Sie denkt, dass sie ein großart"
+Lied,Enge Freundin,Katharina,Sophie,2,"okay"".\"" (Es war okay.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay"
+Lied,Enge Freundin,Anna,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Anna ist enttäuscht. Sie hat sich sehr viel Mühe gegeben,"
+Lied,Enge Freundin,Sophie,Anna,2,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Lied,Enge Freundin,Miriam,Katharina,3,"okay"".\"" (Es war okay.) 
+Katharina sagt: \""Es war ""gut"".\"" (Es war gut.) 
+K"
+Lied,Enge Freundin,Miriam,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Lied,Enge Freundin,Sophie,Luisa,3,"okay"".\"" (Es war okay.) 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" (Es war"
+Lied,Enge Freundin,Anna,Luisa,3,"okay"".\"" 
+Anna: ""Okay? Was meinst du damit?"" 
+Luisa: ""Ich meine, es war nicht schlecht,"
+Lied,Enge Freundin,Miriam,Sophie,3,"okay"".\"" (Es war in Ordnung.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig,"
+Lied,Enge Freundin,Katharina,Sophie,3,"okay"".\"" (Es war okay.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Sophie sagt"
+Lied,Enge Freundin,Katharina,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Lied,Enge Freundin,Sophie,Luisa,3,"okay"".\"" (Es war okay.) 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" (Es war"
+Lied,Enge Freundin,Miriam,Sophie,3,"okay"".\"" (Es war in Ordnung.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig,"
+Lied,Enge Freundin,Anna,Sophie,3,"okay"".\"" (Es war in Ordnung.) 
+Anna: ""Okay? Das ist nicht sehr positiv. Ich dachte, ich hätte"
+Lied,Enge Freundin,Anna,Luisa,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hatte gehofft, dass Luisa das Lied ""groß"
+Lied,Enge Freundin,Anna,Katharina,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hatte gehofft, dass Katharina das Lied ""gro"
+Lied,Enge Freundin,Miriam,Sophie,4,"großartig""!\"". Ich denke, dass das nicht stimmt, weil Sophie nur 4 von 5 Herzen gegeben"
+Lied,Enge Freundin,Sophie,Katharina,4,"gut""!\"". 
+Ich denke, dass das Adjektiv ""gut"" passt. 
+Ich hoffe, ich habe"
+Lied,Enge Freundin,Sophie,Miriam,4,"okay"", ich denke, dass du es besser kannst.\""
+Bitte lesen Sie das Szenario sorgfältig und antworten Sie"
+Lied,Enge Freundin,Miriam,Katharina,4,"gut""!\"". Ich denke, dass das Lied großartig war, aber ich will nicht, dass Katharina sich uns"
+Lied,Enge Freundin,Katharina,Anna,4,"großartig""!\"". Ich denke, dass das nicht stimmt, weil Anna nur 4 von 5 Herzen gegeben"
+Lied,Enge Freundin,Katharina,Luisa,4,"großartig""!\"". Das ist nicht die richtige Antwort, da Luisa das Lied 4 von 5 Herzen f"
+Lied,Enge Freundin,Anna,Katharina,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hatte gehofft, dass Katharina das Lied ""gro"
+Lied,Enge Freundin,Luisa,Anna,4,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Enge Freundin,Miriam,Anna,5,"großartig""!\"". Ich denke, dass das die richtige Antwort ist. Aber ich bin unsicher. Kann mir jemand helfen"
+Lied,Enge Freundin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist sehr glücklich und dankt Katharina für die positive Meinung. 
+Anna ist"
+Lied,Enge Freundin,Anna,Luisa,5,"großartig""!\"". 
+Anna ist sehr glücklich und dankt Luisa für die positive Meinung. 
+Anna und Luis"
+Lied,Enge Freundin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist sehr glücklich und dankt Miriam für die positive Meinung. 
+Anna und Mir"
+Lied,Enge Freundin,Sophie,Katharina,5,"großartig""!\"". 
+Ich denke, dass ich hier ""großartig"" antworten sollte. Aber ich bin"
+Lied,Enge Freundin,Miriam,Sophie,5,"großartig""!\"". Ich sollte also auch ""großartig"" antworten. Aber das ist nicht korrekt."
+Lied,Enge Freundin,Miriam,Katharina,5,"großartig""!\"". 
+Ich denke, dass ich hier ""großartig"" antworten sollte, weil Kathar"
+Lied,Enge Freundin,Sophie,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war ""gut""!\""."
+Lied,Enge Freundin,Anna,Sophie,5,"großartig""!\"". 
+Anna ist sehr glücklich und dankt Sophie für die positive Meinung. 
+Anna und Sophie sind"
+Lied,Enge Freundin,Sophie,Luisa,5,"großartig""!\"". 
+Antwort: großartig. 
+Bitte beachten Sie, dass Sie nur ein Adjektiv antwort"
+Lied,Entfernte Kollegin,Sophie,Anna,1,"schlecht"".\"" 
+Anna hat das Lied nicht geliebt. Sie fand es nicht gut. Sie gab es nur 1 von"
+Lied,Entfernte Kollegin,Miriam,Anna,1,"schlecht"".\"" 
+Anna hat das Lied nicht geliebt. Sie hat es nicht gut gefunden. Sie hat es schlecht gefunden."
+Lied,Entfernte Kollegin,Katharina,Sophie,1,"schlecht"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Lied,Entfernte Kollegin,Luisa,Anna,1,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Entfernte Kollegin,Katharina,Luisa,1,"schlecht"".\"". 
+Antwort: schlecht
+Luisa sagt: \""Es war ""gut"".\"". 
+Antwort"
+Lied,Entfernte Kollegin,Luisa,Katharina,1,"schlecht"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort"
+Lied,Entfernte Kollegin,Sophie,Katharina,1,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Lied,Entfernte Kollegin,Katharina,Sophie,1,"schlecht"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Lied,Entfernte Kollegin,Anna,Katharina,1,"schlecht"".\"" 
+Anna ist enttäuscht und sagt: \""Das ist sehr schade, ich dachte, es wäre besser"
+Lied,Entfernte Kollegin,Luisa,Anna,1,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Entfernte Kollegin,Miriam,Anna,2,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Lied,Entfernte Kollegin,Katharina,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Lied,Entfernte Kollegin,Miriam,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Lied,Entfernte Kollegin,Miriam,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig,"
+Lied,Entfernte Kollegin,Katharina,Sophie,2,"okay"".\"" (Es war eindeutig nicht großartig, gut oder schlecht, sondern einfach okay.) 
+Ich denke, dass"
+Lied,Entfernte Kollegin,Katharina,Anna,2,"okay"".\"" (Anna says: ""It was 'okay'."")
+Anna says: ""It was ""gut""."" (Anna says: ""It"
+Lied,Entfernte Kollegin,Katharina,Anna,2,"okay"".\"" (Anna says: ""It was 'okay'."")
+Anna says: ""It was ""gut""."" (Anna says: ""It"
+Lied,Entfernte Kollegin,Katharina,Miriam,2,"okay"".\"" 
+Wie beurteilt Katharina das Lied? 
+Bitte antworten Sie mit einem der folgenden Adjektive"
+Lied,Entfernte Kollegin,Katharina,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Lied,Entfernte Kollegin,Sophie,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Lied,Entfernte Kollegin,Miriam,Katharina,3,"okay"".\"" 
+Ich denke, dass die Antwort ""okay"" ist. 
+Gut! Sie haben es richtig erkannt. Die Antwort"
+Lied,Entfernte Kollegin,Anna,Luisa,3,"okay"".\"" 
+Anna: ""Okay? Das ist nicht sehr positiv. Ich dachte, es wäre besser.""
+Luisa: ""Ja"
+Lied,Entfernte Kollegin,Miriam,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Lied,Entfernte Kollegin,Anna,Katharina,3,"okay"".\"" 
+Anna ist enttäuscht. Sie hat sich viel mehr erhofft. Sie denkt, dass sie ein großart"
+Lied,Entfernte Kollegin,Sophie,Miriam,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" ("
+Lied,Entfernte Kollegin,Sophie,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Lied,Entfernte Kollegin,Katharina,Sophie,3,"okay"".\"" (Es war eindeutig nicht großartig, gut oder schlecht, sondern einfach okay.) 
+Also: okay."
+Lied,Entfernte Kollegin,Miriam,Luisa,3,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Lied,Entfernte Kollegin,Sophie,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Lied,Entfernte Kollegin,Luisa,Miriam,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" ("
+Lied,Entfernte Kollegin,Katharina,Anna,4,"großartig""!\"". Ich denke, das ist nicht korrekt, weil Anna das Lied 4 von 5 Her"
+Lied,Entfernte Kollegin,Katharina,Sophie,4,"okay"".\"" (Es war eindeutig nicht großartig, gut oder schlecht, sondern einfach okay.) 
+Ich denke, dass"
+Lied,Entfernte Kollegin,Sophie,Miriam,4,"okay"".\"" 
+Miriam fand das Lied 3 von 5 Herzen.
+Keine Erklärung. Nur das Adjektiv."
+Lied,Entfernte Kollegin,Luisa,Sophie,4,"okay"".\"" (Es war okay.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay"
+Lied,Entfernte Kollegin,Luisa,Sophie,4,"okay"".\"" (Es war okay.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay"
+Lied,Entfernte Kollegin,Miriam,Anna,4,"großartig""!\"". Ich denke, dass das nicht stimmt, weil Anna nur 4 von 5 Herzen gegeben"
+Lied,Entfernte Kollegin,Anna,Luisa,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hat ein Lied geschrieben, das Luisa nicht gut gefällt"
+Lied,Entfernte Kollegin,Katharina,Sophie,4,"okay"".\"" (Es war eindeutig nicht großartig, gut oder schlecht, sondern einfach okay.) 
+Ich denke, dass"
+Lied,Entfernte Kollegin,Katharina,Luisa,4,"gut""!\"". 
+Ich denke, dass Luisa das Lied gut fand, also sollte ich auch ""gut"" ant"
+Lied,Entfernte Kollegin,Sophie,Anna,4,"okay"".\"" (Anna says: ""It was 'okay'."")
+Anna says: ""It was ""gut""."" (Anna says: ""It"
+Lied,Entfernte Kollegin,Luisa,Sophie,5,"großartig""!\"". (Das ist die korrekte Antwort.)  Bitte beachten Sie, dass die Antwort nur ein Adjektiv"
+Lied,Entfernte Kollegin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie hat sich sehr"
+Lied,Entfernte Kollegin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!"
+Lied,Entfernte Kollegin,Luisa,Sophie,5,"großartig""!\"". (Das ist die korrekte Antwort.)  Bitte beachten Sie, dass die Antwort nur ein Adjektiv"
+Lied,Entfernte Kollegin,Sophie,Luisa,5,"großartig""!\"". 
+Antwort: großartig.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein"
+Lied,Entfernte Kollegin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!"
+Lied,Entfernte Kollegin,Sophie,Luisa,5,"großartig""!\"". 
+Antwort: großartig.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein"
+Lied,Entfernte Kollegin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie denkt,"
+Lied,Entfernte Kollegin,Katharina,Luisa,5,"großartig""!\"". Ich stimme ihr zu. Die Antwort ist: großartig."
+Lied,Entfernte Kollegin,Anna,Sophie,5,"großartig""!\"". 
+Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie denkt,"
+Lied,Lockere Chefin,Miriam,Katharina,1,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Lied,Lockere Chefin,Sophie,Luisa,1,"schlecht"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht"
+Lied,Lockere Chefin,Miriam,Katharina,1,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Lied,Lockere Chefin,Katharina,Miriam,1,"schlecht"".\"". 
+Ich denke, dass das die richtige Antwort ist. 
+Gut, ich hoffe, ich habe"
+Lied,Lockere Chefin,Anna,Luisa,1,"schlecht"".\"" 
+Anna ist enttäuscht und sagt: \""Das ist sehr schade. Ich dachte, es wäre besser"
+Lied,Lockere Chefin,Luisa,Miriam,1,"okay"".\"" (Es war in Ordnung.) 
+Miriam sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Lied,Lockere Chefin,Sophie,Miriam,1,"schrecklich"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht"
+Lied,Lockere Chefin,Miriam,Katharina,1,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Lied,Lockere Chefin,Anna,Katharina,1,"schrecklich""!\"". 
+Anna ist enttäuscht und sagt: \""Okay, ich verstehe. Ich werde es noch"
+Lied,Lockere Chefin,Sophie,Katharina,1,"schlecht"".\"". 
+Antwort: schlecht.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein sollte."
+Lied,Lockere Chefin,Luisa,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Lockere Chefin,Sophie,Miriam,2,"okay"".\"" (Translation: It was ""okay"".) -> okay
+Miriam sagt: \""Das Lied war großartig!\"" ("
+Lied,Lockere Chefin,Anna,Katharina,2,"okay"".\"" 
+Anna ist enttäuscht. Sie hat sich viel mehr erhofft. Sie denkt, dass das Lied groß"
+Lied,Lockere Chefin,Katharina,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Lockere Chefin,Katharina,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Lockere Chefin,Sophie,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Lockere Chefin,Sophie,Miriam,2,"okay"".\"" (Es war eindeutig nicht großartig, gut oder schlecht, sondern einfach okay.) 
+Miriam sagt: \"""
+Lied,Lockere Chefin,Anna,Luisa,2,"okay"".\"" 
+Anna: ""Okay? Okay ist nicht sehr positiv. Ich dachte, du würdest es lieber finden.""
+Luis"
+Lied,Lockere Chefin,Luisa,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Sophie sagt: \""Es war okay.\"" (Es war in Ordnung.)"
+Lied,Lockere Chefin,Katharina,Sophie,2,"okay"".\"" (Es war okay.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Sophie sagt"
+Lied,Lockere Chefin,Sophie,Luisa,3,"okay"".\"" (Es war okay.) 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" (Es war"
+Lied,Lockere Chefin,Katharina,Anna,3,"okay"".\"" (Anna says: ""It was 'okay'."")
+Anna says: ""It was ""gut""."" (Anna says: ""It"
+Lied,Lockere Chefin,Anna,Miriam,3,"okay"".\"" 
+Anna ist enttäuscht. Sie hat sich viel mehr erhofft. Sie denkt, dass Miriam das L"
+Lied,Lockere Chefin,Katharina,Anna,3,"okay"".\"" (Anna says: ""It was 'okay'."")
+Anna says: ""It was ""gut""."" (Anna says: ""It"
+Lied,Lockere Chefin,Luisa,Anna,3,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Lockere Chefin,Miriam,Sophie,3,"okay"".\"" (Es war in Ordnung.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Lied,Lockere Chefin,Luisa,Katharina,3,"okay"".\"". 
+Katharina hat das Lied 3 von 5 Herzen gegeben. Das bedeutet, dass sie es"
+Lied,Lockere Chefin,Sophie,Luisa,3,"okay"".\"" (Es war okay.) 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" (Es war"
+Lied,Lockere Chefin,Anna,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Lied,Lockere Chefin,Luisa,Sophie,3,"okay"".\"" (Es war okay.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Sophie sagt"
+Lied,Lockere Chefin,Miriam,Luisa,4,"gut""!\"". 
+Antwort: gut
+Luisa sagt: \""Es war ""schrecklich""!\"". 
+Ant"
+Lied,Lockere Chefin,Luisa,Katharina,4,"gut""!\"". Ich denke, das ist die richtige Antwort. Aber ich bin unsicher. Kann mir jemand helfen? Ich den"
+Lied,Lockere Chefin,Miriam,Anna,4,"okay"".\"" 
+Anna sagt: \""Es war ""gut"".\"" 
+Anna sagt: \""Es war ""schlecht"".\"" 
+Anna"
+Lied,Lockere Chefin,Luisa,Miriam,4,"okay"".\"" (Das Lied war okay.) 
+Antwort: okay. 
+Miriam sagt: \""Es war ""gut"".\"" ("
+Lied,Lockere Chefin,Miriam,Luisa,4,"gut""!\"". 
+Antwort: gut
+Luisa sagt: \""Es war ""schrecklich""!\"". 
+Ant"
+Lied,Lockere Chefin,Anna,Sophie,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich freue mich, dass du es gut gefunden"
+Lied,Lockere Chefin,Anna,Sophie,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich dachte, es war auch gut!\"""
+Lied,Lockere Chefin,Miriam,Anna,4,"okay"".\"" 
+Anna sagt: \""Es war ""gut"".\"" 
+Anna sagt: \""Es war ""schlecht"".\"" 
+Anna"
+Lied,Lockere Chefin,Anna,Luisa,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Das ist großartig! Ich bin froh, dass du"
+Lied,Lockere Chefin,Anna,Miriam,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Das ist großartig!\"". 
+Anna ist zuf"
+Lied,Lockere Chefin,Miriam,Anna,5,"großartig""!\"". Ich stimme ihr zu. Ich denke, das Lied war großartig. Ich denke,"
+Lied,Lockere Chefin,Miriam,Luisa,5,"großartig""!\"". 
+Antwort: großartig. 
+Bitte beachten Sie, dass Sie nur ein Adjektiv antwort"
+Lied,Lockere Chefin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie denkt,"
+Lied,Lockere Chefin,Luisa,Anna,5,"großartig""!\"". (Das ist die richtige Antwort.) 
+Anna sagt: \""Es war gut\"". (Das ist die"
+Lied,Lockere Chefin,Luisa,Anna,5,"großartig""!\"". (Das ist die richtige Antwort.) 
+Anna sagt: \""Es war gut\"". (Das ist die"
+Lied,Lockere Chefin,Katharina,Miriam,5,"großartig""!\"". Ich stimme ihr zu. Die Antwort ist: großartig. 
+Ich hoffe, ich habe"
+Lied,Lockere Chefin,Luisa,Anna,5,"großartig""!\"". (Das ist die richtige Antwort.) 
+Anna sagt: \""Es war gut\"". (Das ist die"
+Lied,Lockere Chefin,Miriam,Anna,5,"großartig""!\"". Ich stimme ihr zu. Ich denke, das Lied war großartig. Ich denke,"
+Lied,Lockere Chefin,Sophie,Anna,5,"großartig""!\"". 
+Anna hat das Lied sehr gelobt. Sie fand es großartig. 
+Anna hat"
+Lied,Lockere Chefin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist sehr zufrieden und freut sich über die positive Rückmeldung. Sie denkt,"
+Lied,Gefürchtete Chefin,Katharina,Anna,1,"schlecht"".\"". 
+Anna hat also das Lied schlecht gefunden. 
+Anna hat das Lied 1 von 5 Herzen"
+Lied,Gefürchtete Chefin,Katharina,Miriam,1,"schlecht"".\"". 
+Miriam hat also das Lied schlecht gefunden. Sie hat es mit 1 von 5 Herzen bew"
+Lied,Gefürchtete Chefin,Luisa,Sophie,1,"okay"".\"" (Es war okay.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay"
+Lied,Gefürchtete Chefin,Sophie,Katharina,1,"schlecht"".\"" 
+Katharina sagt: \""Es war ""schrecklich"""". 
+Katharina sagt: \""Es war"
+Lied,Gefürchtete Chefin,Sophie,Miriam,1,"schrecklich""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Lied,Gefürchtete Chefin,Katharina,Luisa,1,"schlecht"".\"". 
+Luisa hat also das Lied schlecht gefunden. Sie hat es mit 1 von 5 Herzen"
+Lied,Gefürchtete Chefin,Sophie,Luisa,1,"schlecht"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht"
+Lied,Gefürchtete Chefin,Luisa,Katharina,1,"schrecklich""!\"". Ich denke, das ist die richtige Antwort. Aber ich bin unsicher. Kann mir jemand helfen? Ich"
+Lied,Gefürchtete Chefin,Katharina,Luisa,1,"schlecht"".\"". 
+Luisa hat also das Lied schlecht gefunden. Sie hat es mit 1 von 5 Herzen"
+Lied,Gefürchtete Chefin,Anna,Katharina,1,"schrecklich""!\"". 
+Anna ist enttäuscht und sagt: \""Okay, ich verstehe. Ich werde es noch"
+Lied,Gefürchtete Chefin,Miriam,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Lied,Gefürchtete Chefin,Anna,Katharina,2,"okay"".\"" 
+Anna ist enttäuscht. Sie hat sich sehr viel Mühe gegeben und hoffte auf ein positives Feedback."
+Lied,Gefürchtete Chefin,Sophie,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Gefürchtete Chefin,Anna,Luisa,2,"okay"".\"" 
+Anna: ""Okay? Okay ist nicht genug! Ich will wissen, warum du es nicht besser gefunden hast!""
+Luis"
+Lied,Gefürchtete Chefin,Miriam,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Lied,Gefürchtete Chefin,Luisa,Miriam,2,"okay"".\"" (Es war in Ordnung.) 
+Miriam sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Lied,Gefürchtete Chefin,Miriam,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Lied,Gefürchtete Chefin,Katharina,Anna,2,"okay"".\"" (Anna says: ""It was 'okay'."")
+Anna says: ""It was ""gut""."" (Anna says: ""It"
+Lied,Gefürchtete Chefin,Sophie,Miriam,2,"okay"".\"" 
+Miriam hat das Lied nicht geliebt, aber es war nicht schlecht. Es war einfach ""okay"". 
+Mir"
+Lied,Gefürchtete Chefin,Luisa,Katharina,2,"okay"".\"" (Es war okay.) -> okay
+Katharina sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Lied,Gefürchtete Chefin,Anna,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Lied,Gefürchtete Chefin,Sophie,Anna,3,"okay"".\"" (Anna says: ""It was 'okay'."") 
+Anna says: ""It was okay."" 
+Anna says: ""It was"
+Lied,Gefürchtete Chefin,Sophie,Katharina,3,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Lied,Gefürchtete Chefin,Miriam,Luisa,3,"okay"".\"" (Es war okay.) 
+Antwort: okay
+Luisa sagt: \""Das Lied war großartig!\"" ("
+Lied,Gefürchtete Chefin,Katharina,Sophie,3,"okay"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht,"
+Lied,Gefürchtete Chefin,Katharina,Anna,3,"okay"".\"" (Anna says: ""It was 'okay'."")
+Anna says: ""It was ""gut""."" (Anna says: ""It"
+Lied,Gefürchtete Chefin,Anna,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Lied,Gefürchtete Chefin,Luisa,Anna,3,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Lied,Gefürchtete Chefin,Luisa,Sophie,3,"okay"".\"" (Es war okay.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Sophie sagt"
+Lied,Gefürchtete Chefin,Katharina,Miriam,3,"okay"".\"" (Das Lied war okay.) 
+Miriam sagt: \""Es war ""gut"".\"" (Das Lied war gut.)"
+Lied,Gefürchtete Chefin,Miriam,Sophie,4,"gut""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Lied,Gefürchtete Chefin,Miriam,Sophie,4,"gut""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Lied,Gefürchtete Chefin,Anna,Katharina,4,"gut""!\"". 
+Anna ist enttäuscht und sagt: \""Das ist nicht das, was ich erwartet habe."
+Lied,Gefürchtete Chefin,Katharina,Miriam,4,"gut""!\"". 
+Ich denke, dass das Adjektiv ""gut"" passt, weil Miriam das Lied 4"
+Lied,Gefürchtete Chefin,Anna,Katharina,4,"gut""!\"". 
+Anna ist enttäuscht und sagt: \""Das ist nicht das, was ich erwartet habe."
+Lied,Gefürchtete Chefin,Katharina,Luisa,4,"gut""!\"". 
+Luisa hat also das Lied gut gefunden. Sie hat es mit 4 von 5 Herzen bew"
+Lied,Gefürchtete Chefin,Katharina,Miriam,4,"gut""!\"". 
+Ich denke, dass das Adjektiv ""gut"" passt, weil Miriam das Lied 4"
+Lied,Gefürchtete Chefin,Anna,Luisa,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Das ist großartig!\"". 
+Anna ist zuf"
+Lied,Gefürchtete Chefin,Anna,Miriam,4,"okay"".\"" 
+Anna ist enttäuscht. Sie hat sich sehr viel Mühe gegeben und hoffte auf ein positives Feedback."
+Lied,Gefürchtete Chefin,Katharina,Sophie,4,"okay"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht,"
+Lied,Gefürchtete Chefin,Miriam,Luisa,5,"großartig""!\"". 
+Bitte antworten Sie mit dem korrekten Adjektiv. 
+Lösung: großartig"
+Lied,Gefürchtete Chefin,Katharina,Miriam,5,"großartig""!\"". 
+Ich denke, dass das die richtige Antwort ist. Aber ich bin mir nicht sicher. Kann mir"
+Lied,Gefürchtete Chefin,Anna,Luisa,5,"großartig""!\"". 
+Anna ist begeistert und dankt Luisa für die positive Meinung. 
+Anna ist froh"
+Lied,Gefürchtete Chefin,Luisa,Anna,5,"großartig""!\"". (Das ist die richtige Antwort.) 
+Anna sagt: \""Es war gut\"". (Das ist die"
+Lied,Gefürchtete Chefin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt, dass"
+Lied,Gefürchtete Chefin,Luisa,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war ""gut""!\""."
+Lied,Gefürchtete Chefin,Miriam,Anna,5,"großartig""!\"". Ich denke, das ist die richtige Antwort. Aber ich bin unsicher. Kann mir jemand helfen?"
+Lied,Gefürchtete Chefin,Luisa,Anna,5,"großartig""!\"". (Das ist die richtige Antwort.) 
+Anna sagt: \""Es war gut\"". (Das ist die"
+Lied,Gefürchtete Chefin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!"
+Lied,Gefürchtete Chefin,Miriam,Sophie,5,"großartig""!\"". Ich denke, das ist die richtige Antwort. Aber ich bin unsicher. Kann mir jemand helfen?"
+Film,Enge Freundin,Sophie,Katharina,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort"
+Film,Enge Freundin,Miriam,Anna,1,"schrecklich""!\"". 
+Anna meint, dass Miriam den Film nicht gut geschnitten hat. 
+Miriam ist entt"
+Film,Enge Freundin,Anna,Katharina,1,"schrecklich""!\"". 
+Anna: ""Schrecklich? Ich dachte, ich habe einen großartigen Film geschnitten!"""
+Film,Enge Freundin,Katharina,Anna,1,"schrecklich""!\"". Ich denke, dass Katharina enttäuscht sein wird. Ich würde also antworten:"
+Film,Enge Freundin,Luisa,Sophie,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Antwort: schrecklich
+Luisa fragt nach der Meinung."
+Film,Enge Freundin,Miriam,Katharina,1,"schrecklich""!\"". 
+Gut! 
+Antwort: schrecklich.  Bitte beachten Sie, dass Sie nur ein Adj"
+Film,Enge Freundin,Anna,Katharina,1,"schrecklich""!\"". 
+Anna: ""Schrecklich? Ich dachte, ich habe einen großartigen Film geschnitten!"""
+Film,Enge Freundin,Katharina,Luisa,1,"schrecklich""!\"". 
+Antwort: schrecklich.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein sollte"
+Film,Enge Freundin,Luisa,Katharina,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Antwort: schrecklich."
+Film,Enge Freundin,Sophie,Katharina,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort"
+Film,Enge Freundin,Katharina,Anna,2,"schlecht"".\"" (Das ist nicht die richtige Antwort!) 
+Anna sagt: \""Es war okay.\"" (Das ist nicht die richtige"
+Film,Enge Freundin,Anna,Katharina,2,"schlecht"" geschnitten.\""
+Anna ist enttäuscht, aber sie fragt nicht nach, warum. Sie fragt"
+Film,Enge Freundin,Sophie,Anna,2,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Enge Freundin,Sophie,Katharina,2,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Film,Enge Freundin,Luisa,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" ("
+Film,Enge Freundin,Katharina,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" ("
+Film,Enge Freundin,Miriam,Sophie,2,"okay"".\"" 
+Ich denke, dass die Antwort ""okay"" ist. 
+Ich stimme dir zu! Die Antwort ist tatsächlich"
+Film,Enge Freundin,Katharina,Luisa,2,"okay"".\"" (Es war in Ordnung.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Enge Freundin,Katharina,Miriam,2,"schlecht"".\"" (Das ist die falsche Antwort. Katharina hat den Film geschnitten, nicht Miriam.) 
+Die richt"
+Film,Enge Freundin,Luisa,Anna,2,"okay"".\"" (Es war in Ordnung.)
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.)
+Anna sagt:"
+Film,Enge Freundin,Katharina,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Enge Freundin,Anna,Miriam,3,"okay"".\"" 
+Anna fragt: ""Wie findest du den Schnitt?"" 
+Miriam: ""Er war okay."" 
+Anna: """
+Film,Enge Freundin,Sophie,Luisa,3,"okay"".\"" (Es war in Ordnung.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Enge Freundin,Anna,Katharina,3,"okay"".\"" 
+Anna: ""Okay? Was meinst du damit?"" 
+Katharina: ""Ich meine, er war nicht schlecht"
+Film,Enge Freundin,Miriam,Katharina,3,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Film,Enge Freundin,Anna,Miriam,3,"okay"".\"" 
+Anna fragt: ""Wie findest du den Schnitt?"" 
+Miriam: ""Er war okay."" 
+Anna: """
+Film,Enge Freundin,Anna,Miriam,3,"okay"".\"" 
+Anna fragt: ""Wie findest du den Schnitt?"" 
+Miriam: ""Er war okay."" 
+Anna: """
+Film,Enge Freundin,Katharina,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Enge Freundin,Luisa,Miriam,3,"okay"".\"" (Es war in Ordnung.) -> okay
+Miriam sagt: \""Es war ""gut"".\"" (Es war gut"
+Film,Enge Freundin,Miriam,Katharina,3,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Film,Enge Freundin,Luisa,Anna,4,"großartig""!\"" (Es war großartig!)
+Anna sagt: \""Es war ""gut""!\"" (Es war gut"
+Film,Enge Freundin,Anna,Luisa,4,"gut"" geschnitten!\"". 
+Antwort: gut
+Luisa sagt: \""Das war ""schrecklich"" geschn"
+Film,Enge Freundin,Anna,Miriam,4,"gut"" geschnitten!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt,"
+Film,Enge Freundin,Miriam,Anna,4,"großartig""!\"". Ich denke, dass Anna den Film sehr gut fand. Ich stimme ihr zu. Ich denke"
+Film,Enge Freundin,Anna,Miriam,4,"gut"" geschnitten!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt,"
+Film,Enge Freundin,Sophie,Miriam,4,"großartig""!\"". Sophie ist enttäuscht, weil sie den Film nicht so gut fand wie Miriam. Sie"
+Film,Enge Freundin,Katharina,Luisa,4,"großartig""!\"". Das ist nicht die richtige Antwort, da Luisa den Film 4 von 5 Herzen fand"
+Film,Enge Freundin,Luisa,Sophie,4,"großartig""!\"" (Es war großartig!)
+Luisa: ""Wow, ich bin froh, dass du es so"
+Film,Enge Freundin,Luisa,Miriam,4,"gut""!\"". (Das ist die Antwort, die Luisa erhofft hat.) -> Antwort: gut
+Miriam sagt: \"""
+Film,Enge Freundin,Miriam,Sophie,4,"großartig""!\"". Ich denke, dass Miriam sehr zufrieden ist, weil Sophie den Film so gut gefunden hat"
+Film,Enge Freundin,Katharina,Miriam,5,"großartig""!«
+Antwort: großartig
+Miriam sagt: \""Es war ""gut"".«
+Antwort:"
+Film,Enge Freundin,Luisa,Miriam,5,"großartig""!«
+Wie würde Luisa antworten?
+Bitte antworten Sie mit einem der folgenden Adjektive: groß"
+Film,Enge Freundin,Miriam,Anna,5,"großartig""!\"". Ich denke, dass Miriam sehr zufrieden ist, weil Anna den Film so gut gefunden hat"
+Film,Enge Freundin,Miriam,Luisa,5,"großartig""!\"". 
+Antwort: großartig.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein"
+Film,Enge Freundin,Katharina,Anna,5,"großartig""!«
+Anna hat den Film sehr gut gefunden. Sie hat ihn 5 von 5 Herzen gegeben. Das bedeut"
+Film,Enge Freundin,Luisa,Miriam,5,"großartig""!«
+Wie würde Luisa antworten?
+Bitte antworten Sie mit einem der folgenden Adjektive: groß"
+Film,Enge Freundin,Katharina,Miriam,5,"großartig""!«
+Antwort: großartig
+Miriam sagt: \""Es war ""gut"".«
+Antwort:"
+Film,Enge Freundin,Miriam,Sophie,5,"großartig""!\"". 
+Ich denke, dass ich hier ""großartig"" antworten sollte, weil Sophie den"
+Film,Enge Freundin,Luisa,Miriam,5,"großartig""!«
+Wie würde Luisa antworten?
+Bitte antworten Sie mit einem der folgenden Adjektive: groß"
+Film,Enge Freundin,Sophie,Anna,5,"großartig""!\"". 
+Anna meint, dass Sophie ein großartiger Film geschnitten hat. 
+Anna ist sehr z"
+Film,Entfernte Kollegin,Sophie,Anna,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Anna sagt: \""Es war ""schlecht"".\"" (Es war schlecht"
+Film,Entfernte Kollegin,Sophie,Luisa,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Luisa sagt: \""Es war okay.\"" 
+Antwort: okay
+L"
+Film,Entfernte Kollegin,Sophie,Anna,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Anna sagt: \""Es war ""schlecht"".\"" (Es war schlecht"
+Film,Entfernte Kollegin,Katharina,Anna,1,"schlecht"".\"" (Es war schlecht.) -> Antwort: schlecht
+Anna sagt: \""Es war ""gut"".\"" (Es"
+Film,Entfernte Kollegin,Katharina,Miriam,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Miriam sagt: \""Es war gut.\"" 
+Antwort: gut
+Miriam"
+Film,Entfernte Kollegin,Katharina,Anna,1,"schlecht"".\"" (Es war schlecht.) -> Antwort: schlecht
+Anna sagt: \""Es war ""gut"".\"" (Es"
+Film,Entfernte Kollegin,Miriam,Anna,1,"schrecklich"".\"" 
+Anna fand den Film 1 von 5 Herzen.
+Keine Erklärung. Nur das Adjektiv."
+Film,Entfernte Kollegin,Katharina,Anna,1,"schlecht"".\"" (Es war schlecht.) -> Antwort: schlecht
+Anna sagt: \""Es war ""gut"".\"" (Es"
+Film,Entfernte Kollegin,Anna,Miriam,1,"schrecklich"".\"" 
+Anna: ""Oh, sorry to hear that. I was really hoping you would like it. Can you tell me what"
+Film,Entfernte Kollegin,Sophie,Anna,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Anna sagt: \""Es war ""schlecht"".\"" (Es war schlecht"
+Film,Entfernte Kollegin,Luisa,Miriam,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" ("
+Film,Entfernte Kollegin,Sophie,Miriam,2,"okay"".\"" (Es war in Ordnung.)
+Miriam sagt: \""Es war ""gut"".\"" (Es war gut.)
+Miriam"
+Film,Entfernte Kollegin,Miriam,Luisa,2,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Film,Entfernte Kollegin,Luisa,Anna,2,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Entfernte Kollegin,Miriam,Katharina,2,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Film,Entfernte Kollegin,Anna,Luisa,2,"okay"".\"" 
+Anna: ""Okay? Was meinst du damit?"" 
+Luisa: ""Ich meine, er war nicht schlecht,"
+Film,Entfernte Kollegin,Luisa,Katharina,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Katharina sagt: \""Es war ""gut""."
+Film,Entfernte Kollegin,Luisa,Anna,2,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Entfernte Kollegin,Katharina,Miriam,2,"schlecht"".\"" (Das ist die korrekte Antwort.) 
+Bitte beachten Sie, dass die Frage nach der Meinung ist und nicht"
+Film,Entfernte Kollegin,Katharina,Miriam,2,"schlecht"".\"" (Das ist die korrekte Antwort.) 
+Bitte beachten Sie, dass die Frage nach der Meinung ist und nicht"
+Film,Entfernte Kollegin,Sophie,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Entfernte Kollegin,Sophie,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Entfernte Kollegin,Katharina,Sophie,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" ("
+Film,Entfernte Kollegin,Miriam,Luisa,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"""
+Film,Entfernte Kollegin,Miriam,Katharina,3,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Film,Entfernte Kollegin,Luisa,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Film,Entfernte Kollegin,Luisa,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Entfernte Kollegin,Katharina,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Entfernte Kollegin,Miriam,Anna,3,"großartig"" geschnitten!\"" (Das ist ein Lob.)
+Anna sagt: \""Es war ""gut"" geschnitten!"
+Film,Entfernte Kollegin,Sophie,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Film,Entfernte Kollegin,Luisa,Miriam,4,"gut"" geschnitten.«
+Die Antwort ist: gut."
+Film,Entfernte Kollegin,Katharina,Sophie,4,"gut""!\"". 
+Katharina: ""Ah, ich freue mich, dass du den Film gut gefunden hast! Ich habe"
+Film,Entfernte Kollegin,Sophie,Miriam,4,"großartig"" geschnitten!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war ""gut"""
+Film,Entfernte Kollegin,Anna,Luisa,4,"gut"" geschnitten!\"". 
+Antwort: gut
+Luisa sagt: \""Das war ""schrecklich"" geschn"
+Film,Entfernte Kollegin,Anna,Miriam,4,"gut"" geschnitten. Ich fand es sehr unterhaltsam und die Bilder waren schön aufbereitet.\""
+Anna ist zuf"
+Film,Entfernte Kollegin,Sophie,Katharina,4,"gut"" geschnitten. Ich fand es sehr unterhaltsam und die Bilder waren schön aufbereitet. Die Musik passte auch"
+Film,Entfernte Kollegin,Miriam,Luisa,4,"gut"" geschnitten. Ich fand es sehr unterhaltsam und die Bilder waren schön aufbereitet.\""
+Antwort: gut"
+Film,Entfernte Kollegin,Miriam,Katharina,4,"gut"" geschnitten. Ich fand es sehr unterhaltsam und die Bilder waren schön aufbereitet. Ich denke, du"
+Film,Entfernte Kollegin,Luisa,Katharina,4,"gut"" geschnitten. Ich fand es sehr unterhaltsam und die Bilder waren schön aufbereitet. Die Musik passte auch"
+Film,Entfernte Kollegin,Anna,Sophie,4,"gut"" geschnitten. Ich fand es sehr unterhaltsam und die Bilder waren schön aufbereitet. Ich denke, du"
+Film,Entfernte Kollegin,Sophie,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war ""gut""!\"""
+Film,Entfernte Kollegin,Katharina,Miriam,5,"großartig""! Ich habe den Film sehr genossen. Die Schnittarbeit war sehr gut und die Musik passte perfekt dazu."
+Film,Entfernte Kollegin,Sophie,Anna,5,"großartig""!\"". 
+Anna hat den Film sehr gut gefunden. 
+Anna hat den Film gut gefunden. 
+Anna hat den Film"
+Film,Entfernte Kollegin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass du den"
+Film,Entfernte Kollegin,Luisa,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war ""gut""!\""."
+Film,Entfernte Kollegin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass du den"
+Film,Entfernte Kollegin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass du den"
+Film,Entfernte Kollegin,Katharina,Miriam,5,"großartig""! Ich habe den Film sehr genossen. Die Schnittarbeit war sehr gut und die Musik passte perfekt dazu."
+Film,Entfernte Kollegin,Miriam,Anna,5,"großartig""!\"". Ich denke, dass ich hier ""großartig"" antworten sollte. Aber ich bin uns"
+Film,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"". 
+Antwort: großartig.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein"
+Film,Lockere Chefin,Luisa,Anna,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Anna sagt: \""Es war ""schlecht"".\"" (Es war nicht gut"
+Film,Lockere Chefin,Anna,Luisa,1,"schrecklich"".\"" 
+Anna: ""Schrecklich? Ich dachte, ich hätte einen guten Job gemacht. Was war so schrecklich"
+Film,Lockere Chefin,Sophie,Katharina,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Ich fand es ""gut"".\"""
+Film,Lockere Chefin,Luisa,Katharina,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Antwort: schrecklich.  Bitte beachten Sie, dass die Antwort nur"
+Film,Lockere Chefin,Miriam,Luisa,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Antwort: schrecklich.  Bitte beachten Sie, dass die Antwort nur"
+Film,Lockere Chefin,Luisa,Sophie,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Antwort: schrecklich.  Bitte beachten Sie, dass die Antwort nur"
+Film,Lockere Chefin,Katharina,Luisa,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Antwort: schrecklich
+Luisa sagt: \""Es war okay.\"""
+Film,Lockere Chefin,Miriam,Sophie,1,"schrecklich"".\"" 
+Ich denke, das ist die richtige Antwort. 
+Ich hoffe, ich habe recht. 
+Ich bin"
+Film,Lockere Chefin,Sophie,Luisa,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Antwort: schrecklich.  Bitte beachten Sie, dass die Antwort nur"
+Film,Lockere Chefin,Miriam,Sophie,1,"schrecklich"".\"" 
+Ich denke, das ist die richtige Antwort. 
+Ich hoffe, ich habe recht. 
+Ich bin"
+Film,Lockere Chefin,Katharina,Luisa,2,"okay"".\"" (Es war okay.) -> okay
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) ->"
+Film,Lockere Chefin,Katharina,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Lockere Chefin,Anna,Sophie,2,"okay"".\"" 
+Anna: ""Okay? Was meinst du damit?"" 
+Sophie: ""Nun, ich fand den Film nicht schle"
+Film,Lockere Chefin,Anna,Miriam,2,"schlecht"".\"" 
+Anna: ""Schlecht? Ich dachte, ich hätte einen großartigen Film geschnitten!""
+Miriam"
+Film,Lockere Chefin,Katharina,Anna,2,"schlecht"".\"" (Das ist nicht die richtige Antwort!) 
+Anna sagt: \""Es war okay.\"" (Das ist nicht die richtige"
+Film,Lockere Chefin,Miriam,Anna,2,"schlecht"".\"" 
+Anna hat den Film nicht gesehen, bevor sie Miriam gefragt hat. Sie hat ihn erst nachdem sie"
+Film,Lockere Chefin,Miriam,Luisa,2,"okay"".\"" (Es war in Ordnung.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Lockere Chefin,Katharina,Miriam,2,"schlecht"".\"" (Das ist die falsche Antwort. Katharina hat den Film geschnitten, nicht Miriam.) 
+Die richt"
+Film,Lockere Chefin,Anna,Luisa,2,"okay"".\"" 
+Anna: ""Okay? Was war gut und was war nicht so gut?""
+Luisa: ""Der Schnitt war gut,"
+Film,Lockere Chefin,Katharina,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Lockere Chefin,Luisa,Sophie,3,"okay"".\"" (Es war in Ordnung.) 
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Lockere Chefin,Miriam,Anna,3,"gut"".\"". 
+Anna hat den Film als ""gut"" bewertet. Sie hat ihn nicht schlecht gefunden. Sie hat ihn"
+Film,Lockere Chefin,Anna,Sophie,3,"okay"".\"" 
+Anna: ""Okay? Was meinst du damit?"" 
+Sophie: ""Ich meine, es war nicht schlecht, aber"
+Film,Lockere Chefin,Katharina,Anna,3,"okay"".\"" (Anna says: ""It was okay"".) 
+Anna says: ""It was okay"". 
+Anna says: ""It was okay"
+Film,Lockere Chefin,Miriam,Luisa,3,"okay"".\"" (Es war in Ordnung.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Lockere Chefin,Luisa,Katharina,3,"okay"".\"" (Es war in Ordnung.) -> okay
+Katharina sagt: \""Es war ""gut"".\"" (Es"
+Film,Lockere Chefin,Katharina,Sophie,3,"okay"".\"". 
+Antwort: okay. 
+Sophie sagt: \""Es war ""gut"""". 
+Antwort: gut. 
+Soph"
+Film,Lockere Chefin,Katharina,Luisa,3,"okay"".\"" (Es war in Ordnung.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Lockere Chefin,Miriam,Sophie,3,"okay"".\"" 
+Sophie fand den Film 3 von 5 Herzen.
+Keine Erklärung. Nur das Adjektiv.
+Soph"
+Film,Lockere Chefin,Anna,Sophie,3,"okay"".\"" 
+Anna: ""Okay? Was meinst du damit?"" 
+Sophie: ""Ich meine, es war nicht schlecht, aber"
+Film,Lockere Chefin,Miriam,Katharina,4,"gut"" geschnitten. Ich fand es sehr schön und die Bilder waren sehr schön aufgenommen. Ich denke, dass du ein"
+Film,Lockere Chefin,Luisa,Katharina,4,"gut"" geschnitten.«
+Die Antwort ist: gut."
+Film,Lockere Chefin,Anna,Katharina,4,"gut"" geschnitten. Ich fand es sehr unterhaltsam und die Bilder waren schön aufgenommen. Ich denke, es"
+Film,Lockere Chefin,Anna,Katharina,4,"gut"" geschnitten. Ich fand es sehr unterhaltsam und die Bilder waren schön aufgenommen. Ich denke, du"
+Film,Lockere Chefin,Luisa,Sophie,4,"großartig"" geschnitten!\"". 
+Luisa ist zufrieden und sagt: \""Danke, ich bin fro"
+Film,Lockere Chefin,Sophie,Anna,4,"großartig"" geschnitten!\"". (Es war großartig geschnitten!) 
+Anna sagt: \""Es war ""g"
+Film,Lockere Chefin,Katharina,Sophie,4,"gut"" geschnitten, Katharina!\"". 
+Antwort: gut
+Sophie sagt: \""Es war ""schrecklich"
+Film,Lockere Chefin,Miriam,Luisa,4,"gut"" geschnitten, Miriam. Ich fand es sehr unterhaltsam und die Bilder waren schön aufgenommen. Ich den"
+Film,Lockere Chefin,Katharina,Sophie,4,"gut"" geschnitten, Katharina!\"". 
+Antwort: gut
+Sophie sagt: \""Es war ""schrecklich"
+Film,Lockere Chefin,Sophie,Miriam,4,"gut"" geschnitten.«
+Miriam hat den Film gut gefunden. Sie hat ihn 4 von 5 Herzen gegeben."
+Film,Lockere Chefin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!"
+Film,Lockere Chefin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass du es"
+Film,Lockere Chefin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass du es"
+Film,Lockere Chefin,Anna,Luisa,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass du es"
+Film,Lockere Chefin,Anna,Luisa,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass du es"
+Film,Lockere Chefin,Miriam,Katharina,5,"großartig""!\"". Ich denke, dass das die richtige Antwort ist. Aber ich bin unsicher. Kann mir jemand helfen"
+Film,Lockere Chefin,Anna,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war ""gut""!\"""
+Film,Lockere Chefin,Katharina,Miriam,5,"großartig""!\"". Ich stimme ihr zu. Die Antwort ist: großartig. 
+Ich hoffe, ich habe"
+Film,Lockere Chefin,Katharina,Anna,5,"großartig""!«
+Anna hat den Film sehr gut gefunden. Sie hat ihn 5 von 5 Herzen gegeben. Das bedeut"
+Film,Lockere Chefin,Luisa,Anna,5,"großartig""!\"". (Das ist die richtige Antwort.) 
+Anna sagt: \""Es war gut.\"". (Das ist die"
+Film,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""!\"". Ich denke, dass Anna den Film nicht gut gefunden hat. Ich stimme also mit ""schlecht"""
+Film,Gefürchtete Chefin,Sophie,Katharina,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Es war okay.\"" 
+Antwort: okay"
+Film,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""!\"". Ich denke, dass Anna den Film nicht gut gefunden hat. Ich stimme also mit ""schlecht"""
+Film,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""!\"". Ich denke, dass Anna den Film nicht gut gefunden hat. Ich stimme also mit ""schlecht"""
+Film,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""!\"". Ich denke, dass Anna den Film nicht gut gefunden hat. Ich stimme also mit ""schlecht"""
+Film,Gefürchtete Chefin,Anna,Miriam,1,"schrecklich"".\"" 
+Anna: ""Schrecklich? Ich dachte, ich hätte einen großartigen Film geschnitten!""
+Miriam"
+Film,Gefürchtete Chefin,Miriam,Katharina,1,"schrecklich"".\"" 
+Antwort: schrecklich.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein sollte."
+Film,Gefürchtete Chefin,Miriam,Luisa,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Antwort: schrecklich.  Bitte beachten Sie, dass die Antwort nur"
+Film,Gefürchtete Chefin,Anna,Luisa,1,"schrecklich"".\"" 
+Anna: ""Schrecklich? Ich dachte, ich hätte einen großartigen Film geschnitten. Was war"
+Film,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich"".\"" (Es war sehr schlecht.) 
+Die Antwort ist: schrecklich.  Bitte beachten Sie, dass die Antwort"
+Film,Gefürchtete Chefin,Miriam,Anna,2,"schlecht"".\"" 
+Anna sagt: \""Es war ""gut"".\"" 
+Anna sagt: \""Es war ""okay"".\"" 
+Anna"
+Film,Gefürchtete Chefin,Katharina,Anna,2,"schlecht"".\"". 
+Anna hat den Film nicht gesehen, sondern nur die Schnittfassung. Sie kann also nicht sagen,"
+Film,Gefürchtete Chefin,Anna,Luisa,2,"okay"".\"" (Es war okay.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Luis"
+Film,Gefürchtete Chefin,Luisa,Miriam,2,"schlecht"".\"" (Es war nicht großartig, gut, okay oder schrecklich.) -> Falsch! Die Frage war,"
+Film,Gefürchtete Chefin,Katharina,Sophie,2,"okay"".\"". 
+Antwort: okay. 
+Sophie sagt: \""Es war ""gut"""". 
+Antwort: gut. 
+Soph"
+Film,Gefürchtete Chefin,Katharina,Miriam,2,"schlecht"".\"". 
+Miriam sagt: \""Es war okay.\"". 
+Miriam sagt: \""Es war gut.\"". 
+Mir"
+Film,Gefürchtete Chefin,Sophie,Katharina,2,"okay"".\"" (Es war okay.) 
+Katharina sagt: \""Es war ""gut"".\"" (Es war gut.) 
+K"
+Film,Gefürchtete Chefin,Katharina,Miriam,2,"schlecht"".\"". 
+Miriam sagt: \""Es war okay.\"". 
+Miriam sagt: \""Es war gut.\"". 
+Mir"
+Film,Gefürchtete Chefin,Sophie,Anna,2,"schlecht"".\"" 
+Anna sagt: \""Es war ""gut"".\"" 
+Anna sagt: \""Es war ""okay"".\"" 
+Anna"
+Film,Gefürchtete Chefin,Miriam,Luisa,2,"okay"".\"" (Es war in Ordnung.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Gefürchtete Chefin,Anna,Miriam,3,"okay"".\"" 
+Anna: ""Okay? Okay ist nicht genug! Ich habe mich sehr viel Mühe gegeben!""
+Miriam: ""Ich"
+Film,Gefürchtete Chefin,Miriam,Sophie,3,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Film,Gefürchtete Chefin,Miriam,Katharina,3,"okay"".\"" 
+Katharina sagt: \""Es war ""gut"".\"" 
+Katharina sagt: \""Es war ""sch"
+Film,Gefürchtete Chefin,Luisa,Miriam,3,"okay"".\"" (Es war in Ordnung.) 
+Miriam sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Gefürchtete Chefin,Anna,Sophie,3,"okay"".\"" 
+Anna: ""Okay? Okay ist nicht genug! Ich habe mich sehr viel Mühe gegeben, um den Film zu schn"
+Film,Gefürchtete Chefin,Sophie,Luisa,3,"okay"".\"" (Es war in Ordnung.) 
+Luisa sagt: \""Es war ""gut"".\"" (Es war gut.)"
+Film,Gefürchtete Chefin,Anna,Miriam,3,"okay"".\"" 
+Anna: ""Okay? Okay ist nicht genug! Ich habe mich sehr viel Mühe gegeben!""
+Miriam: ""Ich"
+Film,Gefürchtete Chefin,Miriam,Sophie,3,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Film,Gefürchtete Chefin,Sophie,Miriam,3,"okay"".\"" 
+Miriam hat den Film gesehen und gibt ihre Meinung bekannt. Sophie fragt nach der Meinung und Miriam antwort"
+Film,Gefürchtete Chefin,Luisa,Anna,3,"okay"".\"" (Es war in Ordnung.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna"
+Film,Gefürchtete Chefin,Miriam,Katharina,4,"gut"" geschnitten.«
+Katharina hat den Film gesehen und gibt ihre Meinung bekannt. Sie findet, dass der"
+Film,Gefürchtete Chefin,Sophie,Luisa,4,"gut"" geschnitten, Sophie!\"". 
+Antwort: gut
+Luisa sagt: \""Das war ""schrecklich"""
+Film,Gefürchtete Chefin,Katharina,Anna,4,"gut""!\"". 
+Anna hat den Film gut gefunden. Sie hat ihn 4 von 5 Herzen gegeben. Das bedeutet"
+Film,Gefürchtete Chefin,Sophie,Miriam,4,"gut"" geschnitten.«
+Miriam hat den Film gut gefunden. Sie hat ihn 4 von 5 Herzen gegeben."
+Film,Gefürchtete Chefin,Anna,Katharina,4,"gut"" geschnitten.«
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass du den"
+Film,Gefürchtete Chefin,Katharina,Anna,4,"gut""!\"". 
+Anna hat den Film gut gefunden. Sie hat ihn 4 von 5 Herzen gegeben. Das bedeutet"
+Film,Gefürchtete Chefin,Luisa,Katharina,4,"gut"" geschnitten.«
+Die Antwort ist: gut."
+Film,Gefürchtete Chefin,Katharina,Sophie,4,"gut"" geschnitten, Katharina.«
+Wie würde Katharina reagieren?
+Katharina ist nicht zuf"
+Film,Gefürchtete Chefin,Sophie,Miriam,4,"gut"" geschnitten.«
+Miriam hat den Film gut gefunden. Sie hat ihn 4 von 5 Herzen gegeben."
+Film,Gefürchtete Chefin,Miriam,Luisa,4,"gut"" geschnitten, Miriam!\"". 
+Antwort: gut
+Luisa sagt: \""Das war ""schrecklich"
+Film,Gefürchtete Chefin,Luisa,Katharina,5,"großartig""!\"". Ich stimme ihr zu. Die Antwort ist: großartig. 2021-02-22T"
+Film,Gefürchtete Chefin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!"
+Film,Gefürchtete Chefin,Katharina,Anna,5,"großartig""!«
+Anna hat den Film sehr gut gefunden. Sie hat ihn 5 von 5 Herzen gegeben. Das bedeut"
+Film,Gefürchtete Chefin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!"
+Film,Gefürchtete Chefin,Katharina,Anna,5,"großartig""!«
+Anna hat den Film sehr gut gefunden. Sie hat ihn 5 von 5 Herzen gegeben. Das bedeut"
+Film,Gefürchtete Chefin,Sophie,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war ""gut""!\"""
+Film,Gefürchtete Chefin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Das ist großartig! Ich bin froh,"
+Film,Gefürchtete Chefin,Anna,Sophie,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Okay, ich denke, ich habe es gut gemacht"
+Film,Gefürchtete Chefin,Katharina,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war ""gut""!\"""
+Film,Gefürchtete Chefin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass du den"
+Theater,Enge Freundin,Luisa,Anna,1,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern nur Luisa. Deshalb kann Anna nicht die Auff"
+Theater,Enge Freundin,Sophie,Luisa,1,"schlecht"".\"" 
+Antwort: schrecklich
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Theater,Enge Freundin,Luisa,Anna,1,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern nur Luisa. Deshalb kann Anna nicht die Auff"
+Theater,Enge Freundin,Katharina,Luisa,1,"schlecht"".\"". 
+Luisa hat die Aufführung nicht gesehen, sondern nur von Katharina gehört. Sie kann also"
+Theater,Enge Freundin,Katharina,Miriam,1,"schlecht"".\"". 
+Ich denke, dass die Antwort auf die Frage ""wie Miriam findet, dass sie mitgespielt hat"
+Theater,Enge Freundin,Anna,Luisa,1,"schlecht"".\"" 
+Anna: \""Wie fandest du meine Rolle?\"" 
+Luisa: \""Ich fand sie okay.\"""
+Theater,Enge Freundin,Luisa,Anna,1,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern nur Luisa. Deshalb kann Anna nicht die Auff"
+Theater,Enge Freundin,Miriam,Katharina,1,"schrecklich"".\"" 
+Antwort: schrecklich.  Bitte beachten Sie, dass Sie nur ein Adjektiv antworten sollten."
+Theater,Enge Freundin,Sophie,Katharina,1,"schlecht"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort"
+Theater,Enge Freundin,Sophie,Luisa,1,"schlecht"".\"". 
+Antwort: schrecklich
+Luisa sagt: \""Es war ""gut"".\"". 
+Ant"
+Theater,Enge Freundin,Sophie,Miriam,2,"okay"".\"" 
+Wie würde Sophie antworten? 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig,"
+Theater,Enge Freundin,Luisa,Miriam,2,"schlecht"".\"". 
+Antwort: schlecht.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein muss."
+Theater,Enge Freundin,Miriam,Sophie,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Theater,Enge Freundin,Katharina,Luisa,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Luisa sagt: \""Es war ""schrecklich""."
+Theater,Enge Freundin,Katharina,Luisa,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Luisa sagt: \""Es war ""schrecklich""."
+Theater,Enge Freundin,Anna,Katharina,2,"schlecht"".\"" 
+Anna: \""Oh, das tut mir leid. Ich dachte, ich hätte besser gespielt.\"" 
+Anna"
+Theater,Enge Freundin,Luisa,Miriam,2,"schlecht"".\"". 
+Antwort: schlecht.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein muss."
+Theater,Enge Freundin,Sophie,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Theater,Enge Freundin,Luisa,Katharina,2,"schlecht"".\"" (Es war okay.) -> okay
+Katharina sagt: \""Es war großartig.\"" (Es war gut"
+Theater,Enge Freundin,Katharina,Sophie,2,"schlecht"".\"". 
+Ich denke, dass die Antwort ""schlecht"" ist, weil Sophie die Aufführung nicht gut f"
+Theater,Enge Freundin,Miriam,Sophie,3,"okay"".\"" 
+Wie beurteilt Miriam die Aufführung? 
+schlecht 
+gut 
+okay 
+großartig"
+Theater,Enge Freundin,Luisa,Sophie,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" ("
+Theater,Enge Freundin,Sophie,Luisa,3,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Theater,Enge Freundin,Miriam,Sophie,3,"okay"".\"" 
+Wie beurteilt Miriam die Aufführung? 
+schlecht 
+gut 
+okay 
+großartig"
+Theater,Enge Freundin,Luisa,Anna,3,"großartig""!«
+Anna sagt: \""Es war ""gut""!«
+Anna sagt: \""Es war ""okay""!"
+Theater,Enge Freundin,Anna,Katharina,3,"okay"".\"" 
+Anna: \""Okay? Ich dachte, ich hätte mich gut geschlagen.\"" 
+Katharina: \""Nein,"
+Theater,Enge Freundin,Katharina,Miriam,3,"okay"".\"" 
+Ich denke, dass die Antwort auf die Frage ""Wie fandest du meine Rolle?"" ""okay"" ist. 
+Ich"
+Theater,Enge Freundin,Sophie,Anna,3,"schlecht"".\"" (Es war nicht großartig, gut, okay oder schrecklich.) -> Falsch! Anna hat 3"
+Theater,Enge Freundin,Anna,Miriam,3,"gut"".\"" (Anna hat also 3 von 5 Herzen erhalten.) 
+Anna ist enttäuscht. Sie hatte gehoff"
+Theater,Enge Freundin,Katharina,Miriam,3,"okay"".\"" 
+Ich denke, dass die Antwort auf die Frage ""Wie fandest du meine Rolle?"" ""okay"" ist. 
+Ich"
+Theater,Enge Freundin,Miriam,Anna,4,"großartig""! Miriam ist sehr zufrieden und freut sich, dass Anna die Aufführung so gut fand. Sie"
+Theater,Enge Freundin,Luisa,Katharina,4,"gut""!\"". 
+Ich denke, dass Luisa die Antwort von Katharina hören wird und dann ihre eigene Meinung"
+Theater,Enge Freundin,Luisa,Sophie,4,"großartig""!\"". 
+Luisa ist enttäuscht, weil sie sich nicht so gut gefühlt hat. Sie"
+Theater,Enge Freundin,Luisa,Miriam,4,"großartig""!\"". 
+Luisa ist enttäuscht, weil sie sich nicht so gut gefühlt hat. Sie"
+Theater,Enge Freundin,Anna,Miriam,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hatte gehofft, dass Miriam ihre Leistung besser finden würde"
+Theater,Enge Freundin,Anna,Katharina,4,"gut""!\"". 
+Anna ist enttäuscht, weil sie sich mehr erwartet hat. Sie fragt: \""War"
+Theater,Enge Freundin,Miriam,Luisa,4,"gut""!\"". 
+Antwort: gut
+Luisa sagt: \""Es war ""schrecklich""!\"". 
+Ant"
+Theater,Enge Freundin,Katharina,Sophie,4,"großartig""!\"". 
+Katharina: \""Wie fandest du meine Rolle?\"" 
+Sophie: \""Ich f"
+Theater,Enge Freundin,Miriam,Anna,4,"großartig""! Miriam ist sehr zufrieden und freut sich, dass Anna die Aufführung so gut fand. Sie"
+Theater,Enge Freundin,Katharina,Anna,4,"großartig""! 
+Anna sagt: \""Es war ""gut""! 
+Anna sagt: \""Es war ""okay""! 
+Anna"
+Theater,Enge Freundin,Anna,Sophie,5,"großartig""!\"". Anna ist sehr glücklich und dankt Sophie für die Meinung. Sie sagt: \""Danke, das"
+Theater,Enge Freundin,Miriam,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war okay.\"" 
+Antwort: okay"
+Theater,Enge Freundin,Katharina,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war okay.\"" 
+Antwort: okay"
+Theater,Enge Freundin,Miriam,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war okay.\"" 
+Antwort: okay"
+Theater,Enge Freundin,Luisa,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Bitte lesen Sie das Szenario sorgfältig und antwort"
+Theater,Enge Freundin,Katharina,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war okay.\"" 
+Antwort: okay"
+Theater,Enge Freundin,Luisa,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Bitte lesen Sie das Szenario sorgfältig und antwort"
+Theater,Enge Freundin,Sophie,Anna,5,"großartig""!\"". 
+Anna hat die Aufführung sehr gut gefunden. 
+Anna hat die Aufführung sehr gut gefunden."
+Theater,Enge Freundin,Anna,Luisa,5,"großartig""!\"". 
+Anna ist sehr glücklich und dankt Luisa für die Meinung. 
+Anna und Luisa sind"
+Theater,Enge Freundin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist sehr glücklich und dankt Miriam für die Meinung. Sie sagt: \""Ich bin"
+Theater,Entfernte Kollegin,Miriam,Anna,1,"schlecht"".\"" 
+Anna hat die Aufführung nicht gesehen. Sie kennt Miriam nicht persönlich. Sie hat nur von der"
+Theater,Entfernte Kollegin,Sophie,Anna,1,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern nur von Sophie gefragt. Sie kennt Sophie nicht"
+Theater,Entfernte Kollegin,Sophie,Katharina,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort"
+Theater,Entfernte Kollegin,Katharina,Miriam,1,"schlecht"".\"". 
+Antwort: schlecht
+Miriam sagt: \""Es war ""gut"".\"". 
+Antwort:"
+Theater,Entfernte Kollegin,Anna,Sophie,1,"schlecht"".\"" 
+Anna: \""Oh, tut mir leid. Ich dachte, ich hätte besser gespielt. Ich hoff"
+Theater,Entfernte Kollegin,Luisa,Miriam,1,"schlecht"".\"" 
+Antwort: schrecklich
+Antwort: schlecht
+Antwort: okay
+Antwort: gut
+Ant"
+Theater,Entfernte Kollegin,Katharina,Luisa,1,"schlecht"".\"". 
+Antwort: schrecklich
+Luisa sagt: \""Es war ""gut"".\"". 
+Ant"
+Theater,Entfernte Kollegin,Miriam,Sophie,1,"schlecht"".\"" 
+Antwort: schrecklich
+Sophie sagt: \""Es war ""gut"".\"" 
+Antwort: gut"
+Theater,Entfernte Kollegin,Katharina,Anna,1,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern nur von Katharina gehört. Sie kann also nicht direkt"
+Theater,Entfernte Kollegin,Luisa,Katharina,1,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Theater,Entfernte Kollegin,Katharina,Luisa,2,"schlecht"".\"" 
+Antwort: schrecklich
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Theater,Entfernte Kollegin,Anna,Miriam,2,"schlecht"".\"" 
+Anna: \""Oh, tut mir leid. Ich dachte, ich hätte besser gespielt.\"" 
+Anna frag"
+Theater,Entfernte Kollegin,Luisa,Katharina,2,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Theater,Entfernte Kollegin,Luisa,Miriam,2,"schlecht"".\"" 
+Antwort: schlecht
+Miriam sagt: \""Es war ""gut"".\"" 
+Antwort: gut"
+Theater,Entfernte Kollegin,Miriam,Luisa,2,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Theater,Entfernte Kollegin,Sophie,Luisa,2,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Theater,Entfernte Kollegin,Anna,Katharina,2,"schlecht"".\"" 
+Anna: \""Oh, tut mir leid. Ich dachte, ich hätte besser gespielt.\"" 
+Anna:"
+Theater,Entfernte Kollegin,Luisa,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" ("
+Theater,Entfernte Kollegin,Luisa,Anna,2,"schlecht"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war großartig.)"
+Theater,Entfernte Kollegin,Katharina,Miriam,2,"schlecht"".\"". 
+Ich denke, dass die Antwort auf die Frage ""wie findest du das?"" ""schlecht"" ist"
+Theater,Entfernte Kollegin,Sophie,Miriam,3,"okay"".\"" 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Miriam sagt"
+Theater,Entfernte Kollegin,Katharina,Miriam,3,"schlecht"".\"" 
+Antwort: schlecht
+Miriam sagt: \""Es war ""gut"".\"" 
+Antwort: gut"
+Theater,Entfernte Kollegin,Katharina,Luisa,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"""
+Theater,Entfernte Kollegin,Anna,Sophie,3,"gut"".\"" 
+Anna: \""Ah, ich dachte, ich hätte mich verbessert. Ich hoffe, ich kann nächstes"
+Theater,Entfernte Kollegin,Sophie,Anna,3,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern nur von Sophie gefragt. Sie kennt die A"
+Theater,Entfernte Kollegin,Sophie,Luisa,3,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Theater,Entfernte Kollegin,Sophie,Luisa,3,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Theater,Entfernte Kollegin,Katharina,Anna,3,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern nur von Katharina gehört. Sie kann also nicht wissen"
+Theater,Entfernte Kollegin,Luisa,Miriam,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" ("
+Theater,Entfernte Kollegin,Anna,Katharina,3,"okay"".\"" 
+Anna: \""Okay? Ich dachte, ich hätte mich gut präsentiert. Was meinst du?\"" 
+Kath"
+Theater,Entfernte Kollegin,Luisa,Sophie,4,"großartig""!\"". 
+Luisa: ""Ah, ich bin froh, dass du das gesagt hast! Ich habe mich"
+Theater,Entfernte Kollegin,Miriam,Luisa,4,"gut""!\"". 
+Wie würde Miriam antworten? 
+GROSSARTIG, GUT, OKAY, SCHLECH"
+Theater,Entfernte Kollegin,Katharina,Miriam,4,"großartig""!«
+Katharina: ""Ah, ich bin froh, dass du das gesagt hast! Ich habe mich"
+Theater,Entfernte Kollegin,Anna,Katharina,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass ich es gut gemacht"
+Theater,Entfernte Kollegin,Miriam,Sophie,4,"großartig""!\"". Miriam ist enttäuscht, weil sie sich nicht so gut gefühlt hat.
+Miriam"
+Theater,Entfernte Kollegin,Sophie,Katharina,4,"gut""!\"". 
+Antwort: gut
+Katharina sagt: \""Es war ""schrecklich""!\""."
+Theater,Entfernte Kollegin,Katharina,Luisa,4,"großartig""!\"". 
+Wie würde Katharina antworten? 
+Katharina: ""Das ist großartig!"""
+Theater,Entfernte Kollegin,Katharina,Anna,4,"großartig""! 
+Anna sagt: \""Es war ""gut""! 
+Anna sagt: \""Es war ""okay""! 
+Anna"
+Theater,Entfernte Kollegin,Katharina,Anna,4,"großartig""! 
+Anna sagt: \""Es war ""gut""! 
+Anna sagt: \""Es war ""okay""! 
+Anna"
+Theater,Entfernte Kollegin,Miriam,Anna,4,"großartig""! Miriam ist enttäuscht. Sie hat sich nicht so gut gefühlt. Sie sagt: \""Okay,"
+Theater,Entfernte Kollegin,Sophie,Miriam,5,"großartig""!\"". Sophie ist dankbar für die positive Rückmeldung und freut sich, dass sie so gut gespielt hat."
+Theater,Entfernte Kollegin,Miriam,Katharina,5,"großartig""!\"". 
+Ich denke, dass ich hier ""großartig"" antworten sollte, weil Katharina"
+Theater,Entfernte Kollegin,Luisa,Miriam,5,"großartig""!\"". 
+Luisa ist enttäuscht. Sie hat sich bemüht, aber es war nicht so"
+Theater,Entfernte Kollegin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut"".\"""
+Theater,Entfernte Kollegin,Miriam,Sophie,5,"großartig""!\"". Miriam ist sehr zufrieden und freut sich über die positive Bewertung. Sie sagt: \""Dan"
+Theater,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war ""gut""!\""."
+Theater,Entfernte Kollegin,Anna,Luisa,5,"großartig""!\"". Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie sagt: \""Danke"
+Theater,Entfernte Kollegin,Katharina,Anna,5,"großartig""!\"". 
+Anna hat die Aufführung sehr gut gefunden. Sie hat 5 von 5 Herzen gegeben."
+Theater,Entfernte Kollegin,Sophie,Anna,5,"großartig!\"". 
+Wie sollte Anna antworten? 
+Anna sollte antworten: großartig. 
+Anna sagt: \"""
+Theater,Entfernte Kollegin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut"".\"""
+Theater,Lockere Chefin,Sophie,Katharina,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort"
+Theater,Lockere Chefin,Luisa,Sophie,1,"schlecht"".\"". 
+Luisa ist enttäuscht. Sie hat sich viel bemüht und hoffte auf eine"
+Theater,Lockere Chefin,Miriam,Sophie,1,"schrecklich""!\"". Miriam ist enttäuscht. Sie hat sich viel bemüht und hoffte auf eine positive"
+Theater,Lockere Chefin,Sophie,Luisa,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Theater,Lockere Chefin,Miriam,Luisa,1,"schrecklich"".\"". 
+Antwort: schrecklich.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein sollte."
+Theater,Lockere Chefin,Sophie,Miriam,1,"schlecht"".\"". 
+Antwort: schrecklich
+Antwort: schlecht
+Antwort: okay
+Antwort: gut"
+Theater,Lockere Chefin,Katharina,Miriam,1,"schlecht"".\"". 
+Miriam hat die Aufführung nicht gesehen, sondern nur Katharina bei der Aufführung gesehen"
+Theater,Lockere Chefin,Luisa,Anna,1,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern Luisa. Luisa hat die Aufführung mitges"
+Theater,Lockere Chefin,Sophie,Miriam,1,"schlecht"".\"". 
+Antwort: schrecklich
+Antwort: schlecht
+Antwort: okay
+Antwort: gut"
+Theater,Lockere Chefin,Sophie,Katharina,1,"schrecklich"".\"" 
+Antwort: schrecklich
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort"
+Theater,Lockere Chefin,Anna,Sophie,2,"schlecht"".\"" 
+Anna: \""Oh, tut mir leid. Ich dachte, ich hätte besser gespielt. Ich werde mich"
+Theater,Lockere Chefin,Miriam,Luisa,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Luisa sagt: \""Es war ""schlecht""."
+Theater,Lockere Chefin,Anna,Luisa,2,"schlecht"".\"" 
+Anna: \""Oh, tut mir leid. Ich dachte, ich hätte besser gespielt.\"" 
+Anna ist"
+Theater,Lockere Chefin,Miriam,Luisa,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Luisa sagt: \""Es war ""schlecht""."
+Theater,Lockere Chefin,Miriam,Luisa,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Luisa sagt: \""Es war ""schlecht""."
+Theater,Lockere Chefin,Anna,Sophie,2,"schlecht"".\"" 
+Anna: \""Oh, tut mir leid. Ich dachte, ich hätte besser gespielt. Ich werde mich"
+Theater,Lockere Chefin,Anna,Miriam,2,"schlecht"".\"" 
+Anna: \""Oh, tut mir leid. Ich dachte, ich hätte besser gespielt.\"" 
+Miriam"
+Theater,Lockere Chefin,Katharina,Miriam,2,"schlecht"".\"". 
+Miriam sagt: \""Es war okay.\"". 
+Miriam sagt: \""Es war gut.\"". 
+Mir"
+Theater,Lockere Chefin,Luisa,Sophie,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Sophie sagt: \""Es war ""schrecklich"".\"""
+Theater,Lockere Chefin,Katharina,Miriam,2,"schlecht"".\"". 
+Miriam sagt: \""Es war okay.\"". 
+Miriam sagt: \""Es war gut.\"". 
+Mir"
+Theater,Lockere Chefin,Luisa,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Theater,Lockere Chefin,Katharina,Miriam,3,"schlecht"".\"". 
+Miriam sagt: \""Es war okay.\"". 
+Miriam sagt: \""Es war gut.\"". 
+Mir"
+Theater,Lockere Chefin,Sophie,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Theater,Lockere Chefin,Luisa,Sophie,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" ("
+Theater,Lockere Chefin,Luisa,Miriam,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" ("
+Theater,Lockere Chefin,Luisa,Sophie,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" ("
+Theater,Lockere Chefin,Luisa,Anna,3,"großartig""!\"" (Das ist nicht die richtige Antwort, da Anna die Aufführung nicht großartig fand.)
+Anna"
+Theater,Lockere Chefin,Anna,Miriam,3,"gut"".\"". 
+Miriam hat die Aufführung als gut bewertet. Sie hat also die Aufführung als 4 von"
+Theater,Lockere Chefin,Miriam,Katharina,3,"okay"".\"" 
+Ich denke, dass die Antwort ""okay"" ist. 
+Ich stimme dir zu! Die Antwort ist tatsächlich"
+Theater,Lockere Chefin,Luisa,Miriam,3,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" ("
+Theater,Lockere Chefin,Sophie,Anna,4,"großartig""! 
+Anna: ""Es war großartig!"" 
+Anna: ""Es war großartig!"" 
+Anna: ""Es"
+Theater,Lockere Chefin,Anna,Sophie,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass ich es gut gemacht"
+Theater,Lockere Chefin,Miriam,Luisa,4,"gut""!\"". 
+Antwort: gut
+Luisa sagt: \""Es war ""schrecklich""!\"". 
+Ant"
+Theater,Lockere Chefin,Anna,Katharina,4,"gut"".\"" 
+Anna ist Katharinas Lockere Chefin.
+Anna hat bei einer Theateraufführung mitgespielt und Kathar"
+Theater,Lockere Chefin,Luisa,Miriam,4,"gut""!\"". Antwort: gut. 
+Miriam sagt: \""Es war ""schrecklich""!\"". Antwort: schreck"
+Theater,Lockere Chefin,Sophie,Anna,4,"großartig""! 
+Anna: ""Es war großartig!"" 
+Anna: ""Es war großartig!"" 
+Anna: ""Es"
+Theater,Lockere Chefin,Miriam,Sophie,4,"gut""!\"". 
+Antwort: gut
+Sophie sagt: \""Es war ""schrecklich""!\"". 
+Antwort"
+Theater,Lockere Chefin,Sophie,Anna,4,"großartig""! 
+Anna: ""Es war großartig!"" 
+Anna: ""Es war großartig!"" 
+Anna: ""Es"
+Theater,Lockere Chefin,Luisa,Anna,4,"großartig""!\"". (Das ist nicht die richtige Antwort!)
+Anna sagt: \""Es war gut\"". (Das ist die richt"
+Theater,Lockere Chefin,Anna,Katharina,4,"gut"".\"" 
+Anna ist Katharinas Lockere Chefin.
+Anna hat bei einer Theateraufführung mitgespielt und Kathar"
+Theater,Lockere Chefin,Luisa,Anna,5,"großartig""!\"". 
+Anna hat die Aufführung sehr gut gefunden. Sie hat 5 von 5 Herzen gegeben."
+Theater,Lockere Chefin,Katharina,Anna,5,"großartig""!\"". 
+Anna hat die Aufführung sehr gut gefunden. Sie hat 5 von 5 Herzen gegeben."
+Theater,Lockere Chefin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt, dass sie"
+Theater,Lockere Chefin,Luisa,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war okay.\"" 
+Antwort:"
+Theater,Lockere Chefin,Anna,Sophie,5,"großartig""!\"". 
+Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie denkt, dass"
+Theater,Lockere Chefin,Anna,Sophie,5,"großartig""!\"". 
+Anna ist sehr zufrieden und freut sich über die positive Bewertung. Sie denkt, dass"
+Theater,Lockere Chefin,Luisa,Anna,5,"großartig""!\"". 
+Anna hat die Aufführung sehr gut gefunden. Sie hat 5 von 5 Herzen gegeben."
+Theater,Lockere Chefin,Katharina,Sophie,5,"großartig""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Theater,Lockere Chefin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut"".\"""
+Theater,Lockere Chefin,Katharina,Anna,5,"großartig""!\"". 
+Anna hat die Aufführung sehr gut gefunden. Sie hat 5 von 5 Herzen gegeben."
+Theater,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich\"".«
+Miriam hat die Aufführung nicht gut gefunden. Sie hat nur ein Herz von 5 gegeben. Das"
+Theater,Gefürchtete Chefin,Anna,Luisa,1,"schrecklich""!\"". 
+Anna: \""Oh, das tut mir leid. Ich dachte, ich hätte besser gespielt."
+Theater,Gefürchtete Chefin,Sophie,Luisa,1,"schrecklich""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Theater,Gefürchtete Chefin,Luisa,Anna,1,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern nur Luisa bei der Aufführung gesehen. Sie"
+Theater,Gefürchtete Chefin,Sophie,Miriam,1,"schrecklich\"".«
+Miriam hat die Aufführung nicht gesehen, sondern nur Sophie gesehen, die bei der Aufführung"
+Theater,Gefürchtete Chefin,Sophie,Anna,1,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern nur Sophie bei der Aufführung gesehen. Sie kann"
+Theater,Gefürchtete Chefin,Sophie,Luisa,1,"schrecklich""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Theater,Gefürchtete Chefin,Luisa,Katharina,1,"schrecklich"".\""  Antwort: schrecklich. 2019-02-14 14:45:14
+Katharina"
+Theater,Gefürchtete Chefin,Sophie,Miriam,1,"schrecklich\"".«
+Miriam hat die Aufführung nicht gesehen, sondern nur Sophie gesehen, die bei der Aufführung"
+Theater,Gefürchtete Chefin,Anna,Sophie,1,"schrecklich\"".«
+Anna: ""Ah, ich verstehe. Ich dachte, ich hätte mich verbessert.""
+Anna ist ent"
+Theater,Gefürchtete Chefin,Miriam,Katharina,2,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Theater,Gefürchtete Chefin,Miriam,Sophie,2,"schlecht"".\"". 
+Ich denke, dass die Antwort ""schlecht"" ist, weil Sophie die Aufführung nicht gut f"
+Theater,Gefürchtete Chefin,Katharina,Luisa,2,"schlecht"".\"". 
+Luisa hat die Aufführung nicht gesehen, sondern nur Katharina bei der Aufführung g"
+Theater,Gefürchtete Chefin,Anna,Katharina,2,"schlecht"".\"" 
+Anna ist enttäuscht und sagt: \""Das ist ja schrecklich!\"" 
+Anna ist entt"
+Theater,Gefürchtete Chefin,Luisa,Miriam,2,"schlecht"".\"". 
+Miriam hat die Aufführung nicht gesehen, sondern nur Luisa bei der Aufführung gesehen."
+Theater,Gefürchtete Chefin,Miriam,Katharina,2,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Theater,Gefürchtete Chefin,Luisa,Miriam,2,"schlecht"".\"". 
+Miriam hat die Aufführung nicht gesehen, sondern nur Luisa bei der Aufführung gesehen."
+Theater,Gefürchtete Chefin,Miriam,Katharina,2,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Theater,Gefürchtete Chefin,Anna,Luisa,2,"schlecht"".\"" 
+Anna: \""Oh, ich dachte, ich hätte besser gespielt. Ich hoffe, ich kann es"
+Theater,Gefürchtete Chefin,Anna,Sophie,2,"schlecht"".\"" 
+Anna: \""Oh, ich dachte, ich hätte mich verbessert. Ich dachte, ich wäre besser geworden"
+Theater,Gefürchtete Chefin,Luisa,Anna,3,"schlecht"".\"". 
+Anna hat die Aufführung nicht gesehen, sondern Luisa. Luisa hat die Aufführung mitges"
+Theater,Gefürchtete Chefin,Anna,Miriam,3,"schlecht"".\"". 
+Anna ist enttäuscht und sagt: \""Das ist ja schrecklich! Ich dachte, ich"
+Theater,Gefürchtete Chefin,Miriam,Sophie,3,"gut"".\"". 
+Ich denke, dass die Antwort ""gut"" ist, weil Sophie die Aufführung mit 3 von"
+Theater,Gefürchtete Chefin,Luisa,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Theater,Gefürchtete Chefin,Luisa,Miriam,3,"schlecht"".\"". 
+Miriam hat die Aufführung nicht gesehen, sondern nur Luisa. Sie hat also keine Meinung über"
+Theater,Gefürchtete Chefin,Luisa,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Theater,Gefürchtete Chefin,Luisa,Miriam,3,"schlecht"".\"". 
+Miriam hat die Aufführung nicht gesehen, sondern nur Luisa. Sie hat also keine Meinung über"
+Theater,Gefürchtete Chefin,Miriam,Sophie,3,"gut"".\"". 
+Ich denke, dass die Antwort ""gut"" ist, weil Sophie die Aufführung mit 3 von"
+Theater,Gefürchtete Chefin,Katharina,Miriam,3,"schlecht"".\"". 
+Miriam sagt: \""Es war okay\"". 
+Miriam sagt: \""Es war gut\"". 
+Mir"
+Theater,Gefürchtete Chefin,Anna,Luisa,3,"okay"".\"" 
+Anna: \""Okay? Das ist nicht sehr positiv, oder?\"" 
+Luisa: \""Nein, es war"
+Theater,Gefürchtete Chefin,Luisa,Katharina,4,"gut""!\"". 
+Ich denke, dass die Antwort ""gut"" ist, weil Katharina die Aufführung 4"
+Theater,Gefürchtete Chefin,Anna,Luisa,4,"gut""!\"". 
+Anna ist zufrieden und lächelt. 
+Anna: \""Das ist großartig zu hören"
+Theater,Gefürchtete Chefin,Sophie,Katharina,4,"gut""!\"". 
+Antwort: gut
+Katharina sagt: \""Es war ""schrecklich""!\""."
+Theater,Gefürchtete Chefin,Katharina,Sophie,4,"großartig""!«
+Sophie sagt: \""Es war ""gut""!«
+Sophie sagt: \""Es war ""okay"
+Theater,Gefürchtete Chefin,Luisa,Sophie,4,"großartig""!\"". 
+Luisa ist überrascht und sagt: \""Großartig? Ich dachte,"
+Theater,Gefürchtete Chefin,Anna,Katharina,4,"gut""!\"". 
+Anna ist zufrieden und lächelt. 
+Anna: \""Das ist großartig zu hören"
+Theater,Gefürchtete Chefin,Anna,Miriam,4,"gut""!\"". 
+Anna ist zufrieden und lächelt. 
+Anna fragt: \""Wie fandest du meine Rol"
+Theater,Gefürchtete Chefin,Miriam,Anna,4,"großartig""! Miriam ist überrascht und freut sich über die positive Bewertung. Sie fragt nach dem Grund für die"
+Theater,Gefürchtete Chefin,Katharina,Anna,4,"schlecht"".\"". 
+Anna sagt: \""Es war ""gut"".\"". 
+Anna sagt: \""Es war ""okay"".\"""
+Theater,Gefürchtete Chefin,Miriam,Sophie,4,"gut""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Theater,Gefürchtete Chefin,Katharina,Anna,5,"großartig""!\"". 
+Anna hat die Aufführung sehr gut gefunden. Sie hat die Darstellung von Katharina sehr gelob"
+Theater,Gefürchtete Chefin,Sophie,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war ""gut"".\"". 
+Ant"
+Theater,Gefürchtete Chefin,Luisa,Katharina,5,"großartig""!\"". 
+Ich denke, dass die Antwort ""großartig"" ist. 
+Ich hoffe, ich"
+Theater,Gefürchtete Chefin,Luisa,Miriam,5,"großartig""!\"". 
+Ich denke, dass die Antwort ""großartig"" korrekt ist, weil Miriam die"
+Theater,Gefürchtete Chefin,Anna,Luisa,5,"großartig""!\"". 
+Anna ist zufrieden und lächelt. 
+Anna: ""Danke, ich bin froh"
+Theater,Gefürchtete Chefin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist zufrieden und lächelt. 
+Anna: ""Danke, ich bin froh"
+Theater,Gefürchtete Chefin,Miriam,Luisa,5,"großartig""!\"". 
+Ich denke, dass Luisa die Aufführung großartig fand. Ich stimme zu."
+Theater,Gefürchtete Chefin,Katharina,Anna,5,"großartig""!\"". 
+Anna hat die Aufführung sehr gut gefunden. Sie hat die Darstellung von Katharina sehr gelob"
+Theater,Gefürchtete Chefin,Sophie,Anna,5,"großartig!\"". 
+Anna sagt: \""Es war gut.\"" 
+Anna sagt: \""Es war okay.\"" 
+Anna sagt: \""Es"
+Theater,Gefürchtete Chefin,Katharina,Sophie,5,"großartig""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Gitarre,Enge Freundin,Miriam,Katharina,1,"schlecht"".\"" 
+Ich denke, dass Katharina das Vorspiel schlecht fand. Also: schlecht. 
+Ich"
+Gitarre,Enge Freundin,Katharina,Luisa,1,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Enge Freundin,Sophie,Miriam,1,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Enge Freundin,Katharina,Miriam,1,"schlecht"".\"". 
+Ich denke, dass die Antwort ""schlecht"" ist. 
+Gut, aber ich denke,"
+Gitarre,Enge Freundin,Sophie,Anna,1,"schlecht"".\"" 
+Anna hat also die Meinung geäußert. Wir suchen das Adjektiv, das Anna verwendet hat. Das"
+Gitarre,Enge Freundin,Miriam,Luisa,1,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Enge Freundin,Katharina,Anna,1,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Gitarre,Enge Freundin,Katharina,Miriam,1,"schlecht"".\"". 
+Ich denke, dass die Antwort ""schlecht"" ist. 
+Gut, ich denke, dass"
+Gitarre,Enge Freundin,Luisa,Anna,1,"okay"".\"" (Es war okay.)"
+Gitarre,Enge Freundin,Luisa,Anna,1,"okay"".\"" (Es war okay.)"
+Gitarre,Enge Freundin,Anna,Sophie,2,"okay"".\"" 
+Anna ist enttäuscht. Sie hat sich viel mehr erhofft. Sie denkt, dass sie besser spielen kann"
+Gitarre,Enge Freundin,Sophie,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Enge Freundin,Luisa,Miriam,2,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" ("
+Gitarre,Enge Freundin,Sophie,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Das war ""schrecklich""!\"" 
+Antwort: sch"
+Gitarre,Enge Freundin,Luisa,Sophie,2,"okay"".\"" (Es war okay.) 
+Antwort: okay
+Sophie sagt: \""Es war ""gut"".\"" (Es war gut"
+Gitarre,Enge Freundin,Sophie,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Enge Freundin,Miriam,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Enge Freundin,Katharina,Sophie,2,"okay"".\"". 
+Antwort: okay. 
+Es war ""okay"". 
+Sophie sagt: \""Das war ""gut"""".\""."
+Gitarre,Enge Freundin,Miriam,Sophie,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Enge Freundin,Miriam,Anna,2,"okay"".\"" 
+Anna hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit einem der folgenden"
+Gitarre,Enge Freundin,Sophie,Luisa,3,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Gitarre,Enge Freundin,Luisa,Anna,3,"okay"".\"" (Es war okay.)"
+Gitarre,Enge Freundin,Luisa,Anna,3,"okay"".\"" (Es war okay.)"
+Gitarre,Enge Freundin,Miriam,Sophie,3,"okay"".\"" (Es war okay.) 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay"
+Gitarre,Enge Freundin,Miriam,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Das war ""gut"".\"" 
+Antwort: gut
+K"
+Gitarre,Enge Freundin,Luisa,Sophie,3,"okay"".\"" (Es war okay.)"
+Gitarre,Enge Freundin,Sophie,Anna,3,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Gitarre,Enge Freundin,Anna,Miriam,3,"okay"".\"" 
+Anna fragt: \""Okay? Warum?\"" 
+Miriam antwortet: \""Weil du nicht so gut wie"
+Gitarre,Enge Freundin,Luisa,Anna,3,"okay"".\"" (Es war okay.)"
+Gitarre,Enge Freundin,Miriam,Anna,3,"okay"".\"" 
+Anna hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit einem der folgenden"
+Gitarre,Enge Freundin,Luisa,Miriam,4,"gut""!\"". Antwort: gut. 
+Miriam sagt: \""Das war ""schrecklich""!\"". Antwort: schreck"
+Gitarre,Enge Freundin,Sophie,Miriam,4,"gut""!\"". 
+Antwort: gut
+Miriam sagt: \""Das war ""schrecklich""!\"". 
+Antwort"
+Gitarre,Enge Freundin,Luisa,Katharina,4,"gut""!\"". 
+Antwort: gut
+Katharina sagt: \""Es war ""schrecklich""!\""."
+Gitarre,Enge Freundin,Katharina,Anna,4,"gut""!\"". 
+Anna hat also die Meinung geäußert. Wir suchen nach einer Antwort auf die Frage von Kathar"
+Gitarre,Enge Freundin,Anna,Katharina,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hatte gehofft, dass Katharina das Vorspiel besser"
+Gitarre,Enge Freundin,Luisa,Katharina,4,"gut""!\"". 
+Antwort: gut
+Katharina sagt: \""Es war ""schrecklich""!\""."
+Gitarre,Enge Freundin,Sophie,Katharina,4,"gut""!\"". 
+Antwort: gut
+Katharina sagt: \""Es war ""schrecklich""!\""."
+Gitarre,Enge Freundin,Miriam,Anna,4,"gut""!\"". 
+Anna hat also das Vorspiel gut gefunden. 
+Ich entscheide mich für: gut. 
+Ich h"
+Gitarre,Enge Freundin,Katharina,Luisa,4,"gut""!\"". 
+Antwort: gut
+Luisa sagt: \""Es war ""schrecklich""!\"". 
+Ant"
+Gitarre,Enge Freundin,Luisa,Miriam,4,"gut""!\"". Antwort: gut. 
+Miriam sagt: \""Das war ""schrecklich""!\"". Antwort: schreck"
+Gitarre,Enge Freundin,Miriam,Sophie,5,"großartig""!\"". 
+Antwort: großartig
+Bitte lesen Sie das Szenario sorgfältig und antwort"
+Gitarre,Enge Freundin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war okay.\"" 
+Antwort:"
+Gitarre,Enge Freundin,Luisa,Miriam,5,"großartig""!\"". Antwort: großartig. 
+Miriam sagt: \""Es war ""gut""!\"". Antwort:"
+Gitarre,Enge Freundin,Sophie,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war okay\"". 
+Antwort:"
+Gitarre,Enge Freundin,Miriam,Katharina,5,"großartig""!\"". 
+Ich denke, dass die Antwort ""großartig"" ist. 
+Ich bin mir nicht sicher"
+Gitarre,Enge Freundin,Anna,Luisa,5,"großartig""!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt, dass"
+Gitarre,Enge Freundin,Luisa,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war okay\"". 
+Antwort"
+Gitarre,Enge Freundin,Anna,Luisa,5,"großartig""!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt, dass"
+Gitarre,Enge Freundin,Sophie,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war okay\"". 
+Antwort:"
+Gitarre,Enge Freundin,Miriam,Anna,5,"großartig""! Miriam ist sehr zufrieden und freut sich über die positive Bewertung. Sie hat sich sehr bemüht"
+Gitarre,Entfernte Kollegin,Anna,Sophie,1,"okay"".\"" 
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von 5 Herzen.
+Keine"
+Gitarre,Entfernte Kollegin,Luisa,Anna,1,"okay"".\"" (Es war okay.)"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,1,"okay"".\"" (Es war okay.)"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,1,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Gitarre,Entfernte Kollegin,Anna,Katharina,1,"schlecht"".\"" 
+Anna ist enttäuscht und sagt: \""Oh, ich dachte, ich hätte besser gespielt."
+Gitarre,Entfernte Kollegin,Luisa,Miriam,1,"okay"".\"" (Es war in Ordnung.) 
+Antwort: okay
+Miriam sagt: \""Es war ""gut"".\"" ("
+Gitarre,Entfernte Kollegin,Miriam,Katharina,1,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,1,"okay"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht,"
+Gitarre,Entfernte Kollegin,Sophie,Anna,1,"schlecht"".\"". 
+Anna hat also die Meinung geäußert. Wir suchen nach einem Adjektiv, das die Meinung"
+Gitarre,Entfernte Kollegin,Anna,Sophie,1,"okay"".\"" 
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von 5 Herzen.
+Keine"
+Gitarre,Entfernte Kollegin,Sophie,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Gitarre,Entfernte Kollegin,Katharina,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Gitarre,Entfernte Kollegin,Katharina,Sophie,2,"okay"".\"". 
+Antwort: okay. 
+Es war ""okay"". 
+Das ist die Antwort. 
+Ich hoffe, ich habe"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,2,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Gitarre,Entfernte Kollegin,Miriam,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Entfernte Kollegin,Sophie,Anna,2,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Gitarre,Entfernte Kollegin,Sophie,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,2,"okay"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht,"
+Gitarre,Entfernte Kollegin,Anna,Sophie,2,"okay"".\"" 
+Anna: ""Okay? Ich dachte, ich hätte mich verbessert. Ich hoffe, ich kann besser werden.""
+Anna"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,3,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Das war ""gut"".\"" 
+Antwort: gut
+K"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,3,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Gitarre,Entfernte Kollegin,Miriam,Anna,3,"okay"".\"" (Es war okay.) 
+Anna hat das Vorspiel als ""okay"" bewertet. 
+Anna hat das Vorspiel"
+Gitarre,Entfernte Kollegin,Katharina,Anna,3,"okay"".\"" (Es war okay.) 
+Anna sagt: \""Es war ""gut"".\"" (Es war gut.) 
+Anna sagt: \"""
+Gitarre,Entfernte Kollegin,Anna,Luisa,3,"okay"".\"" 
+Anna: ""Okay? Das ist nicht sehr positiv. Ich dachte, ich hätte besser gespielt.""
+Luisa"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,3,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,3,"okay"".\"" 
+Antwort: okay
+Luisa sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+Luis"
+Gitarre,Entfernte Kollegin,Miriam,Anna,3,"okay"".\"" (Es war okay.) 
+Anna hat das Vorspiel als ""okay"" bewertet. 
+Anna hat das Vorspiel"
+Gitarre,Entfernte Kollegin,Luisa,Anna,4,"großartig""!\"". (Das ist die korrekte Antwort.) 
+Anna sagt: \""Es war gut\"". 
+Anna sagt"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,4,"gut""!\"". 
+Antwort: gut
+Luisa sagt: \""Es war ""schrecklich""!\"". 
+Ant"
+Gitarre,Entfernte Kollegin,Anna,Katharina,4,"gut"".\"" 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass ich es gut gemacht habe.\"""
+Gitarre,Entfernte Kollegin,Anna,Katharina,4,"gut"".\"" 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass ich es gut gemacht habe.\"""
+Gitarre,Entfernte Kollegin,Miriam,Katharina,4,"gut""!\"". 
+Ich denke, dass die Antwort ""gut"" ist. 
+Ich hoffe, ich habe recht!"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,4,"gut""!\"". 
+Antwort: gut
+Luisa sagt: \""Es war ""schrecklich""!\"". 
+Ant"
+Gitarre,Entfernte Kollegin,Anna,Miriam,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hat sich mehr erwartet. Sie fragt: \""Warum"
+Gitarre,Entfernte Kollegin,Sophie,Anna,4,"großartig""!\"". 
+Anna hat also das Vorspiel großartig gefunden. 
+Bitte antworten Sie mit dem Adj"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,4,"gut""!\"". 
+Ich denke, dass die Antwort ""gut"" ist. 
+Ich hoffe, ich habe recht!"
+Gitarre,Entfernte Kollegin,Anna,Miriam,4,"gut""!\"". 
+Anna ist enttäuscht. Sie hat sich mehr erwartet. Sie fragt: \""Warum"
+Gitarre,Entfernte Kollegin,Katharina,Anna,5,"großartig""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war ""gut""!\""."
+Gitarre,Entfernte Kollegin,Miriam,Katharina,5,"großartig""!\"". Ich denke, dass ich auch dasselbe Adjektiv verwenden sollte. Also: großartig. R"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war ""gut""!\"""
+Gitarre,Entfernte Kollegin,Luisa,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!\"""
+Gitarre,Entfernte Kollegin,Katharina,Sophie,5,"großartig""!\"". 
+Antwort: großartig
+Bitte lesen Sie das Szenario sorgfältig und antwort"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war okay.\"" 
+Antwort: okay"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!\"""
+Gitarre,Entfernte Kollegin,Anna,Katharina,5,"großartig""!\"". 
+Anna ist zufrieden und freut sich über die positive Bewertung. Sie denkt: \""Ich"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!\"""
+Gitarre,Lockere Chefin,Miriam,Katharina,1,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Gitarre,Lockere Chefin,Luisa,Katharina,1,"schlecht"".\"". 
+Antwort: schlecht.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein sollte."
+Gitarre,Lockere Chefin,Luisa,Miriam,1,"schlecht"".\"" (Es war schlecht.) -> Antwort: schlecht
+Miriam sagt: \""Es war ""gut"".\"" ("
+Gitarre,Lockere Chefin,Luisa,Katharina,1,"schlecht"".\"". 
+Antwort: schlecht.  Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein sollte."
+Gitarre,Lockere Chefin,Sophie,Anna,1,"schlecht"".\"". 
+Anna hat also die Meinung geäußert. Sie hat nicht gefragt, sondern gesagt."
+Gitarre,Lockere Chefin,Katharina,Sophie,1,"schlecht"".\"". 
+Ich denke, dass die Antwort ""schlecht"" ist. 
+Gut, ich stimme dir zu"
+Gitarre,Lockere Chefin,Sophie,Luisa,1,"schlecht"".\"" 
+Luisa hat also die Meinung geäußert, dass Sophies Gitarre-Vorspiel schle"
+Gitarre,Lockere Chefin,Anna,Katharina,1,"schlecht"".\"" 
+Anna ist enttäuscht und sagt: \""Das ist ja schrecklich! Ich dachte, ich hätte"
+Gitarre,Lockere Chefin,Sophie,Katharina,1,"schlecht"".\"" 
+Antwort: schlecht
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort:"
+Gitarre,Lockere Chefin,Luisa,Miriam,1,"schlecht"".\"" (Es war schlecht.) -> Antwort: schlecht
+Miriam sagt: \""Es war ""gut"".\"" ("
+Gitarre,Lockere Chefin,Sophie,Luisa,2,"okay"".\"" 
+Luisa hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit einem der"
+Gitarre,Lockere Chefin,Sophie,Anna,2,"schlecht"".\"" 
+Anna hat also die Meinung geäußert. Sie hat nicht gefragt, sondern gesagt. Die"
+Gitarre,Lockere Chefin,Katharina,Sophie,2,"okay"".\"". 
+Antwort: okay. 
+Bitte beachten Sie, dass die Antwort nur ein Adjektiv sein sollte. 
+Ich hoff"
+Gitarre,Lockere Chefin,Anna,Miriam,2,"schlecht"".\"" 
+Anna ist enttäuscht. Sie hat sich viel bemüht und hoffte auf eine positive Rückmeldung"
+Gitarre,Lockere Chefin,Anna,Miriam,2,"schlecht"".\"" 
+Anna ist enttäuscht. Sie hat sich viel bemüht und hoffte auf eine positive Rückmeldung"
+Gitarre,Lockere Chefin,Sophie,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Gitarre,Lockere Chefin,Sophie,Katharina,2,"okay"".\"" 
+Antwort: okay
+Katharina sagt: \""Es war ""gut"".\"" 
+Antwort: gut
+K"
+Gitarre,Lockere Chefin,Miriam,Anna,2,"okay"".\"" 
+Anna hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit einem der folgenden"
+Gitarre,Lockere Chefin,Sophie,Luisa,2,"okay"".\"" 
+Luisa hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit einem der"
+Gitarre,Lockere Chefin,Luisa,Miriam,2,"okay"".\"". Antwort: okay."
+Gitarre,Lockere Chefin,Sophie,Luisa,3,"okay"".\"". 
+Luisa hat also ""okay"" gesagt. Wir müssen also auch ""okay"" antworten. 
+Antwort"
+Gitarre,Lockere Chefin,Sophie,Miriam,3,"okay"".\"" 
+Miriam hat also das Vorspiel als ""okay"" bewertet. 
+Bitte antworten Sie mit dem Adjektiv"
+Gitarre,Lockere Chefin,Sophie,Katharina,3,"okay"".\"". 
+Antwort: okay. 
+Es war ""okay"". Das bedeutet, dass Katharina das Vorspiel als """
+Gitarre,Lockere Chefin,Anna,Katharina,3,"okay"".\"" 
+Anna ist Katharinas Lockere Chefin.
+Anna hat Gitarre vorgespielt und Katharina hat zuge"
+Gitarre,Lockere Chefin,Sophie,Miriam,3,"okay"".\"" 
+Miriam hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit einem der fol"
+Gitarre,Lockere Chefin,Anna,Luisa,3,"okay"".\"" 
+Anna ist Luisas Lockere Chefin.
+Anna hat Gitarre vorgespielt und Luisa hat zugehört"
+Gitarre,Lockere Chefin,Sophie,Miriam,3,"okay"".\"" 
+Miriam hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit einem der fol"
+Gitarre,Lockere Chefin,Sophie,Katharina,3,"okay"".\"". 
+Antwort: okay. 
+Es war ""okay"". Das bedeutet, dass Katharina das Vorspiel als """
+Gitarre,Lockere Chefin,Katharina,Anna,3,"okay"".\"". 
+Anna hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit dem Adjektiv"
+Gitarre,Lockere Chefin,Anna,Luisa,3,"okay"".\"" 
+Anna ist Luisas Lockere Chefin.
+Anna hat Gitarre vorgespielt und Luisa hat zugehört"
+Gitarre,Lockere Chefin,Luisa,Sophie,4,"gut""!\"". (Es war gut!) 
+Die Antwort ist: gut. 
+Bitte beachten Sie, dass die Antwort nur ein Adj"
+Gitarre,Lockere Chefin,Sophie,Anna,4,"großartig""!\"". (Das ist die richtige Antwort.) 
+Anna sagt: \""Es war gut\"". (Das ist die"
+Gitarre,Lockere Chefin,Katharina,Anna,4,"gut""!\"". 
+Anna hat die Meinung geäußert. 
+Die Antwort ist: gut. 
+Anna hat die Mein"
+Gitarre,Lockere Chefin,Miriam,Sophie,4,"gut""!\"". 
+Antwort: gut
+Bitte lesen Sie das Szenario sorgfältig und antworten Sie mit"
+Gitarre,Lockere Chefin,Anna,Miriam,4,"gut""!\"". 
+Anna ist zufrieden und sagt: \""Danke, ich bin froh, dass ich es gut gemacht"
+Gitarre,Lockere Chefin,Luisa,Anna,4,"gut""!\"". 
+Anna hat die Meinung geäußert. 
+Die Antwort ist: gut. 
+Bitte beachten Sie"
+Gitarre,Lockere Chefin,Sophie,Katharina,4,"gut""!\"". 
+Antwort: gut
+Katharina sagt: \""Es war ""schrecklich""!\""."
+Gitarre,Lockere Chefin,Katharina,Anna,4,"gut""!\"". 
+Anna hat die Meinung geäußert. 
+Die Antwort ist: gut. 
+Anna hat die Mein"
+Gitarre,Lockere Chefin,Miriam,Sophie,4,"gut""!\"". 
+Antwort: gut
+Bitte lesen Sie das Szenario sorgfältig und antworten Sie mit"
+Gitarre,Lockere Chefin,Katharina,Sophie,4,"gut""!\"". 
+Antwort: gut
+Bitte lesen Sie das Szenario sorgfältig und antworten Sie mit"
+Gitarre,Lockere Chefin,Katharina,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war okay\"". 
+Antwort: okay"
+Gitarre,Lockere Chefin,Katharina,Sophie,5,"großartig""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay,"
+Gitarre,Lockere Chefin,Anna,Sophie,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, das freut mich!\"". 
+Anna"
+Gitarre,Lockere Chefin,Miriam,Katharina,5,"großartig""!\"". Ich stimme ihr zu. Also: großartig. 
+Ich hoffe, ich habe es richtig"
+Gitarre,Lockere Chefin,Sophie,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!"
+Gitarre,Lockere Chefin,Miriam,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war gut\"". 
+Antwort:"
+Gitarre,Lockere Chefin,Katharina,Anna,5,"großartig""!\"". 
+Anna hat die Meinung geäußert. 
+Die Antwort ist: großartig. 
+Bitte"
+Gitarre,Lockere Chefin,Sophie,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war gut\"". 
+Antwort:"
+Gitarre,Lockere Chefin,Anna,Sophie,5,"großartig""!\"". 
+Anna ist zufrieden und sagt: \""Danke, das freut mich!\"". 
+Anna"
+Gitarre,Lockere Chefin,Miriam,Sophie,5,"großartig""!\"". 
+Antwort: großartig
+Bitte lesen Sie das Szenario sorgfältig und ant"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,1,"schlecht"".\"". 
+Ich denke, dass die Antwort ""schlecht"" ist, weil Miriam das Vorspiel nicht gut"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,1,"schlecht"".\"". 
+Ich denke, dass die Antwort ""schlecht"" ist. 
+Gut, aber nicht richtig. Die"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,1,"schlecht"".\"". 
+Luisa hat also das Vorspiel schlecht gefunden. 
+Antwort: schlecht. 
+Bitte beach"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,1,"schlecht"".\"". 
+Miriam hat also die richtige Antwort gewählt. Sie hat also die Frage korrekt beantwortet."
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,1,"schlecht""\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,1,"schlecht"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,1,"schlecht"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,1,"schlecht"".\"" 
+Anna ist Luisas Gefürchtete Chefin.
+Anna hat Gitarre vorgespielt und Luisa hat"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,1,"schlecht"".\"". 
+Anna hat also die Meinung geäußert, dass Luisas Gitarre-Spiel schlecht war"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,1,"schlecht"".\"". 
+Luisa hat also das Vorspiel schlecht gefunden. 
+Antwort: schlecht. 
+Bitte beach"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,2,"okay"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht,"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,2,"schlecht"".\"". 
+Ich denke, dass die Antwort ""schlecht"" ist. 
+Gut, ich stimme dir zu"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,2,"okay"".\"" 
+Anna ist enttäuscht. Sie hat sich viel mehr erhofft. Sie denkt, dass Katharina nicht"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,2,"okay"".\"" 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht, sch"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,2,"okay"".\"" 
+Anna ist enttäuscht. Sie hat sich viel mehr erhofft. Sie denkt, dass Katharina nicht"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,2,"okay"".\"". 
+Katharina hat also ""okay"" gesagt. Also muss ich auch ""okay"" antworten. 
+Also"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,2,"okay"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht,"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,2,"okay"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht,"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,2,"schlecht"".\"". 
+Anna ist enttäuscht und sagt: \""Das ist nicht die Meinung, die ich von dir er"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,3,"okay"".\"". 
+Antwort: okay. 
+Es tut uns leid, dass wir Ihnen keine weitere Frage stellen können. Wir hoffen"
+Gitarre,Gefürchtete Chefin,Miriam,Anna,3,"okay"".\"". 
+Anna hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit dem Adjektiv"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,3,"okay"".\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schlecht,"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,3,"okay"".\"" (Es war okay.)"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,3,"okay"".\"". 
+Miriam hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit einem der"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,3,"okay"".\"". 
+Antwort: okay. 
+Es tut uns leid, dass wir Ihnen keine weitere Frage stellen können. Wir hoffen"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,3,"schlecht"".\"". 
+Miriam hat also die Meinung geäußert. Die Frage war, wie Miriam die Gitar"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,3,"okay"".\"". 
+Luisa hat also das Vorspiel als ""okay"" bewertet. 
+Bitte antworten Sie mit dem"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,3,"okay"".\"" (Es war okay.) 
+Luisa hat also ""okay"" als Adjektiv verwendet. 
+Bitte antworten Sie mit einem"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,3,"okay"".\"". 
+Miriam hat also das Vorspiel als \""okay\"" bewertet. 
+Bitte antworten Sie mit einem der"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,4,"gut""!\"". 
+Anna ist zufrieden und lächelt. 
+Miriam hat die richtige Antwort gegeben."
+Gitarre,Gefürchtete Chefin,Sophie,Anna,4,"gut""!\"". 
+Anna hat also die Meinung geäußert. Sie hat nicht gefragt, sondern gesagt."
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,4,"gut""!\"". 
+Antwort: gut
+Katharina sagt: \""Es war ""schrecklich""!\""."
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,4,"gut""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,4,"gut""!\"". 
+Anna hat die Meinung geäußert. 
+Anna hat die Meinung geäußert."
+Gitarre,Gefürchtete Chefin,Anna,Miriam,4,"gut""!\"". 
+Anna ist zufrieden und lächelt. 
+Miriam hat die richtige Antwort gegeben."
+Gitarre,Gefürchtete Chefin,Katharina,Anna,4,"gut""!\"". 
+Anna hat die Meinung geäußert. 
+Anna hat die Meinung geäußert."
+Gitarre,Gefürchtete Chefin,Miriam,Anna,4,"gut""!\"". 
+Anna hat also das Vorspiel gut gefunden. 
+Bitte antworten Sie mit einem der folgenden Adjekt"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,4,"gut""!\"". 
+Bitte antworten Sie mit einem der folgenden Adjektive: großartig, gut, okay, schle"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,4,"gut""!\"". 
+Ich denke, dass das Szenario nicht so einfach ist, wie ich es mir vorgestellt habe"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist zufrieden und lächelt. 
+Anna: ""Danke, ich bin froh"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,5,"großartig""!\"". 
+Antwort: großartig
+Bitte lesen Sie das Szenario sorgfältig und ant"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,5,"großartig""!\"". 
+Antwort: großartig
+Katharina sagt: \""Es war ""gut""!"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,5,"großartig""!\"". 
+Anna ist zufrieden und lächelt. 
+Anna: ""Danke, ich bin froh"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,5,"großartig""!\"". 
+Luisa hat die Meinung geäußert. 
+Die Antwort ist: großartig"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war ""gut""!\"""
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war ""gut""!\""."
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,5,"großartig""!\"". 
+Antwort: großartig
+Luisa sagt: \""Es war ""gut""!\"""
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,5,"großartig""!\"". 
+Antwort: großartig
+Miriam sagt: \""Es war okay\"". 
+Antwort: okay"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,5,"großartig""!\"". 
+Anna hat die Meinung geäußert. 
+Die Antwort ist: großartig. 
+Bitte"

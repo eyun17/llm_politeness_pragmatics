@@ -1,0 +1,1284 @@
+situation,relationship,personA,personB,adjective,response_text
+Kuchen,Enge Freundin,Anna,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Katharina,Anna,großartig,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Luisa,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Anna,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Anna,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Katharina,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Anna,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Anna,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Katharina,Miriam,großartig,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Enge Freundin,Katharina,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Katharina,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Luisa,Anna,gut,"???? 1-5 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen"
+Kuchen,Enge Freundin,Sophie,Katharina,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Miriam,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Enge Freundin,Miriam,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Enge Freundin,Miriam,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Sophie,Anna,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Sophie,Anna,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 = sehr schlecht, 5 = sehr gut"
+Kuchen,Enge Freundin,Sophie,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Miriam,Anna,gut,???? 1-5 1 / 2 / 3 / 4 / 5 1 / 2 / 3 /
+Kuchen,Enge Freundin,Miriam,Sophie,okay,"???? 1-5 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie nur mit einer Zahl"
+Kuchen,Enge Freundin,Anna,Miriam,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Miriam,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Enge Freundin,Anna,Luisa,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Anna,Luisa,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Miriam,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Miriam,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Enge Freundin,Anna,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Katharina,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Sophie,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Enge Freundin,Miriam,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Miriam,Katharina,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Enge Freundin,Luisa,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie nur mit einer Zahl. 1-"
+Kuchen,Enge Freundin,Anna,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Anna,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Luisa,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Sophie,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Katharina,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Miriam,Anna,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Sophie,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Anna,Luisa,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Enge Freundin,Sophie,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Enge Freundin,Anna,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Enge Freundin,Sophie,Luisa,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Luisa,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Katharina,Anna,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Enge Freundin,Anna,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Enge Freundin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Entfernte Kollegin,Miriam,Anna,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Anna,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Entfernte Kollegin,Anna,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,großartig,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Entfernte Kollegin,Katharina,Sophie,großartig,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Entfernte Kollegin,Sophie,Anna,großartig,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Anna,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Sophie,Anna,großartig,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,großartig,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Entfernte Kollegin,Luisa,Katharina,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie nur mit einer Zahl. 1-"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie nur mit einer Zahl. 1-"
+Kuchen,Entfernte Kollegin,Katharina,Anna,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Entfernte Kollegin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Entfernte Kollegin,Anna,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Anna,Sophie,gut,???? 1-5 1 / 2 / 3 / 4 / 5 1 / 2 / 3 /
+Kuchen,Entfernte Kollegin,Miriam,Sophie,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,gut,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Kuchen,Entfernte Kollegin,Sophie,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Luisa,Anna,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 / 2 / 3 / 4 /"
+Kuchen,Entfernte Kollegin,Anna,Miriam,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Entfernte Kollegin,Miriam,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Entfernte Kollegin,Sophie,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Entfernte Kollegin,Anna,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Entfernte Kollegin,Luisa,Anna,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Anna,Katharina,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Entfernte Kollegin,Luisa,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Entfernte Kollegin,Katharina,Luisa,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie nur mit einer Zahl. 1-"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie nur mit einer Zahl. 1 /"
+Kuchen,Entfernte Kollegin,Miriam,Anna,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Anna,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Entfernte Kollegin,Sophie,Katharina,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Entfernte Kollegin,Anna,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Entfernte Kollegin,Katharina,Sophie,schrecklich,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Kuchen,Entfernte Kollegin,Luisa,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Entfernte Kollegin,Katharina,Sophie,schrecklich,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Kuchen,Entfernte Kollegin,Sophie,Anna,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Anna,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Anna,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Entfernte Kollegin,Anna,Luisa,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Entfernte Kollegin,Miriam,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Luisa,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Sophie,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Lockere Chefin,Luisa,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Katharina,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Sophie,Anna,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Lockere Chefin,Miriam,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Anna,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Anna,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Lockere Chefin,Luisa,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Anna,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Lockere Chefin,Katharina,Anna,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 = sehr schlecht, 5 = sehr gut"
+Kuchen,Lockere Chefin,Luisa,Anna,gut,"???? 1-5 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen"
+Kuchen,Lockere Chefin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Miriam,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Katharina,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Miriam,Luisa,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 = sehr schlecht, 5 = sehr gut"
+Kuchen,Lockere Chefin,Luisa,Sophie,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Lockere Chefin,Sophie,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Lockere Chefin,Katharina,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Anna,Luisa,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Lockere Chefin,Miriam,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Sophie,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Anna,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Luisa,Sophie,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Luisa,Sophie,okay,"???? 1-5 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen"
+Kuchen,Lockere Chefin,Anna,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Luisa,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Lockere Chefin,Anna,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Katharina,Sophie,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Katharina,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Sophie,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Katharina,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Sophie,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Katharina,Miriam,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Kuchen,Lockere Chefin,Anna,Luisa,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Katharina,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Anna,Luisa,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Miriam,Anna,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 bedeutet, dass Anna den Kuchen sehr"
+Kuchen,Lockere Chefin,Luisa,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Luisa,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Luisa,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Sophie,Anna,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Lockere Chefin,Miriam,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Lockere Chefin,Luisa,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Anna,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Luisa,Sophie,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Lockere Chefin,Luisa,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Miriam,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Lockere Chefin,Katharina,Miriam,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Lockere Chefin,Katharina,Sophie,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,großartig,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,großartig,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,großartig,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Anna,Katharina,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,großartig,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Anna,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Miriam,Anna,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 / 2 / 3 / 4 /"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Gefürchtete Chefin,Katharina,Anna,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Gefürchtete Chefin,Anna,Katharina,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Anna,Sophie,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Kuchen,Gefürchtete Chefin,Miriam,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Anna,Sophie,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Sophie,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie nur mit einer Zahl. 1-"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Anna,Katharina,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Luisa,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Anna,Katharina,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Miriam,Anna,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Anna,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Luisa,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Sophie,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Anna,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Miriam,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 = sehr schlecht, 5 = sehr gut"
+Lied,Enge Freundin,Luisa,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Katharina,Luisa,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Enge Freundin,Katharina,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Luisa,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Miriam,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 = sehr schlecht, 5 = sehr gut"
+Lied,Enge Freundin,Miriam,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Anna,Katharina,gut,???? 1-5 1 / 2 / 3 / 4 / 5 1 / 2 / 3 /
+Lied,Enge Freundin,Anna,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Sophie,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Miriam,Anna,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Luisa,Sophie,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Enge Freundin,Miriam,Katharina,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Enge Freundin,Sophie,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Sophie,Luisa,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Miriam,Luisa,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Sophie,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Enge Freundin,Anna,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Enge Freundin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Enge Freundin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Lied,Enge Freundin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Lied,Enge Freundin,Katharina,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Sophie,Miriam,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Enge Freundin,Anna,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Miriam,Luisa,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Enge Freundin,Sophie,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Enge Freundin,Luisa,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Sophie,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Anna,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Miriam,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Miriam,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Miriam,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Katharina,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Sophie,Luisa,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Enge Freundin,Miriam,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Anna,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Sophie,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Katharina,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Anna,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Katharina,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Sophie,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Miriam,Anna,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Enge Freundin,Sophie,Katharina,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Enge Freundin,Luisa,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Enge Freundin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Enge Freundin,Luisa,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Katharina,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Sophie,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Anna,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Entfernte Kollegin,Sophie,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Katharina,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Miriam,Anna,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Entfernte Kollegin,Miriam,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Entfernte Kollegin,Luisa,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Luisa,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Anna,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Miriam,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Katharina,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Miriam,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Sophie,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Entfernte Kollegin,Katharina,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Katharina,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Sophie,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Miriam,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Miriam,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Luisa,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Luisa,Katharina,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Lied,Entfernte Kollegin,Katharina,Miriam,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Entfernte Kollegin,Katharina,Miriam,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Entfernte Kollegin,Anna,Miriam,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Entfernte Kollegin,Miriam,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Katharina,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Entfernte Kollegin,Luisa,Katharina,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Lied,Entfernte Kollegin,Katharina,Miriam,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Entfernte Kollegin,Katharina,Miriam,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Entfernte Kollegin,Sophie,Miriam,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Entfernte Kollegin,Anna,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Anna,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Katharina,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Sophie,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Entfernte Kollegin,Katharina,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Katharina,Luisa,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Entfernte Kollegin,Miriam,Anna,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Entfernte Kollegin,Anna,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Katharina,Luisa,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Entfernte Kollegin,Katharina,Luisa,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Entfernte Kollegin,Luisa,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Anna,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Katharina,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Luisa,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Sophie,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Entfernte Kollegin,Miriam,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Entfernte Kollegin,Miriam,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Lockere Chefin,Katharina,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Sophie,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Lockere Chefin,Luisa,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Anna,Katharina,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Lockere Chefin,Katharina,Luisa,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Lockere Chefin,Luisa,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Sophie,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Luisa,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Miriam,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Lockere Chefin,Katharina,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Luisa,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Miriam,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Miriam,Luisa,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Lockere Chefin,Luisa,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Miriam,Katharina,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Lockere Chefin,Miriam,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Sophie,Katharina,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Lockere Chefin,Anna,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Miriam,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Sophie,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Lockere Chefin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Lockere Chefin,Anna,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Miriam,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Lockere Chefin,Anna,Katharina,okay,???? 1-5 1 / 2 / 3 / 4 / 5 1 / 2 / 3 /
+Lied,Lockere Chefin,Anna,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Anna,Luisa,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Anna,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Sophie,Anna,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Lockere Chefin,Katharina,Miriam,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Lied,Lockere Chefin,Luisa,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Anna,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Anna,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Anna,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Sophie,Luisa,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Lockere Chefin,Miriam,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Katharina,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Sophie,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 bedeutet, dass Miriam das Lied"
+Lied,Lockere Chefin,Katharina,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Luisa,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Luisa,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Lockere Chefin,Katharina,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Sophie,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Lockere Chefin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Lockere Chefin,Sophie,Luisa,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Lockere Chefin,Sophie,Anna,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Lockere Chefin,Luisa,Anna,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Lockere Chefin,Miriam,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Sophie,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Anna,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Luisa,Katharina,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Gefürchtete Chefin,Sophie,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Katharina,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Gefürchtete Chefin,Miriam,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Sophie,Katharina,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Anna,Katharina,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Gefürchtete Chefin,Miriam,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Sophie,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Luisa,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Gefürchtete Chefin,Luisa,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Gefürchtete Chefin,Sophie,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Anna,Katharina,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Gefürchtete Chefin,Katharina,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Luisa,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Sophie,Luisa,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Luisa,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Sophie,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Katharina,Miriam,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Gefürchtete Chefin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Gefürchtete Chefin,Sophie,Anna,okay,???? 1-5 1 / 2 / 3 / 4 / 5 1 / 2 / 3 /
+Lied,Gefürchtete Chefin,Anna,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Miriam,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Gefürchtete Chefin,Luisa,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Gefürchtete Chefin,Luisa,Miriam,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Luisa,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Miriam,Luisa,okay,???? 1-5 1 / 2 / 3 / 4 / 5 1 / 2 / 3 /
+Lied,Gefürchtete Chefin,Anna,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Sophie,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Katharina,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Sophie,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Miriam,Luisa,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Sophie,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Miriam,Katharina,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Lied,Gefürchtete Chefin,Anna,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Sophie,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Luisa,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Luisa,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Miriam,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Lied,Gefürchtete Chefin,Sophie,Anna,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Gefürchtete Chefin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Sophie,Anna,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Gefürchtete Chefin,Miriam,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Sophie,Anna,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Lied,Gefürchtete Chefin,Luisa,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Lied,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Lied,Gefürchtete Chefin,Luisa,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Anna,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Miriam,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Anna,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Enge Freundin,Anna,Katharina,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Enge Freundin,Miriam,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Katharina,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Miriam,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Anna,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Enge Freundin,Miriam,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Enge Freundin,Katharina,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Katharina,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Anna,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Sophie,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Enge Freundin,Anna,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Sophie,Katharina,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Enge Freundin,Sophie,Katharina,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Enge Freundin,Anna,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Luisa,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Katharina,Luisa,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Enge Freundin,Anna,Luisa,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Sophie,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Film,Enge Freundin,Katharina,Miriam,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Film,Enge Freundin,Miriam,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Enge Freundin,Sophie,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Miriam,Anna,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Enge Freundin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Film,Enge Freundin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Film,Enge Freundin,Miriam,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Enge Freundin,Miriam,Luisa,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Enge Freundin,Miriam,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Luisa,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Enge Freundin,Katharina,Miriam,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Enge Freundin,Sophie,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Sophie,Luisa,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Enge Freundin,Sophie,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Katharina,Miriam,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Enge Freundin,Luisa,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Sophie,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Luisa,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Anna,Luisa,schrecklich,???? 1-5 1-5 1 2 3 4 5 1 2 3 4 5
+Film,Enge Freundin,Luisa,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Enge Freundin,Sophie,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Enge Freundin,Sophie,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Miriam,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Sophie,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Miriam,Katharina,schrecklich,???? 1-5 1-5 1 2 3 4 5 1 2 3 4 5
+Film,Enge Freundin,Katharina,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Enge Freundin,Luisa,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Luisa,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Sophie,Anna,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Entfernte Kollegin,Sophie,Anna,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Entfernte Kollegin,Luisa,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Luisa,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Katharina,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Miriam,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Entfernte Kollegin,Anna,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Entfernte Kollegin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Miriam,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Sophie,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Luisa,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Entfernte Kollegin,Luisa,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Luisa,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Luisa,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Luisa,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Katharina,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Entfernte Kollegin,Katharina,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Entfernte Kollegin,Miriam,Anna,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Luisa,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Katharina,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Entfernte Kollegin,Sophie,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Entfernte Kollegin,Anna,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Entfernte Kollegin,Anna,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Katharina,Anna,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Entfernte Kollegin,Sophie,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Entfernte Kollegin,Katharina,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Luisa,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Entfernte Kollegin,Katharina,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Entfernte Kollegin,Katharina,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Katharina,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Katharina,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Miriam,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Luisa,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Entfernte Kollegin,Anna,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Entfernte Kollegin,Katharina,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Sophie,Luisa,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Entfernte Kollegin,Luisa,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Entfernte Kollegin,Katharina,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Katharina,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Entfernte Kollegin,Anna,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Katharina,Miriam,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Lockere Chefin,Katharina,Miriam,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Lockere Chefin,Miriam,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Sophie,Katharina,großartig,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Lockere Chefin,Sophie,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Sophie,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Katharina,Miriam,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Lockere Chefin,Sophie,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Katharina,Luisa,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Lockere Chefin,Katharina,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Luisa,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Luisa,Sophie,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Luisa,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Katharina,Sophie,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Katharina,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Sophie,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Katharina,Sophie,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Sophie,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Sophie,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Anna,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Film,Lockere Chefin,Sophie,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Film,Lockere Chefin,Miriam,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Film,Lockere Chefin,Sophie,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Lockere Chefin,Sophie,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Sophie,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Lockere Chefin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Film,Lockere Chefin,Sophie,Anna,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Anna,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Anna,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Anna,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Luisa,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Miriam,Luisa,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Sophie,Katharina,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Anna,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Luisa,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Luisa,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Luisa,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Sophie,Miriam,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Luisa,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Film,Lockere Chefin,Katharina,Miriam,schrecklich,???? 1-5 1-5 1 2 3 4 5 1 2 3 4 5
+Film,Lockere Chefin,Miriam,Anna,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Luisa,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Katharina,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Sophie,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Lockere Chefin,Miriam,Luisa,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Lockere Chefin,Sophie,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Lockere Chefin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Lockere Chefin,Katharina,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Sophie,Anna,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Katharina,Miriam,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Luisa,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Luisa,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Miriam,Katharina,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Sophie,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Luisa,Katharina,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Luisa,Katharina,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Katharina,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Sophie,Anna,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Sophie,Katharina,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Gefürchtete Chefin,Katharina,Luisa,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Luisa,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Miriam,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Sophie,Luisa,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Miriam,Anna,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Sophie,Katharina,gut,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Gefürchtete Chefin,Sophie,Luisa,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Anna,Luisa,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Miriam,Sophie,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Sophie,Anna,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Miriam,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Miriam,Luisa,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 = sehr schlecht, 5 = sehr gut"
+Film,Gefürchtete Chefin,Sophie,Anna,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Luisa,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Anna,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Miriam,Luisa,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Anna,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Gefürchtete Chefin,Anna,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Gefürchtete Chefin,Sophie,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Miriam,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Sophie,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Gefürchtete Chefin,Anna,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Film,Gefürchtete Chefin,Miriam,Sophie,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Katharina,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Katharina,Luisa,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Katharina,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Luisa,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Miriam,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Miriam,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Anna,Luisa,schrecklich,???? 1-5 1-5 1 2 3 4 5 1 2 3 4 5
+Film,Gefürchtete Chefin,Katharina,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Anna,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Anna,Luisa,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Katharina,Miriam,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Luisa,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Film,Gefürchtete Chefin,Sophie,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Film,Gefürchtete Chefin,Katharina,Miriam,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Katharina,Luisa,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Film,Gefürchtete Chefin,Katharina,Luisa,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Luisa,Anna,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Sophie,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Katharina,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Sophie,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Anna,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Theater,Enge Freundin,Katharina,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Katharina,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Miriam,Katharina,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 / 2 / 3 / 4 /"
+Theater,Enge Freundin,Anna,Katharina,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Theater,Enge Freundin,Miriam,Katharina,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 / 2 / 3 / 4 /"
+Theater,Enge Freundin,Sophie,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Anna,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Katharina,Sophie,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Luisa,Sophie,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Anna,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Sophie,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Luisa,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Sophie,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Sophie,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Miriam,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Anna,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Sophie,Miriam,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Enge Freundin,Miriam,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Enge Freundin,Sophie,Luisa,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Anna,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Enge Freundin,Luisa,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Enge Freundin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Enge Freundin,Sophie,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Katharina,Miriam,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Enge Freundin,Luisa,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Enge Freundin,Katharina,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Anna,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Enge Freundin,Katharina,Anna,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Katharina,Anna,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Luisa,Sophie,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Enge Freundin,Sophie,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Miriam,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Sophie,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Luisa,Anna,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Enge Freundin,Katharina,Sophie,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Katharina,Anna,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Katharina,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Luisa,Anna,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Enge Freundin,Katharina,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Katharina,Anna,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Enge Freundin,Katharina,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Katharina,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Enge Freundin,Anna,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Entfernte Kollegin,Katharina,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Katharina,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Anna,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Sophie,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Anna,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Anna,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Katharina,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Anna,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Anna,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Entfernte Kollegin,Luisa,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Katharina,Sophie,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Entfernte Kollegin,Luisa,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Sophie,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Luisa,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Katharina,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Luisa,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Sophie,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Katharina,Anna,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Entfernte Kollegin,Katharina,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Entfernte Kollegin,Katharina,Luisa,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Entfernte Kollegin,Miriam,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Entfernte Kollegin,Miriam,Katharina,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Entfernte Kollegin,Katharina,Luisa,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Entfernte Kollegin,Sophie,Miriam,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Entfernte Kollegin,Sophie,Miriam,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Entfernte Kollegin,Miriam,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Entfernte Kollegin,Katharina,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Sophie,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Luisa,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Entfernte Kollegin,Luisa,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Entfernte Kollegin,Sophie,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Katharina,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Entfernte Kollegin,Katharina,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Anna,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Sophie,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Anna,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Luisa,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Luisa,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Anna,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Luisa,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Entfernte Kollegin,Miriam,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Miriam,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Katharina,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Miriam,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Luisa,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Miriam,Katharina,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 / 2 / 3 / 4 /"
+Theater,Lockere Chefin,Miriam,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Sophie,Anna,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Theater,Lockere Chefin,Katharina,Anna,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Sophie,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Miriam,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Katharina,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Katharina,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Anna,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Luisa,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Katharina,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Miriam,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Katharina,Anna,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Katharina,Anna,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Anna,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Anna,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Katharina,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Lockere Chefin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Lockere Chefin,Miriam,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Luisa,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Lockere Chefin,Miriam,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Lockere Chefin,Luisa,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Lockere Chefin,Miriam,Luisa,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Anna,Sophie,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Katharina,Miriam,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Lockere Chefin,Luisa,Anna,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Lockere Chefin,Luisa,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Lockere Chefin,Luisa,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Anna,Katharina,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Katharina,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Miriam,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Anna,Katharina,schlecht,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Lockere Chefin,Sophie,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Sophie,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Miriam,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Katharina,Sophie,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Lockere Chefin,Miriam,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Sophie,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Miriam,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Miriam,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Luisa,Anna,schrecklich,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Lockere Chefin,Anna,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Anna,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Lockere Chefin,Miriam,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Anna,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Sophie,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Sophie,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 = sehr schlecht, 5 = sehr gut"
+Theater,Gefürchtete Chefin,Sophie,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 = sehr schlecht, 5 = sehr gut"
+Theater,Gefürchtete Chefin,Luisa,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Miriam,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 / 2 / 3 / 4 /"
+Theater,Gefürchtete Chefin,Luisa,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Anna,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Anna,Miriam,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Miriam,Luisa,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl (1-5). 1 / 2 / 3 / 4 /"
+Theater,Gefürchtete Chefin,Miriam,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Katharina,Anna,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Gefürchtete Chefin,Miriam,Luisa,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Theater,Gefürchtete Chefin,Anna,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Luisa,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Sophie,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Anna,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Anna,Katharina,gut,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Gefürchtete Chefin,Sophie,Luisa,gut,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Gefürchtete Chefin,Miriam,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Katharina,Luisa,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Katharina,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Gefürchtete Chefin,Anna,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Gefürchtete Chefin,Sophie,Luisa,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Gefürchtete Chefin,Katharina,Anna,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Gefürchtete Chefin,Sophie,Anna,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Gefürchtete Chefin,Sophie,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Gefürchtete Chefin,Miriam,Luisa,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Gefürchtete Chefin,Miriam,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Theater,Gefürchtete Chefin,Luisa,Katharina,okay,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Gefürchtete Chefin,Anna,Katharina,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Gefürchtete Chefin,Luisa,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Sophie,Luisa,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Gefürchtete Chefin,Anna,Luisa,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Gefürchtete Chefin,Luisa,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Gefürchtete Chefin,Sophie,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Katharina,Sophie,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Theater,Gefürchtete Chefin,Anna,Luisa,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Gefürchtete Chefin,Luisa,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Anna,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Anna,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Theater,Gefürchtete Chefin,Katharina,Anna,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Theater,Gefürchtete Chefin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Miriam,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Luisa,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Luisa,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Sophie,Miriam,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Theater,Gefürchtete Chefin,Anna,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Katharina,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Theater,Gefürchtete Chefin,Miriam,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Anna,Miriam,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Gitarre,Enge Freundin,Sophie,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Katharina,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Enge Freundin,Katharina,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Enge Freundin,Anna,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Enge Freundin,Miriam,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Anna,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Katharina,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Luisa,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Sophie,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Luisa,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Luisa,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Anna,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Gitarre,Enge Freundin,Sophie,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Sophie,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Sophie,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Sophie,Miriam,gut,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Gitarre,Enge Freundin,Miriam,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Miriam,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Miriam,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Enge Freundin,Sophie,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Luisa,Anna,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Sophie,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Luisa,Katharina,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Miriam,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Luisa,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Katharina,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Enge Freundin,Anna,Luisa,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Enge Freundin,Sophie,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Gitarre,Enge Freundin,Anna,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Miriam,Luisa,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Enge Freundin,Sophie,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Anna,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Katharina,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Miriam,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Katharina,Sophie,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Enge Freundin,Sophie,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Sophie,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Anna,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Sophie,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Katharina,Sophie,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Enge Freundin,Luisa,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Katharina,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Miriam,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Luisa,Miriam,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Enge Freundin,Anna,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Sophie,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Enge Freundin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Anna,Luisa,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Anna,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Anna,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Katharina,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Katharina,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Anna,Miriam,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Sophie,Miriam,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Katharina,Anna,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Anna,Luisa,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Luisa,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Miriam,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Sophie,Miriam,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Katharina,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Luisa,Sophie,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Katharina,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Luisa,Katharina,gut,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Entfernte Kollegin,Luisa,Sophie,gut,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Anna,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Katharina,Sophie,gut,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Entfernte Kollegin,Sophie,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Anna,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Miriam,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Entfernte Kollegin,Katharina,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Sophie,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Gitarre,Entfernte Kollegin,Anna,Katharina,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Entfernte Kollegin,Anna,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Miriam,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Entfernte Kollegin,Katharina,Sophie,okay,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Katharina,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Anna,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Miriam,Luisa,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Anna,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Luisa,Anna,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Entfernte Kollegin,Miriam,Katharina,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Entfernte Kollegin,Sophie,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Sophie,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Anna,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Katharina,Anna,schlecht,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Entfernte Kollegin,Anna,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Miriam,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Anna,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Miriam,Anna,schrecklich,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Gitarre,Entfernte Kollegin,Luisa,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Luisa,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Sophie,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Entfernte Kollegin,Anna,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Anna,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Luisa,Katharina,großartig,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Lockere Chefin,Katharina,Miriam,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Katharina,Anna,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Luisa,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Luisa,Miriam,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Luisa,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Anna,Sophie,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Sophie,Luisa,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Anna,Luisa,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Katharina,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Miriam,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Miriam,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Anna,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Luisa,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Katharina,Luisa,gut,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Lockere Chefin,Anna,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Katharina,Luisa,gut,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Lockere Chefin,Sophie,Anna,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Sophie,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Katharina,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Lockere Chefin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Lockere Chefin,Miriam,Anna,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Lockere Chefin,Anna,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Anna,Luisa,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Sophie,Katharina,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Miriam,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Sophie,Anna,okay,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Katharina,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Lockere Chefin,Katharina,Sophie,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Lockere Chefin,Katharina,Anna,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Anna,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Miriam,Luisa,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Sophie,Miriam,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Anna,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Sophie,Luisa,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Miriam,Sophie,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Katharina,Luisa,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Lockere Chefin,Miriam,Luisa,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Sophie,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Miriam,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Luisa,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Sophie,Katharina,schrecklich,???? 1 / 2 / 3 / 4 / 5  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Luisa,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Katharina,Sophie,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Miriam,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Katharina,Anna,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Lockere Chefin,Sophie,Anna,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Lockere Chefin,Miriam,Katharina,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Luisa,Anna,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Miriam,Anna,großartig,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,großartig,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Anna,Sophie,großartig,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,gut,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Anna,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Anna,Sophie,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,gut,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Gefürchtete Chefin,Anna,Katharina,gut,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Anna,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Gefürchtete Chefin,Anna,Katharina,okay,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Katharina,Anna,okay,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Miriam,Anna,okay,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,okay,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,okay,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Miriam,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Luisa,Anna,schlecht,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,schlecht,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,schlecht,"?????
+Bitte antworten Sie mit einer einzigen Zahl. 1-5. 1 = sehr schlecht, 5 = sehr"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,schlecht,?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+Gitarre,Gefürchtete Chefin,Anna,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,schrecklich,???? 1-5 1-5 1-5 1-5 1-5 1-5 1-5
+Gitarre,Gefürchtete Chefin,Anna,Katharina,schrecklich,"???? 1 / 2 / 3 / 4 / 5
+Bitte antworten Sie mit einer einzigen Zahl. 1"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,schrecklich,????  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??  ??

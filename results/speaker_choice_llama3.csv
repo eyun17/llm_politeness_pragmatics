@@ -1,0 +1,3047 @@
+situation,relationship,personA,personB,state,response_text
+Kuchen,Enge Freundin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: ""Okay, war das so schlecht?""
+Sophie sagt: ""Ja, war sehr schle"
+Kuchen,Enge Freundin,Miriam,Luisa,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, war das so?\"".
+Luisa sagt: \""Ja, war"
+Kuchen,Enge Freundin,Anna,Miriam,1,"schrecklich""\"".
+Anna fragt: \""Warum?\"".
+Miriam sagt: \""Der Kuchen war zu trocken und zu"
+Kuchen,Enge Freundin,Miriam,Luisa,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, war das so?\"".
+Luisa sagt: \""Ja, war"
+Kuchen,Enge Freundin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""War das okay?\"".
+Miriam sagt: \""Nein, war das groß"
+Kuchen,Enge Freundin,Katharina,Anna,1,"schrecklich""!\"".
+Katharina fragt nach der Meinung.
+Anna fand den Kuchen 2 von 5 Her"
+Kuchen,Enge Freundin,Sophie,Katharina,1,"schrecklich""!\"".
+Sophie fragt: ""Okay, okay, okay?""
+Sophie fragt: ""Gut, gut,"
+Kuchen,Enge Freundin,Miriam,Katharina,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay!\"".
+Miriam fragt: \""Gut,"
+Kuchen,Enge Freundin,Miriam,Anna,1,"schrecklich""!\"".
+Miriam fragt nach der Meinung.
+Anna fand den Kuchen 2 von 5 Herzen."
+Kuchen,Enge Freundin,Anna,Luisa,1,"schrecklich""!\"".
+Anna fragt: \""Okay, war er nicht großartig?\"".
+Luisa sagt: \""Ne"
+Kuchen,Enge Freundin,Anna,Sophie,2,"schlecht""\"".
+Anna fragt: ""Okay?""
+Sophie sagt: ""Nein, es war ""schlecht""\""."
+Kuchen,Enge Freundin,Sophie,Katharina,2,"schlecht"".""""
+Sophie fragt: ""Warum war er schlecht?""
+Katharina antwortet: ""Der K"
+Kuchen,Enge Freundin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina fragt: ""Was?"". Luisa sagt: ""Der Kuchen war ""schreck"
+Kuchen,Enge Freundin,Anna,Katharina,2,"schlecht"".""
+Anna fragt: ""Warum war das so schlecht?""
+Katharina antwortet: ""Die Menge"
+Kuchen,Enge Freundin,Miriam,Anna,2,"schlecht"".""
+Miriam fragt nach der Meinung.
+Anna fand den Kuchen 2 von 5 Herzen.
+Anna sagt"
+Kuchen,Enge Freundin,Miriam,Katharina,2,"schlecht"".""
+Miriam fragt: ""Okay?""
+Katharina sagt: ""Nein, es war ""schlecht""."""
+Kuchen,Enge Freundin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina fragt: ""Was?"". Luisa sagt: ""Der Kuchen war ""schreck"
+Kuchen,Enge Freundin,Miriam,Anna,2,"schlecht"".""
+Miriam fragt nach der Meinung.
+Anna fand den Kuchen 2 von 5 Herzen.
+Anna sagt"
+Kuchen,Enge Freundin,Katharina,Miriam,2,"schlecht"".""
+Katharina fragt nach der Meinung.
+Miriam fand den Kuchen 2 von 5 Herzen"
+Kuchen,Enge Freundin,Katharina,Miriam,2,"schlecht"".""
+Katharina fragt nach der Meinung.
+Miriam fand den Kuchen 2 von 5 Herzen"
+Kuchen,Enge Freundin,Miriam,Katharina,3,"schlecht"".""
+Miriam fragt: ""Okay?""
+Katharina sagt: ""Nein, es war ""schlecht""."""
+Kuchen,Enge Freundin,Katharina,Anna,3,"schlecht"".""
+Katharina fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen."
+Kuchen,Enge Freundin,Sophie,Luisa,3,"schlecht""\"".
+Sophie fragt nach der Meinung.
+Luisa fand den Kuchen 3 von 5 Herzen"
+Kuchen,Enge Freundin,Katharina,Anna,3,"schlecht"".""
+Katharina fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen."
+Kuchen,Enge Freundin,Anna,Katharina,3,"schlecht"".""""
+Anna fragt: ""Okay?""
+Katharina sagt: ""Nein, es war ""schlecht""."""""
+Kuchen,Enge Freundin,Katharina,Miriam,3,"schlecht"".""""
+Katharina fragt nach der Meinung.
+Miriam fand den Kuchen 3 von 5 Herzen"
+Kuchen,Enge Freundin,Katharina,Miriam,3,"schlecht"".""""
+Katharina fragt nach der Meinung.
+Miriam fand den Kuchen 3 von 5 Herzen"
+Kuchen,Enge Freundin,Katharina,Anna,3,"schlecht"".""
+Katharina fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen."
+Kuchen,Enge Freundin,Miriam,Katharina,3,"schlecht"".""
+Miriam fragt: ""Okay?""
+Katharina sagt: ""Nein, es war ""schlecht""."""
+Kuchen,Enge Freundin,Katharina,Sophie,3,"schlecht""!\"".
+Katharina sagt: \""Okay, ich kann mich daran erinnern, dass ich auch mal ein"
+Kuchen,Enge Freundin,Miriam,Katharina,4,"schrecklich"" gut!\"".
+Miriam fragt: \""Schrecklich gut?\"".
+Katharina sagt: \""Ja,"
+Kuchen,Enge Freundin,Sophie,Katharina,4,"schrecklich"" gut!""
+Sophie fragt nach der Meinung.
+Katharina fand den Kuchen 4 von 5 Her"
+Kuchen,Enge Freundin,Sophie,Miriam,4,"schrecklich"" gut!\"".
+Sophie fragt nach der Meinung.
+Miriam fand den Kuchen 5 von 5 Her"
+Kuchen,Enge Freundin,Miriam,Katharina,4,"schrecklich"" gut!\"".
+Miriam fragt: \""Schrecklich gut?\"".
+Katharina sagt: \""Ja,"
+Kuchen,Enge Freundin,Anna,Sophie,4,"großartig""!\"".
+Anna ist glücklich und fragt nach der Meinung.
+Anna fragt nach der Meinung.
+Soph"
+Kuchen,Enge Freundin,Miriam,Anna,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen"
+Kuchen,Enge Freundin,Katharina,Anna,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5"
+Kuchen,Enge Freundin,Miriam,Sophie,4,"großartig""!\"".
+Miriam ist glücklich und sagt: \""Das ist großartig!\"".
+Sophie und Mir"
+Kuchen,Enge Freundin,Anna,Sophie,4,"großartig""!\"".
+Anna ist glücklich und fragt nach der Meinung.
+Anna fragt nach der Meinung.
+Soph"
+Kuchen,Enge Freundin,Sophie,Luisa,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand den Kuchen 3 von 5"
+Kuchen,Enge Freundin,Sophie,Miriam,5,"großartig""!\"".
+Sophie ist glücklich und fragt nach dem Grund.
+Miriam erklärt: \""Der Kuchen"
+Kuchen,Enge Freundin,Luisa,Anna,5,"großartig""!\"".
+Anna und Luisa lachen und Anna fragt nach dem Kuchen.
+Anna und Luisa sprechen über"
+Kuchen,Enge Freundin,Miriam,Sophie,5,"großartig""!\"".
+Miriam ist glücklich und fragt nach der Meinung.
+Sophie fand den Kuchen"
+Kuchen,Enge Freundin,Katharina,Sophie,5,"großartig""!\"".
+Katharina ist glücklich und fragt nach der Meinung.
+Sophie fand den K"
+Kuchen,Enge Freundin,Miriam,Luisa,5,"großartig""!\"".
+Miriam ist glücklich und fragt nach der Meinung.
+Luisa fand den Kuchen"
+Kuchen,Enge Freundin,Miriam,Anna,5,"großartig""!\"".
+Miriam ist glücklich und fragt nach der Meinung.
+Anna fand den Kuchen 4"
+Kuchen,Enge Freundin,Katharina,Anna,5,"großartig""!\"".
+Katharina ist glücklich und sagt: \""Okay, ich denke, ich habe gut ge"
+Kuchen,Enge Freundin,Sophie,Luisa,5,"großartig""!\"".
+Sophie ist glücklich und fragt nach der Meinung.
+Luisa fand den Kuchen"
+Kuchen,Enge Freundin,Katharina,Miriam,5,"großartig""!\"".
+Katharina ist glücklich und fragt nach der Meinung.
+Miriam fand den K"
+Kuchen,Enge Freundin,Sophie,Anna,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand den Kuchen 4 von 5 Herzen"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,1,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Kuchen 2 von"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: ""War das okay?""
+Sophie sagt: ""Nein, war das großart"
+Kuchen,Entfernte Kollegin,Luisa,Anna,1,"schrecklich""!\"".
+Anna denkt, dass sie den Kuchen nicht mehr probieren muss.
+Anna sagt: \""Ich denke,"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay?\"".
+Sophie fragt nach der Meinung."
+Kuchen,Entfernte Kollegin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""War das okay?\"".
+Miriam sagt: \""Nein, war das groß"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,1,"schrecklich""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 2 von 5 Her"
+Kuchen,Entfernte Kollegin,Anna,Miriam,1,"schrecklich""\"".
+Anna fragt: \""Okay, okay, okay\"".
+Anna fragt: \""Gut, gut, gut\"""
+Kuchen,Entfernte Kollegin,Sophie,Luisa,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay?\"".
+Luisa sagt: \""Nein,"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,1,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Kuchen 2 von"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""War das okay?\"".
+Miriam sagt: \""Nein, war das groß"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,2,"schrecklich""\"".
+Luisa fragt: ""Was?"". Miriam sagt: ""Der Kuchen war ""schrecklich""""."
+Kuchen,Entfernte Kollegin,Anna,Katharina,2,"schlecht"".""
+Anna fragt: ""Okay?""
+Anna fragt: ""Schlecht?""
+Anna fragt: ""Schrecklich?"""
+Kuchen,Entfernte Kollegin,Sophie,Luisa,2,"schlecht"".""
+Sophie fragt nach der Meinung.
+Luisa fand den Kuchen 2 von 5 Herzen."
+Kuchen,Entfernte Kollegin,Sophie,Anna,2,"schlecht"".""
+Sophie fragt: ""Wie war er?""
+Anna sagt: ""Er war ""schlecht"".""
+Sophie frag"
+Kuchen,Entfernte Kollegin,Sophie,Anna,2,"schlecht""\"".
+Sophie fragt nach der Meinung.
+Anna fand den Kuchen 2 von 5 Herzen.
+Anna"
+Kuchen,Entfernte Kollegin,Miriam,Anna,2,"schrecklich""!\"".
+Miriam fragt: \""Okay, war er nicht gut?\"".
+Anna sagt: \""Nein, war"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,2,"schrecklich""\"".
+Katharina fragt nach der Meinung.
+Miriam fand den Kuchen 2 von 5 Her"
+Kuchen,Entfernte Kollegin,Anna,Luisa,2,"schrecklich""\"".
+Anna fragt: ""Was war das?\"".
+Luisa sagt: ""Der Kuchen war ""schreck"
+Kuchen,Entfernte Kollegin,Miriam,Anna,2,"schrecklich""!\"".
+Miriam fragt: \""Okay, war er nicht gut?\"".
+Anna sagt: \""Nein, war"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,2,"schrecklich""\"".
+Luisa fragt: ""Was?"". Miriam sagt: ""Der Kuchen war ""schrecklich""""."
+Kuchen,Entfernte Kollegin,Miriam,Luisa,3,"schlecht"".""""
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 3 von 5 Herzen."
+Kuchen,Entfernte Kollegin,Sophie,Katharina,3,"schrecklich""!\"".
+Sophie fragt: ""Okay, war er gut?""
+Katharina sagt: ""Nein, war"
+Kuchen,Entfernte Kollegin,Anna,Sophie,3,"schlecht""\"".
+Anna fragt: \""Okay, okay, okay\"".
+Anna fragt: \""Gut, gut, gut\"""
+Kuchen,Entfernte Kollegin,Katharina,Miriam,3,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Miriam erklärt: \""Der Kuchen war"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina fragt: ""War das okay?""
+Sophie sagt: ""Nein, war nicht okay"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,3,"schlecht""\"".
+Miram fragt: ""Okay?""
+Sophie sagt: ""Nein, es war ""schlecht""!"""
+Kuchen,Entfernte Kollegin,Anna,Katharina,3,"schlecht"".""
+Anna fragt: ""Okay?""
+Katharina sagt: ""Nein, es war ""schlecht""."""
+Kuchen,Entfernte Kollegin,Katharina,Anna,3,"schlecht"".""
+Katharina fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen."
+Kuchen,Entfernte Kollegin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina fragt: ""War das okay?""
+Sophie sagt: ""Nein, war nicht okay"
+Kuchen,Entfernte Kollegin,Miriam,Anna,3,"schrecklich""!\"".
+Miriam fragt: \""Okay, war er gut?\"".
+Anna sagt: \""Nein, war er"
+Kuchen,Entfernte Kollegin,Anna,Luisa,4,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay!\"".
+Anna fragt: \""Warum war das so"
+Kuchen,Entfernte Kollegin,Miriam,Anna,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,4,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Sophie sagt: \""Der Kuchen war zu"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,4,"schrecklich"" gut!""
+Luisa fragt nach der Meinung.
+Katharina fand den Kuchen 4 von 5"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,4,"schrecklich"" gut!\"".
+Luisa sagt: \""Ahaha, okay, ich denke, ich habe es gut gemacht!\"""
+Kuchen,Entfernte Kollegin,Miriam,Luisa,4,"schrecklich""!\"".
+Miriam fragt: \""Okay, war es ""schrecklich""?\"".
+Miriam fragt: \"""
+Kuchen,Entfernte Kollegin,Anna,Sophie,4,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay!\"".
+Anna fragt: \""War das ""schreck"
+Kuchen,Entfernte Kollegin,Luisa,Anna,4,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa reden weiter über den Kuchen.
+Anna sagt:"
+Kuchen,Entfernte Kollegin,Anna,Sophie,4,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay!\"".
+Anna fragt: \""War das ""schreck"
+Kuchen,Entfernte Kollegin,Anna,Sophie,4,"schrecklich"" gut!\"".
+Anna fragt: \""Warum?\"".
+Sophie sagt: \""Weil er so gut war!"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 4 von 5"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand den Kuchen 4 von 5 Her"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Kuchen 4 von"
+Kuchen,Entfernte Kollegin,Luisa,Anna,5,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa reden weiter über den Kuchen.
+Anna und Luisa"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand den Kuchen 4 von 5 Her"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand den Kuchen 4 von 5 Her"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 4 von 5"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,5,"großartig""!\"".
+Miriam und Luisa lachen.
+Miriam und Luisa reden weiter über den Kuchen.
+Mir"
+Kuchen,Entfernte Kollegin,Katharina,Anna,5,"großartig""!\"".
+Anna und Katharina lachen.
+Anna und Katharina reden weiter.
+Anna fragt: ""H"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 4 von 5"
+Kuchen,Lockere Chefin,Miriam,Katharina,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay!\"".
+Miriam fragt: \""Gut,"
+Kuchen,Lockere Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Katharina fragt: ""Warum?"". Sophie erläutert: ""Der Kuchen war"
+Kuchen,Lockere Chefin,Sophie,Luisa,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, war das so schlecht?\"".
+Luisa sagt: \""Ja"
+Kuchen,Lockere Chefin,Miriam,Anna,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, war das so schlecht?\"".
+Anna sagt: \""Ja, war"
+Kuchen,Lockere Chefin,Miriam,Luisa,1,"schrecklich""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 2 von 5 Her"
+Kuchen,Lockere Chefin,Luisa,Miriam,1,"schrecklich""\"".
+Luisa fragt: \""Warum?\"".
+Miriam erklärt: \""Der Kuchen war zu tro"
+Kuchen,Lockere Chefin,Sophie,Luisa,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, war das so schlecht?\"".
+Luisa sagt: \""Ja"
+Kuchen,Lockere Chefin,Katharina,Miriam,1,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Miriam erklärt: \""Der Kuchen war"
+Kuchen,Lockere Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam sagt: \""Der Kuchen war zu trocken"
+Kuchen,Lockere Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Der Kuchen war zu trocken und"
+Kuchen,Lockere Chefin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina fragt: ""Schrecklich? War das nicht großartig?""
+Luisa sagt"
+Kuchen,Lockere Chefin,Katharina,Anna,2,"schlecht"".""
+Katharina fragt nach der Meinung.
+Anna fand den Kuchen 2 von 5 Herzen."
+Kuchen,Lockere Chefin,Anna,Luisa,2,"schlecht"".""
+Anna fragt: ""Warum war das so?""
+Luisa sagt: ""Der Kuchen war zu trocken und"
+Kuchen,Lockere Chefin,Anna,Katharina,2,"schlecht"".""
+Anna fragt: ""Warum war das so schlecht?""
+Katharina sagt: ""Der Kuchen war zu"
+Kuchen,Lockere Chefin,Sophie,Luisa,2,"schlecht"".""
+Sophie fragt: ""Warum war das so?""
+Luisa sagt: ""Der Kuchen war zu trocken"
+Kuchen,Lockere Chefin,Sophie,Katharina,2,"schlecht"".""
+Sophie fragt: ""Warum war das so?""
+Katharina sagt: ""Der Kuchen war zu tro"
+Kuchen,Lockere Chefin,Anna,Katharina,2,"schlecht"".""
+Anna fragt: ""Warum war das so?""
+Katharina erklärt: ""Der Kuchen war zu tro"
+Kuchen,Lockere Chefin,Katharina,Miriam,2,"schlecht"".""
+Katharina fragt: ""Warum war das so?""
+Miriam erklärt: ""Der Kuchen war zu"
+Kuchen,Lockere Chefin,Luisa,Anna,2,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Anna fand den Kuchen 2 von 5 Herzen"
+Kuchen,Lockere Chefin,Sophie,Miriam,2,"schlecht""\"".
+Sophie fragt: \""Warum war er schlecht?\""""
+Miriam sagt: \""Der Kuchen war"
+Kuchen,Lockere Chefin,Miriam,Anna,3,"schlecht""\"".
+Miriam fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen.
+Anna"
+Kuchen,Lockere Chefin,Katharina,Anna,3,"schlecht"".""
+Katharina fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen."
+Kuchen,Lockere Chefin,Katharina,Miriam,3,"schlecht"".""""
+Katharina fragt nach der Meinung.
+Miriam fand den Kuchen 3 von 5 Herzen"
+Kuchen,Lockere Chefin,Luisa,Katharina,3,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Kuchen 2 von"
+Kuchen,Lockere Chefin,Sophie,Katharina,3,"schlecht""!\"".
+Sophie fragt: ""Okay, okay, okay! Wie war der Kuchen?""
+Katharina sagt"
+Kuchen,Lockere Chefin,Sophie,Miriam,3,"schlecht""\"".
+Sophie fragt: \""Warum war das so schlecht?\""""
+Miriam sagt: \""Ich fand"
+Kuchen,Lockere Chefin,Luisa,Katharina,3,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Kuchen 2 von"
+Kuchen,Lockere Chefin,Luisa,Sophie,3,"schlecht""!\"".
+Luisa fragt: ""Warum war das Kuchen 'schlecht'?""
+Sophie sagt:"
+Kuchen,Lockere Chefin,Katharina,Miriam,3,"schlecht"".""""
+Katharina fragt nach der Meinung.
+Miriam fand den Kuchen 3 von 5 Herzen"
+Kuchen,Lockere Chefin,Miriam,Anna,3,"schlecht""\"".
+Miriam fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen.
+Anna"
+Kuchen,Lockere Chefin,Anna,Sophie,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand den Kuchen 3 von 5 Herzen"
+Kuchen,Lockere Chefin,Luisa,Miriam,4,"schrecklich"" gut!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Weil er so gut"
+Kuchen,Lockere Chefin,Miriam,Katharina,4,"schrecklich"" gut!\"".
+Miriam fragt nach der Meinung.
+Katharina fand den Kuchen 4 von"
+Kuchen,Lockere Chefin,Luisa,Miriam,4,"schrecklich"" gut!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Weil er so gut"
+Kuchen,Lockere Chefin,Katharina,Miriam,4,"schrecklich"" gut!\"".
+Katharina fragt: \""Warum?\"".
+Miriam erklärt: \""Der Kuchen"
+Kuchen,Lockere Chefin,Katharina,Sophie,4,"schrecklich"" gut!\"".
+Katharina sagt: \""Ahaha, ich denke, ich habe es gut gemacht!\""."
+Kuchen,Lockere Chefin,Anna,Miriam,4,"schrecklich"" gut!\"".
+Anna fragt: \""Warum?\"".
+Miriam sagt: \""Weil er so gut war!"
+Kuchen,Lockere Chefin,Katharina,Sophie,4,"schrecklich"" gut!\"".
+Katharina sagt: \""Ahaha, ich denke, ich habe es gut gemacht!\""."
+Kuchen,Lockere Chefin,Miriam,Luisa,4,"schrecklich"" gut!\"".
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 4 von 5"
+Kuchen,Lockere Chefin,Katharina,Miriam,4,"schrecklich"" gut!\"".
+Katharina fragt: \""Warum?\"".
+Miriam erklärt: \""Der Kuchen"
+Kuchen,Lockere Chefin,Sophie,Luisa,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand den Kuchen 4 von 5"
+Kuchen,Lockere Chefin,Katharina,Luisa,5,"großartig""!\"".
+Katharina ist erfreut und sagt: \""Ah, okay!\"".
+Katharina"
+Kuchen,Lockere Chefin,Luisa,Miriam,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Miriam fand den Kuchen 4 von 5"
+Kuchen,Lockere Chefin,Anna,Miriam,5,"großartig""!\"".
+Anna ist glücklich und hat ein Lächeln auf dem Gesicht.
+Anna fragt nach der Mein"
+Kuchen,Lockere Chefin,Miriam,Sophie,5,"großartig""!\"".
+Miriam ist glücklich und fragt nach der nächsten Frage.
+Sophie fand den Kuchen"
+Kuchen,Lockere Chefin,Anna,Luisa,5,"großartig""!\"".
+Anna ist erfreut und fragt nach weiteren Meinungen.
+Luisa fand die Verpack"
+Kuchen,Lockere Chefin,Katharina,Luisa,5,"großartig""!\"".
+Katharina ist erfreut und sagt: \""Ah, okay!\"".
+Katharina"
+Kuchen,Lockere Chefin,Luisa,Katharina,5,"großartig""!\"".
+Luisa ist glücklich und fragt nach der nächsten Frage.
+Katharina fand den"
+Kuchen,Lockere Chefin,Sophie,Anna,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand den Kuchen 4 von 5 Herzen"
+Kuchen,Lockere Chefin,Sophie,Anna,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand den Kuchen 4 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: ""War das okay?""
+Sophie sagt: ""Nein, war das großart"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,1,"schrecklich""!\"".
+Anna hat den Kuchen nicht genossen.
+Anna hat sich geäußert.
+Anna hat sich ge"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Der Kuchen war zu tro"
+Kuchen,Gefürchtete Chefin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: ""War das okay?""
+Sophie sagt: ""Nein, war das großart"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Katharina fragt: ""Warum?"". Sophie erklärte: ""Der Kuchen war zu"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Der Kuchen war zu tro"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,1,"schrecklich""!\"".
+Anna fragt: \""War das \""schrecklich\""?\"".
+Miriam nickt.
+Anna fragt"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay!\"".
+Anna fragt: \""War das ""schreck"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay!\"".
+Miriam fragt: \""Gut,"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Der Kuchen war zu tro"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,2,"schlecht"".""
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 2 von 5 Herzen."
+Kuchen,Gefürchtete Chefin,Anna,Sophie,2,"schlecht"".""
+Anna fragt: ""Warum war das so?""
+Sophie sagt: ""Der Kuchen war zu trocken und zu"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand den Kuchen 3 von"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina fragt: ""War das okay?""
+Luisa sagt: ""Nein, war nicht"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,2,"schlecht"".""
+Luisa fragt nach der Meinung.
+Anna fand den Kuchen 2 von 5 Herzen.
+Anna"
+Kuchen,Gefürchtete Chefin,Luisa,Sophie,2,"schlecht""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand den Kuchen 2 von 5 Her"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,2,"schlecht"".""
+Anna fragt: ""Okay, okay, okay?""
+Anna fragt: ""Okay, okay, okay?""
+Anna fragt"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,2,"schlecht"".""
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 2 von 5 Herzen."
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand den Kuchen 3 von"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,2,"schlecht"".""
+Luisa fragt nach der Meinung.
+Anna fand den Kuchen 2 von 5 Herzen.
+Anna"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,3,"schlecht""\"".
+Luisa fragt: \""Warum?\""""
+Miriam erklärt: \""Der Kuchen war zu tro"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,3,"schlecht"".""
+Sophie fragt: ""Okay, war das schlecht?""
+Katharina sagt: ""Ja, war das schle"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,3,"schlecht"".""
+Katharina fragt nach der Meinung.
+Sophie fand den Kuchen 3 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,3,"schlecht"".""
+Anna fragt: ""Warum war das so?""
+Katharina sagt: ""Der Kuchen war zu trocken"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,3,"schlecht""\"".
+Anna fragt: \""Warum war das?\""""
+Sophie sagt: \""Ich fand den Kuchen ein"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,3,"schrecklich""!\"".
+Katharina fragt: ""War das okay?""
+Luisa sagt: ""Nein, war nicht"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,3,"schlecht"".""
+Anna fragt: ""Warum war das so?""
+Miriam sagt: ""Der Kuchen war einfach nicht gut genug"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,3,"schlecht"".""
+Sophie fragt: ""Okay, war das schlecht?""
+Katharina sagt: ""Ja, war das schle"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,3,"schlecht"".""
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 3 von 5 Herzen."
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,3,"schlecht""\"".
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 3 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,4,"schrecklich""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand den Kuchen 4 von 5 Her"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,4,"schrecklich""!\"".
+Katharina fragt nach der Meinung.
+Anna fand den Kuchen 4 von 5 Her"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,4,"schrecklich"" gut!\"".
+Anna fragt: ""Schrecklich gut?""
+Katharina erklärt: ""Ja, ich f"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,4,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Der Kuchen war nicht gut"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,4,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Sophie sagt: \""Der Kuchen war zu"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,4,"schrecklich"" gut!\"".
+Katharina fragt: \""Warum?\"".
+Miriam erklärt: \""Der Kuchen"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand den Kuchen 3 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,4,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Miriam sagt: \""Der Kuchen war nicht gut genug"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,4,"schrecklich"" gut!""
+Anna fragt: ""War das okay?""
+Katharina sagt: ""Nein, war großartig!"""
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,4,"schrecklich"" gut!""
+Luisa fragt nach der Meinung.
+Katharina fand den Kuchen 4 von 5"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand den Kuchen 4 von"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,5,"großartig""!\"".
+Anna ist erfreut und sagt: \""Okay, okay!\"".
+Anna fragt nach der Meinung"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand den Kuchen 4 von"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand den Kuchen 4 von"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,5,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen zum Kuchen essen.
+Anna und Luisa essen"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand den Kuchen 4 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand den Kuchen 4 von"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,5,"großartig""!\"".
+Anna ist erfreut und sagt: \""Okay, okay!\"".
+Anna hat einen Kuchen geback"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,5,"großartig""!\"".
+Anna ist erfreut und fragt nach weiteren Meinungen.
+Luisa fand die Kond"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand den Kuchen 4 von 5 Her"
+Lied,Enge Freundin,Miriam,Luisa,1,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Lied 2 von 5"
+Lied,Enge Freundin,Sophie,Miriam,1,"schrecklich""\"".
+Sophie fragt: \""Okay, okay, okay\"".
+Miriam sagt: \""Es war ""schrecklich"
+Lied,Enge Freundin,Luisa,Anna,1,"schrecklich""\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen zum Konzert.
+Anna und Luisa hören das"
+Lied,Enge Freundin,Miriam,Katharina,1,"großartig"".\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5"
+Lied,Enge Freundin,Katharina,Sophie,1,"schrecklich""\"".
+Katharina fragt: \""War das Lied \""schrecklich\""?\""""
+Sophie nickt"
+Lied,Enge Freundin,Sophie,Miriam,1,"schrecklich""\"".
+Sophie fragt: \""Okay, okay, okay\"".
+Miriam sagt: \""Es war ""schrecklich"
+Lied,Enge Freundin,Sophie,Katharina,1,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 2 von"
+Lied,Enge Freundin,Sophie,Anna,1,"schrecklich""\"".
+Sophie fragt: \""Okay, war das Lied \""schrecklich\""?\""""
+Anna sagt: \"""
+Lied,Enge Freundin,Sophie,Miriam,1,"schrecklich""\"".
+Sophie fragt: \""Okay, okay, okay\"".
+Miriam sagt: \""Es war ""schrecklich"
+Lied,Enge Freundin,Miriam,Luisa,1,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Lied 2 von 5"
+Lied,Enge Freundin,Katharina,Sophie,2,"schlecht""\"".
+Katharina fragt: \""Warum?\""""
+Sophie erklärt: \""Ich fand das L"
+Lied,Enge Freundin,Anna,Sophie,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Lied 3 von 5 Herzen"
+Lied,Enge Freundin,Luisa,Miriam,2,"schlecht""\"".
+Luisa fragt: \""War das Lied \""schlecht\""?\""""
+Miriam nickt."
+Lied,Enge Freundin,Miriam,Anna,2,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Enge Freundin,Luisa,Katharina,2,"großartig""!\"".
+Katharina und Luisa lachen.
+Katharina und Luisa gehen in die Schule"
+Lied,Enge Freundin,Anna,Sophie,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Lied 3 von 5 Herzen"
+Lied,Enge Freundin,Luisa,Katharina,2,"großartig""!\"".
+Katharina und Luisa lachen.
+Katharina und Luisa gehen in die Schule"
+Lied,Enge Freundin,Anna,Katharina,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Lied 3 von 5"
+Lied,Enge Freundin,Anna,Sophie,2,"großartig""!\"".
+Anna fragt: ""Was hast du gefunden?""
+Sophie sagt: ""Ich habe es als großartig"
+Lied,Enge Freundin,Katharina,Anna,2,"großartig"".\"".
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Her"
+Lied,Enge Freundin,Miriam,Katharina,3,"großartig"".""
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5 Her"
+Lied,Enge Freundin,Sophie,Anna,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen"
+Lied,Enge Freundin,Anna,Luisa,3,"großartig""!\"".
+Anna ist erfreut und fragt nach der Begründung.
+Luisa erklärt: \"""
+Lied,Enge Freundin,Sophie,Luisa,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Enge Freundin,Anna,Luisa,3,"großartig""!\"".
+Anna ist erfreut und fragt nach der Begründung.
+Luisa erklärt: \"""
+Lied,Enge Freundin,Luisa,Sophie,3,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Lied 3 von 5"
+Lied,Enge Freundin,Sophie,Luisa,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Enge Freundin,Luisa,Miriam,3,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Miriam fand das Lied 2 von 5"
+Lied,Enge Freundin,Miriam,Anna,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Enge Freundin,Sophie,Luisa,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Enge Freundin,Miriam,Katharina,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 3 von"
+Lied,Enge Freundin,Miriam,Luisa,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Lied 5 von 5"
+Lied,Enge Freundin,Luisa,Katharina,4,"großartig""!\"".
+Katharina und Luisa lachen.
+Katharina und Luisa gehen in die Schule"
+Lied,Enge Freundin,Luisa,Miriam,4,"großartig""!\"".
+Miriam und Luisa lachen.
+Miriam und Luisa gehen in die Schule.
+Miriam und"
+Lied,Enge Freundin,Katharina,Anna,4,"großartig""!\"".
+Katharina ist zufrieden und sagt: \""Okay, okay!\"".
+Anna und Kath"
+Lied,Enge Freundin,Sophie,Katharina,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 3 von"
+Lied,Enge Freundin,Luisa,Sophie,4,"großartig""!\"".
+Sophie und Luisa lachen.
+Sophie und Luisa gehen in die Schule.
+Sophie und"
+Lied,Enge Freundin,Sophie,Luisa,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 5 von 5"
+Lied,Enge Freundin,Luisa,Katharina,4,"großartig""!\"".
+Katharina und Luisa lachen.
+Katharina und Luisa gehen in die Schule"
+Lied,Enge Freundin,Sophie,Katharina,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 3 von"
+Lied,Enge Freundin,Katharina,Luisa,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand das Lied 4 von"
+Lied,Enge Freundin,Katharina,Sophie,5,"großartig""!\"".
+Katharina lächelt und sagt: \""Okay, okay!\"".
+Sophie fragt:"
+Lied,Enge Freundin,Miriam,Katharina,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 4 von"
+Lied,Enge Freundin,Luisa,Sophie,5,"großartig""!\"".
+Luisa ist glücklich und sagt: \""Das ist großartig!\"".
+Sophie und"
+Lied,Enge Freundin,Luisa,Katharina,5,"großartig""!\"".
+Katharina und Luisa lachen.
+Katharina und Luisa gehen in die Schule"
+Lied,Enge Freundin,Luisa,Miriam,5,"großartig""!\"".
+Miriam und Luisa lachen.
+Miriam und Luisa gehen zum Konzert.
+Miriam und"
+Lied,Enge Freundin,Katharina,Sophie,5,"großartig""!\"".
+Katharina lächelt und sagt: \""Okay, okay!\"".
+Sophie fragt:"
+Lied,Enge Freundin,Anna,Sophie,5,"großartig""!\"".
+Anna lächelt und ist glücklich.
+Anna fragt nach der Meinung.
+Sophie fand"
+Lied,Enge Freundin,Luisa,Katharina,5,"großartig""!\"".
+Katharina und Luisa lachen.
+Katharina und Luisa gehen in die Schule"
+Lied,Enge Freundin,Sophie,Luisa,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Entfernte Kollegin,Miriam,Luisa,1,"schlecht""\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Lied 2 von 5 Herzen"
+Lied,Entfernte Kollegin,Miriam,Katharina,1,"schrecklich""\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5 Her"
+Lied,Entfernte Kollegin,Luisa,Katharina,1,"schrecklich""\"".
+Luisa fragt nach der Meinung.
+Katharina fand das Lied 2 von 5"
+Lied,Entfernte Kollegin,Anna,Miriam,1,"schrecklich""\"".
+Anna fragt: \""Okay, okay, okay\"".
+Anna fragt: \""Gut, gut, gut\"""
+Lied,Entfernte Kollegin,Luisa,Sophie,1,"schlecht""\"".
+Luisa fragt: \""Okay, war das Lied \""schlecht\""?\""""
+Sophie nick"
+Lied,Entfernte Kollegin,Miriam,Anna,1,"schrecklich""\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen.
+Anna"
+Lied,Entfernte Kollegin,Katharina,Sophie,1,"schrecklich""\"".
+Katharina fragt: \""War das Lied \""schrecklich\""?\""""
+Sophie nickt"
+Lied,Entfernte Kollegin,Anna,Sophie,1,"schrecklich""\"".
+Anna fragt: \""Okay, okay, okay\"".
+Anna fragt: \""Gut, gut, gut\"""
+Lied,Entfernte Kollegin,Sophie,Luisa,1,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 2 von 5"
+Lied,Entfernte Kollegin,Katharina,Miriam,1,"schrecklich""\"".
+Katharina fragt: \""War das Lied \""schrecklich\""?\""""
+Miriam nickt"
+Lied,Entfernte Kollegin,Sophie,Luisa,2,"großartig""!\"".
+Sophie fragt: ""Was hast du gefunden?""
+Luisa sagt: ""Ich fand das L"
+Lied,Entfernte Kollegin,Luisa,Sophie,2,"okay"". Ich denke, dass du ein bisschen mehr auf dich gegeben hättest müssen, um es großartig zu machen.""
+L"
+Lied,Entfernte Kollegin,Luisa,Katharina,2,"schrecklich""\"".
+Luisa fragt nach der Meinung.
+Katharina fand das Lied 2 von 5"
+Lied,Entfernte Kollegin,Luisa,Miriam,2,"schlecht""\"".
+Luisa fragt: \""War das Lied \""schlecht\""?\""""
+Miriam nickt."
+Lied,Entfernte Kollegin,Anna,Katharina,2,"großartig"".\"" 
+Anna fragt nach der Meinung.
+Katharina fand das Lied 3 von 5 Her"
+Lied,Entfernte Kollegin,Luisa,Sophie,2,"okay"". Ich denke, dass du ein bisschen mehr auf dich gegeben hättest müssen, um es großartig zu machen.""
+L"
+Lied,Entfernte Kollegin,Katharina,Miriam,2,"schlecht"".""
+Katharina fragt: ""War das Lied \""schlecht\""?""
+Miriam nickt.
+Kath"
+Lied,Entfernte Kollegin,Sophie,Luisa,2,"großartig""!\"".
+Sophie fragt: ""Was hast du gefunden?""
+Luisa sagt: ""Ich fand das L"
+Lied,Entfernte Kollegin,Miriam,Katharina,2,"großartig"".\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 3 von 5"
+Lied,Entfernte Kollegin,Anna,Katharina,2,"großartig"".\"" 
+Anna fragt nach der Meinung.
+Katharina fand das Lied 3 von 5 Her"
+Lied,Entfernte Kollegin,Miriam,Katharina,3,"großartig"".""
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5 Her"
+Lied,Entfernte Kollegin,Katharina,Sophie,3,"großartig"".""
+Katharina fragt nach der Meinung.
+Sophie fand das Lied 3 von 5 Her"
+Lied,Entfernte Kollegin,Miriam,Sophie,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Lied 3 von 5 Her"
+Lied,Entfernte Kollegin,Katharina,Anna,3,"großartig"".\"".
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Her"
+Lied,Entfernte Kollegin,Katharina,Sophie,3,"großartig"".""
+Katharina fragt nach der Meinung.
+Sophie fand das Lied 3 von 5 Her"
+Lied,Entfernte Kollegin,Miriam,Katharina,3,"großartig"".""
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5 Her"
+Lied,Entfernte Kollegin,Katharina,Sophie,3,"großartig"".""
+Katharina fragt nach der Meinung.
+Sophie fand das Lied 3 von 5 Her"
+Lied,Entfernte Kollegin,Sophie,Katharina,3,"großartig"".""
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 2 von 5 Her"
+Lied,Entfernte Kollegin,Sophie,Luisa,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Entfernte Kollegin,Katharina,Anna,3,"großartig"".\"".
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Her"
+Lied,Entfernte Kollegin,Luisa,Anna,4,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen in die Kaffeetisch.
+Anna und Luis"
+Lied,Entfernte Kollegin,Sophie,Katharina,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 3 von"
+Lied,Entfernte Kollegin,Anna,Luisa,4,"großartig""!\"".
+Anna fragt: \""Okay, gut oder schlecht?\"".
+Anna fragt nach der Meinung."
+Lied,Entfernte Kollegin,Katharina,Anna,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5"
+Lied,Entfernte Kollegin,Miriam,Katharina,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 3 von"
+Lied,Entfernte Kollegin,Sophie,Luisa,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 5 von 5"
+Lied,Entfernte Kollegin,Miriam,Anna,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Entfernte Kollegin,Anna,Sophie,4,"großartig""!\"".
+Anna fragt: \""Okay, okay, okay\"".
+Sophie sagt: \""Nein, es war"
+Lied,Entfernte Kollegin,Anna,Miriam,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Miriam fand das Lied 3 von 5 Herzen"
+Lied,Entfernte Kollegin,Luisa,Sophie,4,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Lied 3 von 5"
+Lied,Entfernte Kollegin,Sophie,Anna,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Entfernte Kollegin,Anna,Luisa,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Lied 4 von 5 Her"
+Lied,Entfernte Kollegin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Lied 5 von"
+Lied,Entfernte Kollegin,Luisa,Miriam,5,"großartig""!\"".
+Miriam und Luisa lachen.
+Miriam und Luisa gehen in die Kaffeetisch.
+Mir"
+Lied,Entfernte Kollegin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Lied 4 von 5 Her"
+Lied,Entfernte Kollegin,Anna,Luisa,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Lied 4 von 5 Her"
+Lied,Entfernte Kollegin,Miriam,Sophie,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Lied 4 von 5 Her"
+Lied,Entfernte Kollegin,Luisa,Katharina,5,"großartig""!\"".
+Katharina und Luisa lachen.
+Katharina und Luisa gehen in die Kaffe"
+Lied,Entfernte Kollegin,Anna,Miriam,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Miriam fand das Lied 3 von 5 Herzen"
+Lied,Entfernte Kollegin,Miriam,Sophie,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Lied 4 von 5 Her"
+Lied,Lockere Chefin,Miriam,Anna,1,"schrecklich""\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen.
+Anna"
+Lied,Lockere Chefin,Miriam,Anna,1,"schrecklich""\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen.
+Anna"
+Lied,Lockere Chefin,Sophie,Anna,1,"schrecklich""\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Melodie war nicht gut. Die W"
+Lied,Lockere Chefin,Luisa,Anna,1,"schrecklich""\"".
+Luisa fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen."
+Lied,Lockere Chefin,Miriam,Anna,1,"schrecklich""\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen.
+Anna"
+Lied,Lockere Chefin,Sophie,Anna,1,"schrecklich""\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Melodie war nicht gut. Die W"
+Lied,Lockere Chefin,Sophie,Katharina,1,"großartig"".\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 2 von 5"
+Lied,Lockere Chefin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: \""War das Lied \""schrecklich\""?\"".
+Sophie nickt.
+Anna"
+Lied,Lockere Chefin,Miriam,Katharina,1,"großartig"".\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5"
+Lied,Lockere Chefin,Miriam,Katharina,1,"großartig"".\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5"
+Lied,Lockere Chefin,Luisa,Katharina,2,"großartig"".""
+Luisa fragt nach der Meinung.
+Katharina fand das Lied 3 von 5"
+Lied,Lockere Chefin,Anna,Luisa,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Lied 3 von 5 Her"
+Lied,Lockere Chefin,Miriam,Anna,2,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Lockere Chefin,Luisa,Anna,2,"großartig""\"".
+Luisa fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Lockere Chefin,Katharina,Miriam,2,"schlecht"".""
+Katharina fragt: ""War das Lied großartig?""
+Miriam sagt: ""Nein, war"
+Lied,Lockere Chefin,Anna,Miriam,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Miriam fand das Lied 3 von 5 Herzen"
+Lied,Lockere Chefin,Anna,Katharina,2,"großartig"".""
+Anna fragt nach der Meinung.
+Katharina fand das Lied 3 von 5 Herzen"
+Lied,Lockere Chefin,Luisa,Katharina,2,"großartig"".""
+Luisa fragt nach der Meinung.
+Katharina fand das Lied 3 von 5"
+Lied,Lockere Chefin,Katharina,Anna,2,"großartig"".\"".
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Her"
+Lied,Lockere Chefin,Katharina,Miriam,2,"schlecht"".""
+Katharina fragt: ""War das Lied großartig?""
+Miriam sagt: ""Nein, war"
+Lied,Lockere Chefin,Miriam,Anna,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen"
+Lied,Lockere Chefin,Luisa,Katharina,3,"großartig"".""
+Luisa fragt nach der Meinung.
+Katharina fand das Lied 3 von 5"
+Lied,Lockere Chefin,Sophie,Miriam,3,"großartig""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam erklärt: \""Es war großartig"
+Lied,Lockere Chefin,Katharina,Luisa,3,"großartig"".""
+Katharina fragt nach der Meinung.
+Luisa fand das Lied 2 von 5"
+Lied,Lockere Chefin,Anna,Miriam,3,"großartig""!\"".
+Anna fragt: \""Warum?\"".
+Miriam erkläre: \""Es war ""groß"
+Lied,Lockere Chefin,Sophie,Miriam,3,"großartig""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam erklärt: \""Es war großartig"
+Lied,Lockere Chefin,Miriam,Luisa,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Lockere Chefin,Katharina,Anna,3,"großartig"".""
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Lockere Chefin,Miriam,Katharina,3,"großartig"".""
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5 Her"
+Lied,Lockere Chefin,Sophie,Luisa,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Lockere Chefin,Anna,Miriam,4,"großartig""!\"".
+Anna ist erfreut und fragt nach weiteren Meinungen.
+Miriam fand das Lied"
+Lied,Lockere Chefin,Luisa,Katharina,4,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand das Lied 3 von"
+Lied,Lockere Chefin,Luisa,Sophie,4,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Lied 3 von 5"
+Lied,Lockere Chefin,Sophie,Miriam,4,"großartig""!\"".
+Sophie fragt: \""Okay, okay, okay\"".
+Miriam sagt: \""Okay, okay,"
+Lied,Lockere Chefin,Katharina,Anna,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5"
+Lied,Lockere Chefin,Sophie,Anna,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Lockere Chefin,Luisa,Sophie,4,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Lied 3 von 5"
+Lied,Lockere Chefin,Luisa,Anna,4,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen in die Schule.
+Anna und Luisa kommen"
+Lied,Lockere Chefin,Katharina,Sophie,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Lied 3 von"
+Lied,Lockere Chefin,Anna,Luisa,4,"großartig""!\"".
+Anna ist erfreut und fragt nach weiteren Meinungen.
+Luisa fand das Lied"
+Lied,Lockere Chefin,Luisa,Miriam,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Miriam fand das Lied 4 von 5"
+Lied,Lockere Chefin,Katharina,Luisa,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand das Lied 4 von"
+Lied,Lockere Chefin,Sophie,Katharina,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 4 von"
+Lied,Lockere Chefin,Anna,Miriam,5,"großartig""!\"".
+Anna ist glücklich und fragt nach der Meinung.
+Miriam fand das Lied 3"
+Lied,Lockere Chefin,Luisa,Anna,5,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen ins Restaurant.
+Anna bestellt ein Sandwich und ein"
+Lied,Lockere Chefin,Sophie,Luisa,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Lockere Chefin,Sophie,Luisa,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Lockere Chefin,Sophie,Katharina,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 4 von"
+Lied,Lockere Chefin,Miriam,Luisa,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Lied 4 von 5"
+Lied,Lockere Chefin,Sophie,Anna,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Gefürchtete Chefin,Sophie,Anna,1,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen"
+Lied,Gefürchtete Chefin,Luisa,Anna,1,"schrecklich""\"".
+Luisa fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen."
+Lied,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen.
+Anna"
+Lied,Gefürchtete Chefin,Katharina,Miriam,1,"schrecklich""\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Lied 2 von 5 Her"
+Lied,Gefürchtete Chefin,Anna,Sophie,1,"schrecklich""\"".
+Anna fragt: \""Okay, okay, okay\"".
+Anna fragt: \""Gut, gut, gut\"""
+Lied,Gefürchtete Chefin,Anna,Luisa,1,"schrecklich""\"".
+Anna fragt: \""Okay, okay, okay\"".
+Anna fragt: \""Großartig, gut,"
+Lied,Gefürchtete Chefin,Sophie,Anna,1,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Lied 2 von 5 Herzen"
+Lied,Gefürchtete Chefin,Luisa,Miriam,1,"schlecht""\"".
+Luisa fragt: \""Warum?\""""
+Miriam sagt: \""Die Melodie war nicht gut."
+Lied,Gefürchtete Chefin,Sophie,Luisa,1,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 2 von 5"
+Lied,Gefürchtete Chefin,Sophie,Luisa,1,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 2 von 5"
+Lied,Gefürchtete Chefin,Katharina,Sophie,2,"schrecklich""!\"".
+Katharina fragt: \""War das Lied \""schrecklich\""?\"".
+Sophie nick"
+Lied,Gefürchtete Chefin,Luisa,Anna,2,"großartig""\"".
+Luisa fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Gefürchtete Chefin,Sophie,Katharina,2,"großartig"".""
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 3 von 5 Her"
+Lied,Gefürchtete Chefin,Luisa,Miriam,2,"schlecht""\"".
+Luisa fragt: \""Warum?\""""
+Miriam sagt: \""Die Melodie war nicht gut."
+Lied,Gefürchtete Chefin,Luisa,Miriam,2,"schlecht""\"".
+Luisa fragt: \""Warum?\""""
+Miriam sagt: \""Die Melodie war nicht gut."
+Lied,Gefürchtete Chefin,Miriam,Luisa,2,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Lied 3 von 5"
+Lied,Gefürchtete Chefin,Miriam,Anna,2,"großartig""\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen."
+Lied,Gefürchtete Chefin,Sophie,Anna,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Gefürchtete Chefin,Sophie,Miriam,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Lied 3 von 5 Her"
+Lied,Gefürchtete Chefin,Sophie,Anna,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Gefürchtete Chefin,Miriam,Anna,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Gefürchtete Chefin,Sophie,Luisa,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Lied 2 von 5"
+Lied,Gefürchtete Chefin,Miriam,Katharina,3,"großartig"".""
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5 Her"
+Lied,Gefürchtete Chefin,Miriam,Sophie,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Lied 3 von 5 Her"
+Lied,Gefürchtete Chefin,Miriam,Katharina,3,"großartig"".""
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 2 von 5 Her"
+Lied,Gefürchtete Chefin,Anna,Katharina,3,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Lied 2 von 5"
+Lied,Gefürchtete Chefin,Luisa,Katharina,3,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand das Lied 2 von"
+Lied,Gefürchtete Chefin,Anna,Luisa,3,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Lied 2 von 5 Her"
+Lied,Gefürchtete Chefin,Miriam,Luisa,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Lied 3 von 5"
+Lied,Gefürchtete Chefin,Sophie,Miriam,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Lied 4 von 5 Her"
+Lied,Gefürchtete Chefin,Katharina,Luisa,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand das Lied 3 von"
+Lied,Gefürchtete Chefin,Sophie,Katharina,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 3 von"
+Lied,Gefürchtete Chefin,Sophie,Katharina,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 3 von"
+Lied,Gefürchtete Chefin,Miriam,Anna,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Gefürchtete Chefin,Katharina,Anna,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5"
+Lied,Gefürchtete Chefin,Luisa,Sophie,4,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Lied 3 von 5"
+Lied,Gefürchtete Chefin,Luisa,Miriam,4,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Miriam fand das Lied 3 von 5"
+Lied,Gefürchtete Chefin,Miriam,Sophie,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Lied 4 von 5 Her"
+Lied,Gefürchtete Chefin,Katharina,Anna,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5"
+Lied,Gefürchtete Chefin,Katharina,Anna,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Anna fand das Lied 3 von 5"
+Lied,Gefürchtete Chefin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Lied 4 von"
+Lied,Gefürchtete Chefin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Lied 4 von"
+Lied,Gefürchtete Chefin,Miriam,Sophie,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Lied 4 von 5 Her"
+Lied,Gefürchtete Chefin,Miriam,Katharina,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Lied 4 von"
+Lied,Gefürchtete Chefin,Miriam,Anna,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Lied 4 von 5 Herzen"
+Lied,Gefürchtete Chefin,Sophie,Anna,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Lied 3 von 5 Herzen"
+Lied,Gefürchtete Chefin,Anna,Miriam,5,"großartig""!\"".
+Anna lächelt und sagt: \""Das ist großartig!\"".
+Anna und Miriam sind beide"
+Lied,Gefürchtete Chefin,Anna,Miriam,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Miriam fand das Lied 3 von 5 Herzen"
+Lied,Gefürchtete Chefin,Anna,Katharina,5,"großartig""!\"".
+Anna ist erfreut und fragt nach der Meinung.
+Katharina fand das Lied"
+Lied,Gefürchtete Chefin,Sophie,Katharina,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Lied 4 von"
+Film,Enge Freundin,Luisa,Miriam,1,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam erklärt: \""Der Film war einfach nicht"
+Film,Enge Freundin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay... Wie war er?\"".
+Sophie sagt: \""Es"
+Film,Enge Freundin,Anna,Katharina,1,"schrecklich""!\"".
+Anna fragt: \""Schrecklich? War er nicht ""großartig""?\"".
+Kathar"
+Film,Enge Freundin,Miriam,Luisa,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay\"".
+Miriam fragt: \""Gut, gut"
+Film,Enge Freundin,Sophie,Katharina,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay!\"".
+Sophie fragt: \""Gut,"
+Film,Enge Freundin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay... Wie war er?\"".
+Miriam sagt: \"""
+Film,Enge Freundin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay... Wie war er?\"".
+Miriam sagt: \"""
+Film,Enge Freundin,Katharina,Luisa,1,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Luisa erklärte: \""Die Geschichte"
+Film,Enge Freundin,Anna,Luisa,1,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut,"
+Film,Enge Freundin,Miriam,Sophie,1,"schrecklich""!\"".
+Miriam fragt: ""Okay, war es nicht großartig?""
+Sophie sagt: ""Nein,"
+Film,Enge Freundin,Miriam,Anna,2,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay\"".
+Anna sagt: \""Nein, es war """
+Film,Enge Freundin,Sophie,Katharina,2,"schrecklich""!""
+Sophie fragt: ""War das okay?""
+Katharina sagt: ""Nein, war nicht großartig"
+Film,Enge Freundin,Anna,Luisa,2,"schlecht"".""
+Anna fragt: ""Warum war er schlecht?""
+Luisa sagt: ""Die Handlung war nicht gut,"
+Film,Enge Freundin,Luisa,Anna,2,"schrecklich""!\"".
+Luisa fragt: ""Was war das, was war das?""
+Anna sagt: ""Es war großart"
+Film,Enge Freundin,Anna,Luisa,2,"schlecht"".""
+Anna fragt: ""Warum war er schlecht?""
+Luisa sagt: ""Die Handlung war nicht gut,"
+Film,Enge Freundin,Sophie,Miriam,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam erklärte: \""Die Handlung war nicht"
+Film,Enge Freundin,Sophie,Luisa,2,"schrecklich""!\"".
+Sophie fragt: \""Warum war er so schlecht?\"".
+Luisa sagt: \""Die"
+Film,Enge Freundin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina sagt: \""Ah, okay!\"".
+Katharina fragt nach der Meinung"
+Film,Enge Freundin,Sophie,Luisa,2,"schrecklich""!\"".
+Sophie fragt: \""Warum war das so schlecht?\"".
+Luisa sagt: \""Die"
+Film,Enge Freundin,Anna,Sophie,2,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Sophie sagt: \""Die Handlung war nicht gut, die"
+Film,Enge Freundin,Sophie,Anna,3,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay!\"".
+Sophie fragt: \""Gut,"
+Film,Enge Freundin,Sophie,Anna,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Geschichte war nicht gut, die Bilder"
+Film,Enge Freundin,Sophie,Miriam,3,"schlecht""\"".
+Sophie fragt: \""Okay, okay, okay\"".
+Miriam sagt: \""Nein, nein,"
+Film,Enge Freundin,Luisa,Sophie,3,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Sophie sagt: \""Der Film war einfach nicht gut"
+Film,Enge Freundin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina sagt: \""Ah, okay!\"".
+Katharina fragt: \""Warum"
+Film,Enge Freundin,Miriam,Katharina,3,"schlecht"".""
+Miriam fragt: ""Warum war er schlecht?""
+Katharina sagt: ""Die Handlung war nicht"
+Film,Enge Freundin,Miriam,Anna,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut, die"
+Film,Enge Freundin,Sophie,Luisa,3,"schrecklich""!\"".
+Sophie fragt: \""Schrecklich? War das okay?\"".
+Luisa sagt: \""Ne"
+Film,Enge Freundin,Luisa,Miriam,3,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Der Film war einfach nicht gut"
+Film,Enge Freundin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina sagt: \""Ah, okay!\"".
+Katharina fragt: \""Warum"
+Film,Enge Freundin,Sophie,Katharina,4,"schrecklich""!""
+Sophie fragt: ""Warum war er so schlecht?""
+Katharina erklärte: ""Die Geschichte"
+Film,Enge Freundin,Sophie,Miriam,4,"schrecklich"" gut, aber ich hoffe, dass du den Rest des Films noch nicht gesehen hast.\"".
+Sophie fragt:"
+Film,Enge Freundin,Miriam,Katharina,4,"schrecklich"" gut!""
+Miriam fragt nach der Meinung.
+Katharina fand den Film 4 von 5 Herzen"
+Film,Enge Freundin,Luisa,Sophie,4,"schrecklich""!""
+Luisa fragt: ""Warum war er 'schrecklich'?""
+Sophie sagt: ""Weil er"
+Film,Enge Freundin,Sophie,Katharina,4,"schrecklich""!""
+Sophie fragt: ""Warum war er so schlecht?""
+Katharina erklärte: ""Die Geschichte"
+Film,Enge Freundin,Luisa,Katharina,4,"schrecklich""!\"".
+Luisa fragt: \""Schrecklich? War er nicht großartig?\"".
+Kathar"
+Film,Enge Freundin,Luisa,Sophie,4,"schrecklich""!""
+Luisa fragt: ""Warum war er 'schrecklich'?""
+Sophie sagt: ""Weil er"
+Film,Enge Freundin,Miriam,Sophie,4,"schrecklich"" gut, aber ich denke, dass du ein bisschen mehr hinzufügen könntest, um ihn großart"
+Film,Enge Freundin,Miriam,Anna,4,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay\"".
+Miriam fragt: \""Gut, gut"
+Film,Enge Freundin,Luisa,Katharina,4,"schrecklich""!\"".
+Luisa fragt: \""Schrecklich? War er nicht großartig?\"".
+Kathar"
+Film,Enge Freundin,Sophie,Anna,5,"schrecklich""!\"".
+Sophie fragt: \""Was?\"".
+Anna sagt: \""Der Film war ""schrecklich""!"
+Film,Enge Freundin,Luisa,Katharina,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Film 4 von"
+Film,Enge Freundin,Anna,Luisa,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand den Film 4 von 5 Herzen"
+Film,Enge Freundin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand den Film 4 von 5 Herzen"
+Film,Enge Freundin,Miriam,Katharina,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand den Film 4 von 5"
+Film,Enge Freundin,Luisa,Miriam,5,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Der Film war einfach nur """
+Film,Enge Freundin,Anna,Sophie,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand den Film 4 von 5 Herzen."
+Film,Enge Freundin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand den Film 4 von 5 Herzen"
+Film,Enge Freundin,Luisa,Katharina,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Film 4 von"
+Film,Enge Freundin,Anna,Katharina,5,"schrecklich""!""
+Anna fragt: ""Warum war er so schlecht?""
+Katharina erklärt: ""Der Film war einfach"
+Film,Entfernte Kollegin,Sophie,Anna,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay!\"".
+Anna sagt: \""Nein, nein"
+Film,Entfernte Kollegin,Luisa,Anna,1,"schrecklich""!\"".
+Anna und Luisa lachen.
+Anna und Luisa reden über den Film.
+Anna sagt: \""Ich den"
+Film,Entfernte Kollegin,Anna,Luisa,1,"schrecklich""!\"".
+Anna fragt: \""War es ""schrecklich""?\"".
+Anna fragt: \""War es ""sch"
+Film,Entfernte Kollegin,Anna,Miriam,1,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay\"".
+Miriam sagt: \""Nein, nein,"
+Film,Entfernte Kollegin,Sophie,Anna,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay!\"".
+Anna sagt: \""Nein, nein"
+Film,Entfernte Kollegin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay\"".
+Sophie sagt: \""Nein, es war """
+Film,Entfernte Kollegin,Miriam,Anna,1,"schrecklich""\"".
+Miriam fragt nach der Meinung.
+Anna fand den Film 2 von 5 Herzen.
+Anna sagt"
+Film,Entfernte Kollegin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: ""War das okay?""
+Sophie sagt: ""Nein, war das großart"
+Film,Entfernte Kollegin,Miriam,Anna,1,"schrecklich""\"".
+Miriam fragt nach der Meinung.
+Anna fand den Film 2 von 5 Herzen.
+Anna sagt"
+Film,Entfernte Kollegin,Sophie,Luisa,1,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut"
+Film,Entfernte Kollegin,Anna,Luisa,2,"schrecklich""!\"".
+Anna fragt: \""War es ""schrecklich""?\"".
+Luisa nickt.
+Anna fragt"
+Film,Entfernte Kollegin,Sophie,Miriam,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam sagt: \""Die Handlung war nicht gut,"
+Film,Entfernte Kollegin,Anna,Miriam,2,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Miriam erklärte: \""Die Geschichte war nicht gut,"
+Film,Entfernte Kollegin,Katharina,Anna,2,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Anna sagt: \""Die Geschichte war nicht gut,"
+Film,Entfernte Kollegin,Sophie,Katharina,2,"schrecklich""!""
+Sophie fragt: ""War das okay?""
+Katharina sagt: ""Nein, war es großartig"
+Film,Entfernte Kollegin,Luisa,Anna,2,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Anna fand den Film 2 von 5 Herzen."
+Film,Entfernte Kollegin,Sophie,Miriam,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam sagt: \""Die Handlung war nicht gut,"
+Film,Entfernte Kollegin,Katharina,Sophie,2,"schrecklich""!\"".
+Katharina fragt: ""Okay?""
+Sophie sagt: ""Nein, es war ""schreck"
+Film,Entfernte Kollegin,Miriam,Anna,2,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay\"".
+Miriam fragt: \""Gut, gut"
+Film,Entfernte Kollegin,Miriam,Anna,2,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay\"".
+Anna sagt: \""Nein, es war """
+Film,Entfernte Kollegin,Anna,Sophie,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Sophie sagt: \""Weil er so langweilig war"
+Film,Entfernte Kollegin,Sophie,Luisa,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut"
+Film,Entfernte Kollegin,Katharina,Anna,3,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut"
+Film,Entfernte Kollegin,Anna,Miriam,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Miriam sagt: \""Die Geschichte war nicht gut, die Bilder"
+Film,Entfernte Kollegin,Luisa,Anna,3,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut,"
+Film,Entfernte Kollegin,Miriam,Katharina,3,"schlecht"".""
+Miriam fragt: ""Warum war er schlecht?""
+Katharina antwortet: ""Die Handlung"
+Film,Entfernte Kollegin,Anna,Luisa,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut,"
+Film,Entfernte Kollegin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Sophie sagt: \""Weil er so lang"
+Film,Entfernte Kollegin,Sophie,Luisa,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut"
+Film,Entfernte Kollegin,Katharina,Luisa,3,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Luisa erläutert: \""Die"
+Film,Entfernte Kollegin,Miriam,Anna,4,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay\"".
+Miriam fragt: \""Gut, gut"
+Film,Entfernte Kollegin,Sophie,Miriam,4,"schrecklich"" gut, aber ich denke, dass du ein paar Dinge besser machen könnt.""
+Sophie fragt: ""Was war"
+Film,Entfernte Kollegin,Sophie,Katharina,4,"schrecklich""!""
+Sophie fragt: ""Warum war er so schlecht?""
+Katharina erklärte: ""Die Hand"
+Film,Entfernte Kollegin,Luisa,Miriam,4,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Die Handlung war nicht gut"
+Film,Entfernte Kollegin,Katharina,Anna,4,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Anna sagt: \""Die Geschichte war nicht gut,"
+Film,Entfernte Kollegin,Sophie,Anna,4,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay!\"".
+Sophie fragt: \""Okay, okay"
+Film,Entfernte Kollegin,Miriam,Sophie,4,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay... Wie war er?\"".
+Sophie sagt: \"""
+Film,Entfernte Kollegin,Anna,Miriam,4,"schrecklich"" gut, dass Sie den Film geschnitten haben. Ich denke, dass Sie eine großartige Arbeit leisten haben.\"""
+Film,Entfernte Kollegin,Miriam,Luisa,4,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut"
+Film,Entfernte Kollegin,Anna,Katharina,4,"schrecklich""!""
+Anna fragt: ""Warum war er so schlecht?""
+Katharina erklärt: ""Der Film war einfach"
+Film,Entfernte Kollegin,Anna,Katharina,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand den Film 4 von 5 Her"
+Film,Entfernte Kollegin,Sophie,Luisa,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand den Film 4 von 5 Her"
+Film,Entfernte Kollegin,Katharina,Anna,5,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Anna sagt: \""Der Film war einfach nur """
+Film,Entfernte Kollegin,Luisa,Anna,5,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Anna fand den Film 5 von 5 Herzen."
+Film,Entfernte Kollegin,Miriam,Sophie,5,"schrecklich""!\"".
+Miriam fragt: ""Okay, war er großartig?""
+Sophie sagt: ""Nein, war"
+Film,Entfernte Kollegin,Sophie,Anna,5,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Geschichte war nicht gut, die Bilder"
+Film,Entfernte Kollegin,Katharina,Miriam,5,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Miriam sagt: \""Weil er so lang"
+Film,Entfernte Kollegin,Luisa,Anna,5,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Anna fand den Film 5 von 5 Herzen."
+Film,Entfernte Kollegin,Luisa,Anna,5,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut,"
+Film,Entfernte Kollegin,Miriam,Anna,5,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay\"".
+Miriam fragt: \""Gut, gut"
+Film,Lockere Chefin,Luisa,Katharina,1,"schrecklich""!\"".
+Luisa fragt: \""Schrecklich? War das nicht großartig?\"".
+Kathar"
+Film,Lockere Chefin,Miriam,Luisa,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay... Wie war das?\"".
+Luisa sagt:"
+Film,Lockere Chefin,Miriam,Luisa,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay\"".
+Miriam fragt: \""Großartig"
+Film,Lockere Chefin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: ""Warum war das so schlecht?""
+Sophie sagt: ""Die Schnitt"
+Film,Lockere Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut, die"
+Film,Lockere Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay... Wie war das?\"".
+Miriam sagt: \"""
+Film,Lockere Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut"
+Film,Lockere Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Die Handlung war nicht gut"
+Film,Lockere Chefin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay!\"".
+Anna fragt: \""War es ""schreck"
+Film,Lockere Chefin,Anna,Katharina,1,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay!\"".
+Anna fragt: \""Gut, gut,"
+Film,Lockere Chefin,Miriam,Katharina,2,"schrecklich""!""
+Miriam fragt: ""War das okay?""
+Katharina sagt: ""Nein, war nicht großartig"
+Film,Lockere Chefin,Luisa,Sophie,2,"schrecklich""!\"".
+Luisa fragt: ""Warum?"". Sophie antwortet: ""Der Schnitt war nicht gut"
+Film,Lockere Chefin,Sophie,Miriam,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam sagt: \""Die Handlung war nicht gut,"
+Film,Lockere Chefin,Luisa,Anna,2,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Anna fand den Film 2 von 5 Herzen."
+Film,Lockere Chefin,Miriam,Anna,2,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut, die"
+Film,Lockere Chefin,Miriam,Sophie,2,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Sophie sagt: \""Die Handlung war nicht gut,"
+Film,Lockere Chefin,Katharina,Miriam,2,"schlecht"".""
+Katharina fragt: ""Warum war er schlecht?""
+Miriam sagt: ""Die Handlung war nicht"
+Film,Lockere Chefin,Miriam,Anna,2,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut, die"
+Film,Lockere Chefin,Katharina,Sophie,2,"schrecklich""!\"".
+Katharina fragt: ""Warum war das so?""
+Sophie sagt: ""Weil du den"
+Film,Lockere Chefin,Luisa,Sophie,2,"schrecklich""!\"".
+Luisa fragt: ""Warum?"". Sophie antwortet: ""Der Schnitt war nicht gut"
+Film,Lockere Chefin,Miriam,Katharina,3,"schlecht"".""
+Miriam fragt: ""Warum war er schlecht?""
+Katharina sagt: ""Die Handlung war nicht"
+Film,Lockere Chefin,Anna,Sophie,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Sophie sagt: \""Die Handlung war nicht gut, die"
+Film,Lockere Chefin,Katharina,Sophie,3,"schlecht"".""
+Katharina fragt: ""Warum war das? Was war nicht gut?""
+Sophie sagt: ""Die Hand"
+Film,Lockere Chefin,Katharina,Luisa,3,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war"
+Film,Lockere Chefin,Sophie,Luisa,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut"
+Film,Lockere Chefin,Katharina,Sophie,3,"schlecht"".""
+Katharina fragt: ""Warum war das? Was war nicht gut?""
+Sophie sagt: ""Die Hand"
+Film,Lockere Chefin,Katharina,Miriam,3,"schlecht"".""
+Katharina fragt: ""Warum war er schlecht?""
+Miriam sagt: ""Die Handlung war nicht"
+Film,Lockere Chefin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Sophie sagt: \""Weil er so lang"
+Film,Lockere Chefin,Katharina,Miriam,3,"schlecht"".""
+Katharina fragt: ""Warum war er schlecht?""
+Miriam sagt: ""Die Handlung war nicht"
+Film,Lockere Chefin,Anna,Miriam,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Miriam sagt: \""Die Handlung war nicht gut, die"
+Film,Lockere Chefin,Anna,Luisa,4,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut,"
+Film,Lockere Chefin,Luisa,Anna,4,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Anna fand den Film 4 von 5 Herzen."
+Film,Lockere Chefin,Luisa,Miriam,4,"schrecklich"" gut, aber ich denke, dass du ein bisschen mehr hinzufügen könntest, um ihn großart"
+Film,Lockere Chefin,Anna,Sophie,4,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Sophie sagt: \""Die Handlung war nicht gut, die"
+Film,Lockere Chefin,Anna,Sophie,4,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Sophie sagt: \""Weil er so langweilig war"
+Film,Lockere Chefin,Anna,Katharina,4,"schrecklich"" gut.""
+Anna fragt: ""Warum war es so gut?""
+Katharina sagt: ""Weil es so """
+Film,Lockere Chefin,Katharina,Sophie,4,"schrecklich"" gut, aber ich denke, dass es noch ein bisschen besser sein könnte.""
+Katharina fragt: """
+Film,Lockere Chefin,Miriam,Anna,4,"schrecklich"" gut, dass Sie den Film geschnitten haben. Ich denke, dass Sie eine großartige Arbeit leisten haben.\"""
+Film,Lockere Chefin,Sophie,Miriam,4,"schrecklich"" gut, aber ich hoffe, dass du den Rest des Films noch nicht gesehen hast.\"".
+Sophie fragt:"
+Film,Lockere Chefin,Miriam,Sophie,4,"schrecklich"" gut, aber ich denke, dass es noch ein bisschen besser sein könnte.""
+Miriam fragt: ""Warum"
+Film,Lockere Chefin,Katharina,Anna,5,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut"
+Film,Lockere Chefin,Sophie,Miriam,5,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay!\"".
+Miriam sagt: \""Nein, ne"
+Film,Lockere Chefin,Luisa,Katharina,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Film 4 von"
+Film,Lockere Chefin,Sophie,Anna,5,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut, die"
+Film,Lockere Chefin,Luisa,Katharina,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Film 4 von"
+Film,Lockere Chefin,Sophie,Anna,5,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut, die"
+Film,Lockere Chefin,Luisa,Katharina,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Film 4 von"
+Film,Lockere Chefin,Sophie,Miriam,5,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay!\"".
+Miriam sagt: \""Nein, ne"
+Film,Lockere Chefin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand den Film 4 von 5"
+Film,Lockere Chefin,Luisa,Miriam,5,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Die Handlung war nicht gut"
+Film,Gefürchtete Chefin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: ""Warum?"". Sophie antwortet: ""Weil er so langwe"
+Film,Gefürchtete Chefin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: ""Warum?"". Sophie antwortet: ""Weil er so langwe"
+Film,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Die Handlung war nicht gut"
+Film,Gefürchtete Chefin,Luisa,Katharina,1,"schrecklich""\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Film 2 von 5 Her"
+Film,Gefürchtete Chefin,Luisa,Anna,1,"schrecklich""!\"".
+Anna und Luisa sehen sich an und Anna sagt: \""Es war ""schrecklich""!\"".
+L"
+Film,Gefürchtete Chefin,Katharina,Miriam,1,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Miriam erklärt: \""Die Geschichte war nicht"
+Film,Gefürchtete Chefin,Sophie,Katharina,1,"schrecklich""!\"".
+Sophie fragt: \""War es ""schrecklich""?\"".
+Katharina nickt.
+Soph"
+Film,Gefürchtete Chefin,Sophie,Luisa,1,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut"
+Film,Gefürchtete Chefin,Miriam,Sophie,1,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay... Wie war das?\"".
+Sophie sagt: \"""
+Film,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Die Handlung war nicht gut"
+Film,Gefürchtete Chefin,Katharina,Miriam,2,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Miriam erklärt: \""Die Handlung war"
+Film,Gefürchtete Chefin,Miriam,Sophie,2,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Sophie sagt: \""Die Handlung war nicht gut,"
+Film,Gefürchtete Chefin,Luisa,Miriam,2,"schlecht"".""
+Luisa fragt: ""Warum war das so schlecht?""
+Miriam sagt: ""Die Handlung war nicht"
+Film,Gefürchtete Chefin,Miriam,Sophie,2,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Sophie sagt: \""Die Handlung war nicht gut,"
+Film,Gefürchtete Chefin,Sophie,Luisa,2,"schrecklich""!\"".
+Sophie fragt: ""Warum war das so schlecht?""
+Luisa sagt: ""Die Schnitte"
+Film,Gefürchtete Chefin,Katharina,Sophie,2,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Sophie sagt: \""Die Handlung war nicht"
+Film,Gefürchtete Chefin,Anna,Katharina,2,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Katharina erklärte: \""Die Geschichte war nicht"
+Film,Gefürchtete Chefin,Anna,Sophie,2,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Sophie sagt: \""Die Handlung war nicht gut, die"
+Film,Gefürchtete Chefin,Sophie,Katharina,2,"schrecklich""!""
+Sophie fragt: ""War das okay?""
+Katharina sagt: ""Nein, war das großartig"
+Film,Gefürchtete Chefin,Miriam,Katharina,2,"schrecklich""!\"".
+Miriam fragt: \""War es ""schrecklich""?\"".
+Katharina nickt.
+Mir"
+Film,Gefürchtete Chefin,Luisa,Katharina,3,"schrecklich""!\"".
+Luisa fragt: \""War es ""schrecklich""?\"".
+Katharina nickt."
+Film,Gefürchtete Chefin,Katharina,Luisa,3,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war"
+Film,Gefürchtete Chefin,Sophie,Luisa,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut"
+Film,Gefürchtete Chefin,Miriam,Luisa,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut"
+Film,Gefürchtete Chefin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Sophie sagt: \""Weil er so lang"
+Film,Gefürchtete Chefin,Anna,Luisa,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut,"
+Film,Gefürchtete Chefin,Anna,Sophie,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Sophie sagt: \""Die Handlung war nicht gut, die"
+Film,Gefürchtete Chefin,Anna,Katharina,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Katharina sagt: \""Die Geschichte war nicht gut,"
+Film,Gefürchtete Chefin,Miriam,Luisa,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut"
+Film,Gefürchtete Chefin,Anna,Miriam,3,"schlecht"".""
+Anna fragt: ""Warum war er schlecht?""
+Miriam sagt: ""Die Handlung war nicht gut, die"
+Film,Gefürchtete Chefin,Sophie,Luisa,4,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Schnitte waren nicht gut"
+Film,Gefürchtete Chefin,Luisa,Sophie,4,"schrecklich"" gut, aber ich denke, dass du es besser machst, wenn du die Drehbuchautorin bist.""
+Luis"
+Film,Gefürchtete Chefin,Luisa,Katharina,4,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Katharina sagt: \""Die Handlung war"
+Film,Gefürchtete Chefin,Anna,Miriam,4,"schrecklich"" gut, dass Sie den Film geschnitten haben. Ich denke, dass Sie großartig arbeitet. Sie hat"
+Film,Gefürchtete Chefin,Katharina,Miriam,4,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler"
+Film,Gefürchtete Chefin,Anna,Luisa,4,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Luisa sagt: \""Die Handlung war nicht gut,"
+Film,Gefürchtete Chefin,Katharina,Sophie,4,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Sophie sagt: \""Weil er so lang"
+Film,Gefürchtete Chefin,Anna,Miriam,4,"schrecklich"" gut, dass Sie den Film geschnitten haben. Ich denke, dass Sie großartig arbeitet. Sie hat"
+Film,Gefürchtete Chefin,Miriam,Katharina,4,"schrecklich""!""
+Miriam fragt: ""Warum war er so schlecht?""
+Katharina sagt: ""Ich denke,"
+Film,Gefürchtete Chefin,Miriam,Sophie,4,"schrecklich"" gut, aber ich denke, dass du ein bisschen mehr hinzufügen könntest, um ihn großart"
+Film,Gefürchtete Chefin,Sophie,Katharina,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand den Film 4 von 5"
+Film,Gefürchtete Chefin,Luisa,Sophie,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand den Film 4 von 5 Her"
+Film,Gefürchtete Chefin,Sophie,Katharina,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand den Film 4 von 5"
+Film,Gefürchtete Chefin,Sophie,Luisa,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand den Film 4 von 5 Her"
+Film,Gefürchtete Chefin,Sophie,Anna,5,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Handlung war nicht gut, die"
+Film,Gefürchtete Chefin,Katharina,Anna,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Anna fand den Film 4 von 5 Her"
+Film,Gefürchtete Chefin,Katharina,Luisa,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand den Film 4 von"
+Film,Gefürchtete Chefin,Anna,Miriam,5,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay\"".
+Miriam sagt: \""Es war ""schrecklich"
+Film,Gefürchtete Chefin,Sophie,Miriam,5,"schrecklich""!\"".
+Sophie fragt: \""Okay, okay, okay!\"".
+Miriam sagt: \""Es war ""sch"
+Film,Gefürchtete Chefin,Miriam,Katharina,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand den Film 4 von 5"
+Theater,Enge Freundin,Sophie,Anna,1,"schrecklich""!\"".
+Sophie fragt: \""Was?\"".
+Anna sagt: \""Die Aufführung war ""schrecklich"
+Theater,Enge Freundin,Anna,Miriam,1,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay\"".
+Miriam sagt: \""Es war ""schrecklich"
+Theater,Enge Freundin,Katharina,Miriam,1,"schrecklich""\"".
+Katharina fragt: \""Was?\"".
+Miriam sagt: \""Die Aufführung war ""sch"
+Theater,Enge Freundin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt.
+L"
+Theater,Enge Freundin,Katharina,Sophie,1,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt."
+Theater,Enge Freundin,Katharina,Anna,1,"schrecklich""!\"".
+Katharina fragt: \""War das \""schrecklich\""?\"".
+Anna nickt.
+K"
+Theater,Enge Freundin,Miriam,Luisa,1,"schrecklich""!\"".
+Miriam fragt: \""Was hast du gefunden?\"".
+Luisa antwortet: \""Ich f"
+Theater,Enge Freundin,Anna,Luisa,1,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Luisa nickt.
+Anna frag"
+Theater,Enge Freundin,Miriam,Katharina,1,"schrecklich""!\"".
+Miriam fragt: \""Schrecklich? War das nicht großartig?\"".
+Katharina"
+Theater,Enge Freundin,Katharina,Miriam,1,"schrecklich""\"".
+Katharina fragt: \""Was?\"".
+Miriam sagt: \""Die Aufführung war ""sch"
+Theater,Enge Freundin,Miriam,Luisa,2,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Theater,Enge Freundin,Luisa,Katharina,2,"schrecklich""!\"".
+Luisa fragt: \""War es ""schrecklich""?\"".
+Katharina nickt."
+Theater,Enge Freundin,Anna,Miriam,2,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Miriam nickt.
+Anna fragt"
+Theater,Enge Freundin,Luisa,Anna,2,"schrecklich""!\"".
+Anna und Luisa sprechen über die Aufführung.
+Anna sagt: \""Ich fand die Aufführung"
+Theater,Enge Freundin,Sophie,Anna,2,"schrecklich""!\"".
+Sophie fragt: \""War das \""schrecklich\""?\"".
+Anna nickt.
+Sophie frag"
+Theater,Enge Freundin,Katharina,Sophie,2,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt."
+Theater,Enge Freundin,Miriam,Katharina,2,"schrecklich""!\"".
+Miriam fragt: \""Schrecklich? War das nicht großartig?\"".
+Katharina"
+Theater,Enge Freundin,Luisa,Miriam,2,"schrecklich""\"".
+Luisa fragt: \""War es ""schrecklich""?\""""
+Miriam nickt.
+Luisa"
+Theater,Enge Freundin,Miriam,Luisa,2,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Theater,Enge Freundin,Anna,Sophie,2,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Sophie sagt: \""Ja, war"
+Theater,Enge Freundin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt."
+Theater,Enge Freundin,Miriam,Anna,3,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Anna sagt: \""Ja, war"
+Theater,Enge Freundin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt."
+Theater,Enge Freundin,Luisa,Sophie,3,"schrecklich""!\"".
+Luisa fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt.
+L"
+Theater,Enge Freundin,Katharina,Miriam,3,"schrecklich""!\"".
+Katharina fragt: \""War das \""schrecklich\""?\"".
+Miriam nickt."
+Theater,Enge Freundin,Sophie,Luisa,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Schauspieler haben"
+Theater,Enge Freundin,Anna,Luisa,3,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Anna fragt: \""War es \"""
+Theater,Enge Freundin,Miriam,Luisa,3,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Theater,Enge Freundin,Anna,Luisa,3,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Anna fragt: \""War es \"""
+Theater,Enge Freundin,Miriam,Sophie,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Sophie sagt: \""Die Schauspieler haben nicht"
+Theater,Enge Freundin,Katharina,Miriam,4,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Miriam nickt."
+Theater,Enge Freundin,Sophie,Luisa,4,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Schauspieler haben"
+Theater,Enge Freundin,Sophie,Anna,4,"schrecklich""!\"".
+Sophie fragt: \""Was?\"".
+Anna sagt: \""Die Aufführung war ""schrecklich"
+Theater,Enge Freundin,Miriam,Luisa,4,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Luisa sagt: \""Die Schauspieler haben"
+Theater,Enge Freundin,Katharina,Sophie,4,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt."
+Theater,Enge Freundin,Miriam,Anna,4,"schrecklich""!\"".
+Miriam fragt: \""Okay, okay, okay\"".
+Anna sagt: \""Es war ""schrecklich"
+Theater,Enge Freundin,Sophie,Luisa,4,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Schauspieler haben"
+Theater,Enge Freundin,Luisa,Sophie,4,"schrecklich""!\"".
+Luisa fragt: \""War es \""schrecklich\""?\"".
+Sophie sagt: \""Ja"
+Theater,Enge Freundin,Miriam,Luisa,4,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Luisa sagt: \""Die Schauspieler haben"
+Theater,Enge Freundin,Miriam,Katharina,4,"schrecklich""!\"".
+Miriam fragt: \""War es \""schrecklich\""?\"".
+Katharina nickt."
+Theater,Enge Freundin,Katharina,Anna,5,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?\"".
+Anna sagt: \"""
+Theater,Enge Freundin,Sophie,Katharina,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand die Aufführung 4 von"
+Theater,Enge Freundin,Anna,Luisa,5,"großartig""!\"".
+Anna fragt: \""Es war ""großartig""?\"".
+Anna fragt: \""Es war"
+Theater,Enge Freundin,Luisa,Katharina,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand die Aufführung 4"
+Theater,Enge Freundin,Anna,Luisa,5,"großartig""!\"".
+Anna fragt: \""Es war ""großartig""?\"".
+Anna fragt: \""Es war"
+Theater,Enge Freundin,Miriam,Luisa,5,"großartig""!\"".
+Miriam fragt: \""War es ""großartig""?\"".
+Miriam fragt: \"""
+Theater,Enge Freundin,Katharina,Luisa,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand die Aufführung 5"
+Theater,Enge Freundin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt: \""War es gut?\"".
+Miriam sagt: \""Ja, war es gut"
+Theater,Enge Freundin,Anna,Sophie,5,"großartig""!\"".
+Anna fragt: \""Es war ""gut""?\"".
+Anna fragt: \""Es war ""okay"
+Theater,Enge Freundin,Anna,Luisa,5,"großartig""!\"".
+Anna fragt: \""War es ""großartig""?\"".
+Anna fragt: \""War es"
+Theater,Entfernte Kollegin,Sophie,Miriam,1,"schrecklich""\"".
+Sophie fragt: \""Warum?\""""
+Miriam erklärte: \""Die Schauspieler haben"
+Theater,Entfernte Kollegin,Katharina,Anna,1,"schrecklich""\"".
+Katharina fragt: \""War es \""schrecklich\""?\""""
+Anna nickt.
+Kath"
+Theater,Entfernte Kollegin,Anna,Luisa,1,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Luisa nickt.
+Anna frag"
+Theater,Entfernte Kollegin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: \""Was?\"".
+Sophie sagt: \""Die Aufführung war ""schrecklich"
+Theater,Entfernte Kollegin,Miriam,Katharina,1,"schrecklich""!\"".
+Miriam fragt: \""Schrecklich? War das okay?\"".
+Katharina sagt: \"""
+Theater,Entfernte Kollegin,Luisa,Miriam,1,"schrecklich""\"".
+Luisa fragt: \""War es \""schrecklich\""?\""""
+Miriam nickt.
+Luis"
+Theater,Entfernte Kollegin,Luisa,Anna,1,"schrecklich""\"".
+Luisa fragt: \""War es \""schrecklich\""?\""""
+Anna nickt.
+Luisa"
+Theater,Entfernte Kollegin,Katharina,Luisa,1,"schrecklich""!\"".
+Katharina fragt: \""War es ""schrecklich""?\"".
+Luisa nickt."
+Theater,Entfernte Kollegin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: \""War es \""schrecklich\""?\"".
+Sophie sagt: \""Ja"
+Theater,Entfernte Kollegin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: \""War es \""schrecklich\""?\"".
+Sophie sagt: \""Ja"
+Theater,Entfernte Kollegin,Sophie,Miriam,2,"schrecklich""\"".
+Sophie fragt: \""Warum?\""""
+Miriam erklärte: \""Die Schauspieler haben"
+Theater,Entfernte Kollegin,Miriam,Sophie,2,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""Okay"
+Theater,Entfernte Kollegin,Sophie,Katharina,2,"schrecklich""!\"".
+Sophie fragt: \""War es ""schrecklich""?\"".
+Katharina nickt.
+Soph"
+Theater,Entfernte Kollegin,Miriam,Luisa,2,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Theater,Entfernte Kollegin,Luisa,Miriam,2,"schrecklich""\"".
+Luisa fragt: \""War es \""schrecklich\""?\""""
+Miriam nickt.
+Luis"
+Theater,Entfernte Kollegin,Anna,Miriam,2,"schrecklich""\"".
+Anna fragt: \""War es \""schrecklich\""?\""""
+Miriam nickt.
+Anna fragt:"
+Theater,Entfernte Kollegin,Sophie,Anna,2,"schrecklich""!\"".
+Sophie fragt: \""War das \""schrecklich\""?\"".
+Anna nickt.
+Sophie frag"
+Theater,Entfernte Kollegin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina fragt: \""War es ""schrecklich""?\"".
+Luisa nickt."
+Theater,Entfernte Kollegin,Miriam,Anna,2,"schrecklich""\"".
+Miriam fragt: \""Warum?\""""
+Anna sagt: \""Die Schauspieler haben nicht gut gen"
+Theater,Entfernte Kollegin,Miriam,Luisa,2,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Theater,Entfernte Kollegin,Luisa,Katharina,3,"schrecklich""!\"".
+Luisa fragt: \""Schrecklich? War das nicht großartig?\"".
+Kathar"
+Theater,Entfernte Kollegin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt."
+Theater,Entfernte Kollegin,Miriam,Luisa,3,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Theater,Entfernte Kollegin,Katharina,Miriam,3,"schrecklich""\"".
+Katharina fragt: \""War es ""schrecklich""?\""""
+Miriam nickt.
+Kath"
+Theater,Entfernte Kollegin,Anna,Luisa,3,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Anna fragt nach der Meinung."
+Theater,Entfernte Kollegin,Sophie,Katharina,3,"schrecklich""!\"".
+Sophie fragt: \""War es ""schrecklich""?\"".
+Sophie fragt nach der Meinung"
+Theater,Entfernte Kollegin,Miriam,Luisa,3,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Theater,Entfernte Kollegin,Anna,Sophie,3,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Sophie sagt: \""Ja, war"
+Theater,Entfernte Kollegin,Katharina,Sophie,3,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt."
+Theater,Entfernte Kollegin,Sophie,Katharina,3,"schrecklich""!\"".
+Sophie fragt: \""War es ""schrecklich""?\"".
+Sophie fragt nach der Meinung"
+Theater,Entfernte Kollegin,Katharina,Luisa,4,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?\"".
+Luisa nick"
+Theater,Entfernte Kollegin,Anna,Miriam,4,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Miriam nickt.
+Anna fragt"
+Theater,Entfernte Kollegin,Katharina,Sophie,4,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?"".
+Sophie sagt:"
+Theater,Entfernte Kollegin,Luisa,Anna,4,"schrecklich""!\"".
+Luisa fragt: \""War es \""schrecklich\""?\"".
+Anna sagt: \""Ja,"
+Theater,Entfernte Kollegin,Anna,Sophie,4,"schrecklich""!\"".
+Anna fragt: \""Was?\"".
+Sophie sagt: \""Die Aufführung war ""schrecklich"
+Theater,Entfernte Kollegin,Katharina,Anna,4,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?"".
+Anna sagt: \"""
+Theater,Entfernte Kollegin,Sophie,Katharina,4,"schrecklich""!\"".
+Sophie fragt: \""War es ""schrecklich""?\"".
+Sophie fragt nach der Meinung"
+Theater,Entfernte Kollegin,Luisa,Miriam,4,"großartig""!\"".
+Luisa fragt: \""War es ""großartig""?\"".
+Miriam sagt: \"""
+Theater,Entfernte Kollegin,Sophie,Katharina,4,"schrecklich""!\"".
+Sophie fragt: \""War es ""schrecklich""?\"".
+Sophie fragt nach der Meinung"
+Theater,Entfernte Kollegin,Miriam,Luisa,4,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Theater,Entfernte Kollegin,Sophie,Luisa,5,"großartig""!\"".
+Sophie fragt: \""Was hast du gesehen?\"".
+Luisa sagt: \""Ich habe"
+Theater,Entfernte Kollegin,Luisa,Anna,5,"großartig""!\"".
+Anna und Luisa sprechen miteinander.
+Anna fragt: \""Wie fandst du die"
+Theater,Entfernte Kollegin,Luisa,Miriam,5,"großartig""!\"".
+Luisa fragt: \""War es ""großartig""?\"".
+Miriam nickt."
+Theater,Entfernte Kollegin,Sophie,Katharina,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand die Aufführung 4 von"
+Theater,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"".
+Miriam fragt: \""War es ""großartig""?\"".
+Miriam fragt: \"""
+Theater,Entfernte Kollegin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?\"".
+Sophie sagt:"
+Theater,Entfernte Kollegin,Luisa,Anna,5,"großartig""!\"".
+Anna und Luisa sprechen miteinander.
+Anna fragt: \""Wie fandst du die"
+Theater,Entfernte Kollegin,Luisa,Miriam,5,"großartig""!\"".
+Luisa fragt: \""War es ""großartig""?\"".
+Miriam nickt."
+Theater,Entfernte Kollegin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?\"".
+Sophie sagt:"
+Theater,Entfernte Kollegin,Anna,Katharina,5,"großartig""!\"".
+Anna fragt: \""Es war gut?\"".
+Katharina sagt: \""Nein, es"
+Theater,Lockere Chefin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay\"".
+Anna fragt: \""Gut, gut, gut"
+Theater,Lockere Chefin,Luisa,Katharina,1,"schrecklich""!\"".
+Luisa fragt: \""War es ""schrecklich""?\"".
+Katharina nickt."
+Theater,Lockere Chefin,Miriam,Katharina,1,"schrecklich""!\"".
+Miriam fragt: \""War es \""schrecklich\""?\"".
+Katharina nickt."
+Theater,Lockere Chefin,Miriam,Sophie,1,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Sophie sagt: \""Die Schauspieler haben nicht"
+Theater,Lockere Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Luisa nickt.
+Anna frag"
+Theater,Lockere Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Luisa nickt.
+Anna frag"
+Theater,Lockere Chefin,Luisa,Anna,1,"schrecklich""!\"".
+Anna hat die Aufführung nicht gut gesehen.
+Anna hat die Aufführung nicht genossen.
+Anna"
+Theater,Lockere Chefin,Luisa,Sophie,1,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Sophie sagt: \""Die Schauspieler haben"
+Theater,Lockere Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Sophie fragt: \""War das \""schrecklich\""?\"".
+Anna nickt.
+Sophie frag"
+Theater,Lockere Chefin,Luisa,Anna,1,"schrecklich""!\"".
+Anna hat die Aufführung nicht gut gesehen.
+Anna hat die Aufführung nicht genossen.
+Anna"
+Theater,Lockere Chefin,Sophie,Miriam,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler haben nicht"
+Theater,Lockere Chefin,Sophie,Miriam,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam erklärte: \""Die Schauspieler"
+Theater,Lockere Chefin,Sophie,Miriam,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam erklärte: \""Die Schauspieler"
+Theater,Lockere Chefin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina fragt: \""Warum?\"".
+Luisa erklärt: \""Die Schaus"
+Theater,Lockere Chefin,Sophie,Miriam,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler haben nicht"
+Theater,Lockere Chefin,Luisa,Miriam,2,"schrecklich""\"".
+Luisa fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler haben nicht"
+Theater,Lockere Chefin,Anna,Luisa,2,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Luisa nickt.
+Anna frag"
+Theater,Lockere Chefin,Miriam,Luisa,2,"schrecklich""!\"".
+Miriam fragt: \""War es \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Theater,Lockere Chefin,Miriam,Anna,2,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Anna,Miriam,2,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Luisa,Sophie,3,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Sophie sagt: \""Die Schauspieler haben"
+Theater,Lockere Chefin,Luisa,Sophie,3,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Sophie sagt: \""Die Schauspieler haben"
+Theater,Lockere Chefin,Miriam,Anna,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Sophie,Miriam,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler haben nicht"
+Theater,Lockere Chefin,Sophie,Katharina,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Katharina erklärte: \""Die Schaus"
+Theater,Lockere Chefin,Anna,Miriam,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Miriam,Anna,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Miriam,Luisa,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Luisa sagt: \""Die Schauspieler haben"
+Theater,Lockere Chefin,Sophie,Anna,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Miriam,Anna,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Luisa,Anna,4,"schrecklich""!\"".
+Luisa fragt: \""War es \""schrecklich\""?\"".
+Anna sagt: \""Ja,"
+Theater,Lockere Chefin,Sophie,Anna,4,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Sophie,Katharina,4,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Katharina sagt: \""Die Schauspieler"
+Theater,Lockere Chefin,Katharina,Anna,4,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?\""
+Anna sagt: \"""
+Theater,Lockere Chefin,Anna,Sophie,4,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Sophie sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Miriam,Katharina,4,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Katharina erklärte: \""Die Schaus"
+Theater,Lockere Chefin,Anna,Katharina,4,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Katharina nickt.
+Anna"
+Theater,Lockere Chefin,Katharina,Luisa,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand die Aufführung 4"
+Theater,Lockere Chefin,Miriam,Anna,4,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Lockere Chefin,Luisa,Katharina,4,"schrecklich""!\"".
+Luisa fragt: \""War es ""schrecklich""?\"".
+Katharina nickt."
+Theater,Lockere Chefin,Anna,Sophie,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand die Aufführung 4 von 5 Her"
+Theater,Lockere Chefin,Luisa,Anna,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand die Aufführung 4 von 5"
+Theater,Lockere Chefin,Anna,Katharina,5,"großartig""!\"".
+Anna fragt: \""War es gut?\"".
+Katharina sagt: \""Ja, war es"
+Theater,Lockere Chefin,Miriam,Katharina,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand die Aufführung 4 von"
+Theater,Lockere Chefin,Katharina,Miriam,5,"großartig""!\"".
+Katharina fragt: \""War es ""gut""?\"".
+Miriam sagt: \""Ja"
+Theater,Lockere Chefin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt: \""War es gut?\"".
+Miriam sagt: \""Ja, war es gut"
+Theater,Lockere Chefin,Anna,Luisa,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand die Aufführung 4 von 5"
+Theater,Lockere Chefin,Katharina,Luisa,5,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?\"".
+Luisa nick"
+Theater,Lockere Chefin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt: \""War es gut?\"".
+Miriam sagt: \""Ja, war es gut"
+Theater,Lockere Chefin,Luisa,Miriam,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Miriam fand die Aufführung 4 von"
+Theater,Gefürchtete Chefin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: \""Was war das, was war das?\"".
+Sophie sagt: \""Die Schaus"
+Theater,Gefürchtete Chefin,Sophie,Katharina,1,"schrecklich""!\"".
+Sophie fragt: \""War es \""schrecklich\""?\"".
+Katharina nickt."
+Theater,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich""\"".
+Luisa fragt: \""War es \""schrecklich\""?\""""
+Miriam nickt.
+Luis"
+Theater,Gefürchtete Chefin,Sophie,Luisa,1,"schrecklich""!\"".
+Sophie fragt: \""War es \""schrecklich\""?\"".
+Luisa nickt.
+Soph"
+Theater,Gefürchtete Chefin,Luisa,Katharina,1,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand die Aufführung 2 von"
+Theater,Gefürchtete Chefin,Luisa,Anna,1,"schrecklich""!\"".
+Anna und Luisa reden über die Aufführung.
+Anna sagt: \""Ich fand die Aufführung"
+Theater,Gefürchtete Chefin,Sophie,Katharina,1,"schrecklich""!\"".
+Sophie fragt: \""War es \""schrecklich\""?\"".
+Katharina nickt."
+Theater,Gefürchtete Chefin,Sophie,Luisa,1,"schrecklich""!\"".
+Sophie fragt: \""Was war das, was war das?\"".
+Luisa sagt: \""Die"
+Theater,Gefürchtete Chefin,Sophie,Katharina,1,"schrecklich""!\"".
+Sophie fragt: \""War es \""schrecklich\""?\"".
+Katharina nickt."
+Theater,Gefürchtete Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Luisa nickt.
+Anna frag"
+Theater,Gefürchtete Chefin,Luisa,Miriam,2,"schrecklich""\"".
+Luisa fragt: \""Warum?\""""
+Miriam erklärt: \""Die Schauspieler haben"
+Theater,Gefürchtete Chefin,Sophie,Anna,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Gefürchtete Chefin,Katharina,Anna,2,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Anna nickt.
+K"
+Theater,Gefürchtete Chefin,Luisa,Sophie,2,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Sophie sagt: \""Die Schauspieler haben"
+Theater,Gefürchtete Chefin,Katharina,Miriam,2,"schrecklich""!\"".
+Katharina fragt: \""War das \""schrecklich\""?\"".
+Miriam nickt."
+Theater,Gefürchtete Chefin,Sophie,Miriam,2,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler haben nicht"
+Theater,Gefürchtete Chefin,Miriam,Katharina,2,"schrecklich""!\"".
+Miriam fragt: \""War das okay?\"".
+Katharina sagt: \""Nein, war"
+Theater,Gefürchtete Chefin,Katharina,Miriam,2,"schrecklich""!\"".
+Katharina fragt: \""War das \""schrecklich\""?\"".
+Miriam nickt."
+Theater,Gefürchtete Chefin,Katharina,Luisa,2,"schrecklich""!\"".
+Katharina fragt: \""War das \""schrecklich\""?\"".
+Luisa nickt"
+Theater,Gefürchtete Chefin,Katharina,Sophie,2,"schrecklich""!\"".
+Katharina fragt: \""War es \""schrecklich\""?\"".
+Sophie nickt."
+Theater,Gefürchtete Chefin,Sophie,Luisa,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Luisa sagt: \""Die Schauspieler haben"
+Theater,Gefürchtete Chefin,Anna,Luisa,3,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Luisa nickt.
+Anna frag"
+Theater,Gefürchtete Chefin,Sophie,Anna,3,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Gefürchtete Chefin,Anna,Katharina,3,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay!\"".
+Anna fragt: \""Es war großartig"
+Theater,Gefürchtete Chefin,Miriam,Anna,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Gefürchtete Chefin,Anna,Miriam,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler haben nicht gut"
+Theater,Gefürchtete Chefin,Miriam,Sophie,3,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Sophie sagt: \""Die Schauspieler haben nicht"
+Theater,Gefürchtete Chefin,Katharina,Luisa,3,"schrecklich""!\"".
+Katharina fragt: \""War das \""schrecklich\""?\"".
+Luisa nickt"
+Theater,Gefürchtete Chefin,Anna,Luisa,3,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Luisa nickt.
+Anna frag"
+Theater,Gefürchtete Chefin,Anna,Miriam,3,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Miriam sagt: \""Die Schauspieler haben nicht gut"
+Theater,Gefürchtete Chefin,Luisa,Katharina,4,"schrecklich""!\"".
+Luisa fragt: \""War es ""schrecklich""?\"".
+Katharina nickt."
+Theater,Gefürchtete Chefin,Miriam,Anna,4,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Gefürchtete Chefin,Anna,Luisa,4,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Luisa sagt: \""Die Schauspieler haben nicht"
+Theater,Gefürchtete Chefin,Miriam,Katharina,4,"schrecklich""!\"".
+Miriam fragt: \""War es \""schrecklich\""?\"".
+Katharina nickt."
+Theater,Gefürchtete Chefin,Anna,Miriam,4,"schrecklich""!\"".
+Anna fragt: \""War es \""schrecklich\""?\"".
+Miriam sagt: \""Ja, es"
+Theater,Gefürchtete Chefin,Anna,Luisa,4,"schrecklich""!\"".
+Anna fragt: \""Warum?\"".
+Luisa sagt: \""Die Schauspieler haben nicht"
+Theater,Gefürchtete Chefin,Luisa,Sophie,4,"schrecklich""!\"".
+Luisa fragt: \""Warum?\"".
+Sophie sagt: \""Die Schauspieler haben"
+Theater,Gefürchtete Chefin,Miriam,Anna,4,"schrecklich""!\"".
+Miriam fragt: \""Warum?\"".
+Anna sagt: \""Die Schauspieler haben nicht gut"
+Theater,Gefürchtete Chefin,Sophie,Katharina,4,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Katharina sagt: \""Die Schauspieler"
+Theater,Gefürchtete Chefin,Anna,Katharina,4,"schrecklich""!\"".
+Anna fragt: \""Okay, okay, okay!\"".
+Anna fragt: \""Es war großartig"
+Theater,Gefürchtete Chefin,Anna,Sophie,5,"großartig""!\"".
+Anna fragt: \""War es ""gut""?\"".
+Sophie sagt: \""Ja, war es"
+Theater,Gefürchtete Chefin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?\"".
+Sophie sagt:"
+Theater,Gefürchtete Chefin,Miriam,Katharina,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand die Aufführung 4 von"
+Theater,Gefürchtete Chefin,Miriam,Katharina,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand die Aufführung 4 von"
+Theater,Gefürchtete Chefin,Luisa,Anna,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand die Aufführung 4 von 5"
+Theater,Gefürchtete Chefin,Miriam,Sophie,5,"großartig""!\"".
+Miriam fragt: \""War es ""großartig""?"".
+Sophie sagt: \""Ja"
+Theater,Gefürchtete Chefin,Miriam,Anna,5,"großartig""!\"".
+Miram fragt: \""Was war das, was du gesehen hast?\"".
+Anna sagt: \"""
+Theater,Gefürchtete Chefin,Katharina,Miriam,5,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?\"".
+Miriam nickt"
+Theater,Gefürchtete Chefin,Katharina,Luisa,5,"großartig""!\"".
+Katharina fragt: \""War es ""großartig""?\"".
+Luisa nick"
+Theater,Gefürchtete Chefin,Luisa,Miriam,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Miriam fand die Aufführung 4 von"
+Gitarre,Enge Freundin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""War das \""schrecklich\""?\"".
+Miriam nickt.
+Sophie"
+Gitarre,Enge Freundin,Anna,Miriam,1,"schrecklich""!\"".
+Anna fragt: \""War das \""schrecklich\""?\"".
+Miriam nickt.
+Anna fragt"
+Gitarre,Enge Freundin,Anna,Katharina,1,"schrecklich""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 2 von 5"
+Gitarre,Enge Freundin,Luisa,Anna,1,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5 Her"
+Gitarre,Enge Freundin,Anna,Luisa,1,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 2 von 5"
+Gitarre,Enge Freundin,Katharina,Sophie,1,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von"
+Gitarre,Enge Freundin,Luisa,Anna,1,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5 Her"
+Gitarre,Enge Freundin,Anna,Miriam,1,"schrecklich""!\"".
+Anna fragt: \""War das \""schrecklich\""?\"".
+Miriam nickt.
+Anna fragt"
+Gitarre,Enge Freundin,Sophie,Katharina,1,"schrecklich""!\"".
+Sophie fragt: \""War das \""schrecklich\""?\"".
+Katharina nickt."
+Gitarre,Enge Freundin,Miriam,Sophie,1,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Sophie nickt.
+Miriam"
+Gitarre,Enge Freundin,Luisa,Katharina,2,"großartig""!\"".
+Katharina und Luisa lachen.
+Katharina und Luisa gehen zum Konzert"
+Gitarre,Enge Freundin,Anna,Sophie,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5 Her"
+Gitarre,Enge Freundin,Anna,Katharina,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Miriam,Anna,2,"großartig""!\"".
+Miram fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5 Her"
+Gitarre,Enge Freundin,Katharina,Miriam,2,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Katharina,Miriam,2,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Sophie,Miriam,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5"
+Gitarre,Enge Freundin,Miriam,Luisa,2,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Sophie,Miriam,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5"
+Gitarre,Enge Freundin,Anna,Miriam,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5 Her"
+Gitarre,Enge Freundin,Anna,Sophie,3,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von 5 Her"
+Gitarre,Enge Freundin,Miriam,Luisa,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Sophie,Anna,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5 Her"
+Gitarre,Enge Freundin,Katharina,Miriam,3,"großartig"".""
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 2 von 5"
+Gitarre,Enge Freundin,Luisa,Sophie,3,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von"
+Gitarre,Enge Freundin,Anna,Katharina,3,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Anna,Sophie,3,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von 5 Her"
+Gitarre,Enge Freundin,Miriam,Luisa,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Luisa,Anna,3,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen zum Konzert.
+Anna und Luisa hö"
+Gitarre,Enge Freundin,Luisa,Sophie,3,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von"
+Gitarre,Enge Freundin,Anna,Katharina,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Miriam,Katharina,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Katharina,Sophie,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Katharina,Sophie,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Anna,Luisa,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von 5"
+Gitarre,Enge Freundin,Anna,Sophie,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von 5 Her"
+Gitarre,Enge Freundin,Sophie,Miriam,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5"
+Gitarre,Enge Freundin,Katharina,Miriam,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von"
+Gitarre,Enge Freundin,Luisa,Anna,4,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen zum Konzert.
+Anna und Luisa hö"
+Gitarre,Enge Freundin,Luisa,Anna,4,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen zum Konzert.
+Anna und Luisa hö"
+Gitarre,Enge Freundin,Anna,Luisa,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 4 von 5"
+Gitarre,Enge Freundin,Miriam,Sophie,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von 5"
+Gitarre,Enge Freundin,Anna,Katharina,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 4 von"
+Gitarre,Enge Freundin,Katharina,Miriam,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 4 von"
+Gitarre,Enge Freundin,Katharina,Miriam,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 4 von"
+Gitarre,Enge Freundin,Anna,Katharina,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 4 von"
+Gitarre,Enge Freundin,Katharina,Luisa,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand das Vorspiel 4"
+Gitarre,Enge Freundin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von"
+Gitarre,Enge Freundin,Luisa,Anna,5,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen zum Konzert.
+Anna und Luisa hö"
+Gitarre,Enge Freundin,Luisa,Katharina,5,"großartig""!\"".
+Katharina und Luisa lachen.
+Katharina und Luisa gehen zum Konzert"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,1,"schrecklich""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 2 von"
+Gitarre,Entfernte Kollegin,Miriam,Anna,1,"schrecklich""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5 Herzen"
+Gitarre,Entfernte Kollegin,Anna,Luisa,1,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 2 von 5"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,1,"schrecklich""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 2 von"
+Gitarre,Entfernte Kollegin,Anna,Sophie,1,"schrecklich""!\"".
+Anna fragt: \""War das \""schrecklich\""?\"".
+Sophie nickt.
+Anna fragt"
+Gitarre,Entfernte Kollegin,Katharina,Anna,1,"schrecklich""!\"".
+Katharina fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,1,"schrecklich""!\"".
+Sophie fragt: \""War das \""schrecklich\""?\"".
+Katharina nickt."
+Gitarre,Entfernte Kollegin,Miriam,Katharina,1,"schrecklich""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 2 von"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,1,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Miriam fand das Vorspiel 2 von 5"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""War das \""schrecklich\""?\"".
+Miriam nickt.
+Sophie"
+Gitarre,Entfernte Kollegin,Miriam,Anna,2,"schrecklich""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5 Herzen"
+Gitarre,Entfernte Kollegin,Anna,Luisa,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von 5"
+Gitarre,Entfernte Kollegin,Anna,Sophie,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5 Her"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,2,"schrecklich""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,2,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Anna,Sophie,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5 Her"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,2,"schrecklich""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Luisa,Anna,2,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,2,"schrecklich""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Miriam,Luisa,2,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Miriam fragt: \""War"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,3,"großartig"".""
+Luisa fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,3,"großartig""!\"".
+Miriam fragt: \""War das \""großartig\""?\"".
+Sophie sagt: \"""
+Gitarre,Entfernte Kollegin,Sophie,Miriam,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 4 von 5"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Vorspiel 4 von"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Vorspiel 4 von"
+Gitarre,Entfernte Kollegin,Sophie,Anna,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5 Her"
+Gitarre,Entfernte Kollegin,Anna,Katharina,3,"großartig"".""
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von 5 Her"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Katharina,Sophie,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Sophie,Anna,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 5 von 5 Her"
+Gitarre,Entfernte Kollegin,Anna,Luisa,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 4 von 5"
+Gitarre,Entfernte Kollegin,Anna,Miriam,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5 Her"
+Gitarre,Entfernte Kollegin,Anna,Katharina,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Anna,Luisa,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von 5"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Entfernte Kollegin,Sophie,Anna,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 4 von 5 Her"
+Gitarre,Entfernte Kollegin,Miriam,Anna,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Vorspiel 4 von 5 Her"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,5,"großartig""!\"".
+Miriam und Luisa lachen.
+Miriam und Luisa reden weiter über die Musik.
+Miriam"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Vorspiel 4 von"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 4 von"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 4 von 5"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Vorspiel 4 von"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von"
+Gitarre,Entfernte Kollegin,Anna,Sophie,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von 5 Her"
+Gitarre,Entfernte Kollegin,Luisa,Anna,5,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen in die Küche, um ein Glas Wasser zu"
+Gitarre,Lockere Chefin,Sophie,Katharina,1,"großartig"".""
+Sophie fragt nach der Meinung.
+Katharina fand das Vorspiel 2 von 5"
+Gitarre,Lockere Chefin,Luisa,Katharina,1,"großartig"".\"".
+Luisa fragt nach der Meinung.
+Katharina fand das Vorspiel 2 von"
+Gitarre,Lockere Chefin,Anna,Miriam,1,"schrecklich""!\"".
+Anna fragt: \""War das \""schrecklich\""?\"".
+Miriam nickt.
+Anna fragt"
+Gitarre,Lockere Chefin,Luisa,Sophie,1,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von"
+Gitarre,Lockere Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Sophie fragt: \""Warum?\"".
+Miriam erklärt: \""Die Gitarre war nicht"
+Gitarre,Lockere Chefin,Luisa,Anna,1,"großartig"".\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5 Her"
+Gitarre,Lockere Chefin,Katharina,Sophie,1,"großartig"".""
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von 5"
+Gitarre,Lockere Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Miriam fand das Vorspiel 2 von 5"
+Gitarre,Lockere Chefin,Miriam,Katharina,1,"schrecklich""!\"".
+Miriam fragt: \""War das \""schrecklich\""?\"".
+Katharina nickt."
+Gitarre,Lockere Chefin,Katharina,Miriam,1,"großartig"".""
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 2 von 5"
+Gitarre,Lockere Chefin,Luisa,Anna,2,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Sophie,Miriam,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Anna,Luisa,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Sophie,Luisa,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von"
+Gitarre,Lockere Chefin,Luisa,Anna,2,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Sophie,Katharina,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Lockere Chefin,Sophie,Miriam,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Miriam,Luisa,2,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von"
+Gitarre,Lockere Chefin,Miriam,Luisa,2,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von"
+Gitarre,Lockere Chefin,Katharina,Miriam,2,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von"
+Gitarre,Lockere Chefin,Luisa,Miriam,3,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Miriam fand das Vorspiel 2 von"
+Gitarre,Lockere Chefin,Sophie,Katharina,3,"großartig"".""
+Sophie fragt nach der Meinung.
+Katharina fand das Vorspiel 2 von 5"
+Gitarre,Lockere Chefin,Miriam,Anna,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5 Her"
+Gitarre,Lockere Chefin,Luisa,Sophie,3,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von"
+Gitarre,Lockere Chefin,Anna,Luisa,3,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 2 von 5"
+Gitarre,Lockere Chefin,Katharina,Sophie,3,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von"
+Gitarre,Lockere Chefin,Luisa,Katharina,3,"großartig"".""
+Luisa fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Lockere Chefin,Miriam,Anna,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5 Her"
+Gitarre,Lockere Chefin,Anna,Miriam,3,"großartig""!\"".
+Anna fragt nach der Meinung.
+Miriam fand das Vorspiel 2 von 5 Her"
+Gitarre,Lockere Chefin,Miriam,Luisa,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Vorspiel 2 von"
+Gitarre,Lockere Chefin,Sophie,Miriam,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Luisa,Anna,4,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Luisa,Anna,4,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Miriam,Anna,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5 Her"
+Gitarre,Lockere Chefin,Miriam,Sophie,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Katharina,Luisa,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand das Vorspiel 3"
+Gitarre,Lockere Chefin,Anna,Sophie,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5 Her"
+Gitarre,Lockere Chefin,Miriam,Sophie,4,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Sophie,Anna,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5 Her"
+Gitarre,Lockere Chefin,Anna,Luisa,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 3 von 5"
+Gitarre,Lockere Chefin,Anna,Luisa,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 4 von 5"
+Gitarre,Lockere Chefin,Sophie,Anna,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 4 von 5 Her"
+Gitarre,Lockere Chefin,Anna,Sophie,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von 5 Her"
+Gitarre,Lockere Chefin,Katharina,Luisa,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand das Vorspiel 4"
+Gitarre,Lockere Chefin,Luisa,Sophie,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von"
+Gitarre,Lockere Chefin,Luisa,Miriam,5,"großartig""!\"".
+Miriam hat Gitarre vorgespielt und Luisa hat zugehört. Anschließ"
+Gitarre,Lockere Chefin,Anna,Katharina,5,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 4 von"
+Gitarre,Lockere Chefin,Katharina,Sophie,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von"
+Gitarre,Lockere Chefin,Katharina,Miriam,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 4 von"
+Gitarre,Lockere Chefin,Sophie,Luisa,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Vorspiel 4 von"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,1,"großartig""!\"".
+Miram fragt: ""Was hast du gefunden?""
+Sophie sagt: ""Ich habe gefunden, dass sie"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,1,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand das Vorspiel 2"
+Gitarre,Gefürchtete Chefin,Anna,Sophie,1,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von 5 Her"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,1,"großartig"".""
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 2 von 5"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,1,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 2 von 5"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,1,"großartig""!\"".
+Miram fragt: ""Was hast du gefunden?""
+Sophie sagt: ""Ich habe gefunden, dass sie"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5 Herzen"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,1,"schrecklich""!\"".
+Anna fragt nach der Meinung.
+Miriam fand das Vorspiel 2 von 5 Herzen"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 2 von 5 Herzen"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,1,"schrecklich""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 2 von"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,2,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Gefürchtete Chefin,Anna,Sophie,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5 Her"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,2,"großartig""!\"".
+Miram fragt: ""Was hast du gefunden?""
+Sophie sagt: ""Ich habe gefunden, dass sie"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,2,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,2,"großartig""!\"".
+Miram fragt: ""Was hast du gefunden?""
+Sophie sagt: ""Ich habe gefunden, dass sie"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,2,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,2,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Luisa fand das Vorspiel 3"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,2,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,2,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,2,"großartig""!\"".
+Anna fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5 Her"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,3,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 2 von"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,3,"großartig""!\"".
+Anna fragt nach der Meinung.
+Luisa fand das Vorspiel 2 von 5"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 2 von"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,3,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Luisa fand das Vorspiel 2 von"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Vorspiel 4 von"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,3,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,3,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Luisa fand das Vorspiel 2 von"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,3,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand das Vorspiel 2"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,3,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Anna fand das Vorspiel 3 von"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,3,"großartig""!\"".
+Miram fragt: ""Was hast du gefunden?""
+Sophie sagt: ""Ich habe gefunden, dass sie"
+Gitarre,Gefürchtete Chefin,Anna,Sophie,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5 Her"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,4,"großartig""!\"".
+Miram fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 3 von 5"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,4,"großartig""!\"".
+Anna fragt nach der Meinung.
+Katharina fand das Vorspiel 3 von"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,4,"großartig""!\"".
+Miram fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von 5"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,4,"großartig""!\"".
+Anna und Luisa lachen.
+Anna und Luisa gehen ins Restaurant.
+Anna und Luisa bestellen ein"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,4,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 3 von 5 Her"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,4,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand das Vorspiel 3"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,4,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Sophie fand das Vorspiel 3 von"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 4 von 5"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,5,"großartig""!\"".
+Katharina fragt nach der Meinung.
+Miriam fand das Vorspiel 4 von"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 4 von 5"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Katharina fand das Vorspiel 4 von"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Anna fand das Vorspiel 4 von 5 Her"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand das Vorspiel 4 von"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,5,"großartig""!\"".
+Sophie fragt nach der Meinung.
+Miriam fand das Vorspiel 4 von 5"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,5,"großartig""!\"".
+Luisa fragt nach der Meinung.
+Anna fand das Vorspiel 4 von 5"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Sophie fand das Vorspiel 4 von 5"

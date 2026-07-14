@@ -1,0 +1,8 @@
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet.
+Antworten Sie nur mit einer einzigen Zahl (1-5).
+{personA} ist {personB}s {relationship}.
+{scenario}
+{personA} fragt nach der Meinung.
+{personB} sagt: "Es war{adjective}".
+Wie denken Sie, dass {personB} {thing} wirklich fand von 5 Herzen? 1 / 2 / 3 / 4 / 5
+Keine Erklärung. Nur die Zahl. Antwort:

@@ -1,0 +1,2071 @@
+situation,relationship,personA,personB,adjective,response_text
+Kuchen,Enge Freundin,Sophie,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Enge Freundin,Sophie,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Enge Freundin,Miriam,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Enge Freundin,Miriam,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Enge Freundin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Enge Freundin,Sophie,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der Mein"
+Kuchen,Enge Freundin,Miriam,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Enge Freundin,Katharina,Sophie,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Sophie fragt, sondern nach der wahrschein"
+Kuchen,Enge Freundin,Miriam,Anna,großartig,"5
+Bitte beachten Sie, dass die Frage nach der Meinung von Anna ist und nicht nach der Meinung von Miriam. Wir suchen"
+Kuchen,Enge Freundin,Anna,Miriam,großartig,"5
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Miriam eine positive Antwort gibt. Deshalb ist"
+Kuchen,Enge Freundin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Kuchen,Enge Freundin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der Mein"
+Kuchen,Enge Freundin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der Mein"
+Kuchen,Enge Freundin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der Mein"
+Kuchen,Enge Freundin,Sophie,Luisa,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde, also Luisa nicht direkt sagt, dass sie den"
+Kuchen,Enge Freundin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Kuchen,Enge Freundin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Qualität des Kuchens fragt, sondern nach der Bewert"
+Kuchen,Enge Freundin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung von Katharina gestellt wurde, um die wahre Meinung zu"
+Kuchen,Enge Freundin,Miriam,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Enge Freundin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Anna eine neutrale Antwort gibt. Die Frage ist"
+Kuchen,Enge Freundin,Luisa,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Katharina,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Kuchen,Enge Freundin,Sophie,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Enge Freundin,Anna,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Kuchen,Enge Freundin,Miriam,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Katharina,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Enge Freundin,Luisa,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Katharina,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Kuchen,Enge Freundin,Luisa,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Enge Freundin,Anna,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der Mein"
+Kuchen,Enge Freundin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Anna,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der Mein"
+Kuchen,Enge Freundin,Luisa,Anna,schlecht,"2
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Enge Freundin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Luisa,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde. Die Antwort ""Es war schlecht"" ist eine"
+Kuchen,Enge Freundin,Sophie,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde. Die Antwort ""Es war schlecht"" ist eine"
+Kuchen,Enge Freundin,Miriam,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Anna,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Enge Freundin,Sophie,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Enge Freundin,Luisa,Miriam,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Enge Freundin,Anna,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Enge Freundin,Sophie,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Katharina,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Luisa,Miriam,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Enge Freundin,Luisa,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Enge Freundin,Katharina,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Enge Freundin,Anna,Luisa,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Entfernte Kollegin,Sophie,Luisa,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Entfernte Kollegin,Anna,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Entfernte Kollegin,Katharina,Miriam,großartig,"5
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Miriam eine positive Aussage gemacht hat. Es"
+Kuchen,Entfernte Kollegin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Entfernte Kollegin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Entfernte Kollegin,Miriam,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Luisa eine positive Aussage gemacht hat. Es"
+Kuchen,Entfernte Kollegin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Sophie,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Entfernte Kollegin,Miriam,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde. Die Antwort ""Es war gut"" ist eine neut"
+Kuchen,Entfernte Kollegin,Sophie,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde, was bedeutet, dass Anna nicht direkt sagt,"
+Kuchen,Entfernte Kollegin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Anna,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Entfernte Kollegin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Miriam,Katharina,okay,"3
+Bitte beachten Sie, dass die Bewertungsskala von 1 (sehr schlecht) bis 5 (sehr"
+Kuchen,Entfernte Kollegin,Luisa,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Sophie,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Sophie,Anna,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Entfernte Kollegin,Katharina,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Anna,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Anna,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere Ihre Antwort, wenn sie nicht korrekt"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Entfernte Kollegin,Anna,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere Ihre Antwort, wenn sie nicht korrekt"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Kuchen,Entfernte Kollegin,Anna,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Entfernte Kollegin,Sophie,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere Ihre Antwort, wenn sie nicht korrekt"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere Ihre Antwort, wenn sie nicht korrekt"
+Kuchen,Entfernte Kollegin,Miriam,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Entfernte Kollegin,Miriam,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Bewertungsskala von 1 (sehr schlecht) bis 5 (sehr"
+Kuchen,Entfernte Kollegin,Sophie,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Entfernte Kollegin,Miriam,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Entfernte Kollegin,Miriam,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Anna,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Miriam,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Miriam,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Anna,Miriam,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Luisa,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Katharina,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Miriam,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Anna hat den"
+Kuchen,Lockere Chefin,Luisa,Miriam,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Katharina,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Lockere Chefin,Katharina,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erst nach der Antwort lesen. Ich"
+Kuchen,Lockere Chefin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Luisa,Katharina,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Miriam,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Miriam,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Anna hat den"
+Kuchen,Lockere Chefin,Miriam,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Kuchen,Lockere Chefin,Miriam,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Kuchen,Lockere Chefin,Katharina,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Miriam,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Miriam,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Luisa,Anna,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Sophie,Anna,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Sophie,Luisa,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Luisa,Katharina,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Anna,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Lockere Chefin,Luisa,Anna,schlecht,"2
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Luisa,Anna,schlecht,"2
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Katharina,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Katharina,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde. Miriam hat also nicht direkt gesagt, dass"
+Kuchen,Lockere Chefin,Luisa,Anna,schlecht,"2
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Katharina,Luisa,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Anna,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Lockere Chefin,Sophie,Miriam,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Anna,Miriam,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Lockere Chefin,Anna,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Lockere Chefin,Luisa,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Luisa,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Lockere Chefin,Miriam,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Lockere Chefin,Sophie,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Gefürchtete Chefin,Anna,Miriam,großartig,"4
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde, was bedeutet, dass Miriam nicht direkt die"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,großartig,"4
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,großartig,"4
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Gefürchtete Chefin,Anna,Katharina,großartig,"5
+Bitte beachten Sie, dass die Bewertung nur auf die Aussage ""Es war großartig"" basiert und nicht auf die"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,großartig,"4
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Kuchen,Gefürchtete Chefin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Kuchen,Gefürchtete Chefin,Sophie,Miriam,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Kuchen,Gefürchtete Chefin,Luisa,Sophie,großartig,"4
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Sophie fragt, sondern nach der wahrschein"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Anna hat den"
+Kuchen,Gefürchtete Chefin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Gefürchtete Chefin,Luisa,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Kathar"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Gefürchtete Chefin,Sophie,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Enge Freundin,Katharina,Miriam,großartig,"5
+Bitte beachten Sie, dass die Frage nur eine Zahl erfordert. Eine Erklärung ist nicht erforderlich. Antworten Sie"
+Lied,Enge Freundin,Sophie,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Enge Freundin,Luisa,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Enge Freundin,Miriam,Anna,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Sophie,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Enge Freundin,Katharina,Miriam,großartig,"5
+Bitte beachten Sie, dass die Frage nur eine Zahl erfordert. Eine Erklärung ist nicht erforderlich. Antworten Sie"
+Lied,Enge Freundin,Luisa,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Enge Freundin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Anna,Miriam,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Katharina,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Enge Freundin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Miriam,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Enge Freundin,Luisa,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Enge Freundin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Enge Freundin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Katharina,Miriam,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung von Miriam gestellt wurde und Katharina nach der Meinung frag"
+Lied,Enge Freundin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Sophie,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Sophie,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Lied,Enge Freundin,Anna,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Enge Freundin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Lied,Enge Freundin,Anna,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Enge Freundin,Katharina,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Anna hat das"
+Lied,Enge Freundin,Anna,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Enge Freundin,Katharina,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Miriam,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Enge Freundin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Enge Freundin,Luisa,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Enge Freundin,Luisa,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Enge Freundin,Luisa,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Katharina,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Enge Freundin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Enge Freundin,Anna,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Anna,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Lied,Enge Freundin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Anna,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung nicht lesen. Ich werde die Antwort"
+Lied,Enge Freundin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Luisa,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Miriam,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Enge Freundin,Luisa,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Enge Freundin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Enge Freundin,Katharina,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Lied,Enge Freundin,Miriam,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Miriam,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Entfernte Kollegin,Miriam,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Entfernte Kollegin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Bewertungsskala von 1 (sehr schlecht) bis 5 (sehr"
+Lied,Entfernte Kollegin,Sophie,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Luisa,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Anna,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Sophie,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Entfernte Kollegin,Katharina,Anna,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Sophie,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Miriam,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Entfernte Kollegin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Anna,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Entfernte Kollegin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Lied,Entfernte Kollegin,Luisa,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Entfernte Kollegin,Katharina,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung nicht lesen. Ich werde die Antwort"
+Lied,Entfernte Kollegin,Miriam,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung nicht lesen. Ich werde die Antwort"
+Lied,Entfernte Kollegin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Lied,Entfernte Kollegin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Lied,Entfernte Kollegin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Miriam,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Entfernte Kollegin,Anna,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Entfernte Kollegin,Luisa,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Entfernte Kollegin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe Ihre Antwort als Erklärung interpretiert. Bitte geben"
+Lied,Entfernte Kollegin,Anna,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Entfernte Kollegin,Luisa,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Lied,Entfernte Kollegin,Sophie,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Katharina,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Miriam,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Lied,Entfernte Kollegin,Miriam,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Anna,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Entfernte Kollegin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Lied,Entfernte Kollegin,Luisa,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Entfernte Kollegin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Entfernte Kollegin,Miriam,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Entfernte Kollegin,Anna,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Entfernte Kollegin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Lied,Entfernte Kollegin,Anna,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Miriam,Sophie,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Entfernte Kollegin,Anna,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Entfernte Kollegin,Sophie,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Entfernte Kollegin,Sophie,Luisa,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Katharina,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Sophie,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Katharina,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Entfernte Kollegin,Anna,Miriam,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Lockere Chefin,Sophie,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Lockere Chefin,Luisa,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Lockere Chefin,Luisa,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Lockere Chefin,Katharina,Miriam,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Katharina,Anna,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Miriam,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Lockere Chefin,Miriam,Anna,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Lockere Chefin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Luisa,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Lockere Chefin,Luisa,Sophie,großartig,"4
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Lockere Chefin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Sophie,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Anna,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Luisa,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort"
+Lied,Lockere Chefin,Katharina,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Lockere Chefin,Miriam,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Luisa,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Anna,Luisa,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Katharina,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Anna,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Lockere Chefin,Anna,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Miriam,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Anna,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Miriam,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Miriam,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Katharina,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Lockere Chefin,Katharina,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Miriam,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Lockere Chefin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Lockere Chefin,Sophie,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Lockere Chefin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Lockere Chefin,Anna,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Sophie,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Sophie,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Sophie,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Luisa,Sophie,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Lockere Chefin,Katharina,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Lockere Chefin,Anna,Miriam,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Lockere Chefin,Luisa,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Lied,Lockere Chefin,Miriam,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Lockere Chefin,Sophie,Miriam,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Sophie,Miriam,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Sophie,Anna,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Miriam,Luisa,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Katharina,Anna,großartig,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Katharina,Luisa,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Sophie,Anna,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Katharina,Luisa,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Gefürchtete Chefin,Luisa,Miriam,großartig,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Luisa,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Gefürchtete Chefin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Miriam,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Anna,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Gefürchtete Chefin,Luisa,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Luisa,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Luisa,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Anna,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Gefürchtete Chefin,Miriam,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Gefürchtete Chefin,Sophie,Luisa,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Gefürchtete Chefin,Miriam,Katharina,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Miriam,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Gefürchtete Chefin,Katharina,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Sophie,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Katharina,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Gefürchtete Chefin,Miriam,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Luisa,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Miriam,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Luisa,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Lied,Gefürchtete Chefin,Miriam,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Lied,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Lied,Gefürchtete Chefin,Sophie,Luisa,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Lied,Gefürchtete Chefin,Miriam,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Enge Freundin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Film,Enge Freundin,Sophie,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der Mein"
+Film,Enge Freundin,Sophie,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der Mein"
+Film,Enge Freundin,Katharina,Anna,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Film,Enge Freundin,Anna,Katharina,großartig,"5
+Bitte beachten Sie, dass die Frage nur eine Zahl anfordert. Eine Erklärung ist nicht erforderlich. Antworten Sie"
+Film,Enge Freundin,Anna,Katharina,großartig,"5
+Bitte beachten Sie, dass die Frage nur eine Zahl anfordert. Eine Erklärung ist nicht erforderlich. Antworten Sie"
+Film,Enge Freundin,Katharina,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nur eine Zahl erfordert. Eine Erklärung ist nicht erforderlich. Antworten Sie"
+Film,Enge Freundin,Miriam,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der Mein"
+Film,Enge Freundin,Luisa,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Enge Freundin,Miriam,Anna,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Film,Enge Freundin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Film,Enge Freundin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde, also nach Katharinas subjektiver Bewertung"
+Film,Enge Freundin,Luisa,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Luisa,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Enge Freundin,Katharina,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Film,Enge Freundin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage ""Wie denken Sie, dass Katharina den Film wirklich fand"" eine subjekt"
+Film,Enge Freundin,Miriam,Anna,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Film,Enge Freundin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Film,Enge Freundin,Luisa,Anna,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Enge Freundin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Sophie,Anna,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Enge Freundin,Anna,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Enge Freundin,Anna,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Anna,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Sophie,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Luisa,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Anna,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Enge Freundin,Luisa,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Luisa,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Miriam eine negative Meinung äußerte"
+Film,Enge Freundin,Luisa,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Enge Freundin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Film,Enge Freundin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Film,Enge Freundin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Enge Freundin,Anna,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Enge Freundin,Katharina,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Enge Freundin,Sophie,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Enge Freundin,Luisa,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Enge Freundin,Sophie,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Enge Freundin,Sophie,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Enge Freundin,Sophie,Miriam,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Anna,Miriam,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Enge Freundin,Miriam,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Enge Freundin,Katharina,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Enge Freundin,Sophie,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Enge Freundin,Sophie,Miriam,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Entfernte Kollegin,Katharina,Luisa,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Entfernte Kollegin,Anna,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Miriam,Anna,großartig,"5
+Bitte beachten Sie, dass die Frage nach der Meinung von Anna gestellt wurde, um die wahre Meinung von Anna zu"
+Film,Entfernte Kollegin,Miriam,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Luisa,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Entfernte Kollegin,Anna,Miriam,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Katharina,Anna,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach Ihrer eigenen Mein"
+Film,Entfernte Kollegin,Anna,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Anna,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Entfernte Kollegin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erst nach der Antwort lesen. Ich"
+Film,Entfernte Kollegin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage ""Wie denken Sie, dass Katharina den Film wirklich fand"" bedeutet,"
+Film,Entfernte Kollegin,Katharina,Miriam,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der Bewert"
+Film,Entfernte Kollegin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Luisa,Sophie,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Entfernte Kollegin,Miriam,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Entfernte Kollegin,Miriam,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Film,Entfernte Kollegin,Katharina,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Film,Entfernte Kollegin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Entfernte Kollegin,Sophie,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Katharina,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Sophie,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort"
+Film,Entfernte Kollegin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Entfernte Kollegin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe Ihre Antwort als Erklärung interpretiert. Bitte geben"
+Film,Entfernte Kollegin,Katharina,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Luisa,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Entfernte Kollegin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Entfernte Kollegin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Entfernte Kollegin,Luisa,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Film,Entfernte Kollegin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erst nach der Antwort lesen. Ich"
+Film,Entfernte Kollegin,Katharina,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erst nach der Antwort lesen. Ich"
+Film,Entfernte Kollegin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Film,Entfernte Kollegin,Anna,Luisa,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Katharina,Miriam,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Entfernte Kollegin,Luisa,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Miriam,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Anna,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Sophie,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Entfernte Kollegin,Katharina,Miriam,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Entfernte Kollegin,Miriam,Sophie,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Entfernte Kollegin,Katharina,Miriam,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Katharina,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Miriam,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Luisa,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Anna,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Katharina,Miriam,großartig,"5
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde. Die Antwort ""Es war großartig"" ist"
+Film,Lockere Chefin,Katharina,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Sophie,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Film,Lockere Chefin,Miriam,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Film,Lockere Chefin,Katharina,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Sophie,Miriam,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Luisa,Katharina,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Katharina,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Lockere Chefin,Sophie,Anna,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Anna,Sophie,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Film,Lockere Chefin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Film,Lockere Chefin,Anna,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort"
+Film,Lockere Chefin,Anna,Sophie,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Katharina,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Lockere Chefin,Luisa,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Lockere Chefin,Miriam,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Lockere Chefin,Sophie,Miriam,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Miriam,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Lockere Chefin,Miriam,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Film,Lockere Chefin,Anna,Sophie,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Miriam,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Lockere Chefin,Anna,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Lockere Chefin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Lockere Chefin,Katharina,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Katharina,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Katharina,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Luisa,Sophie,schlecht,"2
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Lockere Chefin,Katharina,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Miriam,Sophie,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Luisa,Miriam,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Sophie,Luisa,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Film,Lockere Chefin,Luisa,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Katharina,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Lockere Chefin,Luisa,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Miriam,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Sophie,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung nicht lesen. Ich werde die Antwort"
+Film,Lockere Chefin,Luisa,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Lockere Chefin,Miriam,Sophie,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Sophie,Anna,großartig,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Anna,Miriam,großartig,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Luisa,Miriam,großartig,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der wah"
+Film,Gefürchtete Chefin,Anna,Sophie,großartig,"5
+Bitte beachten Sie, dass dies ein Test für Ihre Fähigkeit ist, die wahre Meinung einer Person zu verstehen."
+Film,Gefürchtete Chefin,Katharina,Luisa,großartig,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach Ihrer Eins"
+Film,Gefürchtete Chefin,Luisa,Miriam,großartig,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der wah"
+Film,Gefürchtete Chefin,Sophie,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Anna,Sophie,großartig,"5
+Bitte beachten Sie, dass dies ein Test für Ihre Fähigkeit ist, die wahre Meinung einer Person zu verstehen."
+Film,Gefürchtete Chefin,Sophie,Luisa,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Miriam,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Miriam,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Katharina,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Katharina,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Luisa,Sophie,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Gefürchtete Chefin,Katharina,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Luisa,Sophie,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Film,Gefürchtete Chefin,Anna,Luisa,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Gefürchtete Chefin,Anna,Katharina,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Film,Gefürchtete Chefin,Sophie,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Miriam,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Gefürchtete Chefin,Sophie,Katharina,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Anna,Luisa,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Gefürchtete Chefin,Sophie,Luisa,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Sophie,Luisa,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Miriam,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Gefürchtete Chefin,Miriam,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Gefürchtete Chefin,Sophie,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Gefürchtete Chefin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Luisa,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Anna,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Sophie,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Film,Gefürchtete Chefin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Luisa,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Katharina,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Anna,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Film,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Katharina,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Film,Gefürchtete Chefin,Sophie,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Theater,Enge Freundin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Sophie,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Anna,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Miriam,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Miriam,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Enge Freundin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Enge Freundin,Anna,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Luisa,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Theater,Enge Freundin,Miriam,Luisa,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Luisa eine positive Antwort gibt. Die Frage ist"
+Theater,Enge Freundin,Miriam,Luisa,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der wah"
+Theater,Enge Freundin,Katharina,Miriam,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der wah"
+Theater,Enge Freundin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Enge Freundin,Luisa,Miriam,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Theater,Enge Freundin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Enge Freundin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der wah"
+Theater,Enge Freundin,Katharina,Luisa,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Luisa eine positive Antwort gibt. Es ist also"
+Theater,Enge Freundin,Katharina,Anna,okay,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Theater,Enge Freundin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Theater,Enge Freundin,Katharina,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe die Frage falsch verstanden und habe eine Erklär"
+Theater,Enge Freundin,Miriam,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Enge Freundin,Luisa,Anna,okay,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Theater,Enge Freundin,Sophie,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Enge Freundin,Katharina,Miriam,okay,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam, sondern nach der wahrscheinlichen"
+Theater,Enge Freundin,Anna,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Enge Freundin,Sophie,Anna,okay,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Theater,Enge Freundin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Enge Freundin,Anna,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der wah"
+Theater,Enge Freundin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Theater,Enge Freundin,Katharina,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der wah"
+Theater,Enge Freundin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Theater,Enge Freundin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Enge Freundin,Katharina,Anna,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Theater,Enge Freundin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Theater,Enge Freundin,Katharina,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der wah"
+Theater,Enge Freundin,Miriam,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Enge Freundin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Sophie fragt, sondern nach der wahrschein"
+Theater,Enge Freundin,Miriam,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Enge Freundin,Luisa,Sophie,schrecklich,"2
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Luisa,Anna,schrecklich,"2
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Enge Freundin,Sophie,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Frage nicht nach der Meinung von Sophie, sondern nach der Meinung von Miriam fragt."
+Theater,Enge Freundin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erst nach der Antwort lesen. Ich"
+Theater,Enge Freundin,Anna,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Enge Freundin,Anna,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Enge Freundin,Anna,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Enge Freundin,Miriam,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung nicht lesen. Ich werde die Antwort"
+Theater,Enge Freundin,Katharina,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam geht, sondern nach der wahrschein"
+Theater,Entfernte Kollegin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der wah"
+Theater,Entfernte Kollegin,Katharina,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Entfernte Kollegin,Luisa,Katharina,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Entfernte Kollegin,Luisa,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Entfernte Kollegin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Entfernte Kollegin,Anna,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Entfernte Kollegin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Entfernte Kollegin,Katharina,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Luisa die Aufführung als ""groß"
+Theater,Entfernte Kollegin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Entfernte Kollegin,Sophie,Luisa,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Entfernte Kollegin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach Katharinas Meinung, sondern nach Ihrer Meinung ist. Sie sollten also ant"
+Theater,Entfernte Kollegin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Katharina eine neutrale Antwort gibt. Die"
+Theater,Entfernte Kollegin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Theater,Entfernte Kollegin,Katharina,Sophie,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Sophie eine positive Antwort gibt. Das bedeutet,"
+Theater,Entfernte Kollegin,Miriam,Sophie,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Sophie also nicht direkt die Wahrheit sagt."
+Theater,Entfernte Kollegin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage ""Wie denken Sie, dass Katharina die Aufführung wirklich fand"" bedeut"
+Theater,Entfernte Kollegin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach Katharinas Meinung, sondern nach Ihrer Meinung ist. Sie sollten also ant"
+Theater,Entfernte Kollegin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Entfernte Kollegin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Katharina eine neutrale Antwort gibt. Die"
+Theater,Entfernte Kollegin,Sophie,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Entfernte Kollegin,Sophie,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Theater,Entfernte Kollegin,Luisa,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere Ihre Antwort, wenn sie nicht korrekt"
+Theater,Entfernte Kollegin,Anna,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Entfernte Kollegin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Theater,Entfernte Kollegin,Katharina,Anna,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Entfernte Kollegin,Miriam,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Entfernte Kollegin,Luisa,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe die Erklärung entfernt, um die Antwort zu"
+Theater,Entfernte Kollegin,Luisa,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere Ihre Antwort, wenn sie nicht korrekt"
+Theater,Entfernte Kollegin,Miriam,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Entfernte Kollegin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Theater,Entfernte Kollegin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe die Frage falsch verstanden und habe eine Erklär"
+Theater,Entfernte Kollegin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Anna eine negative Meinung äußerte."
+Theater,Entfernte Kollegin,Katharina,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Miriam eine negative Meinung äußerte"
+Theater,Entfernte Kollegin,Katharina,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Miriam eine negative Meinung äußerte"
+Theater,Entfernte Kollegin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach Katharinas Meinung fragt, sondern nach Ihrer Meinung, wie Kathar"
+Theater,Entfernte Kollegin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe die Frage falsch verstanden und habe eine Erklär"
+Theater,Entfernte Kollegin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe Ihre Antwort als Erklärung interpretiert. Bitte geben"
+Theater,Entfernte Kollegin,Katharina,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Miriam eine negative Meinung äußerte"
+Theater,Entfernte Kollegin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach Katharinas Meinung fragt, sondern nach Ihrer Meinung, wie Kathar"
+Theater,Entfernte Kollegin,Luisa,Anna,schlecht,"2
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Anna sagt, dass es ""schlecht"""
+Theater,Entfernte Kollegin,Miriam,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der Meinung"
+Theater,Entfernte Kollegin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Entfernte Kollegin,Sophie,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Theater,Entfernte Kollegin,Anna,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Entfernte Kollegin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Entfernte Kollegin,Katharina,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Entfernte Kollegin,Anna,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Theater,Entfernte Kollegin,Miriam,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Entfernte Kollegin,Miriam,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Entfernte Kollegin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der wah"
+Theater,Lockere Chefin,Anna,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Anna,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Anna,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der wah"
+Theater,Lockere Chefin,Anna,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Sophie,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Anna,Sophie,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Sophie,Miriam,großartig,"4
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Sophie,Anna,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Luisa,Miriam,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Lockere Chefin,Sophie,Anna,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der Meinung von Katharina, sondern nach der Bewertung von Katharina"
+Theater,Lockere Chefin,Miriam,Luisa,gut,"3
+Bitte beachten Sie, dass die Frage nach der Meinung gefragt wurde und Luisa eine neutrale Antwort gibt. Die Frage"
+Theater,Lockere Chefin,Anna,Sophie,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Luisa,Anna,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Anna,Sophie,gut,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Theater,Lockere Chefin,Luisa,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe Ihre Antwort als Erklärung interpretiert. Bitte geben"
+Theater,Lockere Chefin,Miriam,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Theater,Lockere Chefin,Miriam,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Miriam,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Katharina,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Lockere Chefin,Anna,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Katharina,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Lockere Chefin,Sophie,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Katharina,Sophie,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Anna,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort"
+Theater,Lockere Chefin,Katharina,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe mich geirrt. Ich hoffe, Sie"
+Theater,Lockere Chefin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Theater,Lockere Chefin,Katharina,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Theater,Lockere Chefin,Sophie,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Lockere Chefin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Lockere Chefin,Sophie,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Lockere Chefin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Theater,Lockere Chefin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Frage nicht nach der Meinung von Anna, sondern nach der Meinung von Katharina fragt"
+Theater,Lockere Chefin,Katharina,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Lockere Chefin,Sophie,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Katharina,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Theater,Lockere Chefin,Anna,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Sophie,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Luisa,Miriam,schrecklich,"2
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Lockere Chefin,Miriam,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Miriam,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Theater,Lockere Chefin,Sophie,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Lockere Chefin,Sophie,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Theater,Lockere Chefin,Anna,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Theater,Gefürchtete Chefin,Luisa,Miriam,großartig,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Gefürchtete Chefin,Katharina,Anna,großartig,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Miriam,Anna,großartig,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Anna fragt, sondern nach der wahrschein"
+Theater,Gefürchtete Chefin,Katharina,Anna,großartig,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Katharina,Luisa,großartig,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Luisa fragt, sondern nach der wah"
+Theater,Gefürchtete Chefin,Anna,Luisa,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Gefürchtete Chefin,Anna,Katharina,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Gefürchtete Chefin,Luisa,Sophie,großartig,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Gefürchtete Chefin,Sophie,Luisa,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Gefürchtete Chefin,Anna,Miriam,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Miriam fragt, sondern nach der wah"
+Theater,Gefürchtete Chefin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Theater,Gefürchtete Chefin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Theater,Gefürchtete Chefin,Miriam,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Katharina,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Theater,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Theater,Gefürchtete Chefin,Miriam,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Frage nicht nach der tatsächlichen Meinung von Katharina fragt, sondern nach der"
+Theater,Gefürchtete Chefin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Theater,Gefürchtete Chefin,Luisa,Anna,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Gefürchtete Chefin,Anna,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Theater,Gefürchtete Chefin,Luisa,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Luisa,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe mich geirrt. Ich hoffe, Sie"
+Theater,Gefürchtete Chefin,Luisa,Anna,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Gefürchtete Chefin,Katharina,Luisa,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Katharina,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Katharina,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Miriam,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Gefürchtete Chefin,Katharina,Sophie,okay,"3
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Gefürchtete Chefin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Gefürchtete Chefin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Theater,Gefürchtete Chefin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Theater,Gefürchtete Chefin,Luisa,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe mich geirrt. Ich hoffe, Sie"
+Theater,Gefürchtete Chefin,Katharina,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Luisa,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Theater,Gefürchtete Chefin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Theater,Gefürchtete Chefin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Theater,Gefürchtete Chefin,Anna,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Sophie,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Luisa,Anna,schrecklich,"2
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Theater,Gefürchtete Chefin,Sophie,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Theater,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erst nach der Antwort lesen. Ich"
+Theater,Gefürchtete Chefin,Anna,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Theater,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Theater,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Theater,Gefürchtete Chefin,Katharina,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Enge Freundin,Sophie,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Katharina,Miriam,großartig,"5
+Bitte beachten Sie, dass die Frage nicht nach der wahrscheinlichen Meinung von Miriam fragt, sondern nach der tats"
+Gitarre,Enge Freundin,Sophie,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Enge Freundin,Luisa,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Miriam,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Miriam,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Miriam,Anna,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Miriam,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Katharina,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Enge Freundin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Katharina,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Luisa,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Anna hat das"
+Gitarre,Enge Freundin,Katharina,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Enge Freundin,Anna,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Luisa,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Anna,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Enge Freundin,Anna,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Luisa,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Anna,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Enge Freundin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Anna,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Enge Freundin,Katharina,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Enge Freundin,Anna,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Enge Freundin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Enge Freundin,Sophie,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. Ich hoffe"
+Gitarre,Enge Freundin,Miriam,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich korrigiere die Antworten, die eine Erklärung ent"
+Gitarre,Enge Freundin,Miriam,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Enge Freundin,Sophie,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Entfernte Kollegin,Sophie,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Entfernte Kollegin,Sophie,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Entfernte Kollegin,Sophie,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Anna,Katharina,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Entfernte Kollegin,Luisa,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Entfernte Kollegin,Luisa,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe die Frage falsch verstanden und habe eine Erklär"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Gitarre,Entfernte Kollegin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Gitarre,Entfernte Kollegin,Luisa,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Anna hat das"
+Gitarre,Entfernte Kollegin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. Ich hoffe"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich habe Ihre Antwort als Erklärung interpretiert. Bitte geben"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Gitarre,Entfernte Kollegin,Anna,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Sophie,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Anna,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Luisa"
+Gitarre,Entfernte Kollegin,Anna,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Entfernte Kollegin,Anna,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Entfernte Kollegin,Anna,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Entfernte Kollegin,Katharina,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Miriam,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Katharina,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Miriam,Luisa,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Entfernte Kollegin,Anna,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Luisa,Anna,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Lockere Chefin,Miriam,Anna,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Sophie,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Anna,Sophie,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Anna,Miriam,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Sophie,Anna,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Katharina,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Lockere Chefin,Miriam,Katharina,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Sophie,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Gitarre,Lockere Chefin,Luisa,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Katharina,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Lockere Chefin,Sophie,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Anna,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Luisa,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Lockere Chefin,Luisa,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Sophie,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Anna,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Katharina,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Miriam,Katharina,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Anna,Sophie,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Gitarre,Lockere Chefin,Luisa,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Anna,Luisa,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Miriam,Anna,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Lockere Chefin,Miriam,Luisa,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Lockere Chefin,Miriam,Luisa,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Lockere Chefin,Sophie,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Sophie,Anna,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Miriam,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Lockere Chefin,Anna,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Lockere Chefin,Sophie,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Lockere Chefin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Lockere Chefin,Luisa,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Katharina,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Anna,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Ich hoffe"
+Gitarre,Lockere Chefin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Luisa,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Lockere Chefin,Sophie,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Lockere Chefin,Sophie,Anna,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Lockere Chefin,Katharina,Anna,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Lockere Chefin,Luisa,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Luisa,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Lockere Chefin,Miriam,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Gefürchtete Chefin,Sophie,Anna,großartig,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Miriam,Anna,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,großartig,"5
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,großartig,"4
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,großartig,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,großartig,"5
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,gut,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. Ich hoffe"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,okay,"3
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung erstellen. Vielen Dank für"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,okay,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,schlecht,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen das Szenario und"
+Gitarre,Gefürchtete Chefin,Anna,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde Ihre Antwort prüfen und Ihnen mitteilen,"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"2
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich werde die Erklärung schreiben. 
+
+Die Antwort ist"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,schrecklich,"1
+Bitte beachten Sie, dass die Antwort nur eine Zahl sein sollte. Ich hoffe, Sie verstehen. Ich warte auf"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+Bitte lesen Sie das Szenario sorgfältig und geben Sie an, wie die Person die Situation wirklich bewertet."

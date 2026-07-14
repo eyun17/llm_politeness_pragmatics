@@ -1,0 +1,2898 @@
+situation,relationship,personA,personB,state,response_text
+Kuchen,Enge Freundin,Anna,Miriam,1,"schrecklich""!\"".
+Miriam fand den Kuchen 1 von 5 Herzen.
+Keine Erklärung. Nur das"
+Kuchen,Enge Freundin,Katharina,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Miriam. Kath"
+Kuchen,Enge Freundin,Luisa,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa baked"
+Kuchen,Enge Freundin,Miriam,Katharina,1,"schrecklich""!\"".
+schrecklich. 
+
+Okay, let me try to work through this. So the scenario is about Miriam and"
+Kuchen,Enge Freundin,Anna,Miriam,1,"schrecklich""!\"".
+Miriam fand den Kuchen 1 von 5 Herzen.
+Keine Erklärung. Nur das"
+Kuchen,Enge Freundin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie baked"
+Kuchen,Enge Freundin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam baked"
+Kuchen,Enge Freundin,Luisa,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa baked"
+Kuchen,Enge Freundin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let's break this down. So, Sophie is Anna's best friend. Sophie baked a cake, and"
+Kuchen,Enge Freundin,Luisa,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa baked"
+Kuchen,Enge Freundin,Luisa,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa and Miriam. Luisa baked"
+Kuchen,Enge Freundin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna baked a"
+Kuchen,Enge Freundin,Katharina,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Katharina and Sophie. Katharina"
+Kuchen,Enge Freundin,Luisa,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Kuchen,Enge Freundin,Sophie,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. Sophie is Miriam's best friend. Sophie baked a cake, and Mir"
+Kuchen,Enge Freundin,Miriam,Anna,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam and Anna. Miriam baked a cake,"
+Kuchen,Enge Freundin,Katharina,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Katharina and Miriam. Kathar"
+Kuchen,Enge Freundin,Luisa,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa and Sophie. Luisa baked a"
+Kuchen,Enge Freundin,Miriam,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Miriam and Sophie. Miriam baked a"
+Kuchen,Enge Freundin,Katharina,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Katharina and Miriam. Kathar"
+Kuchen,Enge Freundin,Miriam,Anna,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Kuchen,Enge Freundin,Sophie,Luisa,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Enge Freundin,Anna,Miriam,3,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Kuchen,Enge Freundin,Katharina,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Das Adjektiv ist **okay**.  
+Antwort"
+Kuchen,Enge Freundin,Miriam,Anna,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Kuchen,Enge Freundin,Miriam,Sophie,3,"okay"".\""  
+Okay. Das ist das Adjektiv, das Sophie verwendet hat, um den Kuchen zu bewerten. Die Bewertung von"
+Kuchen,Enge Freundin,Katharina,Sophie,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Enge Freundin,Sophie,Miriam,3,"schrecklich""!\"".
+Okay, let's break this down. Sophie is Miriam's close friend. Sophie baked a cake, and Mir"
+Kuchen,Enge Freundin,Katharina,Sophie,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Enge Freundin,Anna,Sophie,3,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Sophie bewertete den Kuchen mit 3 von 5 Herzen,"
+Kuchen,Enge Freundin,Luisa,Miriam,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Luisa and Miriam. Luisa baked a cake,"
+Kuchen,Enge Freundin,Luisa,Miriam,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Luisa and Miriam. Luisa baked a cake,"
+Kuchen,Enge Freundin,Katharina,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Katharina and Anna. Katharina baked a cake"
+Kuchen,Enge Freundin,Miriam,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam and Anna. Miriam baked a cake, and"
+Kuchen,Enge Freundin,Sophie,Anna,4,"gut""!\"".
+Okay, let's break this down. Sophie is Anna's best friend. Sophie baked a cake, and Anna tried it"
+Kuchen,Enge Freundin,Miriam,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam and Anna. Miriam baked a cake, and"
+Kuchen,Enge Freundin,Katharina,Miriam,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Katharina and Miriam. Katharina baked"
+Kuchen,Enge Freundin,Luisa,Anna,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa baked a"
+Kuchen,Enge Freundin,Luisa,Katharina,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Luisa baking a cake and asking Katharina for her"
+Kuchen,Enge Freundin,Sophie,Anna,4,"gut""!\"".
+Okay, let's break this down. Sophie is Anna's best friend. Sophie baked a cake, and Anna tried it"
+Kuchen,Enge Freundin,Miriam,Sophie,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:** Sophie bewertet den Kuchen mit 5 von"
+Kuchen,Enge Freundin,Miriam,Sophie,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:** Sophie bewertet den Kuchen mit 5 von"
+Kuchen,Enge Freundin,Luisa,Anna,5,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa baked"
+Kuchen,Enge Freundin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Kuchen mit 5 von 5 Herzen"
+Kuchen,Enge Freundin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Kuchen mit 5 von 5 Herzen"
+Kuchen,Enge Freundin,Luisa,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam sagt: \""Es war ""großartig""!\""."
+Kuchen,Enge Freundin,Miriam,Anna,5,"großartig""!\""  
+großartig.  
+großartig.  
+großartig.  
+großartig"
+Kuchen,Enge Freundin,Luisa,Sophie,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:** Sophie bewertet den Kuchen mit 5 von"
+Kuchen,Enge Freundin,Miriam,Anna,5,"großartig""!\""  
+großartig.  
+großartig.  
+großartig.  
+großartig"
+Kuchen,Enge Freundin,Miriam,Anna,5,"großartig""!\""  
+großartig.  
+großartig.  
+großartig.  
+großartig"
+Kuchen,Entfernte Kollegin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam is"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. Sophie is Miriam's distant colleague. Sophie baked a cake, and Mir"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie is"
+Kuchen,Entfernte Kollegin,Anna,Katharina,1,"schrecklich""!\"".
+schrecklich. 
+
+Okay, let me try to work through this. So the scenario is about Anna and Kath"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. Sophie is Miriam's distant colleague. Sophie baked a cake, and Mir"
+Kuchen,Entfernte Kollegin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is a distant"
+Kuchen,Entfernte Kollegin,Anna,Miriam,1,"schrecklich""!\"".
+Miriam fand den Kuchen 1 von 5 Herzen.
+Keine Erklärung. Nur das"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,1,"schrecklich""!\"".
+Miriam fand den Kuchen 1 von 5 Herzen.
+Die Antwort ist: schrecklich."
+Kuchen,Entfernte Kollegin,Katharina,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa. Kath"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,1,"schrecklich""!\"".
+Keine Erklärung. Nur das Adjektiv.
+schrecklich. 
+
+Okay, let me try to"
+Kuchen,Entfernte Kollegin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is a"
+Kuchen,Entfernte Kollegin,Sophie,Anna,2,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. So, Miriam is Sophie's distant colleague. Miriam baked a cake"
+Kuchen,Entfernte Kollegin,Anna,Miriam,2,"schrecklich""!\"".
+Miriam fand den Kuchen 2 von 5 Herzen.
+Anna fragt nach der Meinung."
+Kuchen,Entfernte Kollegin,Anna,Miriam,2,"schrecklich""!\"".
+Miriam fand den Kuchen 2 von 5 Herzen.
+Anna fragt nach der Meinung."
+Kuchen,Entfernte Kollegin,Luisa,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa, who is Sophie's distant colleague"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Katharina and Miriam. Kathar"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Katharina and Miriam. Kathar"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Kuchen,Entfernte Kollegin,Sophie,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is a"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,3,"okay"".\""  
+Okay. Das ist die Antwort. Der Kuchen wurde mit 3 von 5 Herzen bewertet, was als """
+Kuchen,Entfernte Kollegin,Katharina,Anna,3,"okay"".\""
+Okay. 
+
+Anna's response of ""okay"" indicates a neutral or average opinion, which aligns with her rating of 3"
+Kuchen,Entfernte Kollegin,Anna,Luisa,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Entfernte Kollegin,Sophie,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Kuchen,Entfernte Kollegin,Anna,Luisa,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Entfernte Kollegin,Anna,Katharina,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Entfernte Kollegin,Katharina,Anna,4,"gut""!\"".
+Okay, let's break this down. So, the scenario is about Katharina, who is Anna's distant colleague"
+Kuchen,Entfernte Kollegin,Anna,Miriam,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Anna and Miriam. Anna is Miriam's distant colleague"
+Kuchen,Entfernte Kollegin,Anna,Katharina,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is a"
+Kuchen,Entfernte Kollegin,Anna,Katharina,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is a"
+Kuchen,Entfernte Kollegin,Sophie,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is a distant colleague"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Katharina, who is Sophie's distant colleague."
+Kuchen,Entfernte Kollegin,Anna,Sophie,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Anna and Sophie. Anna is a distant colleague of Sophie."
+Kuchen,Entfernte Kollegin,Luisa,Katharina,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luisa is"
+Kuchen,Entfernte Kollegin,Anna,Luisa,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Anna and Luisa. Anna is a distant colleague of Luis"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,4,"gut""!\"".
+Okay, but the user wants only the adjective. Let me check the scenario again. Miriam is a distant colleague of"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,5,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Kuchen,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Kuchen mit 5 von 5 Herzen"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa."
+Kuchen,Entfernte Kollegin,Luisa,Miriam,5,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Kuchen,Entfernte Kollegin,Miriam,Katharina,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina."
+Kuchen,Entfernte Kollegin,Luisa,Anna,5,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is"
+Kuchen,Entfernte Kollegin,Katharina,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kath"
+Kuchen,Entfernte Kollegin,Miriam,Anna,5,"großartig""!\""  
+großartig.  
+großartig.  
+großartig.  
+großartig"
+Kuchen,Entfernte Kollegin,Anna,Katharina,5,"großartig""!\"".
+großartig. 
+
+großartig. 
+
+großartig. 
+
+großartig"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Kuchen mit 5 von 5 Herzen"
+Kuchen,Lockere Chefin,Katharina,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Miriam"
+Kuchen,Lockere Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie, who is Anna's loose ("
+Kuchen,Lockere Chefin,Sophie,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Kuchen,Lockere Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Anna's"
+Kuchen,Lockere Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Kuchen,Lockere Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie, who is Anna's loose ("
+Kuchen,Lockere Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Miriam fand den Kuchen 1 von 5 Herzen. Das ist sehr schlecht. Die Antwort"
+Kuchen,Lockere Chefin,Anna,Miriam,1,"schrecklich""!\"".
+Miriam fand den Kuchen 1 von 5 Herzen.
+Die Antwort ist: schrecklich."
+Kuchen,Lockere Chefin,Anna,Sophie,1,"schrecklich""!\"".
+Keine Erklärung. Nur das Adjektiv.
+schrecklich. 
+
+Okay, let me try to"
+Kuchen,Lockere Chefin,Luisa,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katherine's loose"
+Kuchen,Lockere Chefin,Luisa,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katherine's loose"
+Kuchen,Lockere Chefin,Katharina,Anna,2,"okay"".\""
+Okay. 
+
+Anna fand den Kuchen mit 2 von 5 Herzen. Das entspricht einer neutralen Bewert"
+Kuchen,Lockere Chefin,Katharina,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Katharina, who is Sophie's loose"
+Kuchen,Lockere Chefin,Anna,Sophie,2,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Sophie bewertete den Kuchen mit 2 von 5 Herzen,"
+Kuchen,Lockere Chefin,Sophie,Anna,2,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Kuchen,Lockere Chefin,Luisa,Anna,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa, who is Anna's loose ("
+Kuchen,Lockere Chefin,Miriam,Katharina,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Mir"
+Kuchen,Lockere Chefin,Anna,Miriam,2,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Kuchen,Lockere Chefin,Luisa,Anna,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa, who is Anna's loose ("
+Kuchen,Lockere Chefin,Katharina,Anna,2,"okay"".\""
+Okay. 
+
+Anna fand den Kuchen mit 2 von 5 Herzen. Das entspricht einer neutralen Bewert"
+Kuchen,Lockere Chefin,Sophie,Miriam,3,"okay"".\""  
+Okay. Sophie's question is about how she thinks she did with the cake. Miriam gave it 3 out of 5"
+Kuchen,Lockere Chefin,Miriam,Luisa,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Kuchen,Lockere Chefin,Anna,Katharina,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Lockere Chefin,Katharina,Luisa,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Lockere Chefin,Katharina,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Das Adjektiv ist **okay**.  
+Antwort"
+Kuchen,Lockere Chefin,Anna,Katharina,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Lockere Chefin,Luisa,Miriam,3,"okay"".\""
+Okay. 
+
+Miriam fand den Kuchen mit 3 von 5 Herzen. Das entspricht einer neutralen"
+Kuchen,Lockere Chefin,Katharina,Sophie,3,"okay"".\""
+Okay. Das Adjektiv ist ""okay"". Es passt zur Bewertung von Sophie, die den Kuchen mit 3"
+Kuchen,Lockere Chefin,Anna,Katharina,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Lockere Chefin,Anna,Luisa,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Lockere Chefin,Anna,Katharina,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is Kath"
+Kuchen,Lockere Chefin,Miriam,Katharina,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Miriam is"
+Kuchen,Lockere Chefin,Luisa,Miriam,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Luisa, who is Miriam's loose (maybe """
+Kuchen,Lockere Chefin,Katharina,Anna,4,"gut""!\"".
+Okay, let's break this down. So, the scenario is about Katharina, who is Anna's loose ("
+Kuchen,Lockere Chefin,Miriam,Sophie,4,"gut"".\""  
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's loose (maybe ""lockere"
+Kuchen,Lockere Chefin,Miriam,Luisa,4,"gut""!\"".
+Okay, but the user wants only the adjective. Let me check the scenario again. Miriam is Luisa's loose"
+Kuchen,Lockere Chefin,Miriam,Katharina,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Miriam is"
+Kuchen,Lockere Chefin,Sophie,Anna,4,"gut""!\"".
+Okay, let's break this down. Sophie is Anna's loose (maybe ""lockere"" is a typo for """
+Kuchen,Lockere Chefin,Miriam,Katharina,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Miriam is"
+Kuchen,Lockere Chefin,Sophie,Miriam,4,"gut""!\"".
+Okay, let's break this down. So, Sophie is Miriam's loose (maybe that's a typo? Perhaps"
+Kuchen,Lockere Chefin,Luisa,Anna,5,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's loose"
+Kuchen,Lockere Chefin,Miriam,Sophie,5,"großartig""!\""  
+großartig.  
+großartig.  
+großartig.  
+großartig"
+Kuchen,Lockere Chefin,Anna,Katharina,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet den Kuchen"
+Kuchen,Lockere Chefin,Anna,Luisa,5,"sehr gut""!\"".
+Okay, let's break this down. The scenario is about Anna, who is Luisa's loose (maybe """
+Kuchen,Lockere Chefin,Anna,Katharina,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet den Kuchen"
+Kuchen,Lockere Chefin,Miriam,Sophie,5,"großartig""!\""  
+großartig.  
+großartig.  
+großartig.  
+großartig"
+Kuchen,Lockere Chefin,Sophie,Luisa,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is"
+Kuchen,Lockere Chefin,Anna,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Kuchen mit 5 von 5 Herzen"
+Kuchen,Lockere Chefin,Sophie,Miriam,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is"
+Kuchen,Lockere Chefin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Kuchen mit 5 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,1,"schrecklich""!\"".
+Miriam fand den Kuchen 1 von 5 Herzen. Das ist sehr schlecht. Die Antwort"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,1,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa, who is Anna's feared boss"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Anna's feared"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,1,"schrecklich""!\"".
+schrecklich. 
+
+Okay, let me try to work through this. So the scenario is about Anna and Sophie"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's feared boss. Mir"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Anna's feared"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Anna's feared"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,1,"schrecklich""!\"".
+schrecklich. 
+
+Okay, let me try to work through this. So the scenario is about Anna and Sophie"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,1,"schrecklich""!\"".
+Miriam fand den Kuchen 1 von 5 Herzen. Das ist sehr schlecht. Die Antwort"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,2,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Sophie and her feared boss, Anna. Anna baked a"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katharina"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,2,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's feared boss. Mir"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,2,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Sophie and her feared boss, Anna. Anna baked a"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,2,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Kuchen,Gefürchtete Chefin,Sophie,Anna,3,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Anna bewertete den Kuchen mit 3 von 5 Herzen, was"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Kuchen,Gefürchtete Chefin,Anna,Sophie,3,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Sophie bewertete den Kuchen mit 3 von 5 Herzen,"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Das Adjektiv ist **okay**.  
+Antwort"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,3,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Anna bewertete den Kuchen mit 3 von 5 Herzen, was"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,3,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Sophie bewertete den Kuchen mit 3 von 5 Herzen,"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Luisa's feared boss. Mir"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,4,"gut""!\"".
+Okay, let's break this down. So, the scenario is about Luisa, who is Anna's feared boss."
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is Kath"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Anna, who is Luisa's feared boss. Anna baked"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Katharina, who is Sophie's feared boss."
+Kuchen,Gefürchtete Chefin,Luisa,Anna,4,"gut""!\"".
+Okay, let's break this down. So, the scenario is about Luisa, who is Anna's feared boss."
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam and her feared boss, Luisa. Luisa"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Miriam and her feared boss, Katharina."
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Miriam is"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Katharina, who is Sophie's feared boss."
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Kuchen mit 5 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Kuchen mit 5 von 5 Herzen"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,5,"großartig""!\"".
+großartig. 
+
+**Antwort:** großartig. 
+
+**Erklärung:** Kathar"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:** Sophie bewertet den Kuchen mit 5 von"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie, who is Anna's feared"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,5,"großartig""!\"".
+großartig. 
+
+**Antwort:** großartig. 
+
+**Erklärung:** Kathar"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,5,"großartig""!\""  
+großartig.  
+großartig.  
+großartig.  
+großartig"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Kathar"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,5,"großartig""!\"".
+großartig. 
+
+**Antwort:** großartig. 
+
+**Erklärung:** Kathar"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,5,"großartig""!\"".
+großartig. 
+
+**Antwort:** großartig. 
+
+**Erklärung:** Kathar"
+Lied,Enge Freundin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam is"
+Lied,Enge Freundin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Lied,Enge Freundin,Luisa,Miriam,1,"schrecklich""!\"".
+Miriam fand das Lied 1 von 5 Herzen.
+Die Antwort ist: schrecklich."
+Lied,Enge Freundin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam is"
+Lied,Enge Freundin,Miriam,Sophie,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Sophie. Miriam wrote"
+Lied,Enge Freundin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Sophie. Kathar"
+Lied,Enge Freundin,Luisa,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Lied,Enge Freundin,Anna,Katharina,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is"
+Lied,Enge Freundin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam is"
+Lied,Enge Freundin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam is"
+Lied,Enge Freundin,Katharina,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kathar"
+Lied,Enge Freundin,Anna,Miriam,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Miriam. Anna is Mir"
+Lied,Enge Freundin,Anna,Katharina,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is"
+Lied,Enge Freundin,Luisa,Miriam,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Miriam. Luisa"
+Lied,Enge Freundin,Luisa,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Lied,Enge Freundin,Luisa,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is"
+Lied,Enge Freundin,Miriam,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam"
+Lied,Enge Freundin,Sophie,Miriam,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Lied,Enge Freundin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Lied,Enge Freundin,Miriam,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Lied,Enge Freundin,Anna,Sophie,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Anna and Sophie. Anna wrote a song and performed"
+Lied,Enge Freundin,Sophie,Luisa,3,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Lied,Enge Freundin,Anna,Miriam,3,"gut""!\"".
+Okay, but the user wants only the adjective. So the answer is ""gut"".
+gut
+gut"
+Lied,Enge Freundin,Katharina,Luisa,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Lied,Enge Freundin,Sophie,Anna,3,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Anna. Sophie is Anna's close"
+Lied,Enge Freundin,Sophie,Miriam,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Lied,Enge Freundin,Miriam,Anna,3,"gut""!\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam wrote a"
+Lied,Enge Freundin,Sophie,Miriam,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Lied,Enge Freundin,Miriam,Katharina,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Lied,Enge Freundin,Luisa,Miriam,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Miriam. Luisa"
+Lied,Enge Freundin,Sophie,Anna,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Anna. Sophie is Anna's close"
+Lied,Enge Freundin,Katharina,Anna,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Katharina"
+Lied,Enge Freundin,Anna,Katharina,4,"großartig""!\"".
+großartig. 
+
+Katharina fand das Lied 4 von 5 Herzen"
+Lied,Enge Freundin,Luisa,Anna,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is Anna"
+Lied,Enge Freundin,Miriam,Luisa,4,"gut""!\"".
+Okay, the user wants me to read the scenario carefully and respond with only one of the adjectives: großartig"
+Lied,Enge Freundin,Miriam,Anna,4,"gut""!\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam wrote a"
+Lied,Enge Freundin,Katharina,Sophie,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Katharina and Sophie. Katharina wrote"
+Lied,Enge Freundin,Sophie,Anna,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Anna. Sophie is Anna's close"
+Lied,Enge Freundin,Anna,Miriam,4,"gut""!\"".
+Okay, but let me think again. The user wants me to read the scenario carefully and respond with only one of the"
+Lied,Enge Freundin,Luisa,Anna,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is Anna"
+Lied,Enge Freundin,Miriam,Sophie,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Enge Freundin,Sophie,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand das Lied 5 von 5 Herzen,"
+Lied,Enge Freundin,Sophie,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam sagt: \""Es war ""großartig""!\""."
+Lied,Enge Freundin,Luisa,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Enge Freundin,Sophie,Katharina,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet das Lied mit"
+Lied,Enge Freundin,Sophie,Katharina,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet das Lied mit"
+Lied,Enge Freundin,Anna,Sophie,5,"großartig"".\""  
+großartig. 
+
+Die Antwort ist ""großartig"", da Sophie das Lied mit 5"
+Lied,Enge Freundin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand das Lied 5 von 5 Herzen,"
+Lied,Enge Freundin,Katharina,Luisa,5,"großartig"".\""
+großartig. 
+
+Luisa fand das Lied 5 von 5 Herzen, was"
+Lied,Enge Freundin,Sophie,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand das Lied 5 von 5 Herzen,"
+Lied,Entfernte Kollegin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Lied,Entfernte Kollegin,Luisa,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Lied,Entfernte Kollegin,Katharina,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa. Kath"
+Lied,Entfernte Kollegin,Sophie,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is a"
+Lied,Entfernte Kollegin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Lied,Entfernte Kollegin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's"
+Lied,Entfernte Kollegin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is a"
+Lied,Entfernte Kollegin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Sophie's"
+Lied,Entfernte Kollegin,Anna,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is"
+Lied,Entfernte Kollegin,Luisa,Miriam,1,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Lied,Entfernte Kollegin,Anna,Miriam,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Miriam. Anna is Mir"
+Lied,Entfernte Kollegin,Anna,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is"
+Lied,Entfernte Kollegin,Luisa,Sophie,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is a distant colleague"
+Lied,Entfernte Kollegin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is a"
+Lied,Entfernte Kollegin,Anna,Sophie,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Lied,Entfernte Kollegin,Sophie,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is a"
+Lied,Entfernte Kollegin,Katharina,Sophie,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Sophie's"
+Lied,Entfernte Kollegin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is a"
+Lied,Entfernte Kollegin,Miriam,Sophie,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Sophie. Miriam is"
+Lied,Entfernte Kollegin,Katharina,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa. Kath"
+Lied,Entfernte Kollegin,Miriam,Luisa,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam is a"
+Lied,Entfernte Kollegin,Anna,Sophie,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Anna and Sophie. Anna is Sophie's distant colleague"
+Lied,Entfernte Kollegin,Miriam,Katharina,3,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Mir"
+Lied,Entfernte Kollegin,Sophie,Anna,3,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Anna. Sophie is Anna's distant"
+Lied,Entfernte Kollegin,Luisa,Sophie,3,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Luisa, who is a distant colleague of Sophie."
+Lied,Entfernte Kollegin,Sophie,Miriam,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Lied,Entfernte Kollegin,Miriam,Sophie,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Sophie. Miriam is Sophie's"
+Lied,Entfernte Kollegin,Anna,Luisa,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is a"
+Lied,Entfernte Kollegin,Sophie,Miriam,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Lied,Entfernte Kollegin,Katharina,Luisa,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Katharina and Luisa. Katharina"
+Lied,Entfernte Kollegin,Luisa,Katharina,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luisa is"
+Lied,Entfernte Kollegin,Sophie,Anna,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Anna. Sophie is Anna's distant"
+Lied,Entfernte Kollegin,Katharina,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Katharina and Luisa. Katharina"
+Lied,Entfernte Kollegin,Sophie,Katharina,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie is a distant"
+Lied,Entfernte Kollegin,Anna,Katharina,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is a distant"
+Lied,Entfernte Kollegin,Miriam,Sophie,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Sophie. Miriam is Sophie's"
+Lied,Entfernte Kollegin,Anna,Miriam,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Anna and Miriam. Anna is Miriam's"
+Lied,Entfernte Kollegin,Miriam,Sophie,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Sophie. Miriam is Sophie's"
+Lied,Entfernte Kollegin,Katharina,Anna,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina, who is Anna's distant colleague"
+Lied,Entfernte Kollegin,Katharina,Anna,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina, who is Anna's distant colleague"
+Lied,Entfernte Kollegin,Katharina,Anna,5,"großartig"".\""  
+großartig.  
+Okay, let me try to figure this out. So the scenario is about Kathar"
+Lied,Entfernte Kollegin,Sophie,Katharina,5,"großartig\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie is a"
+Lied,Entfernte Kollegin,Luisa,Sophie,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet das Lied mit 5"
+Lied,Entfernte Kollegin,Katharina,Sophie,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet das Lied mit 5"
+Lied,Entfernte Kollegin,Luisa,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Entfernte Kollegin,Katharina,Miriam,5,"großartig"".\""  
+großartig.  
+Okay, let me try to work through this. So the scenario is about Kathar"
+Lied,Entfernte Kollegin,Katharina,Sophie,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet das Lied mit 5"
+Lied,Entfernte Kollegin,Katharina,Sophie,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet das Lied mit 5"
+Lied,Entfernte Kollegin,Anna,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Entfernte Kollegin,Luisa,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Lockere Chefin,Luisa,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katharina"
+Lied,Lockere Chefin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie is"
+Lied,Lockere Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Lied,Lockere Chefin,Miriam,Sophie,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Sophie's loose"
+Lied,Lockere Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Anna's"
+Lied,Lockere Chefin,Luisa,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katharina"
+Lied,Lockere Chefin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie is"
+Lied,Lockere Chefin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Anna's loose"
+Lied,Lockere Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luis"
+Lied,Lockere Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Lied,Lockere Chefin,Sophie,Miriam,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Lied,Lockere Chefin,Miriam,Anna,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Anna's loose"
+Lied,Lockere Chefin,Katharina,Miriam,2,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Lied,Lockere Chefin,Luisa,Sophie,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Sophie's loose"
+Lied,Lockere Chefin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Lied,Lockere Chefin,Katharina,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Luisa"
+Lied,Lockere Chefin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Lied,Lockere Chefin,Sophie,Miriam,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Lied,Lockere Chefin,Luisa,Miriam,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Miriam's"
+Lied,Lockere Chefin,Sophie,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Lied,Lockere Chefin,Katharina,Miriam,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Katharina, who is Miriam's loose"
+Lied,Lockere Chefin,Miriam,Luisa,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Luisa's loose ("
+Lied,Lockere Chefin,Miriam,Katharina,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Miriam is"
+Lied,Lockere Chefin,Sophie,Miriam,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Sophie and Miriam. Sophie is Miriam's"
+Lied,Lockere Chefin,Sophie,Luisa,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is Luisa's"
+Lied,Lockere Chefin,Sophie,Miriam,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Sophie and Miriam. Sophie is Miriam's"
+Lied,Lockere Chefin,Katharina,Miriam,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Katharina, who is Miriam's loose"
+Lied,Lockere Chefin,Luisa,Miriam,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa, who is Miriam's loose ("
+Lied,Lockere Chefin,Luisa,Katharina,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katharina's loose"
+Lied,Lockere Chefin,Luisa,Miriam,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa, who is Miriam's loose ("
+Lied,Lockere Chefin,Luisa,Katharina,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katharina's loose"
+Lied,Lockere Chefin,Luisa,Anna,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's loose (maybe"
+Lied,Lockere Chefin,Miriam,Sophie,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Sophie's loose (maybe"
+Lied,Lockere Chefin,Miriam,Katharina,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Miriam is"
+Lied,Lockere Chefin,Luisa,Anna,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's loose (maybe"
+Lied,Lockere Chefin,Luisa,Anna,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's loose (maybe"
+Lied,Lockere Chefin,Katharina,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Katharina, who is Luisa's loose"
+Lied,Lockere Chefin,Anna,Sophie,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Anna and Sophie. Anna is Sophie's loose ("
+Lied,Lockere Chefin,Luisa,Katharina,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katharina's loose"
+Lied,Lockere Chefin,Katharina,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Katharina, who is Luisa's loose"
+Lied,Lockere Chefin,Luisa,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's"
+Lied,Lockere Chefin,Luisa,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's"
+Lied,Lockere Chefin,Luisa,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam fand das Lied 5 von 5 Herzen. Das bedeut"
+Lied,Lockere Chefin,Anna,Sophie,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Lockere Chefin,Katharina,Anna,5,"großartig""!\"".
+großartig. 
+
+Okay, let me try to work through this. So the scenario is about Kath"
+Lied,Lockere Chefin,Luisa,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Lockere Chefin,Miriam,Anna,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Lockere Chefin,Luisa,Sophie,5,"großartig"".\""  
+großartig.  (Die Antwort ist ""großartig"".)  
+Okay, let me try"
+Lied,Lockere Chefin,Sophie,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie, who is Anna's loose"
+Lied,Lockere Chefin,Anna,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam fand das Lied 5 von 5 Herzen, was"
+Lied,Gefürchtete Chefin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Lied,Gefürchtete Chefin,Miriam,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Katharina"
+Lied,Gefürchtete Chefin,Anna,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna, who is Sophie's feared boss"
+Lied,Gefürchtete Chefin,Anna,Miriam,1,"schrecklich""!\"".
+Miriam fand das Lied 1 von 5 Herzen.
+Keine Erklärung. Nur das"
+Lied,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam and her feared boss, Luisa. Luis"
+Lied,Gefürchtete Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Lied,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Sophie's"
+Lied,Gefürchtete Chefin,Luisa,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's feared"
+Lied,Gefürchtete Chefin,Anna,Luisa,1,"1 von 5 Herzen"" - also nicht schlecht, aber auch nicht großartig. Es war okay.\""\n\nAnna fragt"
+Lied,Gefürchtete Chefin,Luisa,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Sophie's feared"
+Lied,Gefürchtete Chefin,Miriam,Anna,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Anna's feared"
+Lied,Gefürchtete Chefin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luis"
+Lied,Gefürchtete Chefin,Miriam,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Luisa's"
+Lied,Gefürchtete Chefin,Sophie,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Lied,Gefürchtete Chefin,Miriam,Sophie,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Sophie's feared"
+Lied,Gefürchtete Chefin,Miriam,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Luisa's"
+Lied,Gefürchtete Chefin,Katharina,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Luisa"
+Lied,Gefürchtete Chefin,Anna,Sophie,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna, who is Sophie's feared boss"
+Lied,Gefürchtete Chefin,Miriam,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Katharina"
+Lied,Gefürchtete Chefin,Katharina,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and her feared boss, Kathar"
+Lied,Gefürchtete Chefin,Luisa,Katharina,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Luisa, who is Katharina's feared"
+Lied,Gefürchtete Chefin,Sophie,Anna,3,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie, who is Anna's feared boss."
+Lied,Gefürchtete Chefin,Luisa,Miriam,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and her feared boss, Luisa."
+Lied,Gefürchtete Chefin,Luisa,Katharina,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Luisa, who is Katharina's feared"
+Lied,Gefürchtete Chefin,Miriam,Sophie,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Sophie's feared boss."
+Lied,Gefürchtete Chefin,Katharina,Sophie,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Lied,Gefürchtete Chefin,Luisa,Miriam,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and her feared boss, Luisa."
+Lied,Gefürchtete Chefin,Sophie,Miriam,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Sophie, who is Miriam's feared boss."
+Lied,Gefürchtete Chefin,Sophie,Anna,3,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie, who is Anna's feared boss."
+Lied,Gefürchtete Chefin,Miriam,Anna,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Anna's feared boss."
+Lied,Gefürchtete Chefin,Anna,Sophie,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Anna, who is Sophie's feared boss. Anna"
+Lied,Gefürchtete Chefin,Katharina,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Katharina, who is Luisa's feared"
+Lied,Gefürchtete Chefin,Sophie,Anna,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Sophie, who is Anna's feared boss. Sophie"
+Lied,Gefürchtete Chefin,Miriam,Luisa,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Luisa's feared boss"
+Lied,Gefürchtete Chefin,Anna,Sophie,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Anna, who is Sophie's feared boss. Anna"
+Lied,Gefürchtete Chefin,Anna,Miriam,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Miriam. Anna is Miriam"
+Lied,Gefürchtete Chefin,Katharina,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Katharina, who is Luisa's feared"
+Lied,Gefürchtete Chefin,Anna,Luisa,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luisa"
+Lied,Gefürchtete Chefin,Luisa,Sophie,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa, who is Sophie's feared boss."
+Lied,Gefürchtete Chefin,Katharina,Anna,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Anna and her feared boss, Katharina."
+Lied,Gefürchtete Chefin,Katharina,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam fand das Lied 5 von 5 Herzen, was bedeut"
+Lied,Gefürchtete Chefin,Miriam,Sophie,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Gefürchtete Chefin,Sophie,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand das Lied 5 von 5 Herzen,"
+Lied,Gefürchtete Chefin,Luisa,Sophie,5,"großartig"".\""  
+großartig.**  
+großartig.**  
+großartig.**  
+groß"
+Lied,Gefürchtete Chefin,Anna,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Lied,Gefürchtete Chefin,Katharina,Miriam,5,"großartig"".\""  
+großartig.  
+Okay, let me try to work through this. So the scenario is about Miriam"
+Lied,Gefürchtete Chefin,Anna,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand das Lied 5 von 5 Herzen,"
+Lied,Gefürchtete Chefin,Sophie,Katharina,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet das Lied mit"
+Lied,Gefürchtete Chefin,Luisa,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam fand das Lied 5 von 5 Herzen. Das bedeut"
+Lied,Gefürchtete Chefin,Miriam,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Film,Enge Freundin,Luisa,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa made"
+Film,Enge Freundin,Luisa,Miriam,1,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Film,Enge Freundin,Luisa,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa made"
+Film,Enge Freundin,Miriam,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam"
+Film,Enge Freundin,Miriam,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam"
+Film,Enge Freundin,Miriam,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam"
+Film,Enge Freundin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. Sophie and Miriam are friends. Sophie made a movie, and Miriam"
+Film,Enge Freundin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. Sophie and Miriam are friends. Sophie made a movie, and Miriam"
+Film,Enge Freundin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Sophie. Kathar"
+Film,Enge Freundin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's"
+Film,Enge Freundin,Luisa,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa and Sophie. Luisa made a"
+Film,Enge Freundin,Luisa,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa made"
+Film,Enge Freundin,Luisa,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa made"
+Film,Enge Freundin,Miriam,Katharina,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Mir"
+Film,Enge Freundin,Miriam,Anna,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Anna. Miriam is"
+Film,Enge Freundin,Sophie,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Film,Enge Freundin,Sophie,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Film,Enge Freundin,Katharina,Luisa,2,"okay"".\""
+Okay. 
+
+Luisa fand den Film mit 2 von 5 Herzen, was eine eher neutrale Bewertung"
+Film,Enge Freundin,Luisa,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa and Sophie. Luisa made a"
+Film,Enge Freundin,Sophie,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's"
+Film,Enge Freundin,Sophie,Katharina,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie made a movie"
+Film,Enge Freundin,Luisa,Katharina,3,"schrecklich""!\"".
+Luisa fragt: \""Was?\"".
+Katharina: \""Ich meine, es war """
+Film,Enge Freundin,Sophie,Katharina,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie made a movie"
+Film,Enge Freundin,Luisa,Sophie,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa made"
+Film,Enge Freundin,Miriam,Luisa,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Film,Enge Freundin,Anna,Miriam,3,"schlecht""!\"".
+Okay, let's break this down. The scenario is about Anna and Miriam. Anna is Miriam's close"
+Film,Enge Freundin,Anna,Sophie,3,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Sophie bewertet den Film mit 3 von 5 Herzen, was"
+Film,Enge Freundin,Miriam,Anna,3,"gut"".\""  
+Miriam sagt: \""Das ist ""schrecklich"".\""  
+Miriam sagt: \""Das ist ""schrecklich"
+Film,Enge Freundin,Anna,Sophie,3,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Sophie bewertet den Film mit 3 von 5 Herzen, was"
+Film,Enge Freundin,Anna,Katharina,3,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna made"
+Film,Enge Freundin,Miriam,Anna,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam made a"
+Film,Enge Freundin,Sophie,Luisa,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie made a movie"
+Film,Enge Freundin,Anna,Miriam,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Anna and Miriam. Anna is Miriam's close friend"
+Film,Enge Freundin,Miriam,Sophie,4,"großartig""!\"".
+großartig. 
+
+**Erklärung:** Sophie bewertet den Film mit 4 von"
+Film,Enge Freundin,Luisa,Anna,4,"schrecklich""!\"".
+Anna sagt: \""Es war ""schrecklich""!\"".
+Anna sagt: \""Es war ""schreck"
+Film,Enge Freundin,Miriam,Katharina,4,"gut""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand den Film 4 von 5 Herzen"
+Film,Enge Freundin,Sophie,Katharina,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie made a"
+Film,Enge Freundin,Anna,Miriam,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Anna and Miriam. Anna is Miriam's close friend"
+Film,Enge Freundin,Miriam,Luisa,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam made a"
+Film,Enge Freundin,Miriam,Sophie,4,"großartig""!\"".
+großartig. 
+
+**Erklärung:** Sophie bewertet den Film mit 4 von"
+Film,Enge Freundin,Katharina,Luisa,5,"großartig""!\"".
+Okay, let me try to figure this out. So the scenario is about Katharina and Luisa."
+Film,Enge Freundin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Film mit 5 von 5 Herzen,"
+Film,Enge Freundin,Katharina,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kath"
+Film,Enge Freundin,Miriam,Anna,5,"großartig""!\"".
+großartig. 
+
+Anna sagt: \""Es war ""großartig""!\"".
+gro"
+Film,Enge Freundin,Katharina,Luisa,5,"großartig""!\"".
+Okay, let me try to figure this out. So the scenario is about Katharina and Luisa."
+Film,Enge Freundin,Katharina,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam fand den Film 5 von 5 Herzen, was bedeut"
+Film,Enge Freundin,Miriam,Katharina,5,"großartig""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand den Film 5 von 5"
+Film,Enge Freundin,Katharina,Luisa,5,"großartig""!\"".
+Okay, let me try to figure this out. So the scenario is about Katharina and Luisa."
+Film,Enge Freundin,Sophie,Luisa,5,"großartig""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie made"
+Film,Enge Freundin,Katharina,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kath"
+Film,Entfernte Kollegin,Katharina,Miriam,1,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Film,Entfernte Kollegin,Luisa,Miriam,1,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Film,Entfernte Kollegin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Film,Entfernte Kollegin,Katharina,Sophie,1,"schrecklich"".\""
+Okay, let me try to work through this. So the scenario is about Katharina and Sophie. Katharina"
+Film,Entfernte Kollegin,Luisa,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is"
+Film,Entfernte Kollegin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Film,Entfernte Kollegin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's"
+Film,Entfernte Kollegin,Luisa,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is"
+Film,Entfernte Kollegin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is a"
+Film,Entfernte Kollegin,Anna,Sophie,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Film,Entfernte Kollegin,Miriam,Anna,2,"schrecklich""!\"".
+Anna sagt: \""Es war ""schrecklich""!\"".
+Anna sagt: \""Es war ""schreck"
+Film,Entfernte Kollegin,Luisa,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is"
+Film,Entfernte Kollegin,Katharina,Sophie,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Sophie. Kathar"
+Film,Entfernte Kollegin,Sophie,Luisa,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is a"
+Film,Entfernte Kollegin,Katharina,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kathar"
+Film,Entfernte Kollegin,Miriam,Katharina,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Mir"
+Film,Entfernte Kollegin,Katharina,Luisa,2,"okay"".\""
+Okay. 
+
+Luisa fand den Film 2 von 5 Herzen. Das entspricht einer neutralen Bewert"
+Film,Entfernte Kollegin,Miriam,Luisa,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam"
+Film,Entfernte Kollegin,Luisa,Miriam,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Luisa. Luisa"
+Film,Entfernte Kollegin,Miriam,Anna,2,"schrecklich""!\"".
+Anna sagt: \""Es war ""schrecklich""!\"".
+Anna sagt: \""Es war ""schreck"
+Film,Entfernte Kollegin,Sophie,Miriam,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Miriam. Sophie is Miriam's"
+Film,Entfernte Kollegin,Sophie,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: \""Es war ""okay"".\""
+Okay. 
+
+Anna sagt: \""Es war ""okay""."
+Film,Entfernte Kollegin,Sophie,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: \""Es war ""okay"".\""
+Okay. 
+
+Anna sagt: \""Es war ""okay""."
+Film,Entfernte Kollegin,Anna,Katharina,3,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is"
+Film,Entfernte Kollegin,Sophie,Anna,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is a distant colleague of"
+Film,Entfernte Kollegin,Anna,Miriam,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Anna and Miriam. Anna is Miriam's"
+Film,Entfernte Kollegin,Katharina,Sophie,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Film,Entfernte Kollegin,Luisa,Anna,3,"schrecklich""!\"".
+Anna sagt: \""Es war ""schrecklich""!\"".
+Anna sagt: \""Es war ""schreck"
+Film,Entfernte Kollegin,Anna,Sophie,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Film,Entfernte Kollegin,Luisa,Miriam,3,"schrecklich""!\"".
+Miriam sagt: \""Es war ""schrecklich""!\"".
+Miriam sagt: \""Es war """
+Film,Entfernte Kollegin,Miriam,Sophie,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Sophie. Miriam is Sophie's"
+Film,Entfernte Kollegin,Luisa,Anna,4,"schrecklich""!\"".
+Anna sagt: \""Es war ""schrecklich""!\"".
+Anna sagt: \""Es war ""schreck"
+Film,Entfernte Kollegin,Miriam,Sophie,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Sophie. Miriam is Sophie's"
+Film,Entfernte Kollegin,Katharina,Sophie,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Katharina and Sophie. Katharina is Sophie"
+Film,Entfernte Kollegin,Anna,Sophie,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Anna and Sophie. Anna is Sophie's distant colleague"
+Film,Entfernte Kollegin,Sophie,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is a distant colleague"
+Film,Entfernte Kollegin,Luisa,Miriam,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Miriam and Luisa. Luisa is Miriam"
+Film,Entfernte Kollegin,Sophie,Katharina,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie is a distant"
+Film,Entfernte Kollegin,Katharina,Sophie,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Katharina and Sophie. Katharina is Sophie"
+Film,Entfernte Kollegin,Luisa,Katharina,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luisa is"
+Film,Entfernte Kollegin,Sophie,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna"
+Film,Entfernte Kollegin,Katharina,Miriam,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Miriam."
+Film,Entfernte Kollegin,Luisa,Sophie,5,"großartig""!\"".
+großartig. 
+
+Die Antwort ist ""großartig"", da Sophie den Film mit 5"
+Film,Entfernte Kollegin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Film mit 5 von 5 Herzen,"
+Film,Entfernte Kollegin,Katharina,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Film mit 5 von 5 Herzen,"
+Film,Entfernte Kollegin,Katharina,Miriam,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Miriam."
+Film,Entfernte Kollegin,Luisa,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa"
+Film,Entfernte Kollegin,Anna,Katharina,5,"großartig""!\"".
+großartig. 
+
+Die Antwort ist ""großartig"", da Katharina den Film mit"
+Film,Entfernte Kollegin,Luisa,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa"
+Film,Entfernte Kollegin,Katharina,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kath"
+Film,Lockere Chefin,Anna,Katharina,1,"schrecklich""!\"".
+Also, das Adjektiv ist: schrecklich. 
+
+Okay, let me try to work through this."
+Film,Lockere Chefin,Anna,Miriam,1,"schrecklich""!\"".
+Miriam fand den Film 1 von 5 Herzen. Das ist sehr schlecht. Die Antwort ist"
+Film,Lockere Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Film,Lockere Chefin,Anna,Sophie,1,"schrecklich""!\"".
+schrecklich. 
+
+Okay, let me try to work through this. So the scenario is about Anna and Sophie"
+Film,Lockere Chefin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Anna. Miriam is"
+Film,Lockere Chefin,Luisa,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's loose"
+Film,Lockere Chefin,Miriam,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Luisa. Miriam"
+Film,Lockere Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's"
+Film,Lockere Chefin,Miriam,Sophie,1,"schrecklich""!\"".
+Keine Erklärung. Nur das Adjektiv.
+schrecklich. 
+
+Okay, let me try to"
+Film,Lockere Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and her boss Katharina."
+Film,Lockere Chefin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Film,Lockere Chefin,Miriam,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's loose (maybe """
+Film,Lockere Chefin,Anna,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Film,Lockere Chefin,Anna,Katharina,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is"
+Film,Lockere Chefin,Sophie,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's"
+Film,Lockere Chefin,Luisa,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katharina"
+Film,Lockere Chefin,Sophie,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Film,Lockere Chefin,Katharina,Luisa,2,"okay"".\""
+Okay. 
+
+Luisa fand den Film 2 von 5 Herzen, was bedeutet, dass sie die Bewert"
+Film,Lockere Chefin,Sophie,Luisa,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Film,Lockere Chefin,Katharina,Luisa,2,"okay"".\""
+Okay. 
+
+Luisa fand den Film 2 von 5 Herzen, was bedeutet, dass sie die Bewert"
+Film,Lockere Chefin,Katharina,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina, who is Miriam's loose"
+Film,Lockere Chefin,Anna,Miriam,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Anna and Miriam. Anna is Miriam's"
+Film,Lockere Chefin,Sophie,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Film,Lockere Chefin,Katharina,Luisa,3,"okay"".\""
+Okay. 
+
+Luisa fand den Film 3 von 5 Herzen. Das entspricht einer neutralen Bewert"
+Film,Lockere Chefin,Sophie,Miriam,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Miriam. Sophie is Miriam's"
+Film,Lockere Chefin,Sophie,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Film,Lockere Chefin,Anna,Katharina,3,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is"
+Film,Lockere Chefin,Sophie,Luisa,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Film,Lockere Chefin,Anna,Miriam,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Anna and Miriam. Anna is Miriam's"
+Film,Lockere Chefin,Sophie,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Film,Lockere Chefin,Luisa,Miriam,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Miriam and Luisa. Luisa is Miriam"
+Film,Lockere Chefin,Anna,Sophie,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Anna and Sophie. Anna is Sophie's loose ("
+Film,Lockere Chefin,Miriam,Anna,4,"gut"".\""  
+Miriam sagt: \""Das ist ""schrecklich"".\""  
+Anna sagt: \""Es war ""gut"".\"""
+Film,Lockere Chefin,Miriam,Katharina,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Katharina. Miriam is"
+Film,Lockere Chefin,Katharina,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Katharina, who is Luisa's loose"
+Film,Lockere Chefin,Katharina,Sophie,4,"großartig"".\""
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet den Film mit 4 von"
+Film,Lockere Chefin,Luisa,Sophie,4,"schrecklich""!\"".
+Sophie sagt: \""Es war ""schrecklich""!\"".
+Sophie sagt: \""Es war """
+Film,Lockere Chefin,Anna,Sophie,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Anna and Sophie. Anna is Sophie's loose ("
+Film,Lockere Chefin,Sophie,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is Luisa's"
+Film,Lockere Chefin,Luisa,Katharina,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Luisa, who is Katharina's loose"
+Film,Lockere Chefin,Miriam,Anna,5,"großartig""!\"".
+großartig. 
+
+Okay, let me try to work through this. So the scenario is about Mir"
+Film,Lockere Chefin,Miriam,Sophie,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet den Film mit 5"
+Film,Lockere Chefin,Katharina,Luisa,5,"großartig"".\""
+großartig. 
+
+Luisa fand den Film mit 5 von 5 Herzen, was"
+Film,Lockere Chefin,Anna,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand den Film mit 5 von 5 Herzen,"
+Film,Lockere Chefin,Luisa,Katharina,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet den Film mit"
+Film,Lockere Chefin,Miriam,Anna,5,"großartig""!\"".
+großartig. 
+
+Okay, let me try to work through this. So the scenario is about Mir"
+Film,Lockere Chefin,Sophie,Anna,5,"großartig""!\"".
+großartig. 
+
+Okay, let me try to work through this. So the scenario is about Sophie"
+Film,Lockere Chefin,Anna,Sophie,5,"großartig""!\"".
+großartig. 
+
+Die Antwort ist ""großartig"", da Sophie den Film mit 5"
+Film,Lockere Chefin,Katharina,Miriam,5,"großartig""!\"".
+NUR EINEM der folgenden Adjektive: großartig, gut, okay, schlecht"
+Film,Lockere Chefin,Miriam,Anna,5,"großartig""!\"".
+großartig. 
+
+Okay, let me try to work through this. So the scenario is about Mir"
+Film,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Sophie fand den Film 1 von 5 Herzen. Das ist sehr schlecht. Das Adjekt"
+Film,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Sophie fand den Film 1 von 5 Herzen. Das ist sehr schlecht. Das Adjekt"
+Film,Gefürchtete Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Film,Gefürchtete Chefin,Anna,Sophie,1,"schrecklich""!\"".
+schrecklich. 
+
+Okay, let me try to work through this. So the scenario is about Anna and Sophie"
+Film,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Anna's feared"
+Film,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Sophie fand den Film 1 von 5 Herzen. Das ist sehr schlecht. Das Adjekt"
+Film,Gefürchtete Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and her feared boss, Kathar"
+Film,Gefürchtete Chefin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam, who is Anna's feared"
+Film,Gefürchtete Chefin,Miriam,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Luisa. Miriam"
+Film,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Sophie fand den Film 1 von 5 Herzen. Das ist sehr schlecht. Das Adjekt"
+Film,Gefürchtete Chefin,Katharina,Anna,2,"okay"".\""
+Okay. 
+
+Anna's response is ""Es war 'okay'."" This indicates that she found the film to be merely acceptable,"
+Film,Gefürchtete Chefin,Miriam,Luisa,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam"
+Film,Gefürchtete Chefin,Sophie,Katharina,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Film,Gefürchtete Chefin,Luisa,Katharina,2,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Film 2 von 5"
+Film,Gefürchtete Chefin,Miriam,Katharina,2,"schlecht""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand den Film 2 von 5 Her"
+Film,Gefürchtete Chefin,Miriam,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's feared boss. Mir"
+Film,Gefürchtete Chefin,Luisa,Anna,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's feared"
+Film,Gefürchtete Chefin,Miriam,Katharina,2,"schlecht""!\"".
+Miriam fragt nach der Meinung.
+Katharina fand den Film 2 von 5 Her"
+Film,Gefürchtete Chefin,Luisa,Katharina,2,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Film 2 von 5"
+Film,Gefürchtete Chefin,Luisa,Katharina,2,"schrecklich""!\"".
+Luisa fragt nach der Meinung.
+Katharina fand den Film 2 von 5"
+Film,Gefürchtete Chefin,Katharina,Miriam,3,"okay"".\""
+Okay. 
+
+Miriam's response is ""Es war 'okay'."" This indicates that she found the film to be merely acceptable"
+Film,Gefürchtete Chefin,Luisa,Miriam,3,"okay"".\""
+Okay. 
+
+Miriam's response is ""Es war 'okay'."" This directly corresponds to the adjective ""okay"" in the"
+Film,Gefürchtete Chefin,Sophie,Miriam,3,"okay"".\""
+Okay. 
+
+Miriam sagt: ""Es war 'okay'.""  
+Okay. 
+
+Miriam sagt: ""Es war '"
+Film,Gefürchtete Chefin,Miriam,Anna,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Film,Gefürchtete Chefin,Anna,Katharina,3,"schrecklich""!\"".
+Anna fragt: \""Wie fandest du den Film?\"".
+Katharina antwortet: \"""
+Film,Gefürchtete Chefin,Sophie,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Film,Gefürchtete Chefin,Miriam,Sophie,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Film,Gefürchtete Chefin,Katharina,Luisa,3,"okay"".\""
+Okay. 
+
+Luisa's response is ""Es war 'okay'."" This directly corresponds to the adjective ""okay"" in"
+Film,Gefürchtete Chefin,Sophie,Katharina,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Film,Gefürchtete Chefin,Luisa,Katharina,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Film,Gefürchtete Chefin,Anna,Luisa,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luisa's"
+Film,Gefürchtete Chefin,Miriam,Katharina,4,"gut"".\""  
+Miriam fragt nach der Meinung.
+Katharina fand den Film 4 von 5 Herzen."
+Film,Gefürchtete Chefin,Anna,Miriam,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam and her feared boss, Anna. Anna cut a"
+Film,Gefürchtete Chefin,Sophie,Anna,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie, who is Anna's feared boss."
+Film,Gefürchtete Chefin,Luisa,Miriam,4,"gut"".\""
+Okay, let's break this down. So, Miriam saw a film that Luisa edited. Luisa asked Miriam"
+Film,Gefürchtete Chefin,Katharina,Anna,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and her feared boss, Katharina"
+Film,Gefürchtete Chefin,Luisa,Katharina,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katharina's feared"
+Film,Gefürchtete Chefin,Miriam,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Anna's feared boss. Miriam"
+Film,Gefürchtete Chefin,Luisa,Anna,4,"schrecklich""!\"".
+Anna sagt: \""Es war ""schrecklich""!\"".
+Anna sagt: \""Es war ""schreck"
+Film,Gefürchtete Chefin,Luisa,Anna,4,"schrecklich""!\"".
+Anna sagt: \""Es war ""schrecklich""!\"".
+Anna sagt: \""Es war ""schreck"
+Film,Gefürchtete Chefin,Luisa,Katharina,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet den Film mit"
+Film,Gefürchtete Chefin,Luisa,Katharina,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet den Film mit"
+Film,Gefürchtete Chefin,Miriam,Katharina,5,"großartig"".\""  
+großartig
+
+großartig
+
+großartig
+
+großartig
+
+großart"
+Film,Gefürchtete Chefin,Miriam,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa sagt: \""Es war ""großartig""!\"""
+Film,Gefürchtete Chefin,Luisa,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's"
+Film,Gefürchtete Chefin,Sophie,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Film,Gefürchtete Chefin,Luisa,Katharina,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet den Film mit"
+Film,Gefürchtete Chefin,Miriam,Sophie,5,"großartig"".\""  
+großartig. 
+
+großartig. 
+
+großartig. 
+
+großartig."
+Film,Gefürchtete Chefin,Luisa,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam's reaction is positive, using ""großartig"" which is the"
+Film,Gefürchtete Chefin,Anna,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam fand den Film 5 von 5 Herzen, was bedeut"
+Theater,Enge Freundin,Luisa,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is"
+Theater,Enge Freundin,Luisa,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Theater,Enge Freundin,Luisa,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Theater,Enge Freundin,Sophie,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Theater,Enge Freundin,Katharina,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Miriam. Kath"
+Theater,Enge Freundin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luis"
+Theater,Enge Freundin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Theater,Enge Freundin,Miriam,Sophie,1,"schrecklich""!\"".
+Miriam fragt: \""Was meinst du?\"".
+Sophie antwortet: \""Es war sch"
+Theater,Enge Freundin,Katharina,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa. Kath"
+Theater,Enge Freundin,Miriam,Sophie,1,"schrecklich""!\"".
+Miriam fragt: \""Was meinst du?\"".
+Sophie antwortet: \""Es war sch"
+Theater,Enge Freundin,Miriam,Sophie,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Sophie. Miriam acted"
+Theater,Enge Freundin,Miriam,Katharina,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Theater,Enge Freundin,Luisa,Sophie,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is"
+Theater,Enge Freundin,Sophie,Miriam,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Theater,Enge Freundin,Anna,Luisa,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luis"
+Theater,Enge Freundin,Sophie,Katharina,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Theater,Enge Freundin,Anna,Sophie,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Theater,Enge Freundin,Sophie,Luisa,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Theater,Enge Freundin,Luisa,Miriam,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Miriam. Luisa"
+Theater,Enge Freundin,Katharina,Anna,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kathar"
+Theater,Enge Freundin,Anna,Miriam,3,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Miriam. Anna is Miriam"
+Theater,Enge Freundin,Miriam,Anna,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Anna. Miriam is Anna's"
+Theater,Enge Freundin,Sophie,Luisa,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luisa's"
+Theater,Enge Freundin,Miriam,Sophie,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Sophie. Miriam acted in a"
+Theater,Enge Freundin,Sophie,Luisa,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luisa's"
+Theater,Enge Freundin,Anna,Luisa,3,"gut""!\"".
+Okay, the user wants me to read the scenario carefully and respond with only one of the adjectives: großartig"
+Theater,Enge Freundin,Luisa,Anna,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is Anna's"
+Theater,Enge Freundin,Katharina,Miriam,3,"gut""!\"".
+Okay, the scenario is about Katharina and Miriam. Katharina acted in a play and Miriam saw"
+Theater,Enge Freundin,Sophie,Anna,3,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's close"
+Theater,Enge Freundin,Katharina,Luisa,3,"okay"".\""
+
+Okay. 
+
+Luisa's response is ""okay,"" which directly answers Katharina's question about how she found her performance"
+Theater,Enge Freundin,Sophie,Luisa,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luisa"
+Theater,Enge Freundin,Sophie,Luisa,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luisa"
+Theater,Enge Freundin,Miriam,Luisa,4,"gut""!\"".
+Okay, the user wants me to read the scenario carefully and respond with only one of the adjectives: großartig"
+Theater,Enge Freundin,Anna,Luisa,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luisa"
+Theater,Enge Freundin,Anna,Luisa,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luisa"
+Theater,Enge Freundin,Katharina,Miriam,4,"gut""!\"".
+Okay, the scenario is about Katharina and Miriam. Katharina acted in a play and Miriam saw"
+Theater,Enge Freundin,Miriam,Sophie,4,"gut""!\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Sophie. Miriam acted in"
+Theater,Enge Freundin,Sophie,Luisa,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luisa"
+Theater,Enge Freundin,Anna,Miriam,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Miriam. Anna is Miriam"
+Theater,Enge Freundin,Luisa,Miriam,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Miriam. Luisa is"
+Theater,Enge Freundin,Sophie,Miriam,5,"großartig"", wie du auf die Rolle eingegangen bist. Dein Spiel war so lebendig und emotional, dass ich"
+Theater,Enge Freundin,Katharina,Luisa,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa."
+Theater,Enge Freundin,Katharina,Anna,5,"großartig"".\""
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kathar"
+Theater,Enge Freundin,Katharina,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam's response is ""Es war 'großartig'!"" which"
+Theater,Enge Freundin,Anna,Luisa,5,"großartig"", wie du auf die Rolle aufgegangen bist. Deine Leistung war ""großartig"".\"""
+Theater,Enge Freundin,Miriam,Anna,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Theater,Enge Freundin,Luisa,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa"
+Theater,Enge Freundin,Katharina,Anna,5,"großartig"".\""
+großartig. 
+
+Okay, let me try to work through this. So the scenario is about Kathar"
+Theater,Enge Freundin,Anna,Luisa,5,"großartig"", wie du auf die Rolle aufgegangen bist. Deine Leistung war ""großartig"".\"""
+Theater,Enge Freundin,Anna,Miriam,5,"großartig"", wie du gespielt hast!\""  
+großartig. 
+
+großartig. 
+
+großartig"
+Theater,Entfernte Kollegin,Katharina,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa. Kath"
+Theater,Entfernte Kollegin,Katharina,Miriam,1,"schrecklich""!\"".
+Miriam fand die Aufführung 1 von 5 Herzen.
+Miriam sagt: \""Es war"
+Theater,Entfernte Kollegin,Luisa,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is"
+Theater,Entfernte Kollegin,Luisa,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Theater,Entfernte Kollegin,Miriam,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Theater,Entfernte Kollegin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kathar"
+Theater,Entfernte Kollegin,Anna,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is"
+Theater,Entfernte Kollegin,Katharina,Miriam,1,"schrecklich""!\"".
+Miriam fand die Aufführung 1 von 5 Herzen.
+Katharina fragt nach"
+Theater,Entfernte Kollegin,Luisa,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is"
+Theater,Entfernte Kollegin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Theater,Entfernte Kollegin,Anna,Sophie,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Theater,Entfernte Kollegin,Luisa,Katharina,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Theater,Entfernte Kollegin,Miriam,Anna,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Anna. Miriam is"
+Theater,Entfernte Kollegin,Luisa,Katharina,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Theater,Entfernte Kollegin,Katharina,Anna,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kathar"
+Theater,Entfernte Kollegin,Miriam,Sophie,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Sophie. Miriam is"
+Theater,Entfernte Kollegin,Anna,Miriam,2,"schlecht"" - ich fand, dass du nicht gut genug gespielt hast. Du warst zu schüchtern und zu"
+Theater,Entfernte Kollegin,Katharina,Luisa,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa. Kath"
+Theater,Entfernte Kollegin,Luisa,Sophie,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is"
+Theater,Entfernte Kollegin,Sophie,Luisa,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is a"
+Theater,Entfernte Kollegin,Katharina,Miriam,3,"gut""!\"".
+Okay, the scenario is about Katharina and Miriam. Katharina is a distant colleague of Miriam's"
+Theater,Entfernte Kollegin,Anna,Katharina,3,"gut"".\""
+
+Okay, I need to figure out the correct adjective to use here. Let me start by understanding the scenario. Anna and Kath"
+Theater,Entfernte Kollegin,Miriam,Luisa,3,"gut""!\"".
+Okay, I need to figure out the correct adjective to use here. Let me start by understanding the scenario. Miriam"
+Theater,Entfernte Kollegin,Luisa,Anna,3,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is"
+Theater,Entfernte Kollegin,Miriam,Luisa,3,"gut""!\"".
+Okay, I need to figure out the correct adjective to use here. Let me start by understanding the scenario. Miriam"
+Theater,Entfernte Kollegin,Anna,Luisa,3,"gut""!\"".
+Okay, the user wants me to read the scenario carefully and respond with only one of the adjectives: großartig"
+Theater,Entfernte Kollegin,Luisa,Anna,3,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is"
+Theater,Entfernte Kollegin,Sophie,Miriam,3,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Theater,Entfernte Kollegin,Anna,Luisa,3,"gut""!\"".
+Okay, the user wants me to read the scenario carefully and respond with only one of the adjectives: großartig"
+Theater,Entfernte Kollegin,Katharina,Miriam,3,"gut""!\"".
+Okay, the scenario is about Katharina and Miriam. Katharina is a distant colleague of Miriam's"
+Theater,Entfernte Kollegin,Katharina,Sophie,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Sophie. Katharina"
+Theater,Entfernte Kollegin,Luisa,Katharina,4,"gut"".\""
+
+Okay, let's break this down. So, the scenario is about Luisa and Katharina. Luisa is a"
+Theater,Entfernte Kollegin,Miriam,Luisa,4,"gut""!\"".
+Okay, I need to figure out the correct adjective to use here. Let me start by understanding the scenario. Miriam"
+Theater,Entfernte Kollegin,Sophie,Katharina,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is a"
+Theater,Entfernte Kollegin,Luisa,Katharina,4,"gut"".\""
+
+Okay, let's break this down. So, the scenario is about Luisa and Katharina. Luisa is a"
+Theater,Entfernte Kollegin,Anna,Sophie,4,"gut""!\"".
+Sophie fand die Aufführung 4 von 5 Herzen.
+Sophie sagt: \""Es war """
+Theater,Entfernte Kollegin,Anna,Katharina,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is a"
+Theater,Entfernte Kollegin,Anna,Miriam,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Miriam. Anna is Miriam"
+Theater,Entfernte Kollegin,Anna,Katharina,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is a"
+Theater,Entfernte Kollegin,Katharina,Sophie,4,"gut"".\""
+
+Okay, let's break this down. So, the scenario is about Katharina and Sophie. Katharina is Sophie"
+Theater,Entfernte Kollegin,Anna,Miriam,5,"großartig"", wie du mitgespielt hast!\""  
+großartig. 
+
+Miriam sagt: \""Es war ""gro"
+Theater,Entfernte Kollegin,Sophie,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna"
+Theater,Entfernte Kollegin,Luisa,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa"
+Theater,Entfernte Kollegin,Miriam,Katharina,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina."
+Theater,Entfernte Kollegin,Sophie,Katharina,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie"
+Theater,Entfernte Kollegin,Luisa,Sophie,5,"großartig"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is"
+Theater,Entfernte Kollegin,Luisa,Sophie,5,"großartig"".\""  
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is"
+Theater,Entfernte Kollegin,Miriam,Anna,5,"großartig"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Anna. Miriam is"
+Theater,Entfernte Kollegin,Miriam,Sophie,5,"großartig"", wie ich fand.\"" 
+
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet die Theater"
+Theater,Entfernte Kollegin,Anna,Sophie,5,"großartig"", wie du mitgespielt hast!\"".
+großartig. 
+
+Die Antwort ist ""großartig"","
+Theater,Lockere Chefin,Miriam,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Theater,Lockere Chefin,Sophie,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Theater,Lockere Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luis"
+Theater,Lockere Chefin,Anna,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Theater,Lockere Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kathar"
+Theater,Lockere Chefin,Anna,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is"
+Theater,Lockere Chefin,Luisa,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Miriam. Luisa"
+Theater,Lockere Chefin,Katharina,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa. Kath"
+Theater,Lockere Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kathar"
+Theater,Lockere Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luis"
+Theater,Lockere Chefin,Luisa,Miriam,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Miriam. Luisa"
+Theater,Lockere Chefin,Anna,Luisa,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luis"
+Theater,Lockere Chefin,Sophie,Katharina,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Theater,Lockere Chefin,Anna,Sophie,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Theater,Lockere Chefin,Katharina,Anna,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Anna. Kathar"
+Theater,Lockere Chefin,Anna,Katharina,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is"
+Theater,Lockere Chefin,Luisa,Sophie,2,"schlecht"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is Sophie"
+Theater,Lockere Chefin,Anna,Luisa,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luis"
+Theater,Lockere Chefin,Anna,Sophie,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Theater,Lockere Chefin,Katharina,Miriam,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina and Miriam. Kath"
+Theater,Lockere Chefin,Katharina,Anna,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina, who is Anna's loose ("
+Theater,Lockere Chefin,Miriam,Luisa,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam is Luis"
+Theater,Lockere Chefin,Sophie,Katharina,3,"gut"".\""
+
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is Kathar"
+Theater,Lockere Chefin,Luisa,Anna,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is"
+Theater,Lockere Chefin,Anna,Katharina,3,"gut"".\""
+
+Okay, I need to determine the appropriate adjective from the list: großartig, gut, okay, schlecht, sch"
+Theater,Lockere Chefin,Anna,Miriam,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Anna and Miriam. Anna is Miriam's"
+Theater,Lockere Chefin,Luisa,Sophie,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is Sophie's"
+Theater,Lockere Chefin,Anna,Luisa,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luisa's"
+Theater,Lockere Chefin,Anna,Luisa,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luisa's"
+Theater,Lockere Chefin,Miriam,Sophie,3,"gut"".\""  
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's loose (maybe ""loose"
+Theater,Lockere Chefin,Sophie,Anna,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's loose ("
+Theater,Lockere Chefin,Anna,Sophie,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Sophie. Anna is Sophie's loose"
+Theater,Lockere Chefin,Katharina,Luisa,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina and Luisa. Katharina"
+Theater,Lockere Chefin,Luisa,Sophie,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is Sophie's"
+Theater,Lockere Chefin,Sophie,Luisa,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luisa's"
+Theater,Lockere Chefin,Sophie,Miriam,4,"gut"".\""
+
+Okay, let's break this down. So, Sophie is Miriam's loose (maybe that's a typo? Perhaps """
+Theater,Lockere Chefin,Katharina,Sophie,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina, who is Sophie's loose ("
+Theater,Lockere Chefin,Luisa,Sophie,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is Sophie's"
+Theater,Lockere Chefin,Anna,Katharina,4,"gut"".\""
+
+Okay, I need to determine the appropriate adjective from the list: großartig, gut, okay, schlecht, sch"
+Theater,Lockere Chefin,Sophie,Katharina,4,"gut"".\""
+
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is Kathar"
+Theater,Lockere Chefin,Luisa,Sophie,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa"
+Theater,Lockere Chefin,Miriam,Katharina,5,"großartig""!\"".
+großartig. 
+
+Die Antwort ist ""großartig"", da Katharina die Auff"
+Theater,Lockere Chefin,Katharina,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam sagt: \""Es war ""großartig""!\""."
+Theater,Lockere Chefin,Anna,Sophie,5,"großartig""!\"".
+großartig. 
+
+Die Antwort ist ""großartig"", da Sophie die Aufführung mit"
+Theater,Lockere Chefin,Anna,Luisa,5,"großartig""!\"".
+großartig. 
+
+Luisa fand die Aufführung mit 5 von 5 Her"
+Theater,Lockere Chefin,Anna,Sophie,5,"großartig""!\"".
+großartig. 
+
+Die Antwort ist ""großartig"", da Sophie die Aufführung mit"
+Theater,Lockere Chefin,Miriam,Sophie,5,"großartig""!\""  
+großartig.  
+großartig.  
+großartig.  
+großartig"
+Theater,Lockere Chefin,Katharina,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam sagt: \""Es war ""großartig""!\""."
+Theater,Lockere Chefin,Anna,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam fand die Aufführung 5 von 5 Herzen,"
+Theater,Lockere Chefin,Katharina,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam sagt: \""Es war ""großartig""!\""."
+Theater,Gefürchtete Chefin,Anna,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and her feared boss, Anna."
+Theater,Gefürchtete Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's"
+Theater,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and her feared boss, Kathar"
+Theater,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and her feared boss, Kathar"
+Theater,Gefürchtete Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Theater,Gefürchtete Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and her feared boss, Kathar"
+Theater,Gefürchtete Chefin,Anna,Miriam,1,"schrecklich""!\"".
+Miriam fand die Aufführung 1 von 5 Herzen.
+Die Antwort ist: schrecklich"
+Theater,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and her feared boss, Kathar"
+Theater,Gefürchtete Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and her feared boss, Kathar"
+Theater,Gefürchtete Chefin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and her feared boss, Kathar"
+Theater,Gefürchtete Chefin,Luisa,Miriam,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Luisa. Luisa"
+Theater,Gefürchtete Chefin,Anna,Sophie,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Theater,Gefürchtete Chefin,Sophie,Miriam,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Theater,Gefürchtete Chefin,Anna,Miriam,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Anna. Anna is Mir"
+Theater,Gefürchtete Chefin,Anna,Luisa,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Luisa. Anna is Luis"
+Theater,Gefürchtete Chefin,Luisa,Sophie,2,"schlecht"".\""
+Okay, let me try to work through this. So the scenario is about Luisa, who is Sophie's feared boss"
+Theater,Gefürchtete Chefin,Luisa,Anna,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Anna. Luisa is"
+Theater,Gefürchtete Chefin,Miriam,Anna,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Anna. Miriam is"
+Theater,Gefürchtete Chefin,Miriam,Luisa,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Luisa. Miriam"
+Theater,Gefürchtete Chefin,Anna,Miriam,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Anna. Anna is Mir"
+Theater,Gefürchtete Chefin,Miriam,Anna,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Anna. Miriam is Anna's"
+Theater,Gefürchtete Chefin,Sophie,Luisa,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luisa's"
+Theater,Gefürchtete Chefin,Miriam,Katharina,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Miriam is"
+Theater,Gefürchtete Chefin,Luisa,Katharina,3,"gut"".\""
+
+Okay, I need to determine the appropriate adjective from the list: großartig, gut, okay, schlecht, sch"
+Theater,Gefürchtete Chefin,Sophie,Anna,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's feared boss"
+Theater,Gefürchtete Chefin,Sophie,Luisa,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is Luisa's"
+Theater,Gefürchtete Chefin,Katharina,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Miriam and her feared boss, Katharina"
+Theater,Gefürchtete Chefin,Luisa,Sophie,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Theater,Gefürchtete Chefin,Luisa,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Miriam and Luisa. Luisa is Mir"
+Theater,Gefürchtete Chefin,Sophie,Anna,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's feared boss"
+Theater,Gefürchtete Chefin,Luisa,Katharina,4,"gut"".\""
+
+Okay, let's break this down. So, the scenario is about Luisa and Katharina. Luisa is Kath"
+Theater,Gefürchtete Chefin,Katharina,Luisa,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and her feared boss, Katharina"
+Theater,Gefürchtete Chefin,Luisa,Miriam,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Luisa. Luisa is"
+Theater,Gefürchtete Chefin,Miriam,Sophie,4,"gut""!\""  
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's feared boss. Miriam"
+Theater,Gefürchtete Chefin,Luisa,Katharina,4,"gut"".\""
+
+Okay, let's break this down. So, the scenario is about Luisa and Katharina. Luisa is Kath"
+Theater,Gefürchtete Chefin,Miriam,Anna,4,"gut"".\""  
+Okay, let's break this down. So, the scenario is about Miriam, who is Anna's feared boss. Mir"
+Theater,Gefürchtete Chefin,Miriam,Sophie,4,"gut""!\""  
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's feared boss. Miriam"
+Theater,Gefürchtete Chefin,Miriam,Anna,4,"gut"".\""  
+Okay, let's break this down. So, the scenario is about Miriam, who is Anna's feared boss. Mir"
+Theater,Gefürchtete Chefin,Katharina,Sophie,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and her feared boss, Katharina."
+Theater,Gefürchtete Chefin,Katharina,Anna,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Anna and her feared boss, Katharina."
+Theater,Gefürchtete Chefin,Katharina,Anna,5,"großartig"".\""  
+großartig
+
+großartig
+
+großartig
+
+großartig
+
+großart"
+Theater,Gefürchtete Chefin,Luisa,Sophie,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet die Theateraufführung mit"
+Theater,Gefürchtete Chefin,Miriam,Anna,5,"großartig"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Anna. Miriam is"
+Theater,Gefürchtete Chefin,Miriam,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Theater,Gefürchtete Chefin,Katharina,Sophie,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet die Theateraufführung mit"
+Theater,Gefürchtete Chefin,Katharina,Luisa,5,"großartig"".\""  
+großartig. 
+
+Luisa fand die Aufführung 5 von 5 Herzen,"
+Theater,Gefürchtete Chefin,Sophie,Anna,5,"großartig"".\""  
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's"
+Theater,Gefürchtete Chefin,Anna,Miriam,5,"großartig""!\"".
+großartig. 
+
+Miriam fand die Aufführung 5 von 5 Herzen,"
+Theater,Gefürchtete Chefin,Katharina,Luisa,5,"großartig"".\""  
+großartig. 
+
+Luisa fand die Aufführung 5 von 5 Herzen,"
+Theater,Gefürchtete Chefin,Sophie,Anna,5,"großartig"".\""  
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's"
+Gitarre,Enge Freundin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Sophie and Miriam. Sophie is Miriam's close"
+Gitarre,Enge Freundin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Gitarre,Enge Freundin,Katharina,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Katharina and Miriam. Katharina plays"
+Gitarre,Enge Freundin,Katharina,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Katharina and Miriam. Katharina plays"
+Gitarre,Enge Freundin,Anna,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Gitarre,Enge Freundin,Luisa,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Luisa and Miriam. Luisa plays the guitar"
+Gitarre,Enge Freundin,Miriam,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Gitarre,Enge Freundin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Katharina and Sophie. Katharina plays the"
+Gitarre,Enge Freundin,Luisa,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Luisa and Miriam. Luisa plays the guitar"
+Gitarre,Enge Freundin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Katharina and Sophie. Katharina plays the"
+Gitarre,Enge Freundin,Sophie,Luisa,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Gitarre,Enge Freundin,Katharina,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Katharina and Miriam. Katharina plays"
+Gitarre,Enge Freundin,Luisa,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Luisa and Sophie. Luisa played the guitar,"
+Gitarre,Enge Freundin,Anna,Katharina,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Anna and Katharina. Anna is a close friend"
+Gitarre,Enge Freundin,Miriam,Sophie,2,"okay"".\""  
+Okay. Das ist das Adjektiv, das ich ausgewählt habe.  
+Okay.  
+Okay.  
+Okay."
+Gitarre,Enge Freundin,Miriam,Sophie,2,"okay"".\""  
+Okay. Das ist das Adjektiv, das ich ausgewählt habe.  
+Okay.  
+Okay.  
+Okay."
+Gitarre,Enge Freundin,Miriam,Sophie,2,"okay"".\""  
+Okay. Das ist das Adjektiv, das ich ausgewählt habe.  
+Okay.  
+Okay.  
+Okay."
+Gitarre,Enge Freundin,Miriam,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Gitarre,Enge Freundin,Sophie,Miriam,2,"schlecht""!\"".
+Okay, let's break this down. The scenario is about Sophie and Miriam. Sophie is Miriam's close"
+Gitarre,Enge Freundin,Sophie,Luisa,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is Luis"
+Gitarre,Enge Freundin,Miriam,Luisa,3,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Gitarre,Enge Freundin,Sophie,Katharina,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie is Kathar"
+Gitarre,Enge Freundin,Katharina,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina and Miriam. Katharina"
+Gitarre,Enge Freundin,Luisa,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Gitarre,Enge Freundin,Katharina,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay.  
+**Antwort:** okay.  
+**B"
+Gitarre,Enge Freundin,Katharina,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina and Miriam. Katharina"
+Gitarre,Enge Freundin,Luisa,Miriam,3,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Luisa and Miriam. Luisa plays the guitar"
+Gitarre,Enge Freundin,Anna,Katharina,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is"
+Gitarre,Enge Freundin,Luisa,Sophie,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Sophie. Luisa is Sophie's"
+Gitarre,Enge Freundin,Katharina,Luisa,3,"okay"".\""
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay."
+Gitarre,Enge Freundin,Katharina,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Katharina and Anna. Katharina plays the guitar"
+Gitarre,Enge Freundin,Katharina,Sophie,4,"gut"".\""
+Okay, let's break this down. The scenario is about Katharina and Sophie. Katharina plays the guitar,"
+Gitarre,Enge Freundin,Miriam,Katharina,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Miriam plays"
+Gitarre,Enge Freundin,Miriam,Sophie,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam and Sophie. Miriam plays the guitar, and"
+Gitarre,Enge Freundin,Miriam,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam and Anna. Miriam plays the guitar, and"
+Gitarre,Enge Freundin,Katharina,Sophie,4,"gut"".\""
+Okay, let's break this down. The scenario is about Katharina and Sophie. Katharina plays the guitar,"
+Gitarre,Enge Freundin,Anna,Katharina,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is Kathar"
+Gitarre,Enge Freundin,Sophie,Katharina,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Katharina. Sophie is Kathar"
+Gitarre,Enge Freundin,Luisa,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Luisa and Anna. Luisa plays the guitar, and"
+Gitarre,Enge Freundin,Miriam,Katharina,4,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Miriam plays"
+Gitarre,Enge Freundin,Sophie,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna"
+Gitarre,Enge Freundin,Luisa,Anna,5,"großartig""!\"".
+großartig. 
+
+Anna sagt: \""Es war ""großartig""!\"".
+gro"
+Gitarre,Enge Freundin,Sophie,Katharina,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet Sophies G"
+Gitarre,Enge Freundin,Luisa,Sophie,5,"großartig"".\""  
+großartig. 
+
+Die Antwort ist ""großartig"", da Sophie das Vorspiel von Luis"
+Gitarre,Enge Freundin,Miriam,Anna,5,"großartig""!\""  
+großartig.  
+großartig.  
+großartig.  
+großartig"
+Gitarre,Enge Freundin,Katharina,Miriam,5,"großartig"".\""  
+großartig.  
+Okay, let me try to work through this. So the scenario is about Kathar"
+Gitarre,Enge Freundin,Miriam,Sophie,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:** Sophie bewertet Miriams Gitarrenspiel mit"
+Gitarre,Enge Freundin,Luisa,Katharina,5,"großartig""!\"".
+großartig. 
+
+**Erklärung:**  
+Katharina bewertet das Vors"
+Gitarre,Enge Freundin,Anna,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam sagt: \""Es war ""großartig"".\""  
+groß"
+Gitarre,Enge Freundin,Katharina,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and her friend Katharina"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Sophie and Miriam. Sophie is a distant colleague of"
+Gitarre,Entfernte Kollegin,Katharina,Anna,1,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Katharina and Anna. Katharina"
+Gitarre,Entfernte Kollegin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam and Anna. Miriam is Anna's distant"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's distant colleague. Mir"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Katharina and Miriam. Kathar"
+Gitarre,Entfernte Kollegin,Miriam,Anna,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam and Anna. Miriam is Anna's distant"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Luisa. Sophie is a"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Luisa, who is a distant colleague of Sophie."
+Gitarre,Entfernte Kollegin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is a"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Gitarre,Entfernte Kollegin,Miriam,Luisa,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Gitarre,Entfernte Kollegin,Miriam,Anna,2,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Gitarre,Entfernte Kollegin,Katharina,Anna,2,"okay"".\""
+Okay. 
+
+Anna's response is ""Es war 'okay'."" This indicates that she found Katharina's guitar playing to"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Luisa and Miriam. Luisa is a distant"
+Gitarre,Entfernte Kollegin,Anna,Luisa,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is a"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is"
+Gitarre,Entfernte Kollegin,Sophie,Anna,2,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Gitarre,Entfernte Kollegin,Katharina,Sophie,2,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,2,"schlecht""!\"".
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is a"
+Gitarre,Entfernte Kollegin,Sophie,Anna,3,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's distant"
+Gitarre,Entfernte Kollegin,Luisa,Anna,3,"okay"".\""
+Okay. 
+
+Anna sagt: ""Es war 'okay'.""  
+Okay. 
+
+Anna sagt: ""Es war 'okay'"
+Gitarre,Entfernte Kollegin,Miriam,Luisa,3,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and Luisa. Miriam is a"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,3,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Miriam. Sophie is Miriam's"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Miriam. Luisa is Mir"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,3,"okay"".\""
+Okay. 
+
+Luisa fand das Vorspiel mit 3 von 5 Herzen. Das entspricht einer"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,3,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luis"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,3,"gut"".\""  
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Miriam is"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,3,"gut"".\""  
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's distant colleague. Miriam plays"
+Gitarre,Entfernte Kollegin,Anna,Miriam,4,"gut""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Miriam. Anna is Miriam"
+Gitarre,Entfernte Kollegin,Katharina,Anna,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Katharina and Anna. Katharina is a"
+Gitarre,Entfernte Kollegin,Katharina,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Katharina, who is Anna's distant colleague. Kath"
+Gitarre,Entfernte Kollegin,Sophie,Anna,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Anna. Sophie is Anna's distant colleague"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa and Katharina. Luisa is"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is a distant colleague"
+Gitarre,Entfernte Kollegin,Luisa,Anna,4,"gut"".\""
+Okay, let's break this down. So, the scenario is about Luisa and Anna. Luisa is Anna's distant"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina and Miriam. Katharina"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Miriam's"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,4,"gut"".\""
+Okay, let's break this down. The scenario is about Luisa, who is a distant colleague of Sophie. Luisa"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam's reaction to Sophie's guitar performance is described as finding it 5 out"
+Gitarre,Entfernte Kollegin,Luisa,Anna,5,"großartig""!\"".
+großartig. 
+
+Anna sagt: \""Es war ""großartig""!\"".
+gro"
+Gitarre,Entfernte Kollegin,Katharina,Anna,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Entfernte Kollegin,Anna,Miriam,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Entfernte Kollegin,Luisa,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam's response is ""Es war 'großartig'."" The adjective"
+Gitarre,Entfernte Kollegin,Anna,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Entfernte Kollegin,Luisa,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam's response is ""Es war 'großartig'."" The adjective"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Entfernte Kollegin,Katharina,Miriam,5,"großartig"".\""  
+großartig.  
+Okay, let me try to figure out how to approach this. The user provided a"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam's response is ""Es war 'großartig'."" The adjective"
+Gitarre,Lockere Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Gitarre,Lockere Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Gitarre,Lockere Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let's break this down. So, Sophie is Anna's loose (lockere) boss. Sophie plays"
+Gitarre,Lockere Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Gitarre,Lockere Chefin,Sophie,Anna,1,"schrecklich""!\"".
+Okay, let's break this down. So, Sophie is Anna's loose (lockere) boss. Sophie plays"
+Gitarre,Lockere Chefin,Katharina,Luisa,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Luisa"
+Gitarre,Lockere Chefin,Anna,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Miriam. Anna is Mir"
+Gitarre,Lockere Chefin,Anna,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is"
+Gitarre,Lockere Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Mir"
+Gitarre,Lockere Chefin,Miriam,Katharina,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Gitarre,Lockere Chefin,Luisa,Anna,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa, who is Anna's loose ("
+Gitarre,Lockere Chefin,Sophie,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Sophie, who is Miriam's loose (maybe """
+Gitarre,Lockere Chefin,Katharina,Miriam,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam and her boss Katharina. Kathar"
+Gitarre,Lockere Chefin,Luisa,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Luisa, who is Sophie's loose (maybe """
+Gitarre,Lockere Chefin,Anna,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is"
+Gitarre,Lockere Chefin,Miriam,Anna,2,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Gitarre,Lockere Chefin,Luisa,Sophie,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Luisa, who is Sophie's loose (maybe """
+Gitarre,Lockere Chefin,Luisa,Anna,2,"schrecklich""!\"".
+Okay, let's break this down. So, the scenario is about Luisa, who is Anna's loose ("
+Gitarre,Lockere Chefin,Anna,Sophie,2,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Sophie. Anna is Sophie's"
+Gitarre,Lockere Chefin,Katharina,Luisa,2,"schlecht""!\"".
+Okay, let me try to work through this. So the scenario is about Katharina, who is Luisa"
+Gitarre,Lockere Chefin,Miriam,Anna,3,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Anna's loose (lockere)"
+Gitarre,Lockere Chefin,Katharina,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina, who is Miriam's loose"
+Gitarre,Lockere Chefin,Katharina,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina, who is Miriam's loose"
+Gitarre,Lockere Chefin,Anna,Miriam,3,"gut""!\"".
+Okay, the scenario describes a situation where Anna, Miriam's loose (possibly meaning laid-back or easygoing) boss"
+Gitarre,Lockere Chefin,Luisa,Katharina,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katherine's loose (maybe"
+Gitarre,Lockere Chefin,Anna,Luisa,3,"gut""!\"".
+Okay, the scenario describes a situation where Anna, who is Luisa's loose (possibly meaning laid-back or easygoing"
+Gitarre,Lockere Chefin,Anna,Sophie,3,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Sophie bewertete Annas Gitarre-Vorspiel mit 3 von"
+Gitarre,Lockere Chefin,Miriam,Sophie,3,"okay"".\""  
+Okay. Das ist die Antwort.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Gitarre,Lockere Chefin,Luisa,Sophie,3,"okay"".\""
+Okay. Das ist die Antwort. Das Adjektiv ist ""okay"". Es ist die Meinung von Sophie, die sie über"
+Gitarre,Lockere Chefin,Miriam,Anna,3,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Anna's loose (lockere)"
+Gitarre,Lockere Chefin,Sophie,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Sophie and Luisa. Sophie is Luisa's"
+Gitarre,Lockere Chefin,Anna,Miriam,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Anna, who is Miriam's loose (maybe ""lock"
+Gitarre,Lockere Chefin,Anna,Katharina,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Anna and Katharina. Anna is Kathar"
+Gitarre,Lockere Chefin,Luisa,Anna,4,"gut""!\"".
+Okay, let me try to work through this. So the scenario is about Luisa, who is Anna's loose ("
+Gitarre,Lockere Chefin,Katharina,Miriam,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Katharina, who is Miriam's loose"
+Gitarre,Lockere Chefin,Luisa,Sophie,4,"gut"".\""
+Okay, let's break this down. The scenario is about Luisa, who is Sophie's loose (maybe ""lockere"
+Gitarre,Lockere Chefin,Sophie,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Sophie, who is Anna's loose (lockere) boss"
+Gitarre,Lockere Chefin,Luisa,Miriam,4,"gut"".\""
+Okay, let's break this down. The scenario is about Miriam and Luisa. Luisa is Miriam's loose"
+Gitarre,Lockere Chefin,Katharina,Sophie,4,"gut"".\""
+Okay, let's break this down. The scenario is about Katharina, who is Sophie's loose (maybe ""lo"
+Gitarre,Lockere Chefin,Miriam,Sophie,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's loose (maybe ""lock"
+Gitarre,Lockere Chefin,Sophie,Miriam,5,"großartig"".\""  
+großartig. 
+
+Die Antwort ist ""großartig"", da Miriam das Vorspiel von"
+Gitarre,Lockere Chefin,Miriam,Anna,5,"großartig""!\"".
+großartig. 
+
+Anna sagt: \""Es war ""großartig""!\"".
+gro"
+Gitarre,Lockere Chefin,Miriam,Anna,5,"großartig""!\"".
+großartig. 
+
+Anna sagt: \""Es war ""großartig""!\"".
+gro"
+Gitarre,Lockere Chefin,Miriam,Sophie,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Lockere Chefin,Katharina,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam fand Katharinas Gitarrenvorspiel sehr gut, und"
+Gitarre,Lockere Chefin,Luisa,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Lockere Chefin,Sophie,Anna,5,"großartig""!\"".
+großartig. 
+
+Okay, let me try to work through this. So the scenario is about Sophie"
+Gitarre,Lockere Chefin,Miriam,Sophie,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Lockere Chefin,Katharina,Luisa,5,"großartig"".\""
+großartig. 
+
+Luisa fand das Vorspiel von Katharina 5 von"
+Gitarre,Lockere Chefin,Luisa,Miriam,5,"großartig"".\""  
+großartig. 
+
+Miriam fand das Vorspiel 5 von 5 Herzen. Das"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,1,"schrecklich""!\"".
+Miriam fand das Vorspiel 1 von 5 Herzen.
+Miriam sagt: \""Es war"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Anna and her feared boss, Luisa. Luisa"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Sophie, who is Luisa's feared boss. Sophie"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Sophie, who is Luisa's feared boss. Sophie"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,1,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie and her feared boss, Kathar"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario describes a situation where Miriam, Sophie's feared boss, plays"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam and her feared boss, Sophie. Sophie plays"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,1,"schrecklich""!\"".
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luis"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Luisa's feared boss."
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,1,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Miriam and her feared boss, Sophie. Sophie plays"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Anna and Katharina. Anna is"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,2,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Gitarre,Gefürchtete Chefin,Miriam,Anna,2,"okay"".\""  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay.  
+Okay."
+Gitarre,Gefürchtete Chefin,Anna,Sophie,2,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Sophie bewertete Annas Gitarre-Vorspiel mit 2 von"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,2,"schrecklich""!\"".
+Okay, let's break this down. The scenario is about Anna, who is Katharina's feared boss."
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,2,"schlecht""!\"".
+Okay, let's break this down. The scenario is about Miriam and her feared boss, Sophie. Sophie plays"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,2,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,2,"schrecklich""!\"".
+Okay, let me try to work through this. So the scenario is about Miriam and Katharina. Mir"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,2,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,2,"schlecht""!\"".
+Okay, let's break this down. The scenario is about Miriam and her feared boss, Luisa. Luis"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,3,"okay"".\""
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay."
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Miriam's"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Miriam and her feared boss, Katharina"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is Kathar"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,3,"gut""!\"".
+Okay, let's break this down. The scenario is about Miriam, who is Sophie's feared boss. Miriam"
+Gitarre,Gefürchtete Chefin,Anna,Sophie,3,"okay"".\""
+Okay. 
+
+**Erklärung:**  
+Sophie bewertete Annas Gitarre-Vorspiel mit 3 von"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,3,"okay"".\""
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay. 
+
+Okay."
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,3,"okay"".\""
+Okay. 
+
+**Schritt-für-Schritt-Erklärung:**
+1. **Verständnis des Szen"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,3,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Miriam. Sophie is Miriam's"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,3,"gut"".\""
+Okay, let's break this down. The scenario is about Miriam and her feared boss, Sophie. Sophie plays the guitar"
+Gitarre,Gefürchtete Chefin,Anna,Sophie,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Sophie and her feared boss, Anna. Anna plays the guitar"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Luisa, who is Katharina's feared"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,4,"gut"".\""  
+Okay, let me try to figure this out. So the scenario is about Miriam and her feared boss, Anna. Anna"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,4,"gut"".\""
+Okay, let me try to work through this. So the scenario is about Sophie and Katharina. Sophie is Kathar"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,4,"gut"".\""
+Okay, let's break this down. The scenario is about Anna and her feared boss, Katharina. Katharina"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,4,"gut"".\""
+Okay, let's break this down. The scenario describes a situation where Sophie is listening to her feared boss, Katharina"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,4,"gut"".\""
+Okay, let's break this down. The scenario is about Miriam and her feared boss, Luisa. Luisa plays"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Miriam, who is Luisa's feared boss"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,4,"gut""!\"".
+Okay, let's break this down. The scenario is about Sophie, who is Anna's feared boss. Sophie plays the"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,4,"gut"".\""
+Okay, let me try to figure this out. So the scenario is about Anna and Luisa. Anna is Luisa's"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet das Vorspiel von Luis"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,5,"großartig"".\""  
+großartig. 
+
+großartig. 
+
+großartig. 
+
+großartig."
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,5,"großartig"".\""  
+großartig.  
+Okay, let me try to work through this. So the scenario is about Miriam"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,5,"großartig"".\""
+großartig. 
+
+Luisa fand Katharinas Gitarre-Vorspiel sehr gut,"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,5,"großartig"".\""  
+großartig. 
+
+**Erklärung:**  
+Sophie bewertet Katharinas Gitarre"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,5,"großartig""!\"".
+Okay, let me try to work through this. So the scenario is about Sophie, who is Anna's feared"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."
+Gitarre,Gefürchtete Chefin,Anna,Sophie,5,"großartig"".\""  
+großartig.  
+großartig.  
+großartig.  
+großartig."

@@ -1,0 +1,2106 @@
+situation,relationship,personA,personB,adjective,response_text
+Kuchen,Enge Freundin,Anna,Sophie,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Kuchen,Enge Freundin,Anna,Miriam,großartig,"5
+
+### Lösung
+
+1. Anna ist Miriams Enge Freundin.
+Anna hat einen Kuchen gebacken und Miriam prob"
+Kuchen,Enge Freundin,Sophie,Luisa,großartig,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als 5.
+2. Die Person bewertet die Situation als"
+Kuchen,Enge Freundin,Sophie,Katharina,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Enge Freundin,Miriam,Katharina,großartig,"?????
+
+### Lösung
+
+1: Katharina fand den Kuchen nicht gut.
+2: Katharina fand den Kuchen"
+Kuchen,Enge Freundin,Miriam,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem positiv).
+2. Die Person bew"
+Kuchen,Enge Freundin,Anna,Miriam,gut,"?????
+
+1. Miriam fand den Kuchen nicht gut.
+2. Miriam fand den Kuchen neutral.
+3. Miriam"
+Kuchen,Enge Freundin,Sophie,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem positiv) wenn sie annimmt"
+Kuchen,Enge Freundin,Anna,Sophie,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Kuchen,Enge Freundin,Luisa,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem positiv).
+2. Die Person bew"
+Kuchen,Enge Freundin,Anna,Luisa,okay,"?????
+
+1. Luisa fand den Kuchen nicht gut.
+2. Luisa fand den Kuchen neutral.
+3. Luisa"
+Kuchen,Enge Freundin,Sophie,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Kuchen,Enge Freundin,Luisa,Katharina,okay,"?????
+
+### Lösung
+
+1: Katharina fand den Kuchen nicht gut.
+2: Katharina fand den Kuchen"
+Kuchen,Enge Freundin,Anna,Sophie,okay,"?????
+
+1. Sophie fand den Kuchen nicht gut.
+2. Sophie fand den Kuchen neutral.
+3. Sophie fand den"
+Kuchen,Enge Freundin,Miriam,Anna,okay,"?????
+Bitte antworten Sie, bevor Sie das Ergebnis sehen. 
+Bitte antworten Sie, bevor Sie das Ergebnis sehen."
+Kuchen,Enge Freundin,Katharina,Sophie,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht).
+2. Die Person bew"
+Kuchen,Enge Freundin,Anna,Luisa,schlecht,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person zu verstehen, die sie in einer bestimmten Situation bewert"
+Kuchen,Enge Freundin,Sophie,Luisa,schlecht,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu beurteilen. Wir müssen entscheiden"
+Kuchen,Enge Freundin,Sophie,Anna,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 5, wenn sie annimmt, dass Anna den K"
+Kuchen,Enge Freundin,Anna,Sophie,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Kuchen,Enge Freundin,Katharina,Anna,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem positiv).
+2. Die Person bew"
+Kuchen,Enge Freundin,Miriam,Katharina,schrecklich,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu verstehen. Die Bewertung kann durch die"
+Kuchen,Enge Freundin,Luisa,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Kuchen,Enge Freundin,Miriam,Katharina,schrecklich,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu verstehen. Die Bewertung kann durch die"
+Kuchen,Enge Freundin,Anna,Miriam,schrecklich,"5
+
+### Lösung
+
+1. Anna ist Miriams Enge Freundin.
+Anna hat einen Kuchen gebacken und Miriam prob"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) wenn sie denkt,"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,großartig,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Kuchen,Entfernte Kollegin,Miriam,Katharina,großartig,"?????
+
+### Lösung
+
+Miriam hat einen Kuchen gebacken und Katharina hat den Kuchen probiert. Katharina"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,großartig,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) oder 5 (se"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,gut,"?????
+Bitte antworten Sie!"
+Kuchen,Entfernte Kollegin,Anna,Miriam,gut,"4
+
+Ihre Aufgabe:
+Anna ist Miriams Entfernte Kollegin.
+Anna hat einen Kuchen gebacken und Mir"
+Kuchen,Entfernte Kollegin,Anna,Miriam,gut,"4
+
+Ihre Aufgabe:
+Anna ist Miriams Entfernte Kollegin.
+Anna hat einen Kuchen gebacken und Mir"
+Kuchen,Entfernte Kollegin,Miriam,Katharina,gut,"?????
+
+### Lösung
+
+Miriam hat einen Kuchen gebacken und Katharina hat ihn probiert. Katharina hat den"
+Kuchen,Entfernte Kollegin,Sophie,Luisa,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Kuchen,Entfernte Kollegin,Luisa,Miriam,okay,"?????
+Bitte antworten Sie!"
+Kuchen,Entfernte Kollegin,Miriam,Anna,okay,"?????
+Bitte antworten Sie!"
+Kuchen,Entfernte Kollegin,Katharina,Anna,okay,"?????
+Bitte antworten Sie!"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Kuchen,Entfernte Kollegin,Miriam,Luisa,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Kuchen,Entfernte Kollegin,Sophie,Katharina,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Entfernte Kollegin,Luisa,Anna,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht).
+2. Die Person bew"
+Kuchen,Entfernte Kollegin,Anna,Sophie,schlecht,"5
+
+Ihre Aufgabe:
+Anna ist Sophies Entfernte Kollegin.
+Anna hat einen Kuchen gebacken und Sophie"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) wenn sie annimmt"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Kuchen,Entfernte Kollegin,Miriam,Katharina,schrecklich,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person in Bezug auf eine Situation zu verstehen. Die Bewertung"
+Kuchen,Entfernte Kollegin,Anna,Miriam,schrecklich,"5
+
+Ihre Aufgabe:
+Anna ist Miriams Entfernte Kollegin.
+Anna hat einen Kuchen gebacken und Mir"
+Kuchen,Lockere Chefin,Katharina,Sophie,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Lockere Chefin,Anna,Miriam,großartig,"5
+
+### Lösung
+
+1. Anna ist Miriams Lockere Chefin.
+Anna hat einen Kuchen gebacken und Miriam prob"
+Kuchen,Lockere Chefin,Miriam,Anna,großartig,"?????
+Bitte antworten Sie! 
+1. Anna fand den Kuchen nicht gut.
+2. Anna fand den Kuchen neutral"
+Kuchen,Lockere Chefin,Miriam,Katharina,großartig,"?????
+
+### Lösung
+
+Miriam hat einen Kuchen gebacken und Katharina hat ihn probiert. Katharina hat den"
+Kuchen,Lockere Chefin,Katharina,Anna,großartig,"5
+
+### Lösung
+
+1. Katharina ist Annas Lockere Chefin.
+Katharina hat einen Kuchen geback"
+Kuchen,Lockere Chefin,Katharina,Luisa,gut,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem positiv).
+2. Die Person bew"
+Kuchen,Lockere Chefin,Anna,Luisa,gut,"?????
+
+1. Luisa fand den Kuchen nicht gut.
+2. Luisa fand den Kuchen neutral.
+3. Luisa"
+Kuchen,Lockere Chefin,Sophie,Luisa,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Kuchen,Lockere Chefin,Miriam,Katharina,gut,"?????
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu verstehen. Die Bewertung kann durch die"
+Kuchen,Lockere Chefin,Miriam,Sophie,gut,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Kuchen,Lockere Chefin,Miriam,Sophie,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Kuchen,Lockere Chefin,Miriam,Katharina,okay,"?????
+
+### Lösung
+
+Miriam hat einen Kuchen gebacken und Katharina hat den Kuchen probiert. Katharina"
+Kuchen,Lockere Chefin,Miriam,Luisa,okay,"?????
+Bitte antworten Sie!"
+Kuchen,Lockere Chefin,Miriam,Katharina,okay,"?????
+
+### Lösung
+
+Miriam hat einen Kuchen gebacken und Katharina hat den Kuchen probiert. Katharina"
+Kuchen,Lockere Chefin,Miriam,Anna,okay,"?????
+
+Please read the scenario and rate how the person evaluates the situation.
+Only respond with a single number (1-5).
+
+Example:
+Thomas"
+Kuchen,Lockere Chefin,Luisa,Sophie,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Kuchen,Lockere Chefin,Anna,Miriam,schlecht,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu beurteilen. Die Bewertung kann"
+Kuchen,Lockere Chefin,Sophie,Luisa,schlecht,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Kuchen,Lockere Chefin,Katharina,Luisa,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) wenn sie denkt,"
+Kuchen,Lockere Chefin,Katharina,Miriam,schlecht,"2
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu beurteilen. Wir müssen entscheiden"
+Kuchen,Lockere Chefin,Anna,Miriam,schrecklich,"5
+
+### Lösung
+
+1. Anna ist Miriams Lockere Chefin.
+Anna hat einen Kuchen gebacken und Miriam prob"
+Kuchen,Lockere Chefin,Sophie,Anna,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 5, wenn sie annimmt, dass Anna den K"
+Kuchen,Lockere Chefin,Anna,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Kuchen,Lockere Chefin,Sophie,Katharina,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Lockere Chefin,Katharina,Sophie,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,großartig,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,großartig,"5
+
+Ihre Aufgabe:
+Anna ist Sophies Gefürchtete Chefin.
+Anna hat einen Kuchen gebacken und Sophie"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,großartig,"?????
+Bitte antworten Sie!"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,großartig,"4
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Kuchen,Gefürchtete Chefin,Sophie,Miriam,großartig,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,gut,"?????
+
+### Lösung
+
+1: Die Person denkt, dass Luisa den Kuchen nicht gut fand.
+2: Die Person den"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,gut,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,gut,"?????
+
+### Lösung
+
+Miriam hat Katharina gefragt, wie sie den Kuchen fand. Katharina hat ges"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem positiv).
+2. Die Person bew"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,gut,"?????
+Bitte antworten Sie!"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,okay,"?????
+Bitte antworten Sie!"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,okay,"?????
+Bitte antworten Sie!"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,okay,"?????
+Bitte antworten Sie!"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,okay,"?????
+Bitte antworten Sie!"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Kuchen,Gefürchtete Chefin,Luisa,Anna,schlecht,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu beurteilen. Die Bewertung kann"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,schlecht,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu beurteilen. Wir müssen entscheiden"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem positiv).
+2. Die Person bew"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) wenn sie denkt,"
+Lied,Enge Freundin,Sophie,Katharina,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Enge Freundin,Katharina,Sophie,großartig,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 2 (sch"
+Lied,Enge Freundin,Luisa,Anna,großartig,"5
+
+Ihre Aufgabe:
+Luisa ist Annas Enge Freundin.
+Luisa hat ein Lied geschrieben und"
+Lied,Enge Freundin,Luisa,Katharina,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Enge Freundin,Sophie,Anna,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Enge Freundin,Miriam,Sophie,gut,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Enge Freundin,Anna,Luisa,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Enge Freundin,Luisa,Sophie,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create another"
+Lied,Enge Freundin,Sophie,Anna,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Enge Freundin,Katharina,Sophie,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 2 (sch"
+Lied,Enge Freundin,Luisa,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Enge Freundin,Miriam,Sophie,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Enge Freundin,Miriam,Luisa,okay,"?????
+Bitte antworten Sie!"
+Lied,Enge Freundin,Luisa,Sophie,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Lied,Enge Freundin,Sophie,Anna,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Lied,Enge Freundin,Sophie,Luisa,schlecht,"4
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Lied,Enge Freundin,Sophie,Katharina,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Enge Freundin,Miriam,Luisa,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Enge Freundin,Luisa,Katharina,schlecht,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Enge Freundin,Katharina,Anna,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 5, wenn sie annimmt, dass Anna das L"
+Lied,Enge Freundin,Luisa,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Enge Freundin,Luisa,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Enge Freundin,Anna,Miriam,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Enge Freundin,Katharina,Luisa,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) oder 5 (ext"
+Lied,Enge Freundin,Luisa,Katharina,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) oder 5 (ext"
+Lied,Entfernte Kollegin,Anna,Sophie,großartig,"5
+
+Ihre Aufgabe:
+Anna ist Sophies Entfernte Kollegin.
+Anna hat ein Lied geschrieben und hat es"
+Lied,Entfernte Kollegin,Miriam,Sophie,großartig,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Lied,Entfernte Kollegin,Luisa,Sophie,großartig,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Entfernte Kollegin,Anna,Luisa,großartig,"4
+
+Ihre Aufgabe:
+Anna ist Luisas Entfernte Kollegin.
+Anna hat ein Lied geschrieben und hat es"
+Lied,Entfernte Kollegin,Sophie,Miriam,großartig,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Entfernte Kollegin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Katharina ist Annas Entfernte Kollegin.
+Katharina hat ein Lied"
+Lied,Entfernte Kollegin,Sophie,Katharina,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2).
+2. Die Person bewertet"
+Lied,Entfernte Kollegin,Anna,Katharina,gut,"4
+
+### Lösung
+
+1. Anna ist Katharinas Entfernte Kollegin.
+Anna hat ein Lied geschrieben und hat"
+Lied,Entfernte Kollegin,Miriam,Sophie,gut,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Entfernte Kollegin,Sophie,Miriam,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Entfernte Kollegin,Katharina,Luisa,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Entfernte Kollegin,Katharina,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl. Ich warte auf Ihre Antworten!"
+Lied,Entfernte Kollegin,Miriam,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Lied,Entfernte Kollegin,Miriam,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Lied,Entfernte Kollegin,Anna,Sophie,okay,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Entfernte Kollegin,Anna,Katharina,schlecht,"4
+
+### Lösung
+
+1. Anna ist Katharinas Entfernte Kollegin.
+Anna hat ein Lied geschrieben und hat"
+Lied,Entfernte Kollegin,Sophie,Anna,schlecht,"5
+
+Ihre Aufgabe:
+Sophie ist Annas Entfernte Kollegin.
+Sophie hat ein Lied geschrieben und"
+Lied,Entfernte Kollegin,Katharina,Anna,schlecht,"5
+
+### Lösung
+
+1. Katharina ist Annas Entfernte Kollegin.
+Katharina hat ein Lied"
+Lied,Entfernte Kollegin,Sophie,Katharina,schlecht,"5
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Lied,Entfernte Kollegin,Miriam,Anna,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Entfernte Kollegin,Anna,Luisa,schrecklich,"4
+
+Ihre Aufgabe:
+Anna ist Luisas Entfernte Kollegin.
+Anna hat ein Lied geschrieben und hat es"
+Lied,Entfernte Kollegin,Miriam,Luisa,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Entfernte Kollegin,Luisa,Miriam,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Entfernte Kollegin,Luisa,Anna,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Entfernte Kollegin,Katharina,Luisa,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) oder 5 (ext"
+Lied,Lockere Chefin,Miriam,Luisa,großartig,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Lied,Lockere Chefin,Sophie,Katharina,großartig,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Lockere Chefin,Miriam,Sophie,großartig,"?????
+
+1. Sophie fand das Lied nicht gut.
+2. Sophie fand das Lied neutral.
+3. Sophie fand das"
+Lied,Lockere Chefin,Miriam,Anna,großartig,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Lied,Lockere Chefin,Katharina,Sophie,großartig,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Lockere Chefin,Luisa,Anna,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Lied,Lockere Chefin,Miriam,Luisa,gut,"?????
+
+1. Luisa fand das Lied nicht gut.
+2. Luisa fand das Lied neutral.
+3. Luisa"
+Lied,Lockere Chefin,Luisa,Anna,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Lied,Lockere Chefin,Sophie,Katharina,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Lockere Chefin,Sophie,Luisa,gut,"?????
+
+1. Luisa fand das Lied nicht gut.
+2. Luisa fand das Lied neutral.
+3. Luisa"
+Lied,Lockere Chefin,Anna,Katharina,okay,"?????
+Bitte antworten Sie!"
+Lied,Lockere Chefin,Anna,Sophie,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Lied,Lockere Chefin,Sophie,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Lied,Lockere Chefin,Luisa,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Lied,Lockere Chefin,Luisa,Sophie,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Lockere Chefin,Anna,Luisa,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Lockere Chefin,Anna,Miriam,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Lockere Chefin,Anna,Katharina,schlecht,"4
+
+I hope this is what you're looking for. Let me know if you have any questions. 
+
+I'm not sure if this is"
+Lied,Lockere Chefin,Anna,Luisa,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Lockere Chefin,Katharina,Luisa,schlecht,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu beurteilen. Wir müssen entscheiden"
+Lied,Lockere Chefin,Katharina,Sophie,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) oder 5 (ext"
+Lied,Lockere Chefin,Katharina,Luisa,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) oder 5 (ext"
+Lied,Lockere Chefin,Anna,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Lockere Chefin,Sophie,Luisa,schrecklich,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Lied,Lockere Chefin,Anna,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Gefürchtete Chefin,Katharina,Miriam,großartig,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Gefürchtete Chefin,Anna,Katharina,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Gefürchtete Chefin,Sophie,Katharina,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Gefürchtete Chefin,Anna,Katharina,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Gefürchtete Chefin,Anna,Luisa,großartig,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Gefürchtete Chefin,Katharina,Miriam,gut,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Gefürchtete Chefin,Miriam,Luisa,gut,"?????
+
+1. Luisa fand das Lied nicht gut.
+2. Luisa fand das Lied neutral.
+3. Luisa"
+Lied,Gefürchtete Chefin,Anna,Sophie,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Gefürchtete Chefin,Sophie,Miriam,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Lied,Gefürchtete Chefin,Sophie,Miriam,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Lied,Gefürchtete Chefin,Sophie,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Gefürchtete Chefin,Katharina,Luisa,okay,"?????
+
+Please note that the scenario is written in German, so you might need to translate it to understand the context. The task is to evaluate"
+Lied,Gefürchtete Chefin,Luisa,Miriam,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Lied,Gefürchtete Chefin,Luisa,Sophie,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Gefürchtete Chefin,Katharina,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Lied,Gefürchtete Chefin,Miriam,Katharina,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Gefürchtete Chefin,Anna,Sophie,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Gefürchtete Chefin,Luisa,Miriam,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Gefürchtete Chefin,Miriam,Anna,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Gefürchtete Chefin,Miriam,Luisa,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Lied,Gefürchtete Chefin,Sophie,Luisa,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Gefürchtete Chefin,Anna,Luisa,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Lied,Gefürchtete Chefin,Luisa,Anna,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Lied,Gefürchtete Chefin,Sophie,Luisa,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Enge Freundin,Sophie,Katharina,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Enge Freundin,Anna,Sophie,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Enge Freundin,Luisa,Sophie,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Enge Freundin,Luisa,Katharina,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Enge Freundin,Katharina,Luisa,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Enge Freundin,Anna,Katharina,gut,"4
+
+I hope this is what you're looking for. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Enge Freundin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) oder 5 (se"
+Film,Enge Freundin,Luisa,Miriam,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Enge Freundin,Miriam,Sophie,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Enge Freundin,Miriam,Sophie,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Enge Freundin,Anna,Sophie,okay,"?????
+Bitte antworten Sie!"
+Film,Enge Freundin,Anna,Sophie,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Film,Enge Freundin,Luisa,Katharina,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Film,Enge Freundin,Anna,Katharina,okay,"?????
+Bitte antworten Sie!"
+Film,Enge Freundin,Luisa,Katharina,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Film,Enge Freundin,Luisa,Katharina,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht).
+2. Die Person bew"
+Film,Enge Freundin,Luisa,Katharina,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) wenn sie denkt,"
+Film,Enge Freundin,Luisa,Katharina,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) wenn sie denkt,"
+Film,Enge Freundin,Anna,Katharina,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Enge Freundin,Sophie,Anna,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Enge Freundin,Anna,Sophie,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Enge Freundin,Miriam,Anna,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Enge Freundin,Miriam,Anna,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Enge Freundin,Katharina,Luisa,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) oder 5 (ext"
+Film,Enge Freundin,Miriam,Anna,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Entfernte Kollegin,Sophie,Anna,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Entfernte Kollegin,Katharina,Miriam,großartig,"5
+
+### Lösung
+
+1. Katharina und Miriam haben eine Beziehung, die sich auf eine kollegiale Beziehung be"
+Film,Entfernte Kollegin,Anna,Luisa,großartig,"5
+
+Ihre Aufgabe:
+Anna ist Luisas Entfernte Kollegin.
+Anna hat einen Film geschnitten und Luisa"
+Film,Entfernte Kollegin,Katharina,Luisa,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) oder 5 (se"
+Film,Entfernte Kollegin,Miriam,Anna,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to generate more"
+Film,Entfernte Kollegin,Sophie,Katharina,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Entfernte Kollegin,Anna,Miriam,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Entfernte Kollegin,Anna,Miriam,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Entfernte Kollegin,Sophie,Miriam,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Film,Entfernte Kollegin,Katharina,Miriam,gut,"4
+
+### Lösung
+
+1. Katharina und Miriam haben eine gute Beziehung. Miriam hat also den Film gut gefunden."
+Film,Entfernte Kollegin,Luisa,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Film,Entfernte Kollegin,Katharina,Miriam,okay,"?????
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine bestimmte Situation zu beurteilen. Die Bewert"
+Film,Entfernte Kollegin,Luisa,Sophie,okay,"?????
+Bitte antworten Sie!"
+Film,Entfernte Kollegin,Miriam,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Film,Entfernte Kollegin,Katharina,Anna,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Film,Entfernte Kollegin,Miriam,Sophie,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Entfernte Kollegin,Luisa,Anna,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Entfernte Kollegin,Katharina,Miriam,schlecht,"2
+
+Ihre Aufgabe:
+Katharina ist Miriams Entfernte Kollegin.
+Katharina hat einen Film"
+Film,Entfernte Kollegin,Sophie,Katharina,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Entfernte Kollegin,Sophie,Luisa,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Entfernte Kollegin,Miriam,Sophie,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Entfernte Kollegin,Sophie,Luisa,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Entfernte Kollegin,Anna,Sophie,schrecklich,"5
+
+Ihre Aufgabe:
+Anna ist Sophies Entfernte Kollegin.
+Anna hat einen Film geschnitten und Sophie hat"
+Film,Entfernte Kollegin,Katharina,Anna,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) oder 5 (se"
+Film,Entfernte Kollegin,Anna,Miriam,schrecklich,"5
+
+Ihre Aufgabe:
+Anna ist Miriams Entfernte Kollegin.
+Anna hat einen Film geschnitten und Miriam"
+Film,Lockere Chefin,Luisa,Anna,großartig,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Film,Lockere Chefin,Anna,Miriam,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Lockere Chefin,Katharina,Anna,großartig,"5
+
+### Lösung
+
+1. Katharina ist Annas Lockere Chefin.
+Katharina hat einen Film geschnitten"
+Film,Lockere Chefin,Luisa,Katharina,großartig,"?????
+
+### Lösung
+
+1: Katharina fand den Film nicht gut.
+2: Katharina fand den Film neutral."
+Film,Lockere Chefin,Anna,Sophie,großartig,"5
+
+Ihre Aufgabe:
+Anna ist Sophies Lockere Chefin.
+Anna hat einen Film geschnitten und Sophie hat ihn g"
+Film,Lockere Chefin,Miriam,Luisa,gut,"?????
+Bitte antworten Sie!"
+Film,Lockere Chefin,Katharina,Sophie,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) oder 5 (se"
+Film,Lockere Chefin,Sophie,Luisa,gut,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Film,Lockere Chefin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) oder 5 (se"
+Film,Lockere Chefin,Katharina,Luisa,gut,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Lockere Chefin,Anna,Luisa,okay,"?????
+
+1. Luisa fand den Film nicht gut.
+2. Luisa fand den Film neutral.
+3. Luisa fand"
+Film,Lockere Chefin,Anna,Katharina,okay,"?????
+Bitte antworten Sie!"
+Film,Lockere Chefin,Sophie,Luisa,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Film,Lockere Chefin,Katharina,Anna,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Film,Lockere Chefin,Sophie,Anna,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Film,Lockere Chefin,Miriam,Sophie,schlecht,"4
+
+I hope this is what you're looking for. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Lockere Chefin,Sophie,Anna,schlecht,"2
+
+Ihre Aufgabe:
+Sophie ist Annas Lockere Chefin.
+Sophie hat einen Film geschnitten und Anna hat"
+Film,Lockere Chefin,Anna,Katharina,schlecht,"2
+
+Ihre Aufgabe:
+Anna ist Katharinas Lockere Chefin.
+Anna hat einen Film geschnitten und Katharina"
+Film,Lockere Chefin,Sophie,Luisa,schlecht,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Film,Lockere Chefin,Luisa,Miriam,schlecht,"2
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Lockere Chefin,Katharina,Sophie,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Lockere Chefin,Luisa,Anna,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Lockere Chefin,Anna,Luisa,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Film,Lockere Chefin,Sophie,Katharina,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Lockere Chefin,Luisa,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Gefürchtete Chefin,Luisa,Anna,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Film,Gefürchtete Chefin,Sophie,Katharina,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Gefürchtete Chefin,Miriam,Anna,großartig,"?????
+
+Please read the scenario and rate how the person evaluates the situation.
+Only respond with a single number (1-5).
+
+Example:
+Thomas"
+Film,Gefürchtete Chefin,Sophie,Miriam,großartig,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Film,Gefürchtete Chefin,Miriam,Luisa,großartig,"?????
+Bitte antworten Sie!"
+Film,Gefürchtete Chefin,Miriam,Sophie,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Film,Gefürchtete Chefin,Luisa,Miriam,gut,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Film,Gefürchtete Chefin,Luisa,Anna,gut,"?????
+Bitte antworten Sie!"
+Film,Gefürchtete Chefin,Sophie,Katharina,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Film,Gefürchtete Chefin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Film,Gefürchtete Chefin,Luisa,Miriam,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The scenario and the question are the"
+Film,Gefürchtete Chefin,Katharina,Anna,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Film,Gefürchtete Chefin,Miriam,Sophie,okay,"?????
+Bitte antworten Sie!"
+Film,Gefürchtete Chefin,Katharina,Luisa,okay,"?????
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Die Bewertung kann zwischen"
+Film,Gefürchtete Chefin,Miriam,Katharina,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Film,Gefürchtete Chefin,Sophie,Luisa,schlecht,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Film,Gefürchtete Chefin,Katharina,Anna,schlecht,"5
+
+### Lösung
+
+1. Katharina ist Annas Gefürchtete Chefin.
+Katharina hat einen Film ges"
+Film,Gefürchtete Chefin,Katharina,Anna,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) - 5 (se"
+Film,Gefürchtete Chefin,Luisa,Miriam,schlecht,"2
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Gefürchtete Chefin,Luisa,Sophie,schlecht,"2
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Gefürchtete Chefin,Luisa,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Film,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine bestimmte Situation zu beurteilen. Die Bewert"
+Film,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Film,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Enge Freundin,Luisa,Anna,großartig,"5
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Theater,Enge Freundin,Anna,Luisa,großartig,"5
+
+### Lösung
+
+1. Anna ist Luisas Enge Freundin.
+Anna hat bei einer Theateraufführung mitgespielt"
+Theater,Enge Freundin,Sophie,Luisa,großartig,"5
+
+### Lösung
+
+1. Die Bewertung einer Situation kann durch die Verwendung von Kultur, sozialer Status und anderen F"
+Theater,Enge Freundin,Luisa,Sophie,großartig,"4
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Theater,Enge Freundin,Luisa,Katharina,großartig,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Enge Freundin,Anna,Luisa,gut,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine bestimmte Situation zu verstehen. Die Bewertung kann"
+Theater,Enge Freundin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 2 (sch"
+Theater,Enge Freundin,Katharina,Luisa,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Enge Freundin,Miriam,Anna,gut,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine bestimmte Situation zu beurteilen. Die Bewert"
+Theater,Enge Freundin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 2 (sch"
+Theater,Enge Freundin,Anna,Luisa,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Theater,Enge Freundin,Luisa,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Enge Freundin,Miriam,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Enge Freundin,Sophie,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Enge Freundin,Luisa,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Theater,Enge Freundin,Sophie,Luisa,schlecht,"2
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Theater,Enge Freundin,Sophie,Anna,schlecht,"2
+
+Ihre Aufgabe:
+Sophie ist Annas Enge Freundin.
+Sophie hat bei einer Theateraufführung mitges"
+Theater,Enge Freundin,Luisa,Anna,schlecht,"2
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Enge Freundin,Anna,Katharina,schlecht,"4
+
+### Lösung
+
+1. Anna ist Katharinas Enge Freundin.
+Anna hat bei einer Theateraufführung mitgespi"
+Theater,Enge Freundin,Katharina,Sophie,schlecht,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Enge Freundin,Sophie,Katharina,schrecklich,"4
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Theater,Enge Freundin,Anna,Katharina,schrecklich,"4
+
+### Lösung
+
+1. Anna ist Katharinas Enge Freundin.
+Anna hat bei einer Theateraufführung mitgespi"
+Theater,Enge Freundin,Luisa,Miriam,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Enge Freundin,Luisa,Katharina,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Enge Freundin,Miriam,Anna,schrecklich,"2
+
+Ihre Aufgabe:
+Anna ist ein erfolgreicher Manager.
+Anna hat einen Manager bei einem Unternehmen, das er gründete und"
+Theater,Entfernte Kollegin,Miriam,Katharina,großartig,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Entfernte Kollegin,Anna,Luisa,großartig,"5
+
+### Lösung
+
+1. Anna ist Luisas Entfernte Kollegin.
+Anna hat bei einer Theateraufführung mitges"
+Theater,Entfernte Kollegin,Katharina,Anna,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Entfernte Kollegin,Sophie,Anna,großartig,"5
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Theater,Entfernte Kollegin,Sophie,Luisa,großartig,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Entfernte Kollegin,Katharina,Luisa,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Entfernte Kollegin,Anna,Miriam,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Theater,Entfernte Kollegin,Miriam,Sophie,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Entfernte Kollegin,Sophie,Katharina,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Entfernte Kollegin,Luisa,Anna,gut,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu verstehen und die Bewertung durch eine Zahl"
+Theater,Entfernte Kollegin,Katharina,Luisa,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Entfernte Kollegin,Anna,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Theater,Entfernte Kollegin,Anna,Sophie,okay,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Theater,Entfernte Kollegin,Anna,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Theater,Entfernte Kollegin,Anna,Sophie,okay,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Theater,Entfernte Kollegin,Sophie,Miriam,schlecht,"2
+
+Ihre Aufgabe:
+Sophie ist Miriams Entfernte Kollegin.
+Sophie hat bei einer Theateraufführung"
+Theater,Entfernte Kollegin,Sophie,Anna,schlecht,"2
+
+Ihre Aufgabe:
+Sophie ist Annas Entfernte Kollegin.
+Sophie hat bei einer Theateraufführung"
+Theater,Entfernte Kollegin,Katharina,Miriam,schlecht,"4
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Theater,Entfernte Kollegin,Luisa,Miriam,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Entfernte Kollegin,Sophie,Luisa,schlecht,"2
+
+Ihre Aufgabe:
+Sophie ist Luisas Entfernte Kollegin.
+Sophie hat bei einer Theateraufführung"
+Theater,Entfernte Kollegin,Luisa,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Entfernte Kollegin,Luisa,Katharina,schrecklich,"4
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Theater,Entfernte Kollegin,Sophie,Miriam,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Entfernte Kollegin,Luisa,Anna,schrecklich,"2
+
+Ihre Aufgabe:
+Luisa ist Annas Entfernte Kollegin.
+Luisa hat bei einer Theatera"
+Theater,Entfernte Kollegin,Anna,Sophie,schrecklich,"2
+
+Ihre Aufgabe:
+Anna ist Sophies Entfernte Kollegin.
+Anna hat bei einer Theateraufführung mitges"
+Theater,Lockere Chefin,Anna,Luisa,großartig,"5
+
+### Lösung
+
+1. Anna ist Luisas Lockere Chefin.
+Anna hat bei einer Theateraufführung mitgespielt"
+Theater,Lockere Chefin,Sophie,Anna,großartig,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Theater,Lockere Chefin,Katharina,Luisa,großartig,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als positiv.
+2. Die Person bewertet die Situation als"
+Theater,Lockere Chefin,Sophie,Katharina,großartig,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Lockere Chefin,Anna,Katharina,großartig,"4
+
+### Lösung
+
+1. Anna ist Katharinas Lockere Chefin.
+Anna hat bei einer Theateraufführung mitgespi"
+Theater,Lockere Chefin,Katharina,Sophie,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Lockere Chefin,Katharina,Anna,gut,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Lockere Chefin,Sophie,Miriam,gut,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Lockere Chefin,Anna,Katharina,gut,"4
+
+### Lösung
+
+1. Anna ist Katharinas Lockere Chefin.
+Anna hat bei einer Theateraufführung mitgespi"
+Theater,Lockere Chefin,Katharina,Anna,gut,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Lockere Chefin,Luisa,Anna,okay,"?????
+Bitte antworten Sie!"
+Theater,Lockere Chefin,Katharina,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Lockere Chefin,Luisa,Sophie,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Theater,Lockere Chefin,Miriam,Sophie,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Theater,Lockere Chefin,Sophie,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Lockere Chefin,Anna,Katharina,schlecht,"2
+
+Ihre Aufgabe:
+Anna ist Katharinas Lockere Chefin.
+Anna hat bei einer Theateraufführung mitgespi"
+Theater,Lockere Chefin,Anna,Katharina,schlecht,"2
+
+Ihre Aufgabe:
+Anna ist Katharinas Lockere Chefin.
+Anna hat bei einer Theateraufführung mitgespi"
+Theater,Lockere Chefin,Miriam,Luisa,schlecht,"2
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Lockere Chefin,Anna,Sophie,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Lockere Chefin,Sophie,Luisa,schlecht,"2
+
+Ist das Ende? Nein! Bitte lesen Sie das Szenario und geben Sie Ihre Antwort. Wir warten auf Ihre Antwort"
+Theater,Lockere Chefin,Anna,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Lockere Chefin,Katharina,Anna,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Lockere Chefin,Miriam,Anna,schrecklich,"2
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Theater,Lockere Chefin,Anna,Luisa,schrecklich,"2
+
+Ihre Aufgabe:
+Anna ist Luisas Lockere Chefin.
+Anna hat bei einer Theateraufführung mitgespielt"
+Theater,Lockere Chefin,Sophie,Anna,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Gefürchtete Chefin,Anna,Luisa,großartig,"5
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Theater,Gefürchtete Chefin,Sophie,Katharina,großartig,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Theater,Gefürchtete Chefin,Katharina,Miriam,großartig,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Gefürchtete Chefin,Anna,Katharina,großartig,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Gefürchtete Chefin,Luisa,Miriam,großartig,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Gefürchtete Chefin,Sophie,Luisa,gut,"?????
+
+1. Luisa fand die Aufführung sehr gut.
+2. Luisa fand die Aufführung gut.
+3."
+Theater,Gefürchtete Chefin,Luisa,Anna,gut,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Gefürchtete Chefin,Miriam,Luisa,gut,"?????
+
+1. Luisa hat die Aufführung sehr genossen.
+2. Luisa hat die Aufführung gut gefunden.
+3"
+Theater,Gefürchtete Chefin,Luisa,Anna,gut,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Gefürchtete Chefin,Luisa,Anna,gut,"?????
+
+Please note that the scenario is a bit different from the one I provided earlier. It's a bit more complex, and the rating system"
+Theater,Gefürchtete Chefin,Katharina,Sophie,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl von 1 bis 5. Keine Erklärung. Nur die Zahl."
+Theater,Gefürchtete Chefin,Sophie,Luisa,okay,"?????
+
+1. Luisa fand die Aufführung nicht gut.
+2. Luisa fand die Aufführung neutral.
+3."
+Theater,Gefürchtete Chefin,Katharina,Luisa,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Gefürchtete Chefin,Anna,Katharina,okay,"4
+
+### Lösung
+
+1. Anna ist Katharinas Gefürchtete Chefin.
+Anna hat bei einer Theateraufführung mit"
+Theater,Gefürchtete Chefin,Anna,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Theater,Gefürchtete Chefin,Luisa,Miriam,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Gefürchtete Chefin,Katharina,Sophie,schlecht,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Theater,Gefürchtete Chefin,Luisa,Anna,schlecht,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu verstehen. Die Bewertung wird durch die"
+Theater,Gefürchtete Chefin,Anna,Miriam,schlecht,"2
+
+Ihre Aufgabe:
+Anna ist Miriams Gefürchtete Chefin.
+Anna hat bei einer Theateraufführung mitges"
+Theater,Gefürchtete Chefin,Luisa,Anna,schlecht,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu verstehen. Die Bewertung wird durch die"
+Theater,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"4
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Theater,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Theater,Gefürchtete Chefin,Anna,Sophie,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Theater,Gefürchtete Chefin,Anna,Luisa,schrecklich,"2
+
+Ihre Aufgabe:
+Anna ist Luisas Gefürchtete Chefin.
+Anna hat bei einer Theateraufführung mitges"
+Theater,Gefürchtete Chefin,Luisa,Anna,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Enge Freundin,Katharina,Sophie,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Enge Freundin,Luisa,Anna,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Enge Freundin,Sophie,Anna,großartig,"5
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Gitarre,Enge Freundin,Miriam,Sophie,großartig,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Enge Freundin,Katharina,Sophie,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Enge Freundin,Anna,Miriam,gut,"4
+
+### Lösung
+
+1. Anna ist Miriams Enge Freundin.
+Anna hat Gitarre vorgespielt und Miriam"
+Gitarre,Enge Freundin,Anna,Sophie,gut,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Enge Freundin,Miriam,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Enge Freundin,Sophie,Luisa,gut,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Enge Freundin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Enge Freundin,Katharina,Luisa,okay,"?????
+
+### Lösung
+
+1: Die Person denkt, dass Luisa das Vorspiel nicht gut fand.
+2: Die Person"
+Gitarre,Enge Freundin,Miriam,Luisa,okay,"?????
+
+Please note that the scenario is provided in German, but the translation is not necessary to understand the context. The task is to evaluate the"
+Gitarre,Enge Freundin,Anna,Miriam,okay,"?????
+
+1. Miriam fand das Vorspiel nicht gut.
+2. Miriam fand das Vorspiel neutral.
+3."
+Gitarre,Enge Freundin,Sophie,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Gitarre,Enge Freundin,Sophie,Luisa,okay,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Enge Freundin,Miriam,Luisa,schlecht,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Wir müssen entscheiden,"
+Gitarre,Enge Freundin,Luisa,Sophie,schlecht,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Enge Freundin,Sophie,Anna,schlecht,"5
+
+### Lösung
+
+1. Die Bewertung einer Situation kann je nach Kontext und Interpretation unterschiedlich sein. In diesem Fall ist"
+Gitarre,Enge Freundin,Katharina,Anna,schlecht,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Enge Freundin,Anna,Luisa,schlecht,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu beurteilen. Die Bewertung kann"
+Gitarre,Enge Freundin,Anna,Luisa,schrecklich,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Die Bewertung kann zwischen"
+Gitarre,Enge Freundin,Sophie,Miriam,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Enge Freundin,Miriam,Luisa,schrecklich,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Wir müssen die Bewertung"
+Gitarre,Enge Freundin,Sophie,Luisa,schrecklich,"4
+
+### Lösung
+
+1. Die Bewertung einer Situation kann durch die Verwendung von Kultur, sozialer Status und anderen F"
+Gitarre,Enge Freundin,Luisa,Anna,schrecklich,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu verstehen. Die Bewertung wird durch die"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,großartig,"4
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Gitarre,Entfernte Kollegin,Luisa,Anna,großartig,"5
+
+### Lösung
+
+1. Die Bewertung der Situation: Die Bewertung der Situation ist eine subjektive Bewertung und kann je"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,großartig,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2).
+2. Die Person bewertet"
+Gitarre,Entfernte Kollegin,Sophie,Anna,großartig,"5
+
+Ihre Aufgabe:
+Sophie ist Annas Entfernte Kollegin.
+Sophie hat Gitarre vorgespi"
+Gitarre,Entfernte Kollegin,Miriam,Anna,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2).
+2. Die Person bewertet"
+Gitarre,Entfernte Kollegin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2).
+2. Die Person bewertet"
+Gitarre,Entfernte Kollegin,Miriam,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Entfernte Kollegin,Anna,Sophie,gut,"4
+
+Ihre Aufgabe:
+Anna ist Sophies Entfernte Kollegin.
+Anna hat Gitarre vorgespielt und"
+Gitarre,Entfernte Kollegin,Anna,Katharina,gut,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu verstehen. Die Bewertung wird durch die"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Gitarre,Entfernte Kollegin,Luisa,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Gitarre,Entfernte Kollegin,Anna,Sophie,okay,"?????
+
+Please note that the scenario is provided in German, but the translation is not provided. Please read the scenario carefully and respond with the number"
+Gitarre,Entfernte Kollegin,Luisa,Anna,okay,"?????
+
+Please note that the scenario is a bit different from the one I provided earlier. It's a bit more complex, and the rating system"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Gitarre,Entfernte Kollegin,Miriam,Sophie,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Entfernte Kollegin,Sophie,Anna,schlecht,"5
+
+### Lösung
+
+1. Die Bewertung einer Situation kann durch die Wahl des richtigen Wortes (z.B. ""gut"
+Gitarre,Entfernte Kollegin,Anna,Miriam,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,schlecht,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Die Bewertung kann zwischen"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,schrecklich,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person in Bezug auf eine Situation zu beurteilen. Die"
+Gitarre,Entfernte Kollegin,Sophie,Anna,schrecklich,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Entfernte Kollegin,Miriam,Luisa,schrecklich,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu beurteilen. Die Bewertung kann"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,schrecklich,"4
+
+Weitere Beispiele:
+1. Eine Person A hat ein Gespräch mit einer Person B geführt. Person B hat"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,schrecklich,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Die Bewertung kann zwischen"
+Gitarre,Lockere Chefin,Luisa,Anna,großartig,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Lockere Chefin,Anna,Sophie,großartig,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to create more"
+Gitarre,Lockere Chefin,Miriam,Katharina,großartig,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2), positiv (3-4)"
+Gitarre,Lockere Chefin,Sophie,Luisa,großartig,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2) oder positiv (3-5"
+Gitarre,Lockere Chefin,Anna,Luisa,großartig,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Lockere Chefin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Lockere Chefin,Katharina,Miriam,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2).
+2. Die Person bewertet"
+Gitarre,Lockere Chefin,Luisa,Sophie,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Lockere Chefin,Miriam,Anna,gut,"?????
+
+Please note that the scenario is written in German, so you might need to translate it to understand the situation. The task is to evaluate"
+Gitarre,Lockere Chefin,Miriam,Luisa,gut,"?????
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Die Bewertung kann zwischen"
+Gitarre,Lockere Chefin,Katharina,Anna,okay,"?????
+
+Please note that this is a translation of the original text, and the translation may not be perfect. The translation is provided for your convenience"
+Gitarre,Lockere Chefin,Miriam,Anna,okay,"?????
+
+Bitte antworten Sie, wie die Person die Situation wirklich bewertet. Keine Erklärung. Nur die Zahl."
+Gitarre,Lockere Chefin,Anna,Luisa,okay,"?????
+
+Please note that the scenario is provided in German, but the translation is not provided. Please read the scenario carefully and respond with the number"
+Gitarre,Lockere Chefin,Sophie,Miriam,okay,"?????
+
+Bitte antworten Sie nur mit einer Zahl zwischen 1 und 5. Keine Erklärung. Nur die Zahl."
+Gitarre,Lockere Chefin,Anna,Sophie,okay,"?????
+
+Please note that the scenario is a bit different from the one I provided earlier. It's a bit more complex, and the rating system"
+Gitarre,Lockere Chefin,Anna,Katharina,schlecht,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung einer Person für eine Situation zu beurteilen. Die Bewertungen werden"
+Gitarre,Lockere Chefin,Anna,Sophie,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Lockere Chefin,Miriam,Luisa,schlecht,"4
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Wir müssen entscheiden,"
+Gitarre,Lockere Chefin,Miriam,Sophie,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Lockere Chefin,Katharina,Sophie,schlecht,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Lockere Chefin,Miriam,Luisa,schrecklich,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Die Bewertung kann zwischen"
+Gitarre,Lockere Chefin,Sophie,Katharina,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Lockere Chefin,Anna,Luisa,schrecklich,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Lockere Chefin,Katharina,Anna,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Lockere Chefin,Sophie,Katharina,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,großartig,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,großartig,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,großartig,"4
+
+### Lösung
+
+1. Die Bewertung ist eine subjektive Bewertung, die von einer Person zu einer anderen Person unterschiedlich"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,großartig,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2).
+2. Die Person bewertet"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,großartig,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2).
+2. Die Person bewertet"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral (1-2).
+2. Die Person bewertet"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,gut,"?????
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,gut,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) bis 5 (se"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,okay,"?????
+
+Please note that the scenario is a bit different from the one I provided earlier. It's a bit more complex, and the rating system"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Gitarre,Gefürchtete Chefin,Anna,Miriam,okay,"?????
+
+Please note that the scenario is a bit different from the one I provided earlier. It's a bit more complex, and the rating system"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,okay,"?????
+
+Bitte antworten Sie nur mit einer einzigen Zahl (1-5). Keine Erklärung. Nur die Zahl."
+Gitarre,Gefürchtete Chefin,Katharina,Anna,okay,"?????
+
+Please note that the scenario is a bit different from the one I provided earlier. It's a bit more complex, and the rating system"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,schlecht,"2
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,schlecht,"4
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,schlecht,"5
+
+I hope this is what you had in mind. Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,schlecht,"5
+
+### Lösung
+
+Die Aufgabe ist, die Bewertung der Person für die Situation zu bestimmen. Die Bewertung kann zwischen"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,schlecht,"2
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (sehr schlecht) wenn sie annimmt"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,schrecklich,"4
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"4
+
+I hope this is a good exercise for you! Let me know if you have any questions or if you'd like me to explain anything"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als 1 (extrem negativ) wenn sie annimmt"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"4
+
+### Lösungen
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,schrecklich,"5
+
+### Lösung
+
+1. Die Person bewertet die Situation als neutral.
+2. Die Person bewertet die Situation als posit"

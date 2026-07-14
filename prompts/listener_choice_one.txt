@@ -1,0 +1,17 @@
+Bitte lesen Sie das Szenario und geben Sie an,
+wie die Person die Situation wirklich bewertet.
+Antworten Sie nur mit einer einzigen Zahl (1-5).
+
+Beispiel:
+Thomas ist Annas Nachbar.
+Thomas hat gekocht und Anna hat gegessen.
+Anna sagt: "Es war okay."
+Wie denken Sie, dass Anna das Essen wirklich fand von 5 Herzen? 1 / 2 / 3 / 4 / 5
+Keine Erklärung. Nur die Zahl. Antwort: 3
+
+Ihre Aufgabe:
+{personA} ist {personB}s {relationship}.
+{scenario}
+{personB} sagt: "Es war{adjective}".
+Wie denken Sie, dass {personB} {thing} wirklich fand von 5 Herzen? 1 / 2 / 3 / 4 / 5
+Keine Erklärung. Nur die Zahl. Antwort:

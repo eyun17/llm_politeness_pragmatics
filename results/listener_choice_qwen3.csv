@@ -1,0 +1,1358 @@
+situation,relationship,personA,personB,adjective,response_text
+Kuchen,Enge Freundin,Katharina,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina baked a cake and Miriam tried it. Then Kath"
+Kuchen,Enge Freundin,Luisa,Anna,großartig,"Antwort:
+5
+Okay, let's tackle this. So, the scenario is that Luisa baked a cake and Anna tried it. Then Luisa"
+Kuchen,Enge Freundin,Sophie,Luisa,großartig,"5
+Die Antwort ist 5, weil Luisa den Kuchen tatsächlich sehr mochte und ihre positive Bewertung ""großartig"""
+Kuchen,Enge Freundin,Sophie,Katharina,großartig,"5
+Okay, let's see. So the scenario is that Sophie baked a cake and Katharina tried it. Then Sophie asks Kathar"
+Kuchen,Enge Freundin,Sophie,Miriam,großartig,"5
+Die Antwort ist 5, weil Miriam eine enge Freundin ist und Sophie den Kuchen gebacken hat. Miriam"
+Kuchen,Enge Freundin,Luisa,Katharina,gut,"4
+
+Okay, let's tackle this. So, the scenario is that Luisa made a cake and Katharina tried it. Then Luis"
+Kuchen,Enge Freundin,Luisa,Miriam,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa made a cake and Miriam tried it"
+Kuchen,Enge Freundin,Katharina,Anna,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina baked a cake and Anna tried it"
+Kuchen,Enge Freundin,Miriam,Luisa,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, Miriam is Luisa's good friend. Miriam baked a cake"
+Kuchen,Enge Freundin,Miriam,Katharina,gut,"4
+
+Okay, let's see. So the scenario is that Miriam baked a cake and Katharina tried it. Then Miriam asks"
+Kuchen,Enge Freundin,Sophie,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure out how to answer this. So, the scenario is that Sophie baked a cake and Luisa"
+Kuchen,Enge Freundin,Sophie,Katharina,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, Sophie is Katharina's good friend. Sophie baked a cake,"
+Kuchen,Enge Freundin,Luisa,Anna,okay,"3
+
+Okay, let's see. The scenario is that Luisa, who is Anna's close friend, baked a cake, and Anna tried"
+Kuchen,Enge Freundin,Sophie,Katharina,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, Sophie is Katharina's good friend. Sophie baked a cake,"
+Kuchen,Enge Freundin,Sophie,Katharina,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, Sophie is Katharina's good friend. Sophie baked a cake,"
+Kuchen,Enge Freundin,Katharina,Luisa,schlecht,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Katharina baked a cake and Luisa tried"
+Kuchen,Enge Freundin,Anna,Sophie,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna baked a cake and Sophie tried it. Then Sophie"
+Kuchen,Enge Freundin,Sophie,Miriam,schlecht,"1
+
+Okay, let's see. So the scenario is that Sophie made a cake and Miriam tried it. Then Sophie asked Miriam how"
+Kuchen,Enge Freundin,Katharina,Sophie,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Katharina made a cake and Sophie tried it."
+Kuchen,Enge Freundin,Katharina,Luisa,schlecht,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Katharina baked a cake and Luisa tried"
+Kuchen,Enge Freundin,Sophie,Luisa,schrecklich,"1
+Okay, let's tackle this. So, the scenario is that Sophie made a cake and Luisa tried it. Then Sophie asked Luis"
+Kuchen,Enge Freundin,Katharina,Sophie,schrecklich,"1
+
+Okay, let's see. So the scenario is that Katharina made a cake and Sophie tried it. Then Katharina asked"
+Kuchen,Enge Freundin,Luisa,Sophie,schrecklich,"1
+
+Okay, let's see. So the scenario is that Luisa made a cake and Sophie tried it. Then Luisa asked Sophie how"
+Kuchen,Enge Freundin,Miriam,Sophie,schrecklich,"1
+
+Okay, let's see. So the scenario is that Miriam baked a cake and Sophie tried it. Then Miriam asks Sophie how"
+Kuchen,Enge Freundin,Miriam,Sophie,schrecklich,"1
+
+Okay, let's see. So the scenario is that Miriam baked a cake and Sophie tried it. Then Miriam asks Sophie how"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,großartig,"5
+Die Antwort ist 5, weil Miriam den Kuchen sehr positiv bewertet hat, was auf eine hohe Zuf"
+Kuchen,Entfernte Kollegin,Anna,Sophie,großartig,"5
+Okay, let's see. So the scenario is that Anna baked a cake and Sophie tried it. Then Anna asked Sophie how she found"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Luisa, who is a distant colleague of Miriam, baked a"
+Kuchen,Entfernte Kollegin,Sophie,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie is a distant colleague of Anna. Sophie baked a cake, and"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,großartig,"Antwort:
+4
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's distant colleague. Kath"
+Kuchen,Entfernte Kollegin,Anna,Luisa,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, Anna baked a cake and Luisa tried it. Then Anna asked Luis"
+Kuchen,Entfernte Kollegin,Anna,Katharina,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, Anna baked a cake and gave it to Katharina, who tried"
+Kuchen,Entfernte Kollegin,Anna,Miriam,gut,"3
+
+Okay, let's see. So the scenario is that Anna baked a cake and Miriam tried it. Then Miriam says, """
+Kuchen,Entfernte Kollegin,Miriam,Anna,gut,"4
+
+Okay, let me try to figure this out. So, the scenario is that Miriam, who is a distant colleague of Anna,"
+Kuchen,Entfernte Kollegin,Anna,Luisa,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, Anna baked a cake and Luisa tried it. Then Anna asked Luis"
+Kuchen,Entfernte Kollegin,Anna,Miriam,okay,"3
+
+Okay, let's see. So the scenario is that Anna baked a cake and Miriam tried it. Then Miriam says ""Es"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Miriam is a distant colleague of Sophie. Mir"
+Kuchen,Entfernte Kollegin,Sophie,Anna,okay,"3
+
+Okay, let's see. So the scenario is that Sophie is a distant colleague of Anna. Sophie baked a cake, and Anna tried"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, Miriam is a distant colleague of Luisa. Miriam baked a"
+Kuchen,Entfernte Kollegin,Luisa,Miriam,okay,"3
+
+Okay, let's see. The scenario is that Luisa, who is a distant colleague of Miriam, baked a cake, and"
+Kuchen,Entfernte Kollegin,Katharina,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Anna. Kath"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is a distant colleague of Katharina. Sophie"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Katharina, who is a distant colleague of Sophie"
+Kuchen,Entfernte Kollegin,Luisa,Anna,schlecht,"1
+
+Okay, let's see. So the scenario is that Luisa, who is a distant colleague of Anna's, baked a cake,"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,schlecht,"1
+
+Okay, let's see. So the scenario is that Miriam is Sophie's distant colleague. Miriam baked a cake, Sophie tried"
+Kuchen,Entfernte Kollegin,Anna,Miriam,schrecklich,"1
+Okay, let's see. So the scenario is that Anna baked a cake and Miriam tried it. Then Miriam says, """
+Kuchen,Entfernte Kollegin,Katharina,Sophie,schrecklich,"Antwort:
+1
+Okay, let's try to figure this out. So, the scenario is that Katharina, who is a distant colleague of"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Katharina."
+Kuchen,Entfernte Kollegin,Sophie,Luisa,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Sophie is a distant colleague of Luisa. Sophie baked"
+Kuchen,Entfernte Kollegin,Miriam,Anna,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Miriam, who is a distant colleague of Anna, baked a cake"
+Kuchen,Lockere Chefin,Katharina,Miriam,großartig,"5
+
+Okay, let's tackle this. So the scenario is that Katharina, who is Miriam's boss, made a cake and"
+Kuchen,Lockere Chefin,Sophie,Anna,großartig,"5
+
+Okay, let's see. So the scenario is that Sophie is Anna's loose boss, which probably means she's in a position of"
+Kuchen,Lockere Chefin,Miriam,Anna,großartig,"5
+
+Okay, let's see. So the scenario is that Miriam, who is Anna's loose boss, baked a cake and Anna tried"
+Kuchen,Lockere Chefin,Anna,Sophie,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Anna is Sophie's loose (maybe ""loose"" here means informal"
+Kuchen,Lockere Chefin,Katharina,Miriam,großartig,"5
+
+Okay, let's tackle this. So the scenario is that Katharina, who is Miriam's boss, made a cake and"
+Kuchen,Lockere Chefin,Sophie,Luisa,gut,"3
+
+Okay, let's see. So the scenario is that Sophie is Luisa's loose (maybe that's a translation issue, like """
+Kuchen,Lockere Chefin,Sophie,Anna,gut,"4
+
+Okay, let's try to figure this out. So, Sophie is Anna's loose boss, which probably means she's in a position"
+Kuchen,Lockere Chefin,Katharina,Luisa,gut,"4
+
+Okay, let's tackle this. So, the scenario is that Katharina, who is Luisa's loose (maybe informal or"
+Kuchen,Lockere Chefin,Miriam,Anna,gut,"4
+
+Okay, let me try to figure this out. So, the scenario is that Miriam is Anna's loose boss, which might mean"
+Kuchen,Lockere Chefin,Anna,Katharina,gut,"3
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's loose (maybe that's"
+Kuchen,Lockere Chefin,Miriam,Anna,okay,"3
+
+Okay, let's try to figure this out. So, the scenario is that Miriam, who is Anna's loose boss, baked"
+Kuchen,Lockere Chefin,Sophie,Katharina,okay,"Sophie ist Katharinas Lockere Chefin.
+Sophie hat einen Kuchen gebacken und Katharina probiert den Kuchen. An"
+Kuchen,Lockere Chefin,Sophie,Luisa,okay,"Sophie ist Luisas Lockere Chefin.
+Sophie hat einen Kuchen gebacken und Luisa probiert den Kuchen. Anschließ"
+Kuchen,Lockere Chefin,Katharina,Miriam,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina, who is Miriam's boss"
+Kuchen,Lockere Chefin,Luisa,Katharina,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa, who is Katharina's loose boss"
+Kuchen,Lockere Chefin,Luisa,Miriam,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Luisa, who is Miriam's boss, made"
+Kuchen,Lockere Chefin,Miriam,Sophie,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Miriam is Sophie's loose (maybe that's a"
+Kuchen,Lockere Chefin,Anna,Luisa,schlecht,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's loose (maybe that's"
+Kuchen,Lockere Chefin,Anna,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Miriam's locker boss, which I guess"
+Kuchen,Lockere Chefin,Miriam,Luisa,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's loose (maybe that's"
+Kuchen,Lockere Chefin,Miriam,Sophie,schrecklich,"1
+
+Okay, let's see. So the scenario is that Miriam, who is Sophie's loose (maybe that's a translation issue,"
+Kuchen,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Anna's loose boss. Miriam baked"
+Kuchen,Lockere Chefin,Miriam,Katharina,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's loose (maybe that"
+Kuchen,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Anna's loose boss. Miriam baked"
+Kuchen,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Anna's loose boss. Miriam baked"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Miriam is Luisa's feared boss. Miriam baked a cake"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina, who is Miriam's feared boss, baked a"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina, who is Luisa's feared boss, baked a"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina, who is Miriam's feared boss, baked a"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's feared boss. Anna baked a cake"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,gut,"2
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's feared boss. Anna baked a"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,gut,"2
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's feared boss. Anna baked a"
+Kuchen,Gefürchtete Chefin,Sophie,Miriam,gut,"2
+Okay, let's try to figure this out. So, the scenario is that Sophie is Miriam's feared boss. Sophie made a"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Katharina, who is Miriam's feared boss, baked a"
+Kuchen,Gefürchtete Chefin,Luisa,Sophie,gut,"2
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's feared boss. Luisa made"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's feared boss. Luis"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's feared boss. Luisa made"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's feared boss. Anna baked a"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,okay,"2
+
+Okay, let's tackle this. So, the scenario is that Anna is Miriam's feared boss. Anna baked a cake, and"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,okay,"Sophie ist Luisas Gefürchtete Chefin.
+Sophie hat einen Kuchen gebacken und Luisa probiert den Kuchen. An"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's feared boss. Miriam"
+Kuchen,Gefürchtete Chefin,Katharina,Miriam,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Katharina is Miriam's feared boss. Kath"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's feared boss. Mir"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,schlecht,"1
+
+Okay, let's tackle this. So, the scenario is that Anna is Miriam's feared boss. Anna baked a cake, and"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Miriam is Sophie's feared boss. Miriam made"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Sophie is Katharina's feared boss. Sophie baked a cake,"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's feared boss. Luisa made"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Luisa's feared boss. Kath"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Sophie is Katharina's feared boss. Sophie baked a cake,"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Sophie is Katharina's feared boss. Sophie baked a cake,"
+Lied,Enge Freundin,Sophie,Miriam,großartig,"5
+Okay, let's see. So the scenario is that Sophie wrote a song and performed it for Miriam. Then Miriam says,"
+Lied,Enge Freundin,Luisa,Sophie,großartig,"5
+Okay, let's see. So the scenario is that Luisa wrote a song and performed it for Sophie. Then Luisa asks Sophie"
+Lied,Enge Freundin,Katharina,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina wrote a song and performed it for her friend Luisa"
+Lied,Enge Freundin,Katharina,Anna,großartig,"Antwort:
+5
+Okay, let's tackle this. So, the scenario is that Katharina is Anna's close friend. Katharina wrote"
+Lied,Enge Freundin,Miriam,Sophie,großartig,"5
+
+Okay, let's see. So the scenario is that Miriam wrote a song and performed it for Sophie. Then Miriam asks Sophie"
+Lied,Enge Freundin,Anna,Luisa,gut,"4
+
+Okay, let's tackle this. So, the scenario is that Anna wrote a song and performed it for her friend Luisa. Then"
+Lied,Enge Freundin,Luisa,Anna,gut,"4
+
+Okay, let's see. So the scenario is that Luisa is Anna's close friend. Luisa wrote a song and performed it"
+Lied,Enge Freundin,Luisa,Sophie,gut,"4
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's close friend. Luisa wrote"
+Lied,Enge Freundin,Anna,Luisa,gut,"4
+
+Okay, let's tackle this. So, the scenario is that Anna wrote a song and performed it for her friend Luisa. Then"
+Lied,Enge Freundin,Sophie,Luisa,gut,"4
+
+Okay, let's try to figure this out. So, Sophie is Luisa's good friend. Sophie wrote a song and performed it"
+Lied,Enge Freundin,Katharina,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina wrote a song and performed it for"
+Lied,Enge Freundin,Miriam,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, Miriam is Luisa's good friend. Miriam wrote a song"
+Lied,Enge Freundin,Anna,Katharina,okay,"3
+Okay, let's try to figure this out. So, Anna wrote a song and performed it for her friend Katharina. Then"
+Lied,Enge Freundin,Luisa,Sophie,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's good friend. Luisa wrote"
+Lied,Enge Freundin,Anna,Luisa,okay,"3
+
+Okay, let's see. So the scenario is that Anna wrote a song and performed it for her friend Luisa. Then Luisa"
+Lied,Enge Freundin,Katharina,Luisa,schlecht,"1
+
+Okay, let's tackle this. So, the scenario is that Katharina wrote a song and performed it for her friend Luisa"
+Lied,Enge Freundin,Anna,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, Anna is Miriam's close friend. Anna wrote a song and performed it"
+Lied,Enge Freundin,Miriam,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, Miriam wrote a song and performed it for her friend Katharina."
+Lied,Enge Freundin,Luisa,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Miriam's close friend. Luisa"
+Lied,Enge Freundin,Sophie,Luisa,schlecht,"1
+Okay, let's try to figure this out. So, Sophie is Luisa's close friend. Sophie wrote a song and performed it"
+Lied,Enge Freundin,Luisa,Sophie,schrecklich,"1
+
+Okay, let's see. So the scenario is that Luisa wrote a song and performed it for Sophie. Then Luisa asks Sophie"
+Lied,Enge Freundin,Luisa,Miriam,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Miriam's close friend. Luisa"
+Lied,Enge Freundin,Miriam,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, Miriam is Anna's close friend. Miriam wrote a song and performed"
+Lied,Enge Freundin,Katharina,Anna,schrecklich,"1
+
+Okay, let me try to figure this out. So, the scenario is that Katharina wrote a song and performed it for Anna"
+Lied,Enge Freundin,Miriam,Luisa,schrecklich,"1
+
+Okay, let's see. So the scenario is that Miriam wrote a song and performed it for her friend Luisa. Then Mir"
+Lied,Entfernte Kollegin,Katharina,Sophie,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina is Sophie's distant colleague. Katharina wrote a"
+Lied,Entfernte Kollegin,Katharina,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina is a distant colleague of Miriam. Katharina"
+Lied,Entfernte Kollegin,Sophie,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie is a distant colleague of Anna. Sophie wrote a song and performed"
+Lied,Entfernte Kollegin,Luisa,Miriam,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam. Luis"
+Lied,Entfernte Kollegin,Katharina,Sophie,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina is Sophie's distant colleague. Katharina wrote a"
+Lied,Entfernte Kollegin,Katharina,Luisa,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Luisa"
+Lied,Entfernte Kollegin,Miriam,Sophie,gut,"4
+
+Okay, let's try to figure this out. So, Miriam is a distant colleague of Sophie. Miriam wrote a song and"
+Lied,Entfernte Kollegin,Luisa,Sophie,gut,"4
+
+Okay, let's tackle this. So, the scenario is that Luisa is a distant colleague of Sophie. Luisa wrote a song"
+Lied,Entfernte Kollegin,Luisa,Sophie,gut,"4
+
+Okay, let's tackle this. So, the scenario is that Luisa is a distant colleague of Sophie. Luisa wrote a song"
+Lied,Entfernte Kollegin,Anna,Luisa,gut,"4
+
+Okay, let's try to figure this out. So, Anna wrote a song and performed it for Luisa. Then Luisa says"
+Lied,Entfernte Kollegin,Luisa,Sophie,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Sophie. Luisa"
+Lied,Entfernte Kollegin,Miriam,Sophie,okay,"3
+
+Okay, let's see. So the scenario is that Miriam is a distant colleague of Sophie. Miriam wrote a song and performed"
+Lied,Entfernte Kollegin,Katharina,Sophie,okay,"3
+Okay, let's tackle this. So, the scenario is that Katharina wrote a song and performed it for Sophie. Then Sophie"
+Lied,Entfernte Kollegin,Luisa,Miriam,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam. Luis"
+Lied,Entfernte Kollegin,Luisa,Anna,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Anna. Luis"
+Lied,Entfernte Kollegin,Luisa,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Anna. Luisa"
+Lied,Entfernte Kollegin,Luisa,Miriam,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam. Luis"
+Lied,Entfernte Kollegin,Anna,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, Anna wrote a song and performed it for Katharina. Then Kathar"
+Lied,Entfernte Kollegin,Sophie,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie wrote a song and performed it for Katharina"
+Lied,Entfernte Kollegin,Luisa,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Katharina."
+Lied,Entfernte Kollegin,Luisa,Miriam,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam. Luis"
+Lied,Entfernte Kollegin,Anna,Luisa,schrecklich,"Antwort:
+1
+Okay, let's try to figure this out. So, Anna wrote a song and performed it for Luisa. Then Luisa"
+Lied,Entfernte Kollegin,Luisa,Miriam,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam. Luis"
+Lied,Entfernte Kollegin,Luisa,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam. Luis"
+Lied,Entfernte Kollegin,Anna,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna wrote a song and performed it for Miriam."
+Lied,Lockere Chefin,Anna,Katharina,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's loose (maybe that's"
+Lied,Lockere Chefin,Luisa,Katharina,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Luisa is Katharina's loose boss. Luisa wrote a"
+Lied,Lockere Chefin,Luisa,Anna,großartig,"Antwort:
+5
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's loose boss, which might"
+Lied,Lockere Chefin,Sophie,Luisa,großartig,"5
+Okay, let's see. So the scenario is that Sophie is Luisa's loose boss. Sophie wrote a song and performed it for"
+Lied,Lockere Chefin,Miriam,Sophie,großartig,"5
+
+Okay, let's see. The scenario is about Sophie and Miriam. Miriam is Sophie's loose boss, which might mean she"
+Lied,Lockere Chefin,Anna,Miriam,gut,"4
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Miriam's locker boss, which I think"
+Lied,Lockere Chefin,Luisa,Katharina,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's loose boss,"
+Lied,Lockere Chefin,Anna,Katharina,gut,"4
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's loose (maybe that's"
+Lied,Lockere Chefin,Miriam,Katharina,gut,"4
+
+Okay, let me try to figure this out. So, the scenario is that Miriam is Katharina's loose boss, which"
+Lied,Lockere Chefin,Luisa,Katharina,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's loose boss,"
+Lied,Lockere Chefin,Luisa,Miriam,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Miriam's boss, and she wrote"
+Lied,Lockere Chefin,Luisa,Sophie,okay,"3
+
+Okay, let's see. So the scenario is that Luisa is Sophie's loose boss, which might mean she's not too strict"
+Lied,Lockere Chefin,Sophie,Anna,okay,Sophie ist Annas Lockere Chefin. Sophie hat ein Lied geschrieben und hat es Anna vorgetragen. Anschließend fragt
+Lied,Lockere Chefin,Miriam,Sophie,okay,"3
+
+Okay, let's see. The scenario is about Sophie and Miriam. Miriam is Sophie's loose boss, which might mean she"
+Lied,Lockere Chefin,Miriam,Anna,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Miriam is Anna's loose boss, which might mean"
+Lied,Lockere Chefin,Miriam,Sophie,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Sophie's loose boss, which might mean"
+Lied,Lockere Chefin,Anna,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's loose (maybe that's a"
+Lied,Lockere Chefin,Katharina,Sophie,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's loose boss. Kathar"
+Lied,Lockere Chefin,Luisa,Sophie,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's loose boss, which might mean"
+Lied,Lockere Chefin,Luisa,Sophie,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's loose boss, which might mean"
+Lied,Lockere Chefin,Miriam,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's loose boss. Miriam"
+Lied,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Okay, let me try to figure this out. So, the scenario is that Miriam is Anna's loose boss, which might mean"
+Lied,Lockere Chefin,Sophie,Katharina,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Katharina's loose boss. Sophie wrote"
+Lied,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Anna's loose boss, which might mean"
+Lied,Lockere Chefin,Luisa,Katharina,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's loose boss, which"
+Lied,Gefürchtete Chefin,Sophie,Luisa,großartig,"5
+Die Antwort ist 5, weil Luisa, als Gefürchtete Chefin, möglicherweise aus Höflichkeit oder"
+Lied,Gefürchtete Chefin,Luisa,Sophie,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's feared boss. Luisa wrote"
+Lied,Gefürchtete Chefin,Anna,Katharina,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Anna is Katharina's feared boss. Anna wrote a song and"
+Lied,Gefürchtete Chefin,Luisa,Miriam,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Miriam is afraid of her boss, Luisa."
+Lied,Gefürchtete Chefin,Luisa,Miriam,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Miriam is afraid of her boss, Luisa."
+Lied,Gefürchtete Chefin,Luisa,Katharina,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's feared boss."
+Lied,Gefürchtete Chefin,Katharina,Miriam,gut,"2
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Miriam's feared boss. Kath"
+Lied,Gefürchtete Chefin,Katharina,Anna,gut,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's feared boss. Kath"
+Lied,Gefürchtete Chefin,Katharina,Miriam,gut,"2
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Miriam's feared boss. Kath"
+Lied,Gefürchtete Chefin,Miriam,Anna,gut,"2
+Okay, let's try to figure this out. So, the scenario is that Miriam is Anna's feared boss. Miriam wrote"
+Lied,Gefürchtete Chefin,Sophie,Luisa,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Sophie is Luisa's feared boss. Sophie wrote a"
+Lied,Gefürchtete Chefin,Katharina,Sophie,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's feared boss. Kathar"
+Lied,Gefürchtete Chefin,Anna,Katharina,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's feared boss. Anna wrote"
+Lied,Gefürchtete Chefin,Sophie,Anna,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Sophie is Anna's feared boss. Sophie wrote a song"
+Lied,Gefürchtete Chefin,Katharina,Miriam,okay,"2
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Miriam's feared boss. Kath"
+Lied,Gefürchtete Chefin,Anna,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's feared boss. Anna wrote a"
+Lied,Gefürchtete Chefin,Anna,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's feared boss. Anna wrote a"
+Lied,Gefürchtete Chefin,Anna,Sophie,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's feared boss. Anna wrote a song"
+Lied,Gefürchtete Chefin,Luisa,Katharina,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's feared boss. Luis"
+Lied,Gefürchtete Chefin,Miriam,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's feared boss. Mir"
+Lied,Gefürchtete Chefin,Sophie,Miriam,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Sophie is Miriam's feared boss. Sophie wrote a"
+Lied,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's feared boss. Kathar"
+Lied,Gefürchtete Chefin,Luisa,Sophie,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's feared boss. Luisa wrote"
+Lied,Gefürchtete Chefin,Luisa,Sophie,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's feared boss. Luisa wrote"
+Lied,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Luisa's feared boss. Kath"
+Film,Enge Freundin,Sophie,Anna,großartig,"5
+
+Okay, let's see. The user wants me to determine how Anna really felt about the film based on her statement. The scenario is"
+Film,Enge Freundin,Luisa,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Luisa made a movie and showed it to Anna. Then Luisa"
+Film,Enge Freundin,Luisa,Katharina,großartig,"5
+Okay, let's see. So the scenario is that Luisa made a movie and showed it to Katharina. Then Luisa"
+Film,Enge Freundin,Katharina,Luisa,großartig,"5
+Okay, let's tackle this. So, the scenario is that Katharina made a movie and showed it to Luisa. Then"
+Film,Enge Freundin,Katharina,Sophie,großartig,"5
+Okay, let's tackle this. So, the scenario is that Katharina made a movie and showed it to Sophie. Then Kath"
+Film,Enge Freundin,Anna,Katharina,gut,"4
+
+Okay, let me try to figure this out. So, the scenario is that Anna made a movie and showed it to Katharina"
+Film,Enge Freundin,Miriam,Katharina,gut,"3
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's close friend. Mir"
+Film,Enge Freundin,Sophie,Miriam,gut,"4
+
+Okay, let me try to figure this out. So, Sophie is Miriam's close friend. Sophie made a movie, and Mir"
+Film,Enge Freundin,Katharina,Luisa,gut,"3
+Okay, let's try to figure this out. So, the scenario is that Katharina made a movie and showed it to Luis"
+Film,Enge Freundin,Katharina,Luisa,gut,"3
+Okay, let's try to figure this out. So, the scenario is that Katharina made a movie and showed it to Luis"
+Film,Enge Freundin,Luisa,Anna,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's close friend. Luisa made"
+Film,Enge Freundin,Sophie,Luisa,okay,"3
+
+Okay, let's try to figure this out. So, Sophie made a movie and showed it to Luisa. Then Sophie asked Luis"
+Film,Enge Freundin,Katharina,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina made a movie and showed it to"
+Film,Enge Freundin,Luisa,Sophie,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa made a movie and showed it to Sophie."
+Film,Enge Freundin,Luisa,Miriam,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa made a movie and showed it to Miriam"
+Film,Enge Freundin,Luisa,Anna,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Luisa made a movie and showed it to Anna."
+Film,Enge Freundin,Sophie,Katharina,schlecht,"1
+Okay, let's try to figure this out. So, Sophie is Katharina's close friend. Sophie made a movie, and"
+Film,Enge Freundin,Anna,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, Anna made a movie and showed it to Luisa. Then Anna asked Luis"
+Film,Enge Freundin,Sophie,Luisa,schlecht,"2
+Okay, let's try to figure this out. So, Sophie made a movie and showed it to Luisa. Then Sophie asked Luis"
+Film,Enge Freundin,Luisa,Sophie,schlecht,"2
+Okay, let's try to figure this out. So, the scenario is that Luisa made a movie and showed it to Sophie."
+Film,Enge Freundin,Miriam,Katharina,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's best friend. Mir"
+Film,Enge Freundin,Miriam,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, Miriam is Luisa's good friend. Miriam made a movie,"
+Film,Enge Freundin,Sophie,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, Sophie is Anna's close friend. Sophie made a movie, and Anna watched"
+Film,Enge Freundin,Anna,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna made a movie and showed it to Luisa."
+Film,Enge Freundin,Katharina,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina made a movie and showed it to Mir"
+Film,Entfernte Kollegin,Sophie,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie is a distant colleague of Anna. Sophie made a movie, and"
+Film,Entfernte Kollegin,Luisa,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Luisa is a distant colleague of Anna. Luisa made a movie"
+Film,Entfernte Kollegin,Anna,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Anna is a distant colleague of Miriam. Anna made a video,"
+Film,Entfernte Kollegin,Anna,Sophie,großartig,"5
+
+Okay, let's see. So the scenario is that Anna made a video and showed it to Sophie. Then Sophie says, ""It"
+Film,Entfernte Kollegin,Katharina,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina is a distant colleague of Luisa. Katharina"
+Film,Entfernte Kollegin,Anna,Katharina,gut,"4
+
+Okay, let's try to figure this out. So, Anna is a distant colleague of Katharina. Anna made a movie and"
+Film,Entfernte Kollegin,Miriam,Anna,gut,"3
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is a distant colleague of Anna. Miriam"
+Film,Entfernte Kollegin,Anna,Sophie,gut,"3
+
+Okay, let's try to figure this out. So, the scenario is that Anna made a movie and showed it to Sophie. Then"
+Film,Entfernte Kollegin,Anna,Katharina,gut,"4
+
+Okay, let's try to figure this out. So, Anna is a distant colleague of Katharina. Anna made a movie and"
+Film,Entfernte Kollegin,Katharina,Anna,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Anna."
+Film,Entfernte Kollegin,Katharina,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Luisa"
+Film,Entfernte Kollegin,Katharina,Miriam,okay,"3
+
+Okay, let's tackle this. So, the scenario is that Katharina is a distant colleague of Miriam. Katharina"
+Film,Entfernte Kollegin,Luisa,Anna,okay,"3
+
+Okay, let's see. The scenario is that Luisa, who is a distant colleague of Anna, made a film and Anna watched"
+Film,Entfernte Kollegin,Miriam,Anna,okay,"3
+
+Okay, let's see. The user wants me to determine how Anna really felt about the film based on her saying ""Es war okay"
+Film,Entfernte Kollegin,Katharina,Miriam,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Miriam"
+Film,Entfernte Kollegin,Sophie,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, Sophie is a distant colleague of Anna. Sophie made a movie, and Anna"
+Film,Entfernte Kollegin,Luisa,Miriam,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam. Luis"
+Film,Entfernte Kollegin,Luisa,Miriam,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam. Luis"
+Film,Entfernte Kollegin,Anna,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, Anna is a distant colleague of Katharina. Anna made a movie and"
+Film,Entfernte Kollegin,Katharina,Anna,schlecht,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Anna."
+Film,Entfernte Kollegin,Anna,Katharina,schrecklich,"1
+Okay, let's try to figure this out. So, Anna is a distant colleague of Katharina. Anna made a movie and"
+Film,Entfernte Kollegin,Anna,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna made a movie and showed it to Sophie. Then"
+Film,Entfernte Kollegin,Anna,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna made a movie and showed it to Sophie. Then"
+Film,Entfernte Kollegin,Sophie,Katharina,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Sophie is a distant colleague of Katharina. Sophie"
+Film,Entfernte Kollegin,Anna,Luisa,schrecklich,"Antwort:
+1
+Okay, let's try to figure this out. So, the scenario is that Anna made a movie and showed it to Luisa"
+Film,Lockere Chefin,Sophie,Katharina,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Sophie is Katharina's loose (maybe that's"
+Film,Lockere Chefin,Katharina,Luisa,großartig,"5
+Okay, let's tackle this. So, the scenario is that Katharina is Luisa's loose (maybe meaning laid-back or"
+Film,Lockere Chefin,Miriam,Luisa,großartig,"Antwort:
+4
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's loose (maybe that"
+Film,Lockere Chefin,Sophie,Anna,großartig,"5
+
+Okay, let's see. So the scenario is that Sophie is Anna's loose boss, which probably means she's in a position of"
+Film,Lockere Chefin,Sophie,Katharina,großartig,"5
+Okay, let's tackle this. So, the scenario is that Sophie is Katharina's loose (maybe meaning laid-back or not"
+Film,Lockere Chefin,Anna,Sophie,gut,"4
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's loose (maybe that's a translation"
+Film,Lockere Chefin,Anna,Sophie,gut,"4
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's loose (maybe that's a translation"
+Film,Lockere Chefin,Luisa,Katharina,gut,"4
+
+Okay, let me try to figure this out. So, the scenario is that Luisa is Katharina's loose (maybe that"
+Film,Lockere Chefin,Sophie,Miriam,gut,"4
+
+Okay, let's try to figure this out. So, Sophie is Miriam's boss at the lockers. Sophie made a movie"
+Film,Lockere Chefin,Sophie,Miriam,gut,"4
+
+Okay, let me try to figure this out. So, Sophie is Miriam's boss at the lockers. Sophie made a movie"
+Film,Lockere Chefin,Luisa,Anna,okay,"3
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's loose boss, which might mean"
+Film,Lockere Chefin,Katharina,Luisa,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Katharina is Luisa's loose (maybe that"
+Film,Lockere Chefin,Anna,Luisa,okay,"3
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's loose (maybe that's a"
+Film,Lockere Chefin,Anna,Sophie,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's loose (maybe that's a translation"
+Film,Lockere Chefin,Anna,Luisa,okay,"3
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's loose (maybe that's a"
+Film,Lockere Chefin,Katharina,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Luisa's loose (maybe that"
+Film,Lockere Chefin,Miriam,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's loose (maybe that's"
+Film,Lockere Chefin,Katharina,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's loose boss. Kathar"
+Film,Lockere Chefin,Luisa,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Miriam's boss, and she made"
+Film,Lockere Chefin,Sophie,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Anna's loose boss. Sophie made a movie"
+Film,Lockere Chefin,Miriam,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Sophie's loose (maybe that's a"
+Film,Lockere Chefin,Miriam,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Sophie's loose (maybe that's a"
+Film,Lockere Chefin,Anna,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's loose (maybe that's a"
+Film,Lockere Chefin,Katharina,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Miriam's loose (maybe that"
+Film,Lockere Chefin,Katharina,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Miriam's loose (maybe that"
+Film,Gefürchtete Chefin,Katharina,Sophie,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's feared boss. Kathar"
+Film,Gefürchtete Chefin,Luisa,Sophie,großartig,"5
+Die Antwort ist 5, weil Sophie, als Gefürchtete Chefin von Luisa, wahrscheinlich versucht, Luis"
+Film,Gefürchtete Chefin,Sophie,Anna,großartig,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Anna's feared boss. Sophie made a movie"
+Film,Gefürchtete Chefin,Katharina,Luisa,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Katharina is Luisa's feared boss. Kath"
+Film,Gefürchtete Chefin,Katharina,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina is Anna's feared boss. Katharina made a"
+Film,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+Okay, let's try to figure this out. So, the scenario is that Katharina is Luisa's feared boss. Kath"
+Film,Gefürchtete Chefin,Katharina,Anna,gut,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's feared boss. Kath"
+Film,Gefürchtete Chefin,Sophie,Anna,gut,"2
+Okay, let's try to figure this out. So, the scenario is that Sophie is Anna's feared boss. Sophie made a movie"
+Film,Gefürchtete Chefin,Miriam,Sophie,gut,"3
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Sophie's feared boss. Miriam made"
+Film,Gefürchtete Chefin,Anna,Katharina,gut,"3
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's feared boss. Anna made"
+Film,Gefürchtete Chefin,Anna,Sophie,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's feared boss. Anna made a movie"
+Film,Gefürchtete Chefin,Sophie,Miriam,okay,"Sophie ist Miriams Gefürchtete Chefin.
+Sophie hat einen Film geschnitten und Miriam hat ihn gesehen. Anschließ"
+Film,Gefürchtete Chefin,Luisa,Sophie,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's feared boss. Luisa made"
+Film,Gefürchtete Chefin,Sophie,Katharina,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Sophie is Katharina's feared boss. Sophie made"
+Film,Gefürchtete Chefin,Anna,Katharina,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's feared boss. Anna made"
+Film,Gefürchtete Chefin,Katharina,Sophie,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's feared boss. Kathar"
+Film,Gefürchtete Chefin,Miriam,Luisa,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's feared boss. Miriam"
+Film,Gefürchtete Chefin,Miriam,Luisa,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's feared boss. Miriam"
+Film,Gefürchtete Chefin,Katharina,Miriam,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Katharina is Miriam's feared boss. Kath"
+Film,Gefürchtete Chefin,Sophie,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Katharina's feared boss. Sophie made"
+Film,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Sophie is Katharina's feared boss. Sophie made"
+Film,Gefürchtete Chefin,Luisa,Katharina,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's feared boss. Luis"
+Film,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Sophie is Katharina's feared boss. Sophie made"
+Film,Gefürchtete Chefin,Anna,Katharina,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's feared boss. Anna made"
+Film,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Luisa's feared boss. Kath"
+Theater,Enge Freundin,Miriam,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Miriam acted in a play and Luisa saw it. Then Mir"
+Theater,Enge Freundin,Katharina,Sophie,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina, who is Sophie's close friend, performed in a"
+Theater,Enge Freundin,Anna,Katharina,großartig,"5
+Okay, let's tackle this. So, the scenario is that Anna acted in a play and Katharina saw it. Then Anna"
+Theater,Enge Freundin,Sophie,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie is Anna's close friend. Sophie acted in a theater play,"
+Theater,Enge Freundin,Luisa,Sophie,großartig,"Antwort:
+4
+Okay, let's try to figure this out. So, the scenario is that Luisa acted in a theater play and Sophie saw"
+Theater,Enge Freundin,Sophie,Katharina,gut,"3
+Okay, let's try to figure this out. So, Sophie and Katharina are close friends. Sophie acted in a play,"
+Theater,Enge Freundin,Katharina,Luisa,gut,"3
+Okay, let's try to figure this out. So, the scenario is that Katharina performed in a theater play and Luisa"
+Theater,Enge Freundin,Luisa,Miriam,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Luisa is Miriam's close friend. Luisa acted in a"
+Theater,Enge Freundin,Sophie,Anna,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Sophie is Anna's close friend. Sophie acted in a theater play,"
+Theater,Enge Freundin,Miriam,Anna,gut,"4
+
+Okay, let's tackle this. So, the scenario is that Miriam is Anna's close friend. Miriam acted in a theater"
+Theater,Enge Freundin,Sophie,Anna,okay,"3
+
+Okay, let's tackle this. So, the scenario is that Sophie is Anna's good friend. Sophie acted in a theater play,"
+Theater,Enge Freundin,Luisa,Sophie,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's good friend. Luisa acted"
+Theater,Enge Freundin,Anna,Luisa,okay,"3
+Okay, let's try to figure this out. So, Anna and Luisa are close friends. Anna acted in a play, and"
+Theater,Enge Freundin,Luisa,Katharina,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's good friend. Luis"
+Theater,Enge Freundin,Sophie,Katharina,okay,"3
+
+Okay, let's tackle this. So, the scenario is that Sophie and Katharina are close friends. Sophie acted in a play"
+Theater,Enge Freundin,Anna,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna and Luisa are close friends. Anna acted in"
+Theater,Enge Freundin,Sophie,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie and Luisa are close friends. Sophie acted in"
+Theater,Enge Freundin,Anna,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Miriam's close friend. Anna acted in"
+Theater,Enge Freundin,Luisa,Miriam,schlecht,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Luisa is Miriam's close friend. Luis"
+Theater,Enge Freundin,Sophie,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Anna's close friend. Sophie acted in a"
+Theater,Enge Freundin,Luisa,Katharina,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is a close friend of Katharina."
+Theater,Enge Freundin,Miriam,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, Miriam and Luisa are close friends. Miriam acted in a play"
+Theater,Enge Freundin,Katharina,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina performed in a theater play and Miriam"
+Theater,Enge Freundin,Anna,Katharina,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna acted in a play and Katharina saw it"
+Theater,Enge Freundin,Katharina,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina performed in a theater play and Luisa"
+Theater,Entfernte Kollegin,Sophie,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie and Miriam are distant colleagues. Sophie acted in a theater play"
+Theater,Entfernte Kollegin,Luisa,Katharina,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Luisa is a distant colleague of Katharina. Luisa acted"
+Theater,Entfernte Kollegin,Sophie,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie and Luisa are distant colleagues. Sophie acted in a theater play"
+Theater,Entfernte Kollegin,Miriam,Sophie,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Miriam is Sophie's distant colleague. Miriam acted in a theater"
+Theater,Entfernte Kollegin,Sophie,Katharina,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Sophie and Katharina are distant colleagues. Sophie acted"
+Theater,Entfernte Kollegin,Anna,Miriam,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Anna is a distant colleague of Miriam. Anna acted in a theater"
+Theater,Entfernte Kollegin,Anna,Miriam,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Anna is a distant colleague of Miriam. Anna acted in a theater"
+Theater,Entfernte Kollegin,Anna,Luisa,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Anna and Luisa are distant colleagues. Anna acted in a play,"
+Theater,Entfernte Kollegin,Sophie,Miriam,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, Sophie and Miriam are distant colleagues. Sophie acted in a play,"
+Theater,Entfernte Kollegin,Sophie,Luisa,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Sophie and Luisa are distant colleagues. Sophie acted in a theater play"
+Theater,Entfernte Kollegin,Sophie,Miriam,okay,"Sophie ist Miriams Entfernte Kollegin.
+Sophie hat bei einer Theateraufführung mitgespielt und Miriam hat sie g"
+Theater,Entfernte Kollegin,Luisa,Miriam,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam."
+Theater,Entfernte Kollegin,Anna,Katharina,okay,"3
+
+Okay, let's tackle this. So, the scenario is that Anna and Katharina are distant colleagues. Anna acted in a play"
+Theater,Entfernte Kollegin,Luisa,Anna,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Anna. Luis"
+Theater,Entfernte Kollegin,Sophie,Anna,okay,"Sophie ist Annas Entfernte Kollegin.
+Sophie hat bei einer Theateraufführung mitgespielt und Anna hat sie gesehen"
+Theater,Entfernte Kollegin,Anna,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna and Katharina are distant colleagues. Anna acted"
+Theater,Entfernte Kollegin,Luisa,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Katharina."
+Theater,Entfernte Kollegin,Miriam,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is a distant colleague of Katharina."
+Theater,Entfernte Kollegin,Sophie,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie and Luisa are distant colleagues. Sophie acted in"
+Theater,Entfernte Kollegin,Luisa,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Anna's. Luis"
+Theater,Entfernte Kollegin,Anna,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is a distant colleague of Miriam. Anna acted"
+Theater,Entfernte Kollegin,Katharina,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Anna. Kath"
+Theater,Entfernte Kollegin,Katharina,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Anna. Kath"
+Theater,Entfernte Kollegin,Sophie,Anna,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Sophie is a distant colleague of Anna. Sophie acted in a theater play"
+Theater,Entfernte Kollegin,Luisa,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Sophie. Luisa"
+Theater,Lockere Chefin,Miriam,Katharina,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Miriam is Katharina's loose (maybe meaning laid-back or"
+Theater,Lockere Chefin,Miriam,Luisa,großartig,"Antwort:
+4
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's loose (maybe that"
+Theater,Lockere Chefin,Sophie,Katharina,großartig,"5
+Okay, let's tackle this. So, the scenario is that Sophie is Katharina's loose (maybe informal or laid-back)"
+Theater,Lockere Chefin,Anna,Sophie,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's loose (maybe that's a translation"
+Theater,Lockere Chefin,Luisa,Sophie,großartig,"5
+Okay, let's tackle this. So, the scenario is that Luisa is Sophie's loose (maybe ""loose"" here means"
+Theater,Lockere Chefin,Katharina,Anna,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's loose (maybe informal"
+Theater,Lockere Chefin,Sophie,Miriam,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Sophie is Miriam's locker chief. Wait, ""locker chief"""
+Theater,Lockere Chefin,Anna,Katharina,gut,"3
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's loose (maybe that's"
+Theater,Lockere Chefin,Anna,Sophie,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Anna is Sophie's loose (maybe ""loose"" here means informal"
+Theater,Lockere Chefin,Luisa,Sophie,gut,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's loose (maybe that's a"
+Theater,Lockere Chefin,Katharina,Miriam,okay,"3
+
+Okay, let's tackle this. So, the scenario is that Katharina is Miriam's loose (maybe that's a translation"
+Theater,Lockere Chefin,Katharina,Miriam,okay,"3
+
+Okay, let's tackle this. So, the scenario is that Katharina is Miriam's loose (maybe that's a translation"
+Theater,Lockere Chefin,Anna,Katharina,okay,"3
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's loose (maybe that's"
+Theater,Lockere Chefin,Anna,Luisa,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Anna is the loose (maybe ""loose"" here"
+Theater,Lockere Chefin,Sophie,Katharina,okay,"Sophie ist Katharinas Lockere Chefin.
+Sophie hat bei einer Theateraufführung mitgespielt und Katharina hat sie g"
+Theater,Lockere Chefin,Luisa,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Miriam's boss, and Luisa"
+Theater,Lockere Chefin,Luisa,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Miriam's boss, and Luisa"
+Theater,Lockere Chefin,Miriam,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's loose (maybe that"
+Theater,Lockere Chefin,Anna,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is the loose (maybe ""lockere"" is"
+Theater,Lockere Chefin,Katharina,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Miriam's loose (maybe that"
+Theater,Lockere Chefin,Katharina,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's loose (maybe that's"
+Theater,Lockere Chefin,Katharina,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's loose (maybe informal or"
+Theater,Lockere Chefin,Anna,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Miriam's locker's chief. Wait,"
+Theater,Lockere Chefin,Luisa,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's loose (maybe that's a"
+Theater,Lockere Chefin,Katharina,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's loose (maybe that's"
+Theater,Gefürchtete Chefin,Sophie,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie is Anna's feared boss. Sophie acted in a theater play,"
+Theater,Gefürchtete Chefin,Sophie,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie is Miriam's feared boss. Sophie acted in a theater play"
+Theater,Gefürchtete Chefin,Sophie,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie is Luisa's feared boss. Sophie acted in a theater play"
+Theater,Gefürchtete Chefin,Luisa,Katharina,großartig,"5
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's feared boss. Luis"
+Theater,Gefürchtete Chefin,Sophie,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Sophie is Miriam's feared boss. Sophie acted in a theater play"
+Theater,Gefürchtete Chefin,Sophie,Luisa,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Sophie is Luisa's feared boss. Sophie acted in a theater play"
+Theater,Gefürchtete Chefin,Luisa,Miriam,gut,"3
+Okay, let's try to figure this out. So, Miriam is the subordinate of Luisa, who is her feared boss."
+Theater,Gefürchtete Chefin,Sophie,Miriam,gut,"Sophie ist Miriams Gefürchtete Chefin.
+Sophie hat bei einer Theateraufführung mitgespielt und Miriam hat sie g"
+Theater,Gefürchtete Chefin,Luisa,Anna,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's feared boss. Luisa"
+Theater,Gefürchtete Chefin,Sophie,Luisa,gut,"3
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Luisa's feared boss. Sophie acted in"
+Theater,Gefürchtete Chefin,Sophie,Anna,okay,Sophie ist Annas Gefürchtete Chefin. Sophie hat bei einer Theateraufführung mitgespielt und Anna hat sie gesehen.
+Theater,Gefürchtete Chefin,Miriam,Luisa,okay,"2
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's feared boss. Miriam"
+Theater,Gefürchtete Chefin,Katharina,Miriam,okay,"2
+Okay, let's try to figure this out. So, Miriam is talking to her feared boss, Katharina, after Kath"
+Theater,Gefürchtete Chefin,Miriam,Sophie,okay,"3
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Sophie's feared boss. Miriam acted"
+Theater,Gefürchtete Chefin,Katharina,Anna,okay,"2
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's feared boss. Kathar"
+Theater,Gefürchtete Chefin,Luisa,Katharina,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's feared boss. Luis"
+Theater,Gefürchtete Chefin,Sophie,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Miriam's feared boss. Sophie acted in"
+Theater,Gefürchtete Chefin,Katharina,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's feared boss. Kathar"
+Theater,Gefürchtete Chefin,Miriam,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's feared boss. Mir"
+Theater,Gefürchtete Chefin,Miriam,Anna,schlecht,"1
+
+Miriam ist Annas Gefürchtete Chefin.
+Miriam hat bei einer Theateraufführung mitgespielt und Anna"
+Theater,Gefürchtete Chefin,Luisa,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, Miriam is the subordinate of Luisa, who is her feared boss."
+Theater,Gefürchtete Chefin,Sophie,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Anna's feared boss. Sophie acted in a"
+Theater,Gefürchtete Chefin,Anna,Miriam,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Anna is Miriam's feared boss. Anna acted in a theater play"
+Theater,Gefürchtete Chefin,Sophie,Miriam,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Sophie is Miriam's feared boss. Sophie acted in a theater play"
+Theater,Gefürchtete Chefin,Katharina,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's feared boss. Kathar"
+Gitarre,Enge Freundin,Anna,Miriam,großartig,"5
+Okay, let's tackle this. So, the scenario is that Anna played the guitar for Miriam, who listened. Then Anna asked"
+Gitarre,Enge Freundin,Miriam,Katharina,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Miriam is Katharina's close friend. Miriam played the"
+Gitarre,Enge Freundin,Miriam,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Miriam is Anna's close friend. Miriam played the guitar,"
+Gitarre,Enge Freundin,Anna,Luisa,großartig,"5
+Okay, let's tackle this. So, the scenario is that Anna played the guitar for Luisa, who is her close friend."
+Gitarre,Enge Freundin,Miriam,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Miriam is Luisa's good friend. Miriam played the guitar"
+Gitarre,Enge Freundin,Luisa,Katharina,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's good friend."
+Gitarre,Enge Freundin,Anna,Sophie,gut,"4
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's close friend. Anna played the guitar"
+Gitarre,Enge Freundin,Sophie,Katharina,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, Sophie is Katharina's close friend. Sophie played the guitar,"
+Gitarre,Enge Freundin,Anna,Luisa,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, Anna and Luisa are close friends. Anna played the guitar, and"
+Gitarre,Enge Freundin,Luisa,Miriam,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Miriam's close friend. Luis"
+Gitarre,Enge Freundin,Katharina,Sophie,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's close friend. Kath"
+Gitarre,Enge Freundin,Anna,Sophie,okay,"2
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's close friend. Anna played the guitar"
+Gitarre,Enge Freundin,Luisa,Katharina,okay,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's good friend. Luis"
+Gitarre,Enge Freundin,Anna,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, Anna and Luisa are close friends. Anna played the guitar, and"
+Gitarre,Enge Freundin,Miriam,Sophie,okay,"Antwort:
+3
+Okay, let's try to figure out how Sophie really felt about Miriam's guitar playing. So, the scenario is that Mir"
+Gitarre,Enge Freundin,Miriam,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's close friend. Mir"
+Gitarre,Enge Freundin,Anna,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Luisa's close friend. Anna played the"
+Gitarre,Enge Freundin,Sophie,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, Sophie is Anna's close friend. Sophie played the guitar, and Anna listened"
+Gitarre,Enge Freundin,Luisa,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's close friend. Luisa played"
+Gitarre,Enge Freundin,Anna,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna played the guitar for Katharina, who is"
+Gitarre,Enge Freundin,Miriam,Katharina,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's close friend. Mir"
+Gitarre,Enge Freundin,Anna,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Miriam's close friend. Anna played the"
+Gitarre,Enge Freundin,Miriam,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, Miriam is Luisa's good friend. Miriam played the guitar,"
+Gitarre,Enge Freundin,Katharina,Miriam,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Katharina is Miriam's close friend. Katharina played"
+Gitarre,Enge Freundin,Sophie,Katharina,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Sophie is Katharina's close friend. Sophie played the guitar,"
+Gitarre,Entfernte Kollegin,Luisa,Anna,großartig,"Antwort:
+5
+Okay, let's tackle this. So, the scenario is that Luisa, who is a distant colleague of Anna's, played"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,großartig,"Antwort:
+5
+Okay, let's tackle this. So, Sophie is a distant colleague of Miriam. Sophie played the guitar, and Miriam"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,großartig,"5
+Okay, let's tackle this. So, the scenario is that Luisa is a distant colleague of Miriam. Luisa played the"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,großartig,"Antwort:
+5
+Okay, let's tackle this. So, Sophie is a distant colleague of Miriam. Sophie played the guitar, and Miriam"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,großartig,"Antwort:
+4
+Okay, let's try to figure this out. So, Sophie is a distant colleague of Luisa. Sophie played the guitar,"
+Gitarre,Entfernte Kollegin,Anna,Luisa,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Anna is a distant colleague of Luisa. Anna played the guitar,"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,gut,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Sophie. Luis"
+Gitarre,Entfernte Kollegin,Anna,Luisa,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Anna is a distant colleague of Luisa. Anna played the guitar,"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,gut,"3
+
+Okay, let's try to figure this out. So, Miriam is a distant colleague of Katharina. Miriam played the"
+Gitarre,Entfernte Kollegin,Anna,Sophie,gut,"4
+
+Okay, let's try to figure this out. So, the scenario is that Anna is a distant colleague of Sophie. Anna played the"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam."
+Gitarre,Entfernte Kollegin,Katharina,Anna,okay,"3
+
+Okay, let's tackle this. So, the scenario is that Katharina, who is a distant colleague of Anna's, played"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Luisa"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Miriam."
+Gitarre,Entfernte Kollegin,Katharina,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Luisa"
+Gitarre,Entfernte Kollegin,Katharina,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is a distant colleague of Anna's."
+Gitarre,Entfernte Kollegin,Anna,Sophie,schlecht,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Anna is a distant colleague of Sophie. Anna played"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is a distant colleague of Sophie. Miriam"
+Gitarre,Entfernte Kollegin,Anna,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is a distant colleague of Luisa. Anna played"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Katharina."
+Gitarre,Entfernte Kollegin,Anna,Katharina,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Anna is a distant colleague of Katharina. Anna played the guitar"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Sophie's. Luis"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is a distant colleague of Sophie. Miriam"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is a distant colleague of Sophie. Miriam"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,schrecklich,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is a distant colleague of Sophie's. Luis"
+Gitarre,Lockere Chefin,Anna,Sophie,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Anna is Sophie's loose boss. Anna played the guitar, and Sophie"
+Gitarre,Lockere Chefin,Katharina,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina is Luisa's loose (maybe meaning laid-back or"
+Gitarre,Lockere Chefin,Katharina,Miriam,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina is Miriam's loose (maybe meaning informal or laid"
+Gitarre,Lockere Chefin,Miriam,Luisa,großartig,"Antwort:
+4
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's loose boss. Mir"
+Gitarre,Lockere Chefin,Luisa,Anna,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Luisa is Anna's loose boss, which might mean she's more"
+Gitarre,Lockere Chefin,Katharina,Anna,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Katharina is Anna's loose boss. Katharina played the"
+Gitarre,Lockere Chefin,Katharina,Miriam,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Katharina is Miriam's loose (maybe that's a translation"
+Gitarre,Lockere Chefin,Miriam,Katharina,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Miriam is Katharina's loose boss. Miriam played the"
+Gitarre,Lockere Chefin,Luisa,Katharina,gut,"3
+Okay, let's try to figure this out. So, the scenario is that Luisa is Katharina's loose boss. Luis"
+Gitarre,Lockere Chefin,Sophie,Katharina,gut,"4
+
+Okay, let's tackle this. So, the scenario is that Sophie is Katharina's loose boss. Sophie played the guitar,"
+Gitarre,Lockere Chefin,Miriam,Anna,okay,"3
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Anna's loose boss, which might mean"
+Gitarre,Lockere Chefin,Miriam,Katharina,okay,"3
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's loose boss. Mir"
+Gitarre,Lockere Chefin,Miriam,Anna,okay,"3
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Anna's loose boss, which might mean"
+Gitarre,Lockere Chefin,Katharina,Luisa,okay,"Antwort:
+3
+Okay, let's try to figure this out. So, the scenario is that Katharina is Luisa's loose (maybe"
+Gitarre,Lockere Chefin,Anna,Miriam,okay,"2
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Miriam's locker room chief. Wait,"
+Gitarre,Lockere Chefin,Sophie,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Katharina's loose boss. Sophie played"
+Gitarre,Lockere Chefin,Miriam,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's loose boss. Miriam"
+Gitarre,Lockere Chefin,Miriam,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's loose boss. Mir"
+Gitarre,Lockere Chefin,Katharina,Sophie,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's loose boss. Kathar"
+Gitarre,Lockere Chefin,Luisa,Sophie,schlecht,"1
+Okay, let's try to figure this out. So, the scenario is that Luisa is Sophie's loose boss, which might mean"
+Gitarre,Lockere Chefin,Anna,Miriam,schrecklich,"1
+
+Okay, let's tackle this. So, the scenario is that Anna is Miriam's locker room chief. Wait, maybe ""Lock"
+Gitarre,Lockere Chefin,Anna,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Sophie's loose boss. Anna played the guitar"
+Gitarre,Lockere Chefin,Luisa,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's loose boss, which might mean"
+Gitarre,Lockere Chefin,Katharina,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's loose boss. Kathar"
+Gitarre,Lockere Chefin,Katharina,Anna,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's loose boss. Kathar"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,großartig,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Miriam's feared boss. Anna played the"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,großartig,"5
+
+Okay, let's tackle this. So, the scenario is that Katharina is Luisa's feared boss. Katharina played"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,großartig,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Anna's feared boss. Sophie played the guitar"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,großartig,"2
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's feared boss. Kathar"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,großartig,"2
+Okay, let's try to figure this out. So, the scenario is that Sophie is Luisa's feared boss. Sophie played the"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,gut,"3
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's feared boss. Anna played"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,gut,"3
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's feared boss. Mir"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,gut,"2
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's feared boss. Kathar"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,gut,"3
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's feared boss. Mir"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,gut,"3
+
+Okay, let's tackle this. So, the scenario is that Sophie is Katharina's feared boss. Sophie played the guitar,"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,okay,"Sophie ist Miriams Gefürchtete Chefin.
+Sophie hat Gitarre vorgespielt und Miriam hat zugehört."
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Katharina is Sophie's feared boss. Kathar"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,okay,"2
+Okay, let's try to figure this out. So, the scenario is that Sophie is Luisa's feared boss. Sophie played the"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,okay,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's feared boss. Kath"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,okay,"Antwort:
+2
+Okay, let's try to figure this out. So, the scenario is that Katharina is Anna's feared boss. Kath"
+Gitarre,Gefürchtete Chefin,Luisa,Anna,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Luisa is Anna's feared boss. Luisa played"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is the subordinate of her boss, Kathar"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Katharina's feared boss. Anna played"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Katharina's feared boss. Sophie played"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,schlecht,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's feared boss. Miriam"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Katharina's feared boss. Mir"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Luisa's feared boss. Miriam"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Sophie is Luisa's feared boss. Sophie played the"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Anna is Miriam's feared boss. Anna played the"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"1
+
+Okay, let's try to figure this out. So, the scenario is that Miriam is Sophie's feared boss. Miriam played"
