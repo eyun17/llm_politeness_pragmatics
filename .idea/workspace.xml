@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="13785615-301d-4512-80de-e3c406d1617f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_choice_qwen3-8b_zero.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/csv/listener_choice_qwen3-8b_zero_thinking.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/speaker_choice_qwen3-8b_zero.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/csv/speaker_choice_qwen3-8b_zero_thinking.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +65,10 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/results" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$/results/csv" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -84,7 +91,7 @@
       <workItem from="1781546564966" duration="12949000" />
       <workItem from="1782764605852" duration="46252000" />
       <workItem from="1783942918103" duration="3708000" />
-      <workItem from="1783947747641" duration="21653000" />
+      <workItem from="1783947747641" duration="27066000" />
     </task>
     <servers />
   </component>
@@ -112,7 +119,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///Users/eyun/llm_pragmatics/experiment.ipynb</url>
-          <line>82</line>
+          <line>86</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
