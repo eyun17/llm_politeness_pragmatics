@@ -5,8 +5,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13785615-301d-4512-80de-e3c406d1617f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/experiment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/csv/0speaker_choice_qwen3-8b_zero.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/csv/0speaker_logit_qwen3-8b_zero.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/csv/1listener_choice_llama3-8b_zero.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/csv/1listener_choice_qwen3-8b_zero.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/csv/1speaker_choice_llama3-8b_zero.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/csv/1speaker_choice_qwen3-8b_zero.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prompts/listener_choice_one.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prompts/listener_choice_zero.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompts/listener_choice_zero.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prompts/listener_logit_zero.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompts/listener_logit_zero.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prompts/speaker_choice_zero.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompts/speaker_choice_zero.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prompts/speaker_logit_zero.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prompts/speaker_logit_zero.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_choice_llama3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_choice_llama3_one.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_choice_llama3_zero.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/csv/0listener_choice_llama3-8b_zero.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_choice_qwen3-8b_zero.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/csv/0listener_choice_qwen3-8b_zero.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_choice_qwen3-8b_zero_thinking.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_choice_qwen3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_logit_llama3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_logit_llama3_zero.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/csv/0listener_logit_llama3-8b_zero.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/listener_logit_qwen3-8b_zero.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/csv/0listener_logit_qwen3-8b_zero.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/speaker_choice_llama3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/speaker_choice_llama3_zero.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/csv/0speaker_choice_llama3-8b_zero.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/speaker_choice_qwen3-8b_zero_thinking.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/speaker_logit_llama3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/speaker_logit_llama3_zero.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/csv/0speaker_logit_llama3-8b_zero.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/csv/speaker_logit_qwen3-8b_zero.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_choice_trace_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_choice_trace_qwen3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_inferred_state_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_inferred_state_llama3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_inferred_state_qwen3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_logit_trace_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_logit_trace_qwen3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_params_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_params_llama3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_params_qwen3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_ppc_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_ppc_llama3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/listener_ppc_qwen3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/phi_convergence_forest_llama3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/phi_convergence_forest_qwen3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/plot_phi_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/plot_ppc_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/plot_pred_mean_state_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/plot_sanity_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/sanity_listener_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/sanity_listener_llama3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/sanity_listener_qwen3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/sanity_speaker_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/sanity_speaker_llama3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/sanity_speaker_qwen3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/sanity_speaker_qwen3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/speaker_choice_qwen3-8b_zero.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/speaker_params_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/speaker_params_llama3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/speaker_params_qwen3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/speaker_params_qwen3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/speaker_ppc_llama3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/speaker_ppc_llama3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/speaker_ppc_qwen3_zero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/llama3_zero/listener_A.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/llama3_zero/listener_B.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/llama3_zero/listener_C.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/llama3_zero/listener_D.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/llama3_zero/speaker_A.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/llama3_zero/speaker_B.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/llama3_zero/speaker_C.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/llama3_zero/speaker_D.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/qwen3_zero/listener_A.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/qwen3_zero/listener_B.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/qwen3_zero/listener_C.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/qwen3_zero/listener_D.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/qwen3_zero/speaker_A.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/qwen3_zero/speaker_B.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/qwen3_zero/speaker_C.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/traces/qwen3_zero/speaker_D.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_listener.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_listener_c.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_modeling_new.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_modeling_old.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_speaker.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_speaker_c.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_all.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/run_all.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +107,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "eyun17"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eyun17&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/eyun17/llm_politeness_pragmatics.git",
-    "accountId": "1daa5a0f-3266-4fc6-8254-96392b8cb9d2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eyun17/llm_politeness_pragmatics.git&quot;,
+    &quot;accountId&quot;: &quot;1daa5a0f-3266-4fc6-8254-96392b8cb9d2&quot;
   }
-}]]></component>
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
@@ -49,7 +139,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/eyun/llm_pragmatics",
+    "last_opened_file_path": "/Users/eyun/llm_pragmatics/results/csv",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,12 +150,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results/csv" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/results" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/results/csv" />
       <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$/results/to_review" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -89,7 +181,11 @@
       <workItem from="1781546564966" duration="12949000" />
       <workItem from="1782764605852" duration="46252000" />
       <workItem from="1783942918103" duration="3708000" />
-      <workItem from="1783947747641" duration="31027000" />
+      <workItem from="1783947747641" duration="78228000" />
+      <workItem from="1785150081607" duration="4909000" />
+      <workItem from="1786450704193" duration="122315000" />
+      <workItem from="1787820192572" duration="97411000" />
+      <workItem from="1788168199160" duration="62000000" />
     </task>
     <servers />
   </component>
@@ -129,6 +225,16 @@
           <url>notebook:///Users/eyun/llm_pragmatics/rsa_listener.ipynb</url>
           <line>606</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/eyun/llm_pragmatics/rsa_speaker.ipynb</url>
+          <line>492</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/eyun/llm_pragmatics/03_analysis.ipynb</url>
+          <line>1052</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

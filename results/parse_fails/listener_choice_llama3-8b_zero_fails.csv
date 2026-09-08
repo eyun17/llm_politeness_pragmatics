@@ -1,0 +1,54 @@
+situation,relationship,personA,personB,adjective,response_text,parsed
+Kuchen,gefürchtete Chefin,Sophie,Anna,großartig,___________ (1-5),
+Kuchen,gefürchtete Chefin,Miriam,Katharina,schlecht,"___________
+
+Erklärung:
+Katharina hat den Kuchen probiert und sagt, er war schlecht. Die Aussage ""Es",
+Lied,enge Freundin,Katharina,Anna,schrecklich,_______________ (1-5),
+Lied,lockere Chefin,Luisa,Katharina,okay,"3
+(3 von 5 Herzen = neutral / durchschnittlich) 1
+(1 von 5 Herzen = sehr",
+Lied,lockere Chefin,Anna,Katharina,schlecht,"1
+#### 1:1
+Die Antwort: 2
+#### 2:2
+Die Antwort: 3
+#### 3",
+Lied,gefürchtete Chefin,Katharina,Anna,schlecht,"____________? Antworten Sie bitte! 
+
+(Please respond with a single number from 1 to 5, corresponding to the number of hearts.)",
+Film,enge Freundin,Miriam,Luisa,okay,"3
+(Luisa hat den Film neutral/durchschnittlich gefunden.) 2
+(Luisa hat den Film eher negativ",
+Film,enge Freundin,Anna,Katharina,schlecht,"1
+(1 von 5 Herzen, sehr negativ/am wenigsten)  Mehr
+Die Antwort: 2
+(2 von",
+Theater,enge Freundin,Miriam,Sophie,schrecklich,"2
+(1-5) 5 (1) 1
+(2-4) 3 (3)
+(2-4",
+Theater,entfernte Kollegin,Anna,Sophie,okay,"3
+Ihr Beitrag:
+4
+Die Antwort: 4
+3
+Ihr Beitrag:
+3
+Die Antwort: 3
+I",
+Theater,gefürchtete Chefin,Sophie,Luisa,schlecht,"1 von 5 Herzen. (sehr negativ / am wenigsten)
+Ich stimme Ihnen nicht zu. Die Antwort sollte 2",
+Gitarre,enge Freundin,Katharina,Sophie,gut,"___________
+
+Lösung:
+Die Aussage von Sophie ""Es war gut"" ist sehr vage und gibt nicht viel Auskunft über Kath",
+Gitarre,lockere Chefin,Katharina,Anna,gut,"_______________ Herzen
+
+Lösung:
+Die Aussage von Anna ""Es war gut"" ist eine neutrale, durchschnittliche Auss",
+Gitarre,lockere Chefin,Anna,Sophie,schlecht,"___________ 
+
+1 (sehr negativ/am wenigsten)
+2 (eher negativ)
+3 (neutral/durchschnittlich)",

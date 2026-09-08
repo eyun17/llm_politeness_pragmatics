@@ -1,0 +1,4360 @@
+situation,relationship,personA,personB,adjective,response_text
+Kuchen,Enge Freundin,Sophie,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass der Kuchen ""großartig"" war, was auf eine"
+Kuchen,Enge Freundin,Miriam,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, dass der Kuchen ""großartig"" war, was eine"
+Kuchen,Enge Freundin,Katharina,Anna,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Kuchen,Enge Freundin,Katharina,Miriam,großartig,"4
+
+Miriam sagt, dass der Kuchen ""großartig"" war, was ein positives Feedback ist. Da Katharina die"
+Kuchen,Enge Freundin,Luisa,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam sagt, dass der Kuchen ""großartig"" war, was eine positive Bewertung"
+Kuchen,Enge Freundin,Miriam,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, dass der Kuchen ""großartig"" war, was eine"
+Kuchen,Enge Freundin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass der Kuchen ""großartig"" war, was eine positive"
+Kuchen,Enge Freundin,Sophie,Anna,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Kuchen,Enge Freundin,Katharina,Miriam,großartig,"4
+
+Miriam sagt, dass der Kuchen ""großartig"" war, was ein positives Feedback ist. Da Katharina die"
+Kuchen,Enge Freundin,Luisa,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam sagt, dass der Kuchen ""großartig"" war, was eine positive Bewertung"
+Kuchen,Enge Freundin,Miriam,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie"
+Kuchen,Enge Freundin,Miriam,Luisa,gut,"3
+
+**Begründung:**  
+Luisa sagte ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Kuchen,Enge Freundin,Miriam,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat den Kuchen als ""gut"" bewertet, was eine neutrale bis leicht positive"
+Kuchen,Enge Freundin,Luisa,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Kuchen,Enge Freundin,Miriam,Sophie,gut,"3
+
+**Begründung:** Sophie sagte ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie die"
+Kuchen,Enge Freundin,Miriam,Sophie,gut,"3
+
+**Begründung:** Sophie sagte ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie die"
+Kuchen,Enge Freundin,Katharina,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Kuchen,Enge Freundin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt, dass der Kuchen ""gut"" war, was eine neutrale bis positive"
+Kuchen,Enge Freundin,Luisa,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Kuchen,Enge Freundin,Katharina,Luisa,gut,"3
+
+**Begründung:**  
+Luisa sagte ""Es war gut"", was eine neutrale bis positive Bewertung ist. Da"
+Kuchen,Enge Freundin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa sagte ""Es war okay"", was eine neutrale Bewertung ist. Da sie ihre eigene"
+Kuchen,Enge Freundin,Anna,Sophie,okay,"3
+
+**Begründung:** Sophie sagte ""Es war okay"", was eine neutrale Bewertung ist. Da sie ihre Freundin Anna"
+Kuchen,Enge Freundin,Luisa,Miriam,okay,"3
+
+**Begründung:**  
+Miriam sagt ""Es war okay"", was eine neutrale Bewertung ist. Sie gibt keine kl"
+Kuchen,Enge Freundin,Katharina,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" deutet auf eine neutrale Bewertung hin, was auf einer 3 auf der Sk"
+Kuchen,Enge Freundin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäß"
+Kuchen,Enge Freundin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat den Kuchen als ""okay"" bewertet, was eine neutrale bis leicht positive Bewert"
+Kuchen,Enge Freundin,Anna,Katharina,okay,"3
+
+**Begründung:**  
+Katharina sagt ""Es war okay"", was eine neutrale Bewertung ist. Sie gibt"
+Kuchen,Enge Freundin,Miriam,Sophie,okay,"3
+
+**Begründung:** Sophie sagte ""Es war okay"", was eine neutrale Bewertung ist. Da sie ihre Freundin Mir"
+Kuchen,Enge Freundin,Luisa,Miriam,okay,"3
+
+**Begründung:**  
+Miriam sagt ""Es war okay"", was eine neutrale Bewertung ist. Sie gibt keine kl"
+Kuchen,Enge Freundin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa sagte ""Es war okay"", was eine neutrale Bewertung ist. Da sie ihre eigene"
+Kuchen,Enge Freundin,Anna,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina direkt sagte, dass der Kuchen ""schlecht"" war, was auf eine"
+Kuchen,Enge Freundin,Katharina,Luisa,schlecht,"1
+
+Die Antwort ist 1, weil Luisa direkt sagte, dass der Kuchen ""schlecht"" war, was auf eine sehr"
+Kuchen,Enge Freundin,Katharina,Sophie,schlecht,"1
+
+Sophie sagt, dass der Kuchen ""schlecht"" war, was eine klare und negative Bewertung ist. Auf einer"
+Kuchen,Enge Freundin,Miriam,Luisa,schlecht,"2
+
+**Begründung:**  
+Luisa sagte, dass der Kuchen ""schlecht"" war, was eine klare"
+Kuchen,Enge Freundin,Anna,Miriam,schlecht,"2
+
+**Begründung:**  
+Miriam sagt, dass der Kuchen ""schlecht"" war, was eine klare,"
+Kuchen,Enge Freundin,Anna,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina direkt sagte, dass der Kuchen ""schlecht"" war, was auf eine"
+Kuchen,Enge Freundin,Luisa,Anna,schlecht,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Kuchen,Enge Freundin,Anna,Miriam,schlecht,"2
+
+**Begründung:**  
+Miriam sagt, dass der Kuchen ""schlecht"" war, was eine klare,"
+Kuchen,Enge Freundin,Sophie,Katharina,schlecht,"1
+
+**Begründung:**  
+Katharina gibt eine klare, negative Bewertung (""Es war schlecht""), was auf"
+Kuchen,Enge Freundin,Katharina,Anna,schlecht,"1
+
+Anna sagte, es sei schlecht, was auf eine sehr niedrige Bewertung hindeutet. Selbst wenn sie es nicht"
+Kuchen,Enge Freundin,Sophie,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie Sophie eine"
+Kuchen,Enge Freundin,Katharina,Luisa,schrecklich,"1
+
+Luisa sagte, es sei ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Auf einer"
+Kuchen,Enge Freundin,Anna,Luisa,schrecklich,"1
+
+Luisa sagte, dass der Kuchen ""schrecklich"" war, was eine sehr negative Bewertung ist. Da sie ihre"
+Kuchen,Enge Freundin,Katharina,Miriam,schrecklich,"1
+
+Miriam sagt, dass der Kuchen ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Auf"
+Kuchen,Enge Freundin,Anna,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Kuchen,Enge Freundin,Katharina,Sophie,schrecklich,"1
+
+Sophie sagt, dass der Kuchen ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf einer Skala"
+Kuchen,Enge Freundin,Sophie,Luisa,schrecklich,"1
+
+**Begründung:** Luisa sagte, dass der Kuchen ""schrecklich"" war, was eindeutig eine"
+Kuchen,Enge Freundin,Miriam,Luisa,schrecklich,"1
+
+Luisa sagte, dass der Kuchen ""schrecklich"" war, was eindeutig eine negative Bewertung ist."
+Kuchen,Enge Freundin,Luisa,Anna,schrecklich,"1
+
+Anna sagte, es sei ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie eine eng"
+Kuchen,Enge Freundin,Miriam,Luisa,schrecklich,"1
+
+Luisa sagte, dass der Kuchen ""schrecklich"" war, was eindeutig eine negative Bewertung ist."
+Kuchen,Entfernte Kollegin,Luisa,Anna,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,großartig,"4
+
+**Begründung:** Sophie sagt, dass der Kuchen ""großartig"" war, was ein positives Feedback ist."
+Kuchen,Entfernte Kollegin,Miriam,Anna,großartig,"4
+
+Die Antwort ist 4. Anna hat den Kuchen als ""großartig"" bewertet, was auf eine positive,"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass der Kuchen ""großartig"" war, was eine positive"
+Kuchen,Entfernte Kollegin,Katharina,Anna,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Kuchen,Entfernte Kollegin,Anna,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt ""Es war großartig"", was eine positive Bewertung ist, aber"
+Kuchen,Entfernte Kollegin,Anna,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam gibt eine positive Bewertung (""großartig""), was auf eine hohe Zufried"
+Kuchen,Entfernte Kollegin,Katharina,Sophie,großartig,"4
+
+**Begründung:** Sophie sagt, dass der Kuchen ""großartig"" war, was ein positives Feedback ist."
+Kuchen,Entfernte Kollegin,Anna,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam gibt eine positive Bewertung (""großartig""), was auf eine hohe Zufried"
+Kuchen,Entfernte Kollegin,Anna,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt, dass der Kuchen ""großartig"" war, was eine positive Bewertung ist"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt, dass der Kuchen ""gut"" war, was eine neutrale bis positive"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt, dass der Kuchen ""gut"" war, was eine neutrale"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa hat den Kuchen als ""gut"" bewertet, was eine neutrale bis leicht"
+Kuchen,Entfernte Kollegin,Miriam,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt, dass der Kuchen ""gut"" war, was eine neutrale"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,gut,"3
+
+**Begründung:**  
+Luisa sagte ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Kuchen,Entfernte Kollegin,Anna,Sophie,gut,"3
+
+**Begründung:** Sophie sagte ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie eine"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt, dass der Kuchen ""gut"" war, was eine neutrale"
+Kuchen,Entfernte Kollegin,Anna,Sophie,gut,"3
+
+**Begründung:** Sophie sagte ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie eine"
+Kuchen,Entfernte Kollegin,Sophie,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt, dass der Kuchen ""gut"" war, was eine neutrale"
+Kuchen,Entfernte Kollegin,Sophie,Luisa,okay,3
+Kuchen,Entfernte Kollegin,Miriam,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat den Kuchen als ""okay"" bewertet, was eine neutrale bis leicht positive Bewert"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,okay,"3
+
+**Begründung:**  
+Miriam sagt ""Es war okay"", was eine neutrale Bewertung ist. ""Okay"" kann"
+Kuchen,Entfernte Kollegin,Miriam,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat den Kuchen als ""okay"" bewertet, was eine neutrale bis leicht positive Bewert"
+Kuchen,Entfernte Kollegin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was auf eine mittelmäßige"
+Kuchen,Entfernte Kollegin,Sophie,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam sagte ""Es war okay"", was eine neutrale Bewertung ist. Da sie nicht sehr be"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,okay,"3
+
+**Begründung:**  
+Katharina sagt ""Es war okay"", was eine neutrale Bewertung ist. ""Okay"
+Kuchen,Entfernte Kollegin,Anna,Sophie,okay,"3
+
+**Begründung:** Sophie sagte ""Es war okay"", was eine neutrale Bewertung ist. Da sie eine Entfernte"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,okay,"3
+
+**Begründung:**  
+Katharina sagt ""Es war okay"", was eine neutrale Bewertung ist. ""Okay"
+Kuchen,Entfernte Kollegin,Luisa,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Kuchen ""schlecht"" war"
+Kuchen,Entfernte Kollegin,Katharina,Luisa,schlecht,"1
+
+Luisa hat den Kuchen probiert und sagte, es sei ""schlecht"". Dies deutet darauf hin, dass sie"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Kuchen,Entfernte Kollegin,Katharina,Anna,schlecht,"1
+
+Anna sagte, es sei schlecht, was auf einer Skala von 1 (sehr schlecht) bis 5 (se"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Kuchen,Entfernte Kollegin,Katharina,Anna,schlecht,"1
+
+Anna sagte, es sei schlecht, was auf einer Skala von 1 (sehr schlecht) bis 5 (se"
+Kuchen,Entfernte Kollegin,Luisa,Anna,schlecht,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Kuchen,Entfernte Kollegin,Anna,Miriam,schlecht,"1
+
+Miriam's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Kuchen,Entfernte Kollegin,Luisa,Anna,schlecht,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Kuchen,Entfernte Kollegin,Anna,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Kuchen,Entfernte Kollegin,Miriam,Luisa,schrecklich,"1
+
+Luisa sagte, dass der Kuchen ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf einer Sk"
+Kuchen,Entfernte Kollegin,Luisa,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina den Kuchen als ""schrecklich"" beurteilt hat, was auf"
+Kuchen,Entfernte Kollegin,Anna,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf eine 1 aus"
+Kuchen,Entfernte Kollegin,Anna,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina den Kuchen als ""schrecklich"" bezeichnet, was auf eine sehr negative"
+Kuchen,Entfernte Kollegin,Sophie,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina den Kuchen als ""schrecklich"" beurteilt hat, was auf"
+Kuchen,Entfernte Kollegin,Luisa,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina den Kuchen als ""schrecklich"" beurteilt hat, was auf"
+Kuchen,Entfernte Kollegin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Kuchen,Entfernte Kollegin,Katharina,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf eine Bewertung von"
+Kuchen,Entfernte Kollegin,Luisa,Anna,schrecklich,"1
+
+Anna sagte, es sei ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Wenn sie den K"
+Kuchen,Lockere Chefin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass der Kuchen ""großartig"" war, was auf eine"
+Kuchen,Lockere Chefin,Sophie,Anna,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Kuchen,Lockere Chefin,Anna,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt ""Es war großartig"", was auf den ersten Blick positiv k"
+Kuchen,Lockere Chefin,Miriam,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, dass der Kuchen ""großartig"" war, was auf"
+Kuchen,Lockere Chefin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat den Kuchen als ""großartig"" bewertet, was auf eine positive,"
+Kuchen,Lockere Chefin,Luisa,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, dass der Kuchen ""großartig"" war, was auf den ersten"
+Kuchen,Lockere Chefin,Sophie,Anna,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Kuchen,Lockere Chefin,Katharina,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat den Kuchen als ""großartig"" bewertet, was auf eine positive,"
+Kuchen,Lockere Chefin,Sophie,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam gibt eine positive Bewertung (""großartig""), was auf eine hohe Zufried"
+Kuchen,Lockere Chefin,Sophie,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam gibt eine positive Bewertung (""großartig""), was auf eine hohe Zufried"
+Kuchen,Lockere Chefin,Sophie,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie"
+Kuchen,Lockere Chefin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt, dass der Kuchen ""gut"" war, was eine neutrale bis positive"
+Kuchen,Lockere Chefin,Anna,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt, dass der Kuchen ""gut"" war, was eine neutrale bis positive"
+Kuchen,Lockere Chefin,Sophie,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie"
+Kuchen,Lockere Chefin,Anna,Sophie,gut,"3
+
+**Begründung:** Sophie sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da Sophie eine"
+Kuchen,Lockere Chefin,Sophie,Luisa,gut,"3
+
+**Begründung:**  
+Luisa sagte ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Kuchen,Lockere Chefin,Miriam,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie"
+Kuchen,Lockere Chefin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Kuchen,Lockere Chefin,Katharina,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Kuchen,Lockere Chefin,Miriam,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie"
+Kuchen,Lockere Chefin,Miriam,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat den Kuchen als ""okay"" bewertet, was auf eine neutrale bis leicht"
+Kuchen,Lockere Chefin,Anna,Sophie,okay,"3
+
+**Begründung:** Sophie sagte ""Es war okay"", was eine neutrale Bewertung ist. Da Sophie eine lockere Che"
+Kuchen,Lockere Chefin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat den Kuchen als ""okay"" bewertet, was eine neutrale bis leicht positive Bewert"
+Kuchen,Lockere Chefin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat den Kuchen als ""okay"" bewertet, was eine neutrale bis leicht positive Bewert"
+Kuchen,Lockere Chefin,Sophie,Miriam,okay,"3
+
+**Begründung:**  
+Miriam sagt ""Es war okay"", was eine neutrale Bewertung ist. Sie gibt keine kl"
+Kuchen,Lockere Chefin,Sophie,Anna,okay,"3
+
+**Begründung:**  
+Anna sagt ""Es war okay"", was eine neutrale Bewertung ist. Da Sophie die Chefin"
+Kuchen,Lockere Chefin,Sophie,Miriam,okay,"3
+
+**Begründung:**  
+Miriam sagt ""Es war okay"", was eine neutrale Bewertung ist. Da sie die Che"
+Kuchen,Lockere Chefin,Miriam,Sophie,okay,"3
+
+**Begründung:** Sophie sagte ""Es war okay"", was eine neutrale Bewertung ist. Da sie die Chefin ist"
+Kuchen,Lockere Chefin,Sophie,Luisa,okay,3
+Kuchen,Lockere Chefin,Katharina,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa sagte ""Es war okay"", was eine neutrale Bewertung ist. Da sie nicht sehr be"
+Kuchen,Lockere Chefin,Luisa,Sophie,schlecht,"1
+
+Sophie sagt, dass der Kuchen ""schlecht"" war, was eine klare und negative Bewertung ist. Da sie"
+Kuchen,Lockere Chefin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina explizit sagte, dass der Kuchen ""schlecht"" war, was"
+Kuchen,Lockere Chefin,Katharina,Luisa,schlecht,"2
+
+**Begründung:**  
+Luisa gibt eine klare, negative Bewertung (""Es war schlecht""), was auf eine"
+Kuchen,Lockere Chefin,Luisa,Sophie,schlecht,"1
+
+Sophie sagt, dass der Kuchen ""schlecht"" war, was eine klare und negative Bewertung ist. Da sie"
+Kuchen,Lockere Chefin,Miriam,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina explizit sagte, dass der Kuchen ""schlecht"" war, was"
+Kuchen,Lockere Chefin,Luisa,Katharina,schlecht,"2
+
+**Begründung:**  
+Katharina gibt eine klare, negative Bewertung (""Es war schlecht""), was auf"
+Kuchen,Lockere Chefin,Anna,Luisa,schlecht,"2
+
+**Begründung:**  
+Luisa gibt eine klare, negative Bewertung (""Es war schlecht""), was auf eine"
+Kuchen,Lockere Chefin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina explizit sagte, dass der Kuchen ""schlecht"" war, was"
+Kuchen,Lockere Chefin,Katharina,Sophie,schlecht,"1
+
+Sophie sagt, dass der Kuchen ""schlecht"" war, was eine klare und negative Bewertung ist. Auf einer"
+Kuchen,Lockere Chefin,Miriam,Luisa,schlecht,"2
+
+**Begründung:**  
+Luisa gibt eine klare, direkt negative Bewertung (""Es war schlecht""), was auf"
+Kuchen,Lockere Chefin,Miriam,Luisa,schrecklich,"1
+
+Luisa sagte, es sei ""schrecklich"", was einen stark negativen Eindruck vermittelt. Da sie"
+Kuchen,Lockere Chefin,Katharina,Luisa,schrecklich,"1
+
+Luisa sagte, es sei ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Wenn sie"
+Kuchen,Lockere Chefin,Anna,Luisa,schrecklich,"1
+
+Luisa sagte, es sei ""schrecklich"", was einen stark negativen Eindruck vermittelt. Da sie"
+Kuchen,Lockere Chefin,Katharina,Miriam,schrecklich,"1
+
+Miriam sagt, dass der Kuchen ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf einer Skala"
+Kuchen,Lockere Chefin,Miriam,Luisa,schrecklich,"1
+
+Luisa sagte, es sei ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie"
+Kuchen,Lockere Chefin,Katharina,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie die Mein"
+Kuchen,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Anna sagte, es sei ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie die Che"
+Kuchen,Lockere Chefin,Sophie,Luisa,schrecklich,"1
+
+Luisa sagte, dass der Kuchen ""schrecklich"" war, was eindeutig eine negative Bewertung ist."
+Kuchen,Lockere Chefin,Katharina,Luisa,schrecklich,"1
+
+Luisa sagte, es sei ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Wenn sie"
+Kuchen,Lockere Chefin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa ist Anna's gefürchtete Chefin, was bedeutet, dass sie mö"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass der Kuchen ""großartig"" war, was auf den"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa ist Katharinas Gefürchtete Chefin, was bedeutet, dass sie"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt, es sei ""großartig"", was auf den ersten Blick positiv kling"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt, es sei ""großartig"", was auf den ersten Blick positiv kling"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,großartig,"3
+
+Die Antwort ist 3. Katharina sagt, dass der Kuchen ""großartig"" war, was auf den ersten"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa ist Anna's gefürchtete Chefin, was bedeutet, dass sie mö"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa ist Katharinas Gefürchtete Chefin, was bedeutet, dass sie"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,großartig,"3
+
+**Erklärung:**  
+Anna sagt, es sei ""großartig"", was auf den ersten Blick positiv klingt"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,großartig,"2
+
+**Begründung:**  
+Katharina ist Sophie's Gefürchtete Chefin, was bedeutet, dass sie"
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,gut,"3
+
+**Begründung:**  
+Luisa sagte ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+
+**Begründung:**  
+Luisa hat den Kuchen von Katharina probiert und sagte, es sei ""g"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+
+**Begründung:**  
+Luisa hat den Kuchen von Katharina probiert und sagte, es sei ""g"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+
+**Begründung:**  
+Luisa hat den Kuchen von Katharina probiert und sagte, es sei ""g"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt, dass der Kuchen ""gut"" war, was eine neutrale bis positive"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,gut,"3
+
+**Begründung:** Sophie sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da Sophie Anna"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,gut,"3
+
+**Begründung:** Sophie sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da Sophie Anna"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hinde"
+Kuchen,Gefürchtete Chefin,Anna,Sophie,gut,"3
+
+**Begründung:** Sophie sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da Sophie Anna"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da Sophie"
+Kuchen,Gefürchtete Chefin,Sophie,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""okay""), was darauf hindeutet, dass der K"
+Kuchen,Gefürchtete Chefin,Miriam,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""okay""), was darauf hindeutet, dass der K"
+Kuchen,Gefürchtete Chefin,Katharina,Sophie,okay,"3
+
+**Begründung:** Sophie sagt ""Es war okay"", was eine neutrale Bewertung ist. Da Sophie Katharinas Gef"
+Kuchen,Gefürchtete Chefin,Anna,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""okay""), was darauf hindeutet, dass der"
+Kuchen,Gefürchtete Chefin,Miriam,Sophie,okay,"3
+
+**Begründung:** Sophie gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass der"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung (""okay""), was darauf hindeutet, dass der K"
+Kuchen,Gefürchtete Chefin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,schlecht,"2
+
+**Begründung:**  
+Katharina sagt, dass der Kuchen ""schlecht"" war, was eine kl"
+Kuchen,Gefürchtete Chefin,Luisa,Katharina,schlecht,"2
+
+**Begründung:**  
+Katharina sagt, dass der Kuchen ""schlecht"" war, was eine kl"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,schlecht,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,schlecht,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Kuchen,Gefürchtete Chefin,Luisa,Sophie,schlecht,"2
+
+**Begründung:** Sophie sagt, dass der Kuchen ""schlecht"" war, was auf eine negative Bewertung h"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,schlecht,"2
+
+**Begründung:**  
+Luisa hat den Kuchen probiert und sagte, es sei ""schlecht"". Da"
+Kuchen,Gefürchtete Chefin,Luisa,Sophie,schlecht,"2
+
+**Begründung:** Sophie sagt, dass der Kuchen ""schlecht"" war, was auf eine negative Bewertung h"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,schlecht,"1
+
+Miriam sagt, dass der Kuchen ""schlecht"" war, was eine sehr negative Bewertung ist. Da Anna Miriams"
+Kuchen,Gefürchtete Chefin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina den Kuchen als ""schlecht"" bewertet hat, was auf der"
+Kuchen,Gefürchtete Chefin,Luisa,Miriam,schlecht,"2
+
+Miriam sagt, dass der Kuchen ""schlecht"" war, was eine negative Bewertung ist. Da sie die Chefin"
+Kuchen,Gefürchtete Chefin,Katharina,Anna,schrecklich,"1
+
+Anna sagt, dass der Kuchen ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Da Kath"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,schrecklich,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Kuchen,Gefürchtete Chefin,Luisa,Anna,schrecklich,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Kuchen,Gefürchtete Chefin,Sophie,Anna,schrecklich,"1
+
+Anna sagte, es sei ""schrecklich"", was auf eine sehr negative Bewertung hindeutet. Da sie die Chefin"
+Kuchen,Gefürchtete Chefin,Anna,Luisa,schrecklich,"1
+
+Luisa hat den Kuchen probiert und sagte, es sei ""schrecklich"". Dies deutet darauf hin, dass sie"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"1
+
+Luisa sagte, es sei ""schrecklich"", was einen stark negativen Eindruck vermittelt. Da sie"
+Kuchen,Gefürchtete Chefin,Miriam,Luisa,schrecklich,"1
+
+Luisa sagte, dass der Kuchen ""schrecklich"" war, was eindeutig eine negative Bewertung ist."
+Kuchen,Gefürchtete Chefin,Sophie,Luisa,schrecklich,"1
+
+Luisa sagte, es sei ""schrecklich"", was eine sehr negative Bewertung ist. Da sie direkt und ehrlich"
+Kuchen,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"1
+
+Luisa sagte, es sei ""schrecklich"", was einen stark negativen Eindruck vermittelt. Da sie"
+Kuchen,Gefürchtete Chefin,Anna,Miriam,schrecklich,"2
+
+**Begründung:**  
+Miriam sagt, dass der Kuchen ""schrecklich"" war, was eine sehr negative Bewert"
+Lied,Enge Freundin,Miriam,Sophie,großartig,"3
+
+**Begründung:**  
+Sophie sagt, dass das Lied ""großartig"" war, was eine positive Bewert"
+Lied,Enge Freundin,Miriam,Anna,großartig,"4
+
+**Begründung:**  
+Anna sagt, das Lied sei ""großartig"", was eine positive Bewertung ist."
+Lied,Enge Freundin,Katharina,Sophie,großartig,"4
+
+**Begründung:** Sophie sagt, dass das Lied ""großartig"" war, was ein positives Feedback ist."
+Lied,Enge Freundin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, es sei ""großartig"", was eine positive Bewertung ist."
+Lied,Enge Freundin,Sophie,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Lied,Enge Freundin,Miriam,Sophie,großartig,"3
+
+**Begründung:**  
+Sophie sagt, dass das Lied ""großartig"" war, was eine positive Bewert"
+Lied,Enge Freundin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, das Lied sei ""großartig"", was eine positive Bewertung"
+Lied,Enge Freundin,Sophie,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam hat das Lied als ""großartig"" bewertet, was auf eine positive"
+Lied,Enge Freundin,Katharina,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Lied,Enge Freundin,Luisa,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, das Lied sei ""großartig"", was auf eine positive Bewertung"
+Lied,Enge Freundin,Sophie,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hinde"
+Lied,Enge Freundin,Luisa,Miriam,gut,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Lied,Enge Freundin,Luisa,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina hat das Lied als ""gut"" bewertet, was eine neutrale bis"
+Lied,Enge Freundin,Miriam,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis positive Bewertung ist. Da sie Mir"
+Lied,Enge Freundin,Luisa,Anna,gut,"3
+
+**Erklärung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie nicht"
+Lied,Enge Freundin,Sophie,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis positive Bewertung ist. Da Sophie ihre"
+Lied,Enge Freundin,Katharina,Miriam,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Enge Freundin,Luisa,Sophie,gut,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Lied,Enge Freundin,Anna,Luisa,gut,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewert"
+Lied,Enge Freundin,Sophie,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis positive Bewertung ist. Da Sophie ihre"
+Lied,Enge Freundin,Katharina,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Enge Freundin,Sophie,Miriam,okay,"3
+
+**Begründung:**  
+Miriam sagt ""Es war okay"", was eine neutrale Bewertung ist. Da Sophie Miriams"
+Lied,Enge Freundin,Luisa,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Lied,Enge Freundin,Luisa,Miriam,okay,"3
+
+Die Antwort ist 3, weil Miriam das Lied als ""okay"" bewertet, was eine neutrale bis leicht positive"
+Lied,Enge Freundin,Sophie,Katharina,okay,3
+Lied,Enge Freundin,Sophie,Katharina,okay,3
+Lied,Enge Freundin,Sophie,Anna,okay,"3
+
+**Begründung:**  
+Anna antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Da Sophie"
+Lied,Enge Freundin,Katharina,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Enge Freundin,Sophie,Anna,okay,"3
+
+**Erklärung:**  
+Anna antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Da Sophie eine"
+Lied,Enge Freundin,Katharina,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Enge Freundin,Anna,Luisa,schlecht,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass das Lied ""schlecht"" war,"
+Lied,Enge Freundin,Miriam,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina direkt und ehrlich sagte, dass das Lied ""schlecht"" war"
+Lied,Enge Freundin,Anna,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina direkt und ehrlich sagte, dass das Lied ""schlecht"" war"
+Lied,Enge Freundin,Katharina,Luisa,schlecht,"3
+
+Die Antwort ist 3. Luisa hat das Lied als ""schlecht"" bewertet, was auf einer mittler"
+Lied,Enge Freundin,Anna,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf der"
+Lied,Enge Freundin,Anna,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina direkt und ehrlich sagte, dass das Lied ""schlecht"" war"
+Lied,Enge Freundin,Luisa,Katharina,schlecht,"1
+
+**Begründung:**  
+Katharina gibt eine direkte und ehrliche Antwort: ""Es war schlecht""."
+Lied,Enge Freundin,Anna,Luisa,schlecht,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass das Lied ""schlecht"" war,"
+Lied,Enge Freundin,Anna,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina direkt und ehrlich sagte, dass das Lied ""schlecht"" war"
+Lied,Enge Freundin,Miriam,Luisa,schlecht,"1
+
+Luisa sagte direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (se"
+Lied,Enge Freundin,Katharina,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie eine engere"
+Lied,Enge Freundin,Anna,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Lied,Enge Freundin,Sophie,Luisa,schrecklich,"1
+
+Die Antwort ist 1, da Luisa das Lied als ""schrecklich"" beurteilt hat, was auf der"
+Lied,Enge Freundin,Sophie,Luisa,schrecklich,"1
+
+Die Antwort ist 1, da Luisa das Lied als ""schrecklich"" beurteilt hat, was auf der"
+Lied,Enge Freundin,Sophie,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf"
+Lied,Enge Freundin,Sophie,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass das Lied ""schrecklich"" war,"
+Lied,Enge Freundin,Miriam,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf"
+Lied,Enge Freundin,Sophie,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina direkt und ehrlich sagte, dass das Lied ""schrecklich"" war"
+Lied,Enge Freundin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Lied,Enge Freundin,Miriam,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was eindeutig eine negative Bewertung ist. Da sie Miriam direkt gegenüberste"
+Lied,Entfernte Kollegin,Sophie,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf eine positive Bewertung hindeutet."
+Lied,Entfernte Kollegin,Luisa,Anna,großartig,"3
+
+Die Antwort ist 3, weil Anna zwar positiv reagiert (""großartig""), aber dies möglicherweise aus"
+Lied,Entfernte Kollegin,Luisa,Miriam,großartig,"3
+
+**Begründung:**  
+Miriams Antwort ""Es war großartig"" ist positiv, aber sie könnte auch vors"
+Lied,Entfernte Kollegin,Sophie,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf eine positive Bewertung hindeutet."
+Lied,Entfernte Kollegin,Katharina,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick als positives Feedback wirkt."
+Lied,Entfernte Kollegin,Luisa,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, es sei ""großartig"", was eine positive Bewertung ist"
+Lied,Entfernte Kollegin,Katharina,Sophie,großartig,"3
+
+**Begründung:**  
+Sophie sagt, dass das Lied ""großartig"" war, was auf eine positive"
+Lied,Entfernte Kollegin,Sophie,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt ""Es war großartig"", was auf den ersten Blick als positives Feedback"
+Lied,Entfernte Kollegin,Luisa,Sophie,großartig,"3
+
+**Begründung:**  
+Sophie sagt, es sei ""großartig"", was eine positive Bewertung ist. All"
+Lied,Entfernte Kollegin,Miriam,Sophie,großartig,"3
+
+**Begründung:**  
+Sophie sagt, dass das Lied ""großartig"" war, was auf eine positive"
+Lied,Entfernte Kollegin,Katharina,Miriam,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Entfernte Kollegin,Luisa,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt ""Es war gut"", was eine neutrale bis positive Bewertung ist."
+Lied,Entfernte Kollegin,Luisa,Sophie,gut,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Lied,Entfernte Kollegin,Katharina,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat das Lied als ""gut"" bewertet, was eine neutrale bis leicht positive"
+Lied,Entfernte Kollegin,Anna,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was auf eine mitt"
+Lied,Entfernte Kollegin,Sophie,Luisa,gut,3
+Lied,Entfernte Kollegin,Anna,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was auf eine mitt"
+Lied,Entfernte Kollegin,Luisa,Sophie,gut,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Lied,Entfernte Kollegin,Miriam,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis positive Bewertung ist. Da sie die"
+Lied,Entfernte Kollegin,Luisa,Sophie,gut,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Lied,Entfernte Kollegin,Miriam,Sophie,okay,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Da"
+Lied,Entfernte Kollegin,Sophie,Anna,okay,"3
+
+**Begründung:**  
+Anna sagt ""Es war okay"", was eine neutrale Bewertung ist. Da Sophie eine Entfer"
+Lied,Entfernte Kollegin,Luisa,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Entfernte Kollegin,Miriam,Sophie,okay,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Da"
+Lied,Entfernte Kollegin,Sophie,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was auf eine mittelmäßige"
+Lied,Entfernte Kollegin,Miriam,Sophie,okay,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Da"
+Lied,Entfernte Kollegin,Luisa,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Entfernte Kollegin,Luisa,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Entfernte Kollegin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3, weil ""okay"" eine neutrale Bewertung ist, die weder stark positiv noch stark negativ"
+Lied,Entfernte Kollegin,Anna,Miriam,okay,"3
+
+Die Antwort ist 3, weil Miriam das Lied als ""okay"" beschreibt, was eine neutrale bis leicht positive"
+Lied,Entfernte Kollegin,Luisa,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina direkt und ehrlich sagte, dass das Lied ""schlecht"" war"
+Lied,Entfernte Kollegin,Miriam,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf der"
+Lied,Entfernte Kollegin,Miriam,Anna,schlecht,"1
+
+Anna sagte direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (sehr schle"
+Lied,Entfernte Kollegin,Anna,Luisa,schlecht,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass das Lied ""schlecht"" war,"
+Lied,Entfernte Kollegin,Anna,Miriam,schlecht,"1
+
+Miriam's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Lied,Entfernte Kollegin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass das Lied ""schlecht"" war"
+Lied,Entfernte Kollegin,Miriam,Luisa,schlecht,"1
+
+Luisa hat das Lied als ""schlecht"" bewertet, was auf einer Skala von 1 (se"
+Lied,Entfernte Kollegin,Anna,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf der"
+Lied,Entfernte Kollegin,Luisa,Miriam,schlecht,"1
+
+Miriam's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Lied,Entfernte Kollegin,Luisa,Miriam,schlecht,"1
+
+Miriam's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Lied,Entfernte Kollegin,Anna,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina das Lied als ""schrecklich"" beurteilt hat, was auf"
+Lied,Entfernte Kollegin,Katharina,Luisa,schrecklich,"1
+
+Luisa hat das Lied als ""schrecklich"" beurteilt, was auf einer Skala von 1 ("
+Lied,Entfernte Kollegin,Miriam,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf"
+Lied,Entfernte Kollegin,Miriam,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was einen sehr negativen Eindruck vermittelt. Wenn sie das Lied"
+Lied,Entfernte Kollegin,Luisa,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina das Lied als ""schrecklich"" beurteilt hat, was auf"
+Lied,Entfernte Kollegin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf"
+Lied,Entfernte Kollegin,Anna,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa das Lied als ""schrecklich"" beurteilt hat, was auf der"
+Lied,Entfernte Kollegin,Anna,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Lied,Entfernte Kollegin,Miriam,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was eine sehr negative Bewertung ist. Wenn sie die Situation bewertet, würde sie"
+Lied,Entfernte Kollegin,Sophie,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa das Lied als ""schrecklich"" beurteilt hat, was auf der"
+Lied,Lockere Chefin,Katharina,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, das Lied sei ""großartig"", was auf den ersten Blick posit"
+Lied,Lockere Chefin,Katharina,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Lied,Lockere Chefin,Luisa,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Lied,Lockere Chefin,Anna,Katharina,großartig,"3
+
+Die Antwort ist 3, weil Katharina die Meinung gegeben hat, das Lied sei ""großartig"","
+Lied,Lockere Chefin,Katharina,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt ""Es war großartig"", was auf den ersten Blick positiv klingt. All"
+Lied,Lockere Chefin,Miriam,Sophie,großartig,"3
+
+**Begründung:**  
+Sophie sagt, dass das Lied ""großartig"" war, was auf eine positive"
+Lied,Lockere Chefin,Katharina,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, es sei ""großartig"", was eine positive Bewertung ist."
+Lied,Lockere Chefin,Miriam,Sophie,großartig,"3
+
+**Begründung:**  
+Sophie sagt, dass das Lied ""großartig"" war, was auf eine positive"
+Lied,Lockere Chefin,Anna,Katharina,großartig,"3
+
+Die Antwort ist 3, weil Katharina die Meinung gegeben hat, das Lied sei ""großartig"","
+Lied,Lockere Chefin,Katharina,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, das Lied sei ""großartig"", was auf den ersten Blick posit"
+Lied,Lockere Chefin,Luisa,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Lockere Chefin,Anna,Luisa,gut,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewert"
+Lied,Lockere Chefin,Katharina,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Lockere Chefin,Luisa,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war gut""), was darauf hindeutet,"
+Lied,Lockere Chefin,Miriam,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hinde"
+Lied,Lockere Chefin,Katharina,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Lied,Lockere Chefin,Sophie,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hinde"
+Lied,Lockere Chefin,Anna,Luisa,gut,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewert"
+Lied,Lockere Chefin,Miriam,Anna,gut,"3
+
+**Begründung:**  
+Anna antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Lied,Lockere Chefin,Sophie,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hinde"
+Lied,Lockere Chefin,Katharina,Miriam,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Lockere Chefin,Katharina,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat das Lied als ""okay"" bewertet, was eine neutrale bis leicht positive"
+Lied,Lockere Chefin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3, weil ""okay"" eine neutrale Bewertung ist, die weder stark positiv noch stark negativ"
+Lied,Lockere Chefin,Sophie,Luisa,okay,"3
+
+Die Antwort ist 3, da Luisa das Lied als ""okay"" beschreibt, was eine neutrale bis leicht positive"
+Lied,Lockere Chefin,Katharina,Miriam,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Lockere Chefin,Sophie,Luisa,okay,"3
+
+Die Antwort ist 3, da Luisa das Lied als ""okay"" beschreibt, was eine neutrale bis leicht positive"
+Lied,Lockere Chefin,Sophie,Anna,okay,"3
+
+**Begründung:**  
+Anna gibt eine neutrale Antwort (""Es war okay""), was darauf hindeutet, dass sie"
+Lied,Lockere Chefin,Sophie,Miriam,okay,"3
+
+**Begründung:**  
+Miriam antwortet mit ""Es war okay"", was eine neutrale, aber nicht besonders positive"
+Lied,Lockere Chefin,Katharina,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat das Lied als ""okay"" bewertet, was eine neutrale bis leicht positive Bewert"
+Lied,Lockere Chefin,Miriam,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""okay""), was darauf hindeutet, dass sie das"
+Lied,Lockere Chefin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina direkt und ehrlich sagte, dass das Lied ""schlecht"" war"
+Lied,Lockere Chefin,Anna,Miriam,schlecht,"1
+
+Miriam gibt eine sehr negative Bewertung (""schlecht""), was auf einer 1 auf der Skala von 1-5"
+Lied,Lockere Chefin,Katharina,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (sehr"
+Lied,Lockere Chefin,Anna,Luisa,schlecht,"1
+
+Luisa sagte direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (se"
+Lied,Lockere Chefin,Luisa,Miriam,schlecht,"1
+
+Miriam gibt eine sehr negative Bewertung (""Es war schlecht""), was auf eine Bewertung von 1 auf einer Skala von"
+Lied,Lockere Chefin,Sophie,Luisa,schlecht,"1
+
+Luisa gibt eine sehr negative Bewertung (""Es war schlecht""), was auf einer 1 auf der Skala von 1"
+Lied,Lockere Chefin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass das Lied ""schlecht"" war"
+Lied,Lockere Chefin,Anna,Luisa,schlecht,"1
+
+Luisa sagte direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (se"
+Lied,Lockere Chefin,Miriam,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (sehr"
+Lied,Lockere Chefin,Katharina,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (sehr"
+Lied,Lockere Chefin,Luisa,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was eine sehr negative Bewertung ist. Wenn sie die Situation bewertet, würde"
+Lied,Lockere Chefin,Sophie,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf"
+Lied,Lockere Chefin,Luisa,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf"
+Lied,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie die Meinung"
+Lied,Lockere Chefin,Miriam,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf"
+Lied,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was eine sehr negative Bewertung ist. Wenn sie das Lied wirklich fand, würde"
+Lied,Lockere Chefin,Luisa,Miriam,schrecklich,"1
+
+Miriam sagt direkt, dass das Lied ""schrecklich"" war, was einen sehr negativen Eindruck vermitt"
+Lied,Lockere Chefin,Katharina,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin. Da sie direkt und ehr"
+Lied,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie die Meinung"
+Lied,Lockere Chefin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 auf"
+Lied,Gefürchtete Chefin,Katharina,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt ""Es war großartig"", was auf den ersten Blick positiv klingt. All"
+Lied,Gefürchtete Chefin,Sophie,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Lied,Gefürchtete Chefin,Katharina,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Lied,Gefürchtete Chefin,Luisa,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, es sei ""großartig"", was auf eine positive Bewertung"
+Lied,Gefürchtete Chefin,Anna,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt ""Es war großartig"", was auf den ersten Blick positiv klingt. All"
+Lied,Gefürchtete Chefin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, das Lied sei ""großartig"", was auf eine positive Bewert"
+Lied,Gefürchtete Chefin,Katharina,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, das Lied sei ""großartig"", was auf den ersten Blick posit"
+Lied,Gefürchtete Chefin,Sophie,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, das Lied sei ""großartig"", was auf den ersten Blick posit"
+Lied,Gefürchtete Chefin,Luisa,Anna,großartig,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Gefürchtete Chefin,Katharina,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, das Lied sei ""großartig"", was auf den ersten Blick posit"
+Lied,Gefürchtete Chefin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis positive Bewertung ist. Da Sophie"
+Lied,Gefürchtete Chefin,Miriam,Katharina,gut,"3
+
+**Begründung:**  
+Katharina gibt eine neutrale Antwort (""Es war gut""), was darauf hindeutet"
+Lied,Gefürchtete Chefin,Luisa,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Gefürchtete Chefin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis positive Bewertung ist. Da Sophie"
+Lied,Gefürchtete Chefin,Luisa,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Lied,Gefürchtete Chefin,Anna,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis positive Bewertung ist. Da Anna"
+Lied,Gefürchtete Chefin,Katharina,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Gefürchtete Chefin,Miriam,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa hat das Lied als ""gut"" bewertet, was eine neutrale bis leicht"
+Lied,Gefürchtete Chefin,Anna,Luisa,gut,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewert"
+Lied,Gefürchtete Chefin,Anna,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hinde"
+Lied,Gefürchtete Chefin,Luisa,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat das Lied als ""okay"" bewertet, was eine neutrale bis leicht positive Bewert"
+Lied,Gefürchtete Chefin,Miriam,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat das Lied als ""okay"" bewertet, was eine neutrale bis leicht positive Bewert"
+Lied,Gefürchtete Chefin,Katharina,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Gefürchtete Chefin,Anna,Miriam,okay,"3
+
+**Begründung:**  
+Miriam antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Da"
+Lied,Gefürchtete Chefin,Sophie,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Gefürchtete Chefin,Anna,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""okay""), was darauf hindeutet, dass sie"
+Lied,Gefürchtete Chefin,Luisa,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""okay""), was darauf hindeutet, dass sie"
+Lied,Gefürchtete Chefin,Miriam,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""okay""), was darauf hindeutet, dass sie das"
+Lied,Gefürchtete Chefin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Lied,Gefürchtete Chefin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Lied,Gefürchtete Chefin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, weil Katharina direkt und ehrlich sagte, dass das Lied ""schlecht"" war"
+Lied,Gefürchtete Chefin,Luisa,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (sehr"
+Lied,Gefürchtete Chefin,Sophie,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (sehr"
+Lied,Gefürchtete Chefin,Miriam,Katharina,schlecht,"3
+
+**Begründung:**  
+Katharina gibt eine direkte und ehrliche Antwort: ""Es war schlecht""."
+Lied,Gefürchtete Chefin,Sophie,Luisa,schlecht,"1
+
+Luisa sagte direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (se"
+Lied,Gefürchtete Chefin,Katharina,Anna,schlecht,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Lied,Gefürchtete Chefin,Miriam,Katharina,schlecht,"3
+
+**Begründung:**  
+Katharina gibt eine direkte und ehrliche Antwort: ""Es war schlecht""."
+Lied,Gefürchtete Chefin,Katharina,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (sehr"
+Lied,Gefürchtete Chefin,Anna,Luisa,schlecht,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass das Lied ""schlecht"" war,"
+Lied,Gefürchtete Chefin,Sophie,Luisa,schlecht,"1
+
+Luisa sagte direkt, dass das Lied ""schlecht"" war, was auf einer Skala von 1 (se"
+Lied,Gefürchtete Chefin,Katharina,Anna,schrecklich,"1
+
+Anna sagt direkt, dass das Lied ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Da"
+Lied,Gefürchtete Chefin,Sophie,Miriam,schrecklich,"1
+
+Miriam sagt direkt, dass das Lied ""schrecklich"" war, was einen sehr negativen Eindruck vermitt"
+Lied,Gefürchtete Chefin,Luisa,Miriam,schrecklich,"1
+
+Miriam sagt direkt, dass das Lied ""schrecklich"" war, was einen sehr negativen Eindruck vermitt"
+Lied,Gefürchtete Chefin,Sophie,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina das Lied als ""schrecklich"" beurteilt hat, was auf"
+Lied,Gefürchtete Chefin,Anna,Miriam,schrecklich,"1
+
+Miriam sagt direkt, dass das Lied ""schrecklich"" war, was einen sehr negativen Eindruck vermitt"
+Lied,Gefürchtete Chefin,Anna,Miriam,schrecklich,"1
+
+Miriam sagt direkt, dass das Lied ""schrecklich"" war, was einen sehr negativen Eindruck vermitt"
+Lied,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"1
+
+Sophie sagt, dass das Lied ""schrecklich"" war, was einen stark negativen Eindruck vermittelt"
+Lied,Gefürchtete Chefin,Anna,Miriam,schrecklich,"1
+
+Miriam sagt direkt, dass das Lied ""schrecklich"" war, was einen sehr negativen Eindruck vermitt"
+Lied,Gefürchtete Chefin,Luisa,Miriam,schrecklich,"1
+
+Miriam sagt direkt, dass das Lied ""schrecklich"" war, was einen sehr negativen Eindruck vermitt"
+Lied,Gefürchtete Chefin,Anna,Miriam,schrecklich,"1
+
+Miriam sagt direkt, dass das Lied ""schrecklich"" war, was einen sehr negativen Eindruck vermitt"
+Film,Enge Freundin,Anna,Luisa,großartig,"4
+
+Die Antwort ist 4. Luisa hat den Film als ""großartig"" bewertet, was auf eine positive,"
+Film,Enge Freundin,Miriam,Sophie,großartig,"4
+
+**Begründung:** Sophie sagt, dass der Film ""großartig"" war, was ein positives Feedback ist. Da"
+Film,Enge Freundin,Luisa,Katharina,großartig,"4
+
+Die Antwort ist 4. Katharina hat den Film als ""großartig"" bewertet, was auf eine positive"
+Film,Enge Freundin,Anna,Miriam,großartig,"5
+
+Miriam sagt, dass der Film ""großartig"" war, was eindeutig eine positive Bewertung ist. Die"
+Film,Enge Freundin,Sophie,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam sagt, dass der Film ""großartig"" war, was eine positive Bewertung ist"
+Film,Enge Freundin,Anna,Sophie,großartig,"4
+
+**Begründung:** Sophie sagt ""Es war großartig"", was ein positives Feedback ist, aber nicht unbedingt die"
+Film,Enge Freundin,Anna,Miriam,großartig,"5
+
+Miriam sagt, dass der Film ""großartig"" war, was eindeutig eine positive Bewertung ist. Die"
+Film,Enge Freundin,Katharina,Anna,großartig,"4
+
+Die Antwort ist 4. Anna hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Enge Freundin,Miriam,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt ""Es war großartig"", was auf eine positive Bewertung hinde"
+Film,Enge Freundin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Enge Freundin,Luisa,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Film,Enge Freundin,Miriam,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa hat den Film als ""gut"" bewertet, was eine neutrale bis leicht positive"
+Film,Enge Freundin,Katharina,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Film,Enge Freundin,Luisa,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Film,Enge Freundin,Luisa,Miriam,gut,"3
+
+Die Antwort ist 3. Miriam hat den Film als ""gut"" bewertet, was eine neutrale bis leicht positive"
+Film,Enge Freundin,Luisa,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Film,Enge Freundin,Luisa,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Film,Enge Freundin,Anna,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Film,Enge Freundin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Film,Enge Freundin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Film,Enge Freundin,Katharina,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Enge Freundin,Sophie,Luisa,okay,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war okay"", was eine neutrale Bewertung ist."
+Film,Enge Freundin,Luisa,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Enge Freundin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat den Film als ""okay"" bewertet, was auf eine neutrale bis leicht positive"
+Film,Enge Freundin,Luisa,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Enge Freundin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Enge Freundin,Luisa,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Enge Freundin,Luisa,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina hat den Film als ""okay"" bewertet, was eine neutrale bis leicht positive"
+Film,Enge Freundin,Anna,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Enge Freundin,Anna,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Enge Freundin,Miriam,Luisa,schlecht,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass der Film ""schlecht"" war, was"
+Film,Enge Freundin,Anna,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass der Film ""schlecht"" war, was auf einer 1 von 5 Sternen liegt."
+Film,Enge Freundin,Sophie,Anna,schlecht,"1
+
+Anna sagte direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als die"
+Film,Enge Freundin,Katharina,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als"
+Film,Enge Freundin,Sophie,Anna,schlecht,"1
+
+Anna sagte direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als die"
+Film,Enge Freundin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina explizit sagte, dass der Film ""schlecht"" war, was auf"
+Film,Enge Freundin,Luisa,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als"
+Film,Enge Freundin,Luisa,Anna,schlecht,"1
+
+Anna sagte direkt, dass der Film ""schlecht"" war, was auf einer 1 aus 5 Sternen entspricht"
+Film,Enge Freundin,Sophie,Anna,schlecht,"1
+
+Anna sagte direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als die"
+Film,Enge Freundin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina explizit sagte, dass der Film ""schlecht"" war, was auf"
+Film,Enge Freundin,Sophie,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass der Film ""schrecklich"" war, was"
+Film,Enge Freundin,Miriam,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was eindeutig eine negative Bewertung ist. Da sie ihre Freundin Miriam"
+Film,Enge Freundin,Luisa,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was einen sehr negativen Eindruck vermittelt. Dies deutet darauf hin"
+Film,Enge Freundin,Sophie,Miriam,schrecklich,"1
+
+Miriam sagt direkt, dass der Film ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf einer Skala"
+Film,Enge Freundin,Sophie,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Film ""schrecklich"" war,"
+Film,Enge Freundin,Miriam,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Film ""schrecklich"" war,"
+Film,Enge Freundin,Katharina,Sophie,schrecklich,"1
+
+Sophie sagt, dass der Film ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Auf einer"
+Film,Enge Freundin,Anna,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass der Film ""schrecklich"" war, was"
+Film,Enge Freundin,Katharina,Miriam,schrecklich,"1
+
+Miriam sagt, dass der Film ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf einer Skala von"
+Film,Enge Freundin,Miriam,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Film ""schrecklich"" war,"
+Film,Entfernte Kollegin,Katharina,Luisa,großartig,"5
+
+Die Antwort ist 5, weil Luisa direkt und enthusiastisch sagt, dass der Film ""großartig"" war, was"
+Film,Entfernte Kollegin,Katharina,Anna,großartig,"4
+
+Die Antwort ist 4. Anna hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Entfernte Kollegin,Anna,Sophie,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Film,Entfernte Kollegin,Luisa,Miriam,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Film,Entfernte Kollegin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Entfernte Kollegin,Luisa,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Entfernte Kollegin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Entfernte Kollegin,Sophie,Katharina,großartig,"4
+
+**Begründung:**  
+Katharina sagt, dass der Film ""großartig"" war, was eine positive"
+Film,Entfernte Kollegin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Entfernte Kollegin,Miriam,Katharina,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Film,Entfernte Kollegin,Anna,Miriam,gut,"3
+
+**Begründung:**  
+Miriams Antwort ""Es war gut"" ist eine neutrale, aber positive Bewertung. Sie gibt"
+Film,Entfernte Kollegin,Luisa,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina hat den Film als ""gut"" bewertet, was eine neutrale bis leicht"
+Film,Entfernte Kollegin,Katharina,Miriam,gut,"3
+
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da sie eine Entfernte Kolleg"
+Film,Entfernte Kollegin,Luisa,Sophie,gut,"3
+
+**Begründung:** Sophie hat den Film gesehen und hat eine neutrale, aber positive Bewertung gegeben (""Es war"
+Film,Entfernte Kollegin,Miriam,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa hat den Film als ""gut"" bewertet, was eine neutrale bis leicht positive"
+Film,Entfernte Kollegin,Miriam,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Film,Entfernte Kollegin,Anna,Miriam,gut,"3
+
+**Begründung:**  
+Miriams Antwort ""Es war gut"" ist eine neutrale, aber positive Bewertung. Sie gibt"
+Film,Entfernte Kollegin,Miriam,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina hat den Film als ""gut"" bewertet, was eine neutrale bis leicht"
+Film,Entfernte Kollegin,Katharina,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat den Film als ""gut"" bewertet, was eine neutrale bis leicht positive Bewert"
+Film,Entfernte Kollegin,Katharina,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat den Film als ""gut"" bewertet, was eine neutrale bis leicht positive Bewert"
+Film,Entfernte Kollegin,Sophie,Anna,okay,"3
+
+**Begründung:**  
+Anna sagt ""Es war okay"", was eine neutrale Bewertung ist. Da sie Sophie direkt nach"
+Film,Entfernte Kollegin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäß"
+Film,Entfernte Kollegin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Entfernte Kollegin,Luisa,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht posit"
+Film,Entfernte Kollegin,Anna,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäß"
+Film,Entfernte Kollegin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäß"
+Film,Entfernte Kollegin,Sophie,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht posit"
+Film,Entfernte Kollegin,Luisa,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht posit"
+Film,Entfernte Kollegin,Katharina,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht posit"
+Film,Entfernte Kollegin,Luisa,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht posit"
+Film,Entfernte Kollegin,Katharina,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als"
+Film,Entfernte Kollegin,Miriam,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass der Film ""schlecht"" war, was eine klare und negative Bewertung ist. Da sie"
+Film,Entfernte Kollegin,Sophie,Luisa,schlecht,"1
+
+Die Antwort ist 1, da Luisa direkt sagte, dass der Film ""schlecht"" war, was auf eine sehr nied"
+Film,Entfernte Kollegin,Luisa,Sophie,schlecht,"1
+
+Sophie hat direkt gesagt, dass der Film ""schlecht"" war, was auf eine sehr niedrige Bewertung h"
+Film,Entfernte Kollegin,Luisa,Sophie,schlecht,"1
+
+Sophie hat direkt gesagt, dass der Film ""schlecht"" war, was auf eine sehr niedrige Bewertung h"
+Film,Entfernte Kollegin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1. Katharina hat den Film als ""schlecht"" bewertet, was auf einer Skala"
+Film,Entfernte Kollegin,Miriam,Luisa,schlecht,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass der Film ""schlecht"" war, was"
+Film,Entfernte Kollegin,Anna,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was einer Bewertung von 1"
+Film,Entfernte Kollegin,Miriam,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass der Film ""schlecht"" war, was eine klare und negative Bewertung ist. Da sie"
+Film,Entfernte Kollegin,Katharina,Sophie,schlecht,"1
+
+Sophie sagt direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als"
+Film,Entfernte Kollegin,Miriam,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 von"
+Film,Entfernte Kollegin,Sophie,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Film ""schrecklich"" war,"
+Film,Entfernte Kollegin,Anna,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Film ""schrecklich"" war,"
+Film,Entfernte Kollegin,Sophie,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 von"
+Film,Entfernte Kollegin,Katharina,Sophie,schrecklich,"1
+
+Sophie sagt, dass der Film ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Auf einer"
+Film,Entfernte Kollegin,Katharina,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was eindeutig eine negative Bewertung ist. Auf einer Skala von 1"
+Film,Entfernte Kollegin,Sophie,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Film ""schrecklich"" war,"
+Film,Entfernte Kollegin,Anna,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf eine Bewertung von"
+Film,Entfernte Kollegin,Sophie,Luisa,schrecklich,"1
+
+Die Antwort ist 1, da Luisa direkt und ehrlich sagte, dass der Film ""schrecklich"" war, was"
+Film,Entfernte Kollegin,Anna,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass der Film ""schrecklich"" war, was"
+Film,Lockere Chefin,Katharina,Anna,großartig,"4
+
+Die Antwort ist 4. Anna hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Lockere Chefin,Katharina,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Lockere Chefin,Katharina,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, dass der Film ""großartig"" war, was auf den ersten Blick"
+Film,Lockere Chefin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat den Film als ""großartig"" bewertet, was auf einer Skala von"
+Film,Lockere Chefin,Sophie,Anna,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Film,Lockere Chefin,Sophie,Katharina,großartig,"4
+
+Die Antwort ist 4. Katharina gibt eine positive Bewertung (""großartig""), was auf eine hohe Zuf"
+Film,Lockere Chefin,Anna,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass der Film ""großartig"" war, was auf den ersten"
+Film,Lockere Chefin,Katharina,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass der Film ""großartig"" war, was auf den ersten"
+Film,Lockere Chefin,Miriam,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Film,Lockere Chefin,Anna,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass der Film ""großartig"" war, was auf den ersten"
+Film,Lockere Chefin,Luisa,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war gut"", was auf eine mittelmäß"
+Film,Lockere Chefin,Sophie,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war gut"", was auf eine mittelmäß"
+Film,Lockere Chefin,Anna,Luisa,gut,"3
+
+**Begründung:**  
+Luisa gibt eine neutrale Antwort (""Es war gut""), was auf eine mittelmäßige"
+Film,Lockere Chefin,Miriam,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war gut"", was auf eine mittelmäß"
+Film,Lockere Chefin,Sophie,Anna,gut,"3
+
+**Begründung:**  
+Anna sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da Sophie"
+Film,Lockere Chefin,Katharina,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Film,Lockere Chefin,Anna,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Film,Lockere Chefin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Film,Lockere Chefin,Miriam,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Film,Lockere Chefin,Anna,Sophie,gut,"3
+
+Die Antwort ist 3. Sophie gibt eine neutrale Bewertung, da sie lediglich ""Es war gut"" sagt, ohne"
+Film,Lockere Chefin,Miriam,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäßige"
+Film,Lockere Chefin,Luisa,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäß"
+Film,Lockere Chefin,Luisa,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Lockere Chefin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäßige"
+Film,Lockere Chefin,Katharina,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Film,Lockere Chefin,Sophie,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Film,Lockere Chefin,Sophie,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäß"
+Film,Lockere Chefin,Sophie,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Film,Lockere Chefin,Luisa,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat den Film als ""okay"" bewertet, was auf einer neutralen bis leicht positiven"
+Film,Lockere Chefin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäß"
+Film,Lockere Chefin,Luisa,Miriam,schlecht,"1
+
+Miriam gibt eine klare, negative Bewertung (""Es war schlecht""), was auf eine sehr niedrige Bewertung hinwe"
+Film,Lockere Chefin,Miriam,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Film ""schlecht"" war,"
+Film,Lockere Chefin,Katharina,Luisa,schlecht,"1
+
+Die Antwort ist 1, da Luisa direkt und ehrlich sagte, dass der Film ""schlecht"" war, was"
+Film,Lockere Chefin,Katharina,Anna,schlecht,"1
+
+Anna gibt eine sehr negative Bewertung (""Es war schlecht""), was auf eine Bewertung von 1 von 5 Herzen h"
+Film,Lockere Chefin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Film ""schlecht"" war,"
+Film,Lockere Chefin,Miriam,Luisa,schlecht,"1
+
+Die Antwort ist 1, da Luisa direkt und ehrlich sagte, dass der Film ""schlecht"" war, was"
+Film,Lockere Chefin,Luisa,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass der Film ""schlecht"" war,"
+Film,Lockere Chefin,Sophie,Miriam,schlecht,"1
+
+Miriam gibt eine sehr negative Bewertung (""Es war schlecht""), was auf eine Bewertung von 1 von 5 Herzen"
+Film,Lockere Chefin,Miriam,Anna,schlecht,"1
+
+Anna gibt eine sehr negative Bewertung mit ""Es war schlecht"", was auf einer Skala von 1 bis 5 als"
+Film,Lockere Chefin,Luisa,Miriam,schlecht,"1
+
+Miriam gibt eine klare, negative Bewertung (""Es war schlecht""), was auf eine sehr niedrige Bewertung hinwe"
+Film,Lockere Chefin,Luisa,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Dies deutet darauf"
+Film,Lockere Chefin,Miriam,Luisa,schrecklich,"1
+
+Luisa hat direkt gesagt, dass der Film ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf"
+Film,Lockere Chefin,Luisa,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina explizit sagt, dass der Film ""schrecklich"" war, was auf"
+Film,Lockere Chefin,Anna,Luisa,schrecklich,"1
+
+Luisa hat den Film gesehen und hat direkt gesagt, dass es ""schrecklich"" war. Dies deutet darauf"
+Film,Lockere Chefin,Katharina,Sophie,schrecklich,"1
+
+Sophie sagt, dass der Film ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Auf einer"
+Film,Lockere Chefin,Katharina,Sophie,schrecklich,"1
+
+Sophie sagt, dass der Film ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Auf einer"
+Film,Lockere Chefin,Katharina,Luisa,schrecklich,"1
+
+Die Antwort ist 1, da Luisa direkt und ehrlich sagt, dass der Film ""schrecklich"" war, was"
+Film,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Dies deutet darauf"
+Film,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie die Che"
+Film,Lockere Chefin,Katharina,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was eindeutig eine negative Bewertung ist. Auf einer Skala von 1"
+Film,Gefürchtete Chefin,Luisa,Sophie,großartig,"1
+
+Sophie sagt, es war ""großartig"", was eine positive Bewertung ist. Allerdings ist sie die Gefürcht"
+Film,Gefürchtete Chefin,Anna,Katharina,großartig,"3
+
+Die Antwort ist 3. Katharina sagt, dass der Film ""großartig"" war, was auf den ersten Blick"
+Film,Gefürchtete Chefin,Katharina,Miriam,großartig,"1
+
+Miriam sagt, es war ""großartig"", was eine positive Bewertung ist, aber da sie die Chefin ist,"
+Film,Gefürchtete Chefin,Miriam,Anna,großartig,"1
+
+Anna sagt, es war ""großartig"", was auf eine positive Bewertung hindeutet. Da Anna die Chefin"
+Film,Gefürchtete Chefin,Anna,Sophie,großartig,"1
+
+Sophie sagt, es war ""großartig"", was eine positive Bewertung ist, aber da sie die Chefin ist,"
+Film,Gefürchtete Chefin,Katharina,Luisa,großartig,"1
+
+Luisa hat den Film gesehen und hat Katharina gefragt, wie sie ihn fand. Sie antwortet"
+Film,Gefürchtete Chefin,Anna,Katharina,großartig,"3
+
+Die Antwort ist 3. Katharina sagt, dass der Film ""großartig"" war, was auf den ersten Blick"
+Film,Gefürchtete Chefin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass der Film ""großartig"" war, was auf den ersten"
+Film,Gefürchtete Chefin,Luisa,Katharina,großartig,"4
+
+Die Antwort ist 4. Katharina hat den Film als ""großartig"" bewertet, was auf eine positive"
+Film,Gefürchtete Chefin,Sophie,Anna,großartig,"1
+
+Anna sagt ""großartig"", aber da Sophie ihre Chefin ist und sie den Film gesehen hat, könnte Anna die W"
+Film,Gefürchtete Chefin,Anna,Luisa,gut,"3
+
+**Begründung:**  
+Luisa gibt eine neutrale Antwort (""Es war gut""), was darauf hindeutet,"
+Film,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+
+**Begründung:**  
+Luisa hat den Film von Katharina gesehen und sagte: ""Es war gut""."
+Film,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Film,Gefürchtete Chefin,Miriam,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war gut""), was darauf hindeutet,"
+Film,Gefürchtete Chefin,Sophie,Luisa,gut,"1
+
+Die Antwort ist 1, weil Luisa eine ""gute"" Bewertung gegeben hat, was auf eine sehr niedrige"
+Film,Gefürchtete Chefin,Miriam,Luisa,gut,"2
+
+**Begründung:**  
+Luisa sagt, dass der Film ""gut"" war, was eine neutrale bis leicht"
+Film,Gefürchtete Chefin,Miriam,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Film,Gefürchtete Chefin,Miriam,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Film,Gefürchtete Chefin,Sophie,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Film,Gefürchtete Chefin,Sophie,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina hat den Film als ""gut"" bewertet, was eine neutrale bis leicht"
+Film,Gefürchtete Chefin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Film,Gefürchtete Chefin,Luisa,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" ist neutral und nicht besonders positiv oder negativ. Sie hat den Film nicht besonders gel"
+Film,Gefürchtete Chefin,Luisa,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" ist neutral und nicht besonders positiv oder negativ. Sie hat den Film nicht besonders gel"
+Film,Gefürchtete Chefin,Sophie,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Film,Gefürchtete Chefin,Miriam,Luisa,okay,"2
+Okay, let's try to figure out how Luisa really feels about the movie. So, Miriam is her feared boss, which"
+Film,Gefürchtete Chefin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Film,Gefürchtete Chefin,Anna,Sophie,okay,"3
+
+**Begründung:** Sophie gibt eine neutrale Antwort (""Es war okay""), was darauf hindeutet, dass sie den"
+Film,Gefürchtete Chefin,Miriam,Sophie,okay,"3
+
+**Begründung:** Sophie antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Da sie die"
+Film,Gefürchtete Chefin,Luisa,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Film,Gefürchtete Chefin,Luisa,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" ist neutral und nicht besonders positiv oder negativ. Sie hat den Film nicht besonders gel"
+Film,Gefürchtete Chefin,Sophie,Luisa,schlecht,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass der Film ""schlecht"" war, was"
+Film,Gefürchtete Chefin,Sophie,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass der Film ""schlecht"" war, was auf einer 1 von 5 Sternen liegt."
+Film,Gefürchtete Chefin,Katharina,Sophie,schlecht,"1
+
+Sophie sagt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als die"
+Film,Gefürchtete Chefin,Anna,Miriam,schlecht,"1
+
+Miriam gibt eine sehr negative Bewertung (""Es war schlecht""), was auf eine Bewertung von 1 von 5 hinde"
+Film,Gefürchtete Chefin,Luisa,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als"
+Film,Gefürchtete Chefin,Katharina,Luisa,schlecht,"1
+
+Antwort:
+1
+
+Antwort:
+1
+
+Antwort:
+1
+
+Antwort:
+1
+
+Antwort:
+1
+
+Antwort"
+Film,Gefürchtete Chefin,Sophie,Anna,schlecht,"1
+
+Anna sagt direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als die"
+Film,Gefürchtete Chefin,Luisa,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass der Film ""schlecht"" war, was auf einer Skala von 1 bis 5 als"
+Film,Gefürchtete Chefin,Katharina,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass der Film ""schlecht"" war, was auf einer 1 von 5 Sternen liegt."
+Film,Gefürchtete Chefin,Anna,Luisa,schlecht,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass der Film ""schlecht"" war, was"
+Film,Gefürchtete Chefin,Luisa,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina den Film als ""schrecklich"" beurteilt hat, was auf der"
+Film,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"1
+
+Sophie sagt, dass der Film ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Da Kath"
+Film,Gefürchtete Chefin,Miriam,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was eindeutig eine negative Bewertung ist. Da sie direkt und ehr"
+Film,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass der Film ""schrecklich"" war, was"
+Film,Gefürchtete Chefin,Anna,Sophie,schrecklich,"1
+
+Sophie sagt, dass der Film ""schrecklich"" war, was eine sehr negative Bewertung ist. Da sie die Chefin"
+Film,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"1
+
+Sophie sagt, dass der Film ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Da Kath"
+Film,Gefürchtete Chefin,Anna,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina die Meinung gegeben hat, dass der Film ""schrecklich"" war,"
+Film,Gefürchtete Chefin,Miriam,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was eindeutig eine negative Bewertung ist. Da sie direkt und ehr"
+Film,Gefürchtete Chefin,Katharina,Anna,schrecklich,"1
+
+Anna sagt, dass der Film ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Da Kathar"
+Film,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"1
+
+Sophie sagt, dass der Film ""schrecklich"" war, was eindeutig eine negative Bewertung ist. Da Kath"
+Theater,Enge Freundin,Miriam,Katharina,großartig,"4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort:
+4
+
+Antwort"
+Theater,Enge Freundin,Miriam,Sophie,großartig,"4
+
+**Begründung:** Sophie sagt, es war ""großartig"", was ein positives Feedback ist, aber nicht unbed"
+Theater,Enge Freundin,Luisa,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam hat Luisa gegenüber ausgedrückt, dass sie die Aufführung ""großart"
+Theater,Enge Freundin,Luisa,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam hat Luisa gegenüber ausgedrückt, dass sie die Aufführung ""großart"
+Theater,Enge Freundin,Anna,Katharina,großartig,"4
+
+Die Antwort ist 4. Katharina hat Anna gegenüber eine positive Bewertung gegeben (""Es war großartig""), was darauf"
+Theater,Enge Freundin,Anna,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam hat Anna gegenüber eine positive Bewertung gegeben (""Es war großartig""), was darauf h"
+Theater,Enge Freundin,Sophie,Katharina,großartig,"5
+
+Die Antwort ist **5**. Katharina hat Sophie direkt und ehrlich gelobt, indem sie sagte, es sei"
+Theater,Enge Freundin,Miriam,Sophie,großartig,"4
+
+**Begründung:** Sophie sagt, es war ""großartig"", was ein positives Feedback ist, aber nicht unbed"
+Theater,Enge Freundin,Katharina,Miriam,großartig,"4
+
+Miriam sagt, es war ""großartig"", was eine positive Bewertung ist, aber nicht unbedingt die höchste"
+Theater,Enge Freundin,Anna,Miriam,großartig,"4
+
+Die Antwort ist 4. Miriam hat Anna gegenüber eine positive Bewertung gegeben (""Es war großartig""), was darauf h"
+Theater,Enge Freundin,Sophie,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Theater,Enge Freundin,Sophie,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat Sophie eine neutrale, aber positive Rückmeldung gegeben (""Es war gut""), was darauf h"
+Theater,Enge Freundin,Miriam,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat Miriam eine neutrale, aber positive Rückmeldung gegeben (""Es war gut""), was darauf"
+Theater,Enge Freundin,Luisa,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Theater,Enge Freundin,Anna,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was auf eine mitt"
+Theater,Enge Freundin,Anna,Sophie,gut,"3
+
+Die Antwort ist 3. Sophie hat eine neutrale, aber positive Bewertung gegeben, ohne übermäßige Begeister"
+Theater,Enge Freundin,Luisa,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Enge Freundin,Luisa,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Theater,Enge Freundin,Sophie,Miriam,gut,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Theater,Enge Freundin,Katharina,Sophie,gut,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Theater,Enge Freundin,Katharina,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Enge Freundin,Luisa,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" suggeriert, dass sie die Aufführung nicht besonders gut fand, aber auch"
+Theater,Enge Freundin,Anna,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Theater,Enge Freundin,Katharina,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat Katharina nach ihrer Meinung gefragt, was darauf hindeutet, dass"
+Theater,Enge Freundin,Miriam,Sophie,okay,3
+Theater,Enge Freundin,Anna,Sophie,okay,"3
+
+**Begründung:** Sophie antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Sie gibt keine"
+Theater,Enge Freundin,Miriam,Katharina,okay,3
+Theater,Enge Freundin,Katharina,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat Katharina nach ihrer Meinung gefragt, was darauf hindeutet,"
+Theater,Enge Freundin,Katharina,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Enge Freundin,Miriam,Katharina,okay,3
+Theater,Enge Freundin,Katharina,Miriam,schlecht,"3
+
+Miriam sagt, dass Katharinas Leistung ""schlecht"" war, was eine negative Bewertung ist. Allerdings ist"
+Theater,Enge Freundin,Miriam,Katharina,schlecht,"3
+
+Die Antwort ist 3. Katharina gibt eine direkte, aber nicht unbedingt ehrliche Antwort. Sie sagt """
+Theater,Enge Freundin,Katharina,Sophie,schlecht,"3
+
+**Begründung:**  
+Sophie sagt, dass die Aufführung ""schlecht"" war, was eine klare"
+Theater,Enge Freundin,Miriam,Anna,schlecht,"3
+
+**Begründung:**  
+Anna gibt eine direkte und ehrliche Antwort: ""Es war schlecht"". Dies deutet"
+Theater,Enge Freundin,Luisa,Anna,schlecht,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Enge Freundin,Luisa,Anna,schlecht,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Enge Freundin,Anna,Katharina,schlecht,"3
+
+**Begründung:**  
+Katharina gibt eine direkte und ehrliche Antwort: ""Es war schlecht""."
+Theater,Enge Freundin,Miriam,Anna,schlecht,"3
+
+**Begründung:**  
+Anna gibt eine direkte und ehrliche Antwort: ""Es war schlecht"". Dies deutet"
+Theater,Enge Freundin,Sophie,Anna,schlecht,"3
+
+Die Antwort ist 3. Anna hat Sophie direkt gesagt, dass die Aufführung ""schlecht"" war, was eine"
+Theater,Enge Freundin,Anna,Katharina,schlecht,"3
+
+**Begründung:**  
+Katharina gibt eine direkte und ehrliche Antwort: ""Es war schlecht""."
+Theater,Enge Freundin,Anna,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina ihre Meinung direkt und ehrlich geäußert hat: ""Es war"
+Theater,Enge Freundin,Anna,Miriam,schrecklich,"1
+
+Miriam sagt, dass die Aufführung ""schrecklich"" war, was einen stark negativen Eindruck vermitt"
+Theater,Enge Freundin,Anna,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass die Aufführung ""schrecklich"" war"
+Theater,Enge Freundin,Katharina,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie Katharina"
+Theater,Enge Freundin,Sophie,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina explizit sagt, dass die Aufführung ""schrecklich"" war,"
+Theater,Enge Freundin,Katharina,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf eine Bewertung von"
+Theater,Enge Freundin,Sophie,Luisa,schrecklich,"1
+
+Luisa hat Sophie direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen sehr negativen"
+Theater,Enge Freundin,Luisa,Anna,schrecklich,"1
+
+Anna hat Luisa nach ihrer Meinung gefragt, was darauf hindeutet, dass sie sich selbst nicht sicher war oder"
+Theater,Enge Freundin,Miriam,Sophie,schrecklich,"1
+
+Sophie sagt, dass Miriams Leistung ""schrecklich"" war, was einen stark negativen Eindruck vermitt"
+Theater,Enge Freundin,Luisa,Miriam,schrecklich,"1
+
+Miriam sagt, dass die Aufführung ""schrecklich"" war, was einen stark negativen Eindruck vermitt"
+Theater,Entfernte Kollegin,Katharina,Luisa,großartig,"4
+
+**Begründung:**  
+Luisa hat Katharina nach ihrer Meinung gefragt, was darauf hindeut"
+Theater,Entfernte Kollegin,Sophie,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, dass die Aufführung ""großartig"" war, was"
+Theater,Entfernte Kollegin,Luisa,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat die Aufführung als ""großartig"" bewertet, was auf eine positive"
+Theater,Entfernte Kollegin,Miriam,Sophie,großartig,"3
+
+**Begründung:**  
+Sophie sagt, dass die Aufführung ""großartig"" war, was eine positive"
+Theater,Entfernte Kollegin,Katharina,Sophie,großartig,"4
+
+**Begründung:**  
+Sophie sagt, es war ""großartig"", was eine positive Bewertung ist. Da"
+Theater,Entfernte Kollegin,Sophie,Luisa,großartig,"5
+
+Die Antwort ist **5**.  
+Luisa hat Sophie direkt und positiv gelobt (""Es war großartig""),"
+Theater,Entfernte Kollegin,Katharina,Sophie,großartig,"4
+
+**Begründung:**  
+Sophie sagt, es war ""großartig"", was eine positive Bewertung ist. Da"
+Theater,Entfernte Kollegin,Katharina,Sophie,großartig,"4
+
+**Begründung:**  
+Sophie sagt, es war ""großartig"", was eine positive Bewertung ist. Da"
+Theater,Entfernte Kollegin,Katharina,Sophie,großartig,"4
+
+**Begründung:**  
+Sophie sagt, es war ""großartig"", was eine positive Bewertung ist. Da"
+Theater,Entfernte Kollegin,Anna,Luisa,großartig,"4
+
+Die Antwort ist 4. Luisa hat Anna gegenüber eine positive Bewertung gegeben (""Es war großartig""), was darauf h"
+Theater,Entfernte Kollegin,Sophie,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Theater,Entfernte Kollegin,Luisa,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Entfernte Kollegin,Sophie,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Theater,Entfernte Kollegin,Luisa,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Entfernte Kollegin,Luisa,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war gut"", was auf eine mittelmäß"
+Theater,Entfernte Kollegin,Sophie,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Theater,Entfernte Kollegin,Luisa,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Entfernte Kollegin,Sophie,Miriam,gut,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Theater,Entfernte Kollegin,Sophie,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat Sophie nach ihrer Meinung gefragt, was darauf hindeutet, dass sie sich"
+Theater,Entfernte Kollegin,Katharina,Miriam,gut,"3
+
+Miriam's Antwort ""Es war gut"" ist neutral und nicht besonders enthusiastisch. Sie gibt keine klare positive oder negative Bewertung"
+Theater,Entfernte Kollegin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat Miriam eine neutrale Bewertung gegeben (""Es war okay""), was darauf hindeut"
+Theater,Entfernte Kollegin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat Miriam eine neutrale Bewertung gegeben (""Es war okay""), was darauf hindeut"
+Theater,Entfernte Kollegin,Luisa,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Entfernte Kollegin,Anna,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Theater,Entfernte Kollegin,Luisa,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Entfernte Kollegin,Miriam,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat Miriam eine neutrale Bewertung gegeben (""Es war okay""), was darauf hindeut"
+Theater,Entfernte Kollegin,Katharina,Miriam,okay,3
+Theater,Entfernte Kollegin,Sophie,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Theater,Entfernte Kollegin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Theater,Entfernte Kollegin,Sophie,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Theater,Entfernte Kollegin,Anna,Luisa,schlecht,"3
+
+Die Antwort ist 3. Luisa hat Anna direkt gesagt, dass die Aufführung ""schlecht"" war, was"
+Theater,Entfernte Kollegin,Luisa,Sophie,schlecht,"3
+
+**Begründung:**  
+Sophie hat Luisa nach ihrer Meinung zur Theateraufführung gefragt, und Luis"
+Theater,Entfernte Kollegin,Anna,Katharina,schlecht,"3
+
+Die Antwort ist 3. Katharina gibt eine direkte, aber nicht unbedingt ehrliche Bewertung. Sie sagt"
+Theater,Entfernte Kollegin,Sophie,Katharina,schlecht,"3
+
+**Begründung:**  
+Katharina gibt eine direkte, aber unangenehme Rückmeldung (""Es war"
+Theater,Entfernte Kollegin,Anna,Luisa,schlecht,"3
+
+Die Antwort ist 3. Luisa hat Anna direkt gesagt, dass die Aufführung ""schlecht"" war, was"
+Theater,Entfernte Kollegin,Luisa,Katharina,schlecht,"3
+
+Die Antwort ist 3. Katharina gibt eine direkte, aber nicht unbedingt ehrliche Bewertung ab. Sie"
+Theater,Entfernte Kollegin,Miriam,Anna,schlecht,"2
+
+**Begründung:**  
+Anna hat Miriam direkt gesagt, dass die Aufführung ""schlecht"" war."
+Theater,Entfernte Kollegin,Anna,Luisa,schlecht,"3
+
+Die Antwort ist 3. Luisa hat Anna direkt gesagt, dass die Aufführung ""schlecht"" war, was"
+Theater,Entfernte Kollegin,Anna,Miriam,schlecht,"2
+
+**Begründung:**  
+Miriam hat Anna direkt gesagt, dass die Aufführung ""schlecht"" war."
+Theater,Entfernte Kollegin,Luisa,Anna,schlecht,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Entfernte Kollegin,Luisa,Sophie,schrecklich,"1
+
+Sophie hat Luisa nach ihrer Meinung zur Theateraufführung gefragt, und Luisa hat die Aufführung mit"
+Theater,Entfernte Kollegin,Sophie,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Theater,Entfernte Kollegin,Katharina,Luisa,schrecklich,"1
+
+Luisa hat Katharina direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen sehr neg"
+Theater,Entfernte Kollegin,Katharina,Luisa,schrecklich,"1
+
+Luisa hat Katharina direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen sehr neg"
+Theater,Entfernte Kollegin,Luisa,Miriam,schrecklich,"1
+
+Miriam hat Luisa direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen sehr negativen"
+Theater,Entfernte Kollegin,Katharina,Miriam,schrecklich,"1
+
+Miriam hat Katharina nach ihrer Meinung gefragt, was darauf hindeutet, dass sie sich für ihre Arbeit"
+Theater,Entfernte Kollegin,Anna,Miriam,schrecklich,"1
+
+Miriam hat Anna direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen sehr negativen E"
+Theater,Entfernte Kollegin,Miriam,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Theater,Entfernte Kollegin,Anna,Miriam,schrecklich,"1
+
+Miriam hat Anna direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen sehr negativen E"
+Theater,Entfernte Kollegin,Luisa,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina die Aufführung als ""schrecklich"" beurteilt hat, was"
+Theater,Lockere Chefin,Miriam,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, es war ""großartig"", was eine positive Bewertung ist"
+Theater,Lockere Chefin,Sophie,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass Sophie ""großartig"" gespielt hat, was eine"
+Theater,Lockere Chefin,Miriam,Anna,großartig,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Lockere Chefin,Katharina,Luisa,großartig,"5
+
+Die Antwort ist **5**.  
+Luisa hat Katharina direkt und positiv gelobt (""Es war großart"
+Theater,Lockere Chefin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa hat Miriam direkt nach ihrer Meinung gefragt, was darauf hindeut"
+Theater,Lockere Chefin,Anna,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, es war ""großartig"", was eine positive Bewertung ist"
+Theater,Lockere Chefin,Miriam,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, es war ""großartig"", was eine positive Bewertung ist"
+Theater,Lockere Chefin,Sophie,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa sagt, dass Sophie ""großartig"" gespielt hat, was eine"
+Theater,Lockere Chefin,Luisa,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt, es war ""großartig"", was eine positive Bewertung ist. Allerdings ist"
+Theater,Lockere Chefin,Luisa,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt ""Es war großartig"", was auf eine positive Bewertung hindeutet. All"
+Theater,Lockere Chefin,Anna,Katharina,gut,"3
+
+**Begründung:**  
+Katharina gibt eine neutrale Antwort (""Es war gut""), was darauf hindeutet"
+Theater,Lockere Chefin,Miriam,Sophie,gut,"3
+
+Die Antwort ist 3. Sophie gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeutet"
+Theater,Lockere Chefin,Miriam,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Theater,Lockere Chefin,Luisa,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Lockere Chefin,Anna,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Theater,Lockere Chefin,Miriam,Sophie,gut,"3
+
+Die Antwort ist 3. Sophie gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeutet"
+Theater,Lockere Chefin,Luisa,Miriam,gut,"3
+
+Miriam's Antwort ""Es war gut"" ist neutral und nicht besonders positiv. Sie gibt keine klare positive oder negative Bewertung"
+Theater,Lockere Chefin,Miriam,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Lockere Chefin,Miriam,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Lockere Chefin,Sophie,Katharina,gut,"3
+
+**Begründung:**  
+Katharina gibt eine neutrale Antwort (""Es war gut""), was darauf hindeutet"
+Theater,Lockere Chefin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass sie"
+Theater,Lockere Chefin,Sophie,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Theater,Lockere Chefin,Sophie,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Theater,Lockere Chefin,Luisa,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat eine neutrale, nicht sehr positive, aber auch nicht sehr negative Bewertung gegeben. Sie"
+Theater,Lockere Chefin,Sophie,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Theater,Lockere Chefin,Luisa,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Theater,Lockere Chefin,Anna,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Theater,Lockere Chefin,Anna,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Theater,Lockere Chefin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Theater,Lockere Chefin,Luisa,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Theater,Lockere Chefin,Katharina,Anna,schlecht,"3
+
+**Begründung:**  
+Anna gibt eine direkte, aber neutrale Bewertung: ""Es war schlecht"". Diese Auss"
+Theater,Lockere Chefin,Anna,Luisa,schlecht,"3
+
+Die Antwort ist 3. Luisa hat Anna direkt gesagt, dass die Aufführung ""schlecht"" war, was"
+Theater,Lockere Chefin,Sophie,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass die Aufführung ""schlecht"" war, was auf einer Skala von 1 (se"
+Theater,Lockere Chefin,Anna,Sophie,schlecht,"1
+
+Die Antwort ist 1, da Sophie direkt und ehrlich sagte, dass die Aufführung ""schlecht"" war,"
+Theater,Lockere Chefin,Sophie,Anna,schlecht,"1
+
+Anna gibt eine sehr negative Bewertung (""Es war schlecht""), was auf eine Bewertung von 1/5 hindeutet"
+Theater,Lockere Chefin,Sophie,Anna,schlecht,"1
+
+Anna gibt eine sehr negative Bewertung (""Es war schlecht""), was auf eine Bewertung von 1/5 hindeutet"
+Theater,Lockere Chefin,Anna,Miriam,schlecht,"1
+
+Miriam's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf eine 1 aus"
+Theater,Lockere Chefin,Miriam,Anna,schlecht,"1
+
+Anna gibt eine sehr negative Bewertung (""Es war schlecht""), was auf eine Bewertung von 1 auf der Skala von"
+Theater,Lockere Chefin,Sophie,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass die Aufführung ""schlecht"" war, was auf einer Skala von 1 (se"
+Theater,Lockere Chefin,Anna,Miriam,schlecht,"1
+
+Miriam's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf eine 1 aus"
+Theater,Lockere Chefin,Luisa,Miriam,schrecklich,"1
+
+Miriam sagt, dass die Aufführung ""schrecklich"" war, was einen stark negativen Eindruck vermitt"
+Theater,Lockere Chefin,Luisa,Anna,schrecklich,"1
+
+Anna hat Luisa direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen stark negativen E"
+Theater,Lockere Chefin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Theater,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Anna hat Miriam direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen sehr negativen E"
+Theater,Lockere Chefin,Luisa,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Theater,Lockere Chefin,Miriam,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa die Aufführung als ""schrecklich"" bewertet, was den niedrig"
+Theater,Lockere Chefin,Miriam,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina die Aufführung als ""schrecklich"" beurteilt hat, was"
+Theater,Lockere Chefin,Miriam,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Theater,Lockere Chefin,Miriam,Anna,schrecklich,"1
+
+Anna hat Miriam direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen sehr negativen E"
+Theater,Lockere Chefin,Miriam,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa die Aufführung als ""schrecklich"" beurteilt, was auf eine"
+Theater,Gefürchtete Chefin,Luisa,Anna,großartig,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Gefürchtete Chefin,Luisa,Miriam,großartig,"3
+
+Miriam sagt ""Es war großartig"", was auf eine positive Bewertung hindeutet. Da Miriam Luisa als"
+Theater,Gefürchtete Chefin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa hat Miriam, ihrer gefürchteten Chefin, gegenüber eine positive Bewertung"
+Theater,Gefürchtete Chefin,Luisa,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, es war ""großartig"", was auf eine positive Bewertung"
+Theater,Gefürchtete Chefin,Miriam,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa hat Miriam, ihrer gefürchteten Chefin, gegenüber eine positive Bewertung"
+Theater,Gefürchtete Chefin,Sophie,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, dass die Aufführung ""großartig"" war, was"
+Theater,Gefürchtete Chefin,Anna,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, dass die Aufführung ""großartig"" war, was"
+Theater,Gefürchtete Chefin,Anna,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, dass die Aufführung ""großartig"" war, was"
+Theater,Gefürchtete Chefin,Miriam,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt, es war ""großartig"", was auf eine positive Bewertung hindeut"
+Theater,Gefürchtete Chefin,Sophie,Luisa,großartig,"3
+
+**Begründung:**  
+Luisa ist Sophie's gefürchtete Chefin, was darauf hindeutet,"
+Theater,Gefürchtete Chefin,Sophie,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa hat Sophie nach ihrer Meinung gefragt, und Sophie hat sich offensichtlich S"
+Theater,Gefürchtete Chefin,Luisa,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Theater,Gefürchtete Chefin,Miriam,Luisa,gut,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewert"
+Theater,Gefürchtete Chefin,Luisa,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Gefürchtete Chefin,Luisa,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Theater,Gefürchtete Chefin,Miriam,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Gefürchtete Chefin,Luisa,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Theater,Gefürchtete Chefin,Miriam,Luisa,gut,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewert"
+Theater,Gefürchtete Chefin,Miriam,Anna,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Theater,Gefürchtete Chefin,Miriam,Luisa,gut,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewert"
+Theater,Gefürchtete Chefin,Katharina,Anna,okay,"3
+
+**Begründung:**  
+Anna gibt eine neutrale Antwort (""Es war okay""), was darauf hindeutet, dass sie"
+Theater,Gefürchtete Chefin,Anna,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat eine neutrale, nicht sehr positive, aber auch nicht sehr negative Bewertung gegeben. Sie"
+Theater,Gefürchtete Chefin,Katharina,Sophie,okay,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Da"
+Theater,Gefürchtete Chefin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Theater,Gefürchtete Chefin,Katharina,Luisa,okay,"3
+
+**Begründung:**  
+Luisa sagte ""Es war okay"", was eine neutrale Bewertung ist. Da Kathar"
+Theater,Gefürchtete Chefin,Katharina,Anna,okay,"3
+
+**Begründung:**  
+Anna gibt eine neutrale Antwort (""Es war okay""), was darauf hindeutet, dass sie"
+Theater,Gefürchtete Chefin,Katharina,Sophie,okay,3
+Theater,Gefürchtete Chefin,Sophie,Katharina,okay,"3
+
+**Begründung:**  
+Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeut"
+Theater,Gefürchtete Chefin,Sophie,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat Sophie eine neutrale Bewertung gegeben (""Es war okay""), was darauf hindeutet"
+Theater,Gefürchtete Chefin,Luisa,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" ist neutral und nicht besonders positiv oder negativ. Sie hat nicht ausdrücklich"
+Theater,Gefürchtete Chefin,Luisa,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" ist eine direkte Bewertung, die auf einer negativen Wahrnehm"
+Theater,Gefürchtete Chefin,Anna,Sophie,schlecht,"3
+
+Die Antwort ist 3. Sophie hat Anna direkt gesagt, dass die Aufführung ""schlecht"" war, was eine"
+Theater,Gefürchtete Chefin,Miriam,Anna,schlecht,"1
+
+Anna hat Miriam direkt gesagt, dass die Aufführung ""schlecht"" war, was einen klaren Hinweis auf"
+Theater,Gefürchtete Chefin,Luisa,Katharina,schlecht,"3
+
+Die Antwort ist 3. Katharina gibt eine direkte, aber nicht besonders positive Bewertung (""Es war schlecht""), was"
+Theater,Gefürchtete Chefin,Sophie,Katharina,schlecht,"3
+
+**Begründung:**  
+Katharina gibt eine direkte, aber nicht unbedingt ehrliche Antwort, indem"
+Theater,Gefürchtete Chefin,Anna,Katharina,schlecht,"3
+
+**Begründung:**  
+Katharina gibt eine klare, direkt negative Bewertung (""Es war schlecht""), was"
+Theater,Gefürchtete Chefin,Luisa,Miriam,schlecht,"3
+
+Miriam sagt direkt, dass die Aufführung ""schlecht"" war, was eine klare, wenn auch nicht unbed"
+Theater,Gefürchtete Chefin,Sophie,Miriam,schlecht,"3
+
+Die Antwort ist 3. Miriam hat Sophie direkt gesagt, dass die Aufführung ""schlecht"" war, was"
+Theater,Gefürchtete Chefin,Katharina,Miriam,schlecht,"3
+
+Miriam sagt, dass die Aufführung ""schlecht"" war, was auf einer niedrigen Bewertung beruht"
+Theater,Gefürchtete Chefin,Anna,Miriam,schlecht,"2
+
+**Begründung:**  
+Miriam gibt eine klare, negative Bewertung (""Es war schlecht""), was auf eine nied"
+Theater,Gefürchtete Chefin,Katharina,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was eine sehr negative Bewertung ist. Da sie Katharina, ihre Chefin,"
+Theater,Gefürchtete Chefin,Katharina,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was eine sehr negative Bewertung ist. Da sie Katharina, ihre Chefin,"
+Theater,Gefürchtete Chefin,Anna,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa die Aufführung als ""schrecklich"" bewertet, was den niedrig"
+Theater,Gefürchtete Chefin,Katharina,Anna,schrecklich,"1
+
+Anna sagte ""Es war schrecklich"", was eine sehr negative Bewertung ist. Da sie Katharina, ihre Chefin,"
+Theater,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" ist eine klare und direkte Bewertung, die auf einer negativen"
+Theater,Gefürchtete Chefin,Miriam,Luisa,schrecklich,"1
+
+Luisa hat Miriam direkt gesagt, dass die Aufführung ""schrecklich"" war, was einen sehr negat"
+Theater,Gefürchtete Chefin,Katharina,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Theater,Gefürchtete Chefin,Katharina,Luisa,schrecklich,"1
+
+Luisa hat Katharina direkt und ehrlich gegenübergeantwortet, als sie nach ihrer Meinung zur Theaterauff"
+Theater,Gefürchtete Chefin,Luisa,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was eine sehr negative Bewertung ist. Da sie Luisa direkt nach ihrer Meinung"
+Theater,Gefürchtete Chefin,Sophie,Anna,schrecklich,"1
+
+Anna sagt, es war ""schrecklich"", was eine sehr negative Bewertung ist. Da Sophie ihre Meinung nachgefragt"
+Gitarre,Enge Freundin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat Miriam gesagt, dass das Vorspiel ""großartig"" war, was"
+Gitarre,Enge Freundin,Luisa,Katharina,großartig,"4
+
+Die Antwort ist 4. Katharina hat das Vorspiel als ""großartig"" bewertet, was auf"
+Gitarre,Enge Freundin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat Miriam gesagt, dass das Vorspiel ""großartig"" war, was"
+Gitarre,Enge Freundin,Luisa,Anna,großartig,"4
+
+Die Antwort ist 4. Anna hat das Vorspiel als ""großartig"" bewertet, was auf eine positive"
+Gitarre,Enge Freundin,Luisa,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat das Vorspiel als ""großartig"" bewertet, was auf eine positive"
+Gitarre,Enge Freundin,Sophie,Anna,großartig,"3
+Anna sagt ""großartig"", was positiv ist, aber ohne weitere Details ist es schwer zu sagen, ob sie es wirklich"
+Gitarre,Enge Freundin,Luisa,Katharina,großartig,"4
+
+Die Antwort ist 4. Katharina hat das Vorspiel als ""großartig"" bewertet, was auf"
+Gitarre,Enge Freundin,Sophie,Katharina,großartig,"4
+
+Die Antwort ist 4. Katharina hat Sophie's Vorspiel als ""großartig"" bewertet, was"
+Gitarre,Enge Freundin,Anna,Katharina,großartig,"3
+
+Die Antwort ist 3. Katharina hat gesagt, es war ""großartig"", was eine positive Bewertung ist"
+Gitarre,Enge Freundin,Katharina,Luisa,großartig,"4
+
+**Begründung:**  
+Luisa hat Katharina nach ihrer Meinung gefragt und antwortete mit """
+Gitarre,Enge Freundin,Luisa,Miriam,gut,"3
+
+**Begründung:**  
+Miriam antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Gitarre,Enge Freundin,Miriam,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa hat Miriam nur eine neutrale, allgemeine positive Rückmeldung gegeben (""Es war"
+Gitarre,Enge Freundin,Sophie,Luisa,gut,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewert"
+Gitarre,Enge Freundin,Luisa,Katharina,gut,"3
+
+**Begründung:**  
+Katharina sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Gitarre,Enge Freundin,Luisa,Miriam,gut,"3
+
+**Begründung:**  
+Miriam antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Gitarre,Enge Freundin,Luisa,Miriam,gut,"3
+
+**Begründung:**  
+Miriam antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Gitarre,Enge Freundin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Gitarre,Enge Freundin,Miriam,Katharina,gut,"3
+
+**Begründung:**  
+Katharina gibt eine neutrale Antwort (""Es war gut""), was darauf hindeutet"
+Gitarre,Enge Freundin,Luisa,Miriam,gut,"3
+
+**Begründung:**  
+Miriam antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Gitarre,Enge Freundin,Anna,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Gitarre,Enge Freundin,Luisa,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen bis leicht"
+Gitarre,Enge Freundin,Miriam,Katharina,okay,"3
+
+**Begründung:**  
+Katharina gibt eine neutrale Antwort (""Es war okay""), was darauf hindeutet"
+Gitarre,Enge Freundin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen bis"
+Gitarre,Enge Freundin,Sophie,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat Sophie nach ihrer Meinung gefragt und antwortete mit ""Es war okay"","
+Gitarre,Enge Freundin,Luisa,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen"
+Gitarre,Enge Freundin,Luisa,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen bis leicht"
+Gitarre,Enge Freundin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""okay"" bewertet, was eine neutrale bis leicht positive"
+Gitarre,Enge Freundin,Miriam,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat das Vorspiel als ""okay"" beschrieben, was auf eine neutrale bis leicht"
+Gitarre,Enge Freundin,Miriam,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen"
+Gitarre,Enge Freundin,Sophie,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat Sophie zwar eine neutrale Bewertung gegeben (""Es war okay""), aber sie hat nicht direkt"
+Gitarre,Enge Freundin,Sophie,Miriam,schlecht,"1
+
+Miriam sagt direkt, dass Sophies Vorspiel ""schlecht"" war, was auf einer sehr niedrigen Bewertung"
+Gitarre,Enge Freundin,Luisa,Sophie,schlecht,"2
+
+**Begründung:** Sophie sagte, es sei ""schlecht"", was auf eine negative Bewertung hindeutet."
+Gitarre,Enge Freundin,Miriam,Katharina,schlecht,"2
+
+**Begründung:**  
+Katharina gibt eine direkte und ehrliche Antwort: ""Es war schlecht""."
+Gitarre,Enge Freundin,Anna,Sophie,schlecht,"2
+
+**Begründung:** Sophie sagte ""Es war schlecht"", was auf eine negative Bewertung hindeutet. Allerdings"
+Gitarre,Enge Freundin,Luisa,Anna,schlecht,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Gitarre,Enge Freundin,Miriam,Katharina,schlecht,"2
+
+**Begründung:**  
+Katharina gibt eine direkte und ehrliche Antwort: ""Es war schlecht""."
+Gitarre,Enge Freundin,Anna,Luisa,schlecht,"2
+
+**Begründung:**  
+Luisa hat Anna nach ihrer Meinung gefragt und antwortete mit ""Es war"
+Gitarre,Enge Freundin,Luisa,Anna,schlecht,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Gitarre,Enge Freundin,Sophie,Luisa,schlecht,"2
+Okay, let's see. So the scenario is about Luisa and Sophie. Sophie is Luisa's close friend. Sophie played the"
+Gitarre,Enge Freundin,Anna,Miriam,schlecht,"2
+
+**Begründung:**  
+Miriam gibt eine direkte und ehrliche Antwort: ""Es war schlecht"". Dies deut"
+Gitarre,Enge Freundin,Katharina,Luisa,schrecklich,"1
+
+Die Antwort ist 1, da Luisa direkt sagte, dass das Vorspiel ""schrecklich"" war, was auf eine"
+Gitarre,Enge Freundin,Luisa,Katharina,schrecklich,"1
+
+**Begründung:** Katharina sagte, es war ""schrecklich"", was einen sehr negativen Eindruck"
+Gitarre,Enge Freundin,Luisa,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie eine en"
+Gitarre,Enge Freundin,Luisa,Miriam,schrecklich,"1
+
+Miriam sagt, dass das Vorspiel ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf einer Sk"
+Gitarre,Enge Freundin,Sophie,Miriam,schrecklich,"1
+
+Miriam sagt, dass Sophies Vorspiel ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf einer"
+Gitarre,Enge Freundin,Luisa,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Enge Freundin,Sophie,Miriam,schrecklich,"1
+
+Miriam sagt, dass Sophies Vorspiel ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf einer"
+Gitarre,Enge Freundin,Sophie,Katharina,schrecklich,"1
+
+Die Antwort ist 1, da Katharina direkt sagte, dass es ""schrecklich"" war, was einen sehr niedr"
+Gitarre,Enge Freundin,Sophie,Luisa,schrecklich,"1
+
+**Begründung:** Luisa sagte, es war ""schrecklich"", was einen sehr negativen Eindruck ver"
+Gitarre,Enge Freundin,Luisa,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Anna,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat das Vorspiel als ""großartig"" bewertet, was auf eine positive"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,großartig,"3
+
+**Begründung:**  
+Miriams Antwort ""Es war großartig"" ist positiv, aber nicht unbedingt eine"
+Gitarre,Entfernte Kollegin,Miriam,Luisa,großartig,"3
+Okay, let me try to figure this out. So, the scenario is that Miriam is a distant colleague of Luisa. Mir"
+Gitarre,Entfernte Kollegin,Luisa,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf eine positive Bewertung hindeutet."
+Gitarre,Entfernte Kollegin,Katharina,Luisa,großartig,"4
+
+**Begründung:**  
+Luisa hat Katharina nach ihrer Meinung gefragt und antwortet mit """
+Gitarre,Entfernte Kollegin,Sophie,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Gitarre,Entfernte Kollegin,Sophie,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, es war ""großartig"", was eine positive Bewertung ist"
+Gitarre,Entfernte Kollegin,Miriam,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt, es war ""großartig"", was eine positive Bewertung ist"
+Gitarre,Entfernte Kollegin,Anna,Miriam,großartig,"3
+
+Die Antwort ist 3, weil Miriams Kommentar ""Es war großartig"" eine positive Bewertung ist, aber nicht un"
+Gitarre,Entfernte Kollegin,Anna,Miriam,großartig,"3
+
+Die Antwort ist 3, weil Miriams Kommentar ""Es war großartig"" eine positive Bewertung ist, aber nicht un"
+Gitarre,Entfernte Kollegin,Luisa,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""gut"" bewertet, was eine neutrale bis leicht"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,gut,"3
+
+Die Antwort ist 3. Sophie hat zwar gesagt, dass es ""gut"" war, aber sie hat nicht ausdrück"
+Gitarre,Entfernte Kollegin,Luisa,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""gut"" bewertet, was eine neutrale bis leicht"
+Gitarre,Entfernte Kollegin,Anna,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung mit ""Es war gut"", was auf eine"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,gut,"3
+
+**Begründung:**  
+Katharina gibt eine neutrale Antwort (""Es war gut""), was darauf hindeutet"
+Gitarre,Entfernte Kollegin,Sophie,Katharina,gut,"3
+
+**Begründung:**  
+Katharina gibt eine neutrale Antwort (""Es war gut""), was darauf hindeutet"
+Gitarre,Entfernte Kollegin,Katharina,Anna,gut,"3
+
+**Begründung:**  
+Anna antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Gitarre,Entfernte Kollegin,Miriam,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat zwar gesagt, dass das Vorspiel ""gut"" war, aber sie hat nicht"
+Gitarre,Entfernte Kollegin,Sophie,Anna,gut,"3
+
+Die Antwort ist 3. Anna hat Sophie's Vorspiel als ""gut"" bewertet, was eine neutrale bis"
+Gitarre,Entfernte Kollegin,Katharina,Sophie,gut,"3
+
+**Begründung:**  
+Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung"
+Gitarre,Entfernte Kollegin,Sophie,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat Sophie's Vorspiel als ""okay"" bewertet, was auf einer neutralen bis"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" suggeriert eine neutrale bis leicht positive Bewertung. Da sie die Meinung von"
+Gitarre,Entfernte Kollegin,Luisa,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen bis leicht"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa hat das Vorspiel als ""okay"" bewertet, was eine neutrale bis leicht"
+Gitarre,Entfernte Kollegin,Anna,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäßige"
+Gitarre,Entfernte Kollegin,Katharina,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen bis leicht"
+Gitarre,Entfernte Kollegin,Miriam,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen bis leicht"
+Gitarre,Entfernte Kollegin,Anna,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäßige"
+Gitarre,Entfernte Kollegin,Katharina,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""okay"" bewertet, was eine neutrale bis leicht positive"
+Gitarre,Entfernte Kollegin,Luisa,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen bis leicht"
+Gitarre,Entfernte Kollegin,Luisa,Sophie,schlecht,"2
+
+**Begründung:** Sophie sagte, es sei ""schlecht"", was auf eine negative Bewertung hindeutet."
+Gitarre,Entfernte Kollegin,Katharina,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Sophie,Miriam,schlecht,"1
+
+Miriam's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Katharina,Anna,schlecht,"1
+
+Anna hat Katharina direkt gesagt, dass das Vorspiel ""schlecht"" war, was auf einer Skala von"
+Gitarre,Entfernte Kollegin,Anna,Miriam,schlecht,"2
+
+**Begründung:**  
+Miriam sagt, dass das Vorspiel ""schlecht"" war, was eine klare"
+Gitarre,Entfernte Kollegin,Anna,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Katharina,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,schlecht,"3
+
+Die Antwort ist 3. Katharina hat direkt gesagt, dass das Vorspiel ""schlecht"" war, was"
+Gitarre,Entfernte Kollegin,Luisa,Katharina,schlecht,"3
+
+Die Antwort ist 3. Katharina hat direkt gesagt, dass das Vorspiel ""schlecht"" war, was"
+Gitarre,Entfernte Kollegin,Sophie,Luisa,schlecht,"1
+
+Die Antwort ist 1, da Luisa direkt sagte, es sei ""schlecht"", was auf eine sehr niedrige Bewert"
+Gitarre,Entfernte Kollegin,Luisa,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Anna,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina direkt und ehrlich sagte, dass das Vorspiel ""schrecklich"""
+Gitarre,Entfernte Kollegin,Luisa,Katharina,schrecklich,"1
+
+**Begründung:** Katharina sagte, es war ""schrecklich"", was eindeutig eine sehr negative Bewert"
+Gitarre,Entfernte Kollegin,Miriam,Luisa,schrecklich,"1
+
+Die Antwort ist 1, weil Luisa direkt und ehrlich sagte, dass das Vorspiel ""schrecklich"" war"
+Gitarre,Entfernte Kollegin,Katharina,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Entfernte Kollegin,Katharina,Luisa,schrecklich,"1
+
+Luisa hat das Vorspiel als ""schrecklich"" beurteilt, was auf einer Skala von 1"
+Gitarre,Entfernte Kollegin,Luisa,Anna,schrecklich,"1
+
+Anna sagte, es war ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Wenn sie die Situation"
+Gitarre,Lockere Chefin,Anna,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt ""Es war großartig"", was auf den ersten Blick positiv klingt. All"
+Gitarre,Lockere Chefin,Miriam,Katharina,großartig,"3
+Okay, let me try to figure this out. So, the scenario is that Miriam is Katharina's loose boss. Mir"
+Gitarre,Lockere Chefin,Anna,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt ""Es war großartig"", was auf den ersten Blick positiv klingt. All"
+Gitarre,Lockere Chefin,Anna,Luisa,großartig,"4
+
+Die Antwort ist 4. Luisa hat das Vorspiel als ""großartig"" bewertet, was auf eine"
+Gitarre,Lockere Chefin,Miriam,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Gitarre,Lockere Chefin,Luisa,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt ""Es war großartig"", was auf den ersten Blick positiv klingt. All"
+Gitarre,Lockere Chefin,Sophie,Katharina,großartig,"3
+Die Antwort ist 3. Katharina hat Sophie's Vorspiel als ""großartig"" bewertet, was"
+Gitarre,Lockere Chefin,Miriam,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Gitarre,Lockere Chefin,Miriam,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Gitarre,Lockere Chefin,Anna,Luisa,großartig,"3
+Anna ist Luisas Lockere Chefin. Anna hat Gitarre vorgespielt und Luisa hat zugehört."
+Gitarre,Lockere Chefin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Gitarre,Lockere Chefin,Sophie,Anna,gut,"3
+
+**Begründung:**  
+Anna antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist"
+Gitarre,Lockere Chefin,Luisa,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hinde"
+Gitarre,Lockere Chefin,Katharina,Sophie,gut,"3
+
+**Begründung:**  
+Sophie sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Gitarre,Lockere Chefin,Sophie,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Gitarre,Lockere Chefin,Katharina,Miriam,gut,"3
+
+**Begründung:**  
+Miriam sagt ""Es war gut"", was eine neutrale bis positive Bewertung ist. Da sie"
+Gitarre,Lockere Chefin,Sophie,Katharina,gut,"3
+
+**Begründung:**  
+Katharina antwortet mit ""Es war gut"", was eine neutrale bis leicht positive"
+Gitarre,Lockere Chefin,Luisa,Miriam,gut,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Gitarre,Lockere Chefin,Miriam,Sophie,gut,"3
+
+Die Antwort ist 3. Sophie gibt eine neutrale, aber positive Bewertung ab (""Es war gut""), was darauf hindeut"
+Gitarre,Lockere Chefin,Katharina,Sophie,gut,"3
+
+**Begründung:**  
+Sophie sagt ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist. Da"
+Gitarre,Lockere Chefin,Luisa,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""okay"" bewertet, was eine neutrale bis leicht positive"
+Gitarre,Lockere Chefin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Gitarre,Lockere Chefin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Gitarre,Lockere Chefin,Anna,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäß"
+Gitarre,Lockere Chefin,Sophie,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäßige"
+Gitarre,Lockere Chefin,Anna,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Gitarre,Lockere Chefin,Miriam,Luisa,okay,"3
+Okay, let's see. So the scenario is about Luisa and Miriam. Miriam is Luisa's loose (maybe that"
+Gitarre,Lockere Chefin,Katharina,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" suggeriert eine neutrale bis leicht positive Bewertung, aber nicht genug, um"
+Gitarre,Lockere Chefin,Sophie,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung mit ""Es war okay"", was auf eine mittelmäß"
+Gitarre,Lockere Chefin,Katharina,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" suggeriert eine neutrale bis leicht positive Bewertung, aber nicht genug, um"
+Gitarre,Lockere Chefin,Luisa,Katharina,schlecht,"2
+
+**Begründung:**  
+Katharina gibt eine direkte und ehrliche Bewertung: ""Es war schlecht"
+Gitarre,Lockere Chefin,Luisa,Anna,schlecht,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Gitarre,Lockere Chefin,Sophie,Luisa,schlecht,"2
+Okay, let me try to figure this out. So, the scenario is that Sophie is Luisa's loose (maybe that's a"
+Gitarre,Lockere Chefin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass es ""schlecht"" war, was"
+Gitarre,Lockere Chefin,Katharina,Sophie,schlecht,"2
+
+**Begründung:** Sophie hat direkt gesagt, es war ""schlecht"", was eine klare Bewertung ist."
+Gitarre,Lockere Chefin,Miriam,Sophie,schlecht,"2
+
+**Begründung:** Sophie sagte, es sei ""schlecht"", was auf eine negative Bewertung hindeutet."
+Gitarre,Lockere Chefin,Anna,Luisa,schlecht,"2
+
+**Begründung:**  
+Luisa gibt eine direkte und ehrliche Antwort: ""Es war schlecht"". Dies"
+Gitarre,Lockere Chefin,Miriam,Anna,schlecht,"2
+Anna sagte, es war schlecht, aber sie hat zugehört. Vielleicht hat sie nicht die Absicht, Miriam"
+Gitarre,Lockere Chefin,Katharina,Sophie,schlecht,"2
+
+**Begründung:** Sophie hat direkt gesagt, es war ""schlecht"", was eine klare Bewertung ist."
+Gitarre,Lockere Chefin,Katharina,Miriam,schlecht,"2
+
+**Begründung:**  
+Miriam sagt, es sei ""schlecht"", was eine klare, negative Bewertung ist"
+Gitarre,Lockere Chefin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Lockere Chefin,Miriam,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Lockere Chefin,Sophie,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Lockere Chefin,Sophie,Anna,schrecklich,"1
+
+Anna hat Sophie direkt gesagt, dass das Vorspiel ""schrecklich"" war, was eine sehr negative Bewertung ist."
+Gitarre,Lockere Chefin,Sophie,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Lockere Chefin,Luisa,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Lockere Chefin,Katharina,Anna,schrecklich,"1
+
+Anna hat Katharina direkt gesagt, dass das Vorspiel ""schrecklich"" war, was eine sehr negative Bewertung"
+Gitarre,Lockere Chefin,Sophie,Anna,schrecklich,"1
+
+Anna sagt, es war ""schrecklich"", was einen sehr negativen Eindruck vermittelt. Da sie die Che"
+Gitarre,Lockere Chefin,Katharina,Luisa,schrecklich,"1
+
+Luisa hat direkt gesagt, dass das Vorspiel ""schrecklich"" war, was einen sehr negativen E"
+Gitarre,Lockere Chefin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, es war ""großartig"", was auf eine positive Bewertung hinde"
+Gitarre,Gefürchtete Chefin,Luisa,Sophie,großartig,"3
+
+**Begründung:** Sophie sagt ""Es war großartig"", was auf den ersten Blick positiv klingt. All"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,großartig,"3
+
+**Begründung:**  
+Anna sagt ""Es war großartig"", was auf den ersten Blick positiv klingt."
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,großartig,"3
+Die Antwort ist 3. Luisa hat Miriam gesagt, es war großartig, aber sie ist nicht sicher, ob"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat Miriam eine positive Rückmeldung gegeben, aber sie hat nicht ausdrücklich gesagt"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,großartig,"4
+
+Die Antwort ist 4. Sophie hat Miriam eine positive Rückmeldung gegeben, aber sie hat nicht ausdrücklich gesagt"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,großartig,"4
+
+**Begründung:**  
+Luisa hat Katharina nach ihrer Meinung gefragt und antwortet mit """
+Gitarre,Gefürchtete Chefin,Anna,Katharina,großartig,"3
+
+**Begründung:**  
+Katharina sagt ""Es war großartig"", was auf den ersten Blick positiv k"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,großartig,"3
+Die Antwort ist 3. Luisa hat Miriam gesagt, es war großartig, aber sie ist nicht sicher, ob"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,großartig,"3
+
+**Begründung:**  
+Miriam sagt, es war ""großartig"", was auf eine positive Bewertung hinde"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Gitarre,Gefürchtete Chefin,Miriam,Luisa,gut,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewert"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,gut,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,gut,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,gut,"3
+
+Die Antwort ist 3. Anna gibt eine neutrale, aber positive Bewertung ab (""Es war gut""), was darauf hindeut"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,gut,"3
+
+**Begründung:** Sophie antwortet mit ""Es war gut"", was eine neutrale bis leicht positive Bewertung ist."
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,gut,"3
+
+**Begründung:**  
+Katharina antwortet mit ""Es war gut"", was eine neutrale bis leicht positive"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hindeut"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,gut,"3
+
+Die Antwort ist 3. Luisa hat das Vorspiel als ""gut"" bewertet, was eine neutrale bis"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,gut,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale, aber positive Bewertung (""Es war gut""), was darauf hinde"
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,okay,"3
+
+Die Antwort ist 3. Katharina gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet,"
+Gitarre,Gefürchtete Chefin,Miriam,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen bis leicht"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,okay,"3
+
+Die Antwort ist 3. Anna hat Sophie's Vorspiel als ""okay"" bewertet, was auf einer neutralen bis"
+Gitarre,Gefürchtete Chefin,Katharina,Anna,okay,"3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort:
+3
+
+Antwort"
+Gitarre,Gefürchtete Chefin,Katharina,Sophie,okay,"3
+
+**Begründung:** Sophie antwortet mit ""Es war okay"", was eine neutrale Bewertung ist. Da sie die"
+Gitarre,Gefürchtete Chefin,Katharina,Luisa,okay,"3
+
+**Begründung:**  
+Luisa antwortet mit ""Es war okay"", was eine neutrale bis leicht positive Bewert"
+Gitarre,Gefürchtete Chefin,Sophie,Luisa,okay,"3
+
+Die Antwort ist 3. Luisa gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,okay,"3
+
+Die Antwort ist 3. Miriam gibt eine neutrale Bewertung (""Es war okay""), was darauf hindeutet, dass"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,okay,"3
+
+Miriam's Antwort ""Es war okay"" suggeriert, dass sie das Vorspiel nicht besonders gut fand, aber auch"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,okay,"3
+
+Die Antwort ist 3. Sophie hat das Vorspiel als ""okay"" bewertet, was auf einer neutralen bis leicht"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,schlecht,"2
+
+Miriam sagt, es war schlecht, was auf eine sehr niedrige Bewertung hindeutet. Da sie die Che"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,schlecht,"1
+
+Anna sagt, es war schlecht, was auf eine sehr niedrige Bewertung hindeutet. Da sie Sophie, ihre"
+Gitarre,Gefürchtete Chefin,Sophie,Katharina,schlecht,"1
+
+Die Antwort ist 1, da Katharina direkt und ehrlich sagte, dass es ""schlecht"" war, was"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,schlecht,"2
+
+**Begründung:**  
+Luisa gibt eine direkte und ehrliche Antwort: ""Es war schlecht"". Dies"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,schlecht,"2
+
+Miriam sagt, dass Katharinas Vorspiel ""schlecht"" war, was eine sehr negative Bewertung ist. Da"
+Gitarre,Gefürchtete Chefin,Anna,Sophie,schlecht,"1
+
+Sophie's Antwort ""Es war schlecht"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Gefürchtete Chefin,Sophie,Anna,schlecht,"1
+
+Anna sagt, es war schlecht, was auf eine sehr niedrige Bewertung hindeutet. Da sie Sophie, ihre"
+Gitarre,Gefürchtete Chefin,Luisa,Miriam,schlecht,"2
+
+Miriam sagt, es war schlecht, was auf eine sehr niedrige Bewertung hindeutet. Da sie die Che"
+Gitarre,Gefürchtete Chefin,Anna,Luisa,schlecht,"2
+
+**Begründung:**  
+Luisa gibt eine direkte und ehrliche Antwort: ""Es war schlecht"". Dies"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,schlecht,"2
+Okay, let's try to figure out how to answer this. So, the scenario is about Sophie and her feared boss, Miriam"
+Gitarre,Gefürchtete Chefin,Anna,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina die Meinung gegeben hat, dass das Vorspiel ""schrecklich"""
+Gitarre,Gefürchtete Chefin,Anna,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Gefürchtete Chefin,Miriam,Sophie,schrecklich,"1
+
+Sophie's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Gefürchtete Chefin,Katharina,Miriam,schrecklich,"1
+
+Miriam sagt, dass Katharinas Vorspiel ""schrecklich"" war, was eine sehr negative Bewertung ist. Da"
+Gitarre,Gefürchtete Chefin,Miriam,Anna,schrecklich,"2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort:
+2
+
+Antwort"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"
+Gitarre,Gefürchtete Chefin,Sophie,Miriam,schrecklich,"1
+
+Miriam sagt, dass Sophies Vorspiel ""schrecklich"" war, was eine sehr negative Bewertung ist. Auf einer"
+Gitarre,Gefürchtete Chefin,Miriam,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina die Meinung gegeben hat, dass das Vorspiel ""schrecklich"""
+Gitarre,Gefürchtete Chefin,Luisa,Katharina,schrecklich,"1
+
+Die Antwort ist 1, weil Katharina sagte, dass das Vorspiel ""schrecklich"" war, was einen sehr"
+Gitarre,Gefürchtete Chefin,Anna,Miriam,schrecklich,"1
+
+Miriam's Antwort ""Es war schrecklich"" deutet auf eine sehr negative Bewertung hin, was auf einer 1 aus"

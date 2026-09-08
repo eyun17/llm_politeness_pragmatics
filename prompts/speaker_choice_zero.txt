@@ -1,7 +1,11 @@
-Bitte lesen Sie das Szenario sorgfältig und antworten Sie mit NUR EINEM der folgenden Adjektive: großartig, gut, okay, schlecht, schrecklich.
-{personA} ist {personB}s {relationship}.
-{scenario}
-{personA} fragt nach der Meinung.
-{personB} fand {thing} {state} von 5 Herzen.
-Keine Erklärung. Nur das Adjektiv.
-{personB} sagt: \"Es war "
+Anweisung:
+Lesen Sie das folgende Szenario und vervollständigen Sie die Aussage von {personB} mit genau einem Adjektiv aus der vorgegebenen Liste.
+Szenario:
+{personA} ist {relationship} von {personB}. {scenario}
+Bewertung von {personB} für {thing}: {state}/5
+Optionen:
+[großartig, gut, okay, schlecht, schrecklich]
+Ausgabeformat:
+Antworten Sie ausschließlich im folgenden Format: Es war [Adjektiv]. Keine Erklärungen, keine zusätzlichen Wörter.
+Antwort:
+Es war

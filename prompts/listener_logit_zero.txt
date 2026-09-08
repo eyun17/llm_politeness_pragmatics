@@ -1,8 +1,15 @@
-Bitte lesen Sie das Szenario und geben Sie an, wie die Person die Situation wirklich bewertet.
-Antworten Sie nur mit einer einzigen Zahl (1-5).
-{personA} ist {personB}s {relationship}.
-{scenario}
-{personA} fragt nach der Meinung.
-{personB} sagt: "Es war{adjective}".
-Wie denken Sie, dass {personB} {thing} wirklich fand von 5 Herzen? 1 / 2 / 3 / 4 / 5
-Keine Erklärung. Nur die Zahl. Antwort:
+Anweisung:
+Lesen Sie das folgende Szenario und bewerten Sie, wie {personB} {thing} wirklich fand.
+Szenario:
+{personA} ist {relationship} von {personB}. {scenario}
+Aussage von {personB}:
+"Es war {adjective}."
+Skala (1 bis 5 Herzen):
+1 = 1 von 5 Herzen (sehr negativ / am wenigsten)
+2 = 2 von 5 Herzen (eher negativ)
+3 = 3 von 5 Herzen (neutral / durchschnittlich)
+4 = 4 von 5 Herzen (eher positiv)
+5 = 5 von 5 Herzen (sehr positiv / am meisten)
+Ausgabeformat:
+Antworten Sie ausschließlich mit einer einzelnen Ziffer (1, 2, 3, 4 oder 5), die der Anzahl der vergebenen Herzen entspricht. Keine Erklärungen, keine zusätzlichen Wörter.
+Antwort:

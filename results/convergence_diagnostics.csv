@@ -1,0 +1,17 @@
+LLM,Role,Model,max_rhat,status
+qwen3-8b_zero,speaker,A,1.0044,✓
+qwen3-8b_zero,speaker,B,1.0038,✓
+qwen3-8b_zero,speaker,C,1.0034,✓
+qwen3-8b_zero,speaker,D,1.0007,✓
+qwen3-8b_zero,listener,A,1.7371,✗
+qwen3-8b_zero,listener,B,1.5282,✗
+qwen3-8b_zero,listener,C,1.0012,✓
+qwen3-8b_zero,listener,D,1.0007,✓
+llama3-8b_zero,speaker,A,1.0018,✓
+llama3-8b_zero,speaker,B,1.0012,✓
+llama3-8b_zero,speaker,C,1.0017,✓
+llama3-8b_zero,speaker,D,1.002,✓
+llama3-8b_zero,listener,A,1.5338,✗
+llama3-8b_zero,listener,B,1.0012,✓
+llama3-8b_zero,listener,C,1.0033,✓
+llama3-8b_zero,listener,D,1.0007,✓

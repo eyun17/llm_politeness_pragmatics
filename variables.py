@@ -1,8 +1,8 @@
 RELATIONSHIP_VAR = [
-    "Enge Freundin",
-    "Entfernte Kollegin",
-    "Lockere Chefin",
-    "Gefürchtete Chefin",
+    "enge Freundin",
+    "entfernte Kollegin",
+    "lockere Chefin",
+    "gefürchtete Chefin",
 ]
 
 NAME_VARIATIONS = ["Miriam", "Luisa", "Katharina", "Anna", "Sophie"]
@@ -10,7 +10,7 @@ NAME_VARIATIONS = ["Miriam", "Luisa", "Katharina", "Anna", "Sophie"]
 STATE_VAR = [1, 2, 3, 4, 5]
 
 SITUATIONS = {
-    "Kuchen":  "{personA} hat einen Kuchen gebacken und {personB} probiert den Kuchen. Anschließend fragt {personA}, wie {personB} findet, dass sie gebacken hat.",
+    "Kuchen":  "{personA} hat einen Kuchen gebacken und {personB} hat den Kuchen probiert . Anschließend fragt {personA}, wie {personB} findet, dass sie gebacken hat.",
     "Lied":    "{personA} hat ein Lied geschrieben und hat es {personB} vorgetragen. Anschließend fragt {personA}, wie {personB} findet, dass sie geschrieben hat.",
     "Film":    "{personA} hat einen Film geschnitten und {personB} hat ihn gesehen. Anschließend fragt {personA}, wie {personB} findet, dass sie geschnitten hat.",
     "Theater": "{personA} hat bei einer Theateraufführung mitgespielt und {personB} hat sie gesehen. Anschließend fragt {personA}, wie {personB} findet, dass sie mitgespielt hat.",

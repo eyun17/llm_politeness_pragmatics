@@ -1,0 +1,17 @@
+LLM,Role,Model,param,tau,p
+Qwen3,listener,A,phi,-0.333,0.75
+Qwen3,listener,B,alpha,0.333,0.75
+Qwen3,listener,C,phi,-0.667,0.3333
+Qwen3,listener,D,alpha,0.0,1.0
+Qwen3,speaker,A,phi,-0.667,0.3333
+Qwen3,speaker,B,alpha,-0.667,0.3333
+Qwen3,speaker,C,phi,0.0,1.0
+Qwen3,speaker,D,alpha,-0.333,0.75
+LLaMA3,listener,A,phi,0.0,1.0
+LLaMA3,listener,B,alpha,0.0,1.0
+LLaMA3,listener,C,phi,0.0,1.0
+LLaMA3,listener,D,alpha,1.0,0.0833
+LLaMA3,speaker,A,phi,-0.333,0.75
+LLaMA3,speaker,B,alpha,-0.333,0.75
+LLaMA3,speaker,C,phi,-0.333,0.75
+LLaMA3,speaker,D,alpha,-0.333,0.75

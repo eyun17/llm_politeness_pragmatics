@@ -49,10 +49,10 @@ def build_rsa_c(phi, alpha, lam):
     U_epi_t      = pt.as_tensor_variable(U_epi)
     U_soc_base_t = pt.as_tensor_variable(U_soc_base)
     phi_b = phi[:, None, None]
-    U     = phi_b * U_epi_t[None, :, :] + (1 - phi_b) * alpha * U_soc_base_t[None, :, None]
-    logits = lam * U
-    log_S1 = logits - pt.logsumexp(logits, axis=1, keepdims=True)
-    log_L1 = log_S1  - pt.logsumexp(log_S1,  axis=2, keepdims=True)
+    U        = phi_b * U_epi_t[None, :, :] + (1 - phi_b) * alpha * U_soc_base_t[None, :, None]
+    scaled_U = lam * U
+    log_S1 = scaled_U - pt.logsumexp(scaled_U, axis=1, keepdims=True)
+    log_L1 = log_S1   - pt.logsumexp(log_S1,   axis=2, keepdims=True)
     return log_S1, log_L1
 
 
@@ -64,19 +64,35 @@ def build_rsa_f(alpha, phi, lam):
     """
     U_epi_t      = pt.as_tensor_variable(U_epi)
     U_soc_base_t = pt.as_tensor_variable(U_soc_base)
-    alpha_b = alpha[:, None, None]
-    U       = phi * U_epi_t[None, :, :] + alpha_b * (1 - phi) * U_soc_base_t[None, :, None]
-    logits  = lam * U
-    log_S1  = logits - pt.logsumexp(logits, axis=1, keepdims=True)
-    log_L1  = log_S1  - pt.logsumexp(log_S1,  axis=2, keepdims=True)
+    alpha_b  = alpha[:, None, None]
+    U        = phi * U_epi_t[None, :, :] + alpha_b * (1 - phi) * U_soc_base_t[None, :, None]
+    scaled_U = lam * U
+    log_S1   = scaled_U - pt.logsumexp(scaled_U, axis=1, keepdims=True)
+    log_L1   = log_S1   - pt.logsumexp(log_S1,   axis=2, keepdims=True)
     return log_S1, log_L1
 
 
 # ── Data Loaders ───────────────────────────────────────────────────────────────
 
 def _parse_state(text):
-    m = re.search(r'[1-5]', str(text))
-    return int(m.group()) if m else None
+    from collections import Counter
+    text = str(text)
+    text = re.sub(r'\bvon\s+[1-5]\b', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\bbis\s+[1-5]\b', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\bbetween\s+[1-5]\s+and\s+[1-5]\b', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\b5\s+Herzen\b', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'[1-5]\s*[-–]\s*[1-5]', '', text)
+    text = re.sub(r'[1-5]\s+(bis|to|und|oder)\s+[1-5]', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'[1-5](\s*,\s*[1-5]){2,}(\s*(oder|und|or)\s*[1-5])?', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'[1-5](\s*\|\s*[1-5]){2,}', '', text)
+    digits = re.findall(r'(?<!\d)[1-5](?!\d)', text)
+    if not digits: return None
+    counts = Counter(digits)
+    top, top_n = counts.most_common(1)[0]
+    if len(counts) == 1: return int(top)
+    second_n = counts.most_common(2)[1][1]
+    if top_n > 1 and second_n == 1: return int(top)
+    return None
 
 
 def _parse_adj(text):
@@ -87,7 +103,7 @@ def _parse_adj(text):
 
 
 def flat_speaker_logit(model):
-    p = Path(f'results/speaker_logit_{model}.csv')
+    p = Path(f'results/csv/speaker_logit_{model}.csv')
     if not p.exists():
         print(f'[없음] {p}'); return None
     df = pd.read_csv(p)
@@ -113,10 +129,17 @@ def flat_speaker_logit(model):
 
 
 def load_speaker_counts(model):
-    p = Path(f'results/speaker_choice_{model}.csv')
-    if not p.exists(): return print(f'[없음] {p}')
-    df = pd.read_csv(p)
-    df['utterance'] = df['response_text'].apply(_parse_adj)
+    reviewed = Path(f'results/to_review/speaker_choice_{model}.csv')
+    p        = Path(f'results/csv/speaker_choice_{model}.csv')
+    if reviewed.exists():
+        df = pd.read_csv(reviewed)
+        df['utterance'] = df['parsed'].replace('', pd.NA)
+        print(f'[수동검토본 사용] {reviewed}')
+    elif p.exists():
+        df = pd.read_csv(p)
+        df['utterance'] = df['response_text'].apply(_parse_adj)
+    else:
+        return print(f'[없음] {p}')
     n_fail = df['utterance'].isna().sum()
     print(f'파싱 실패: {n_fail}/{len(df)} ({100*n_fail/len(df):.1f}%)')
     df = df.dropna(subset=['utterance'])
@@ -131,7 +154,7 @@ def load_speaker_counts(model):
 
 
 def load_speaker_logit_avg(model):
-    p = Path(f'results/speaker_logit_{model}.csv')
+    p = Path(f'results/csv/speaker_logit_{model}.csv')
     if not p.exists(): return print(f'[없음] {p}')
     df = pd.read_csv(p)
     out = np.zeros((N_rel, N_sta, N_utt))
@@ -144,7 +167,7 @@ def load_speaker_logit_avg(model):
 
 
 def flat_listener_logit(model):
-    p = Path(f'results/listener_logit_{model}.csv')
+    p = Path(f'results/csv/listener_logit_{model}.csv')
     if not p.exists():
         print(f'[없음] {p}'); return None
     df = pd.read_csv(p)
@@ -170,10 +193,17 @@ def flat_listener_logit(model):
 
 
 def load_listener_counts(model):
-    p = Path(f'results/listener_choice_{model}.csv')
-    if not p.exists(): return print(f'[없음] {p}')
-    df = pd.read_csv(p)
-    df['inferred'] = df['response_text'].apply(_parse_state)
+    reviewed = Path(f'results/to_review/listener_choice_{model}.csv')
+    p        = Path(f'results/csv/listener_choice_{model}.csv')
+    if reviewed.exists():
+        df = pd.read_csv(reviewed)
+        df['inferred'] = pd.to_numeric(df['parsed'].replace('', pd.NA), errors='coerce')
+        print(f'[수동검토본 사용] {reviewed}')
+    elif p.exists():
+        df = pd.read_csv(p)
+        df['inferred'] = df['response_text'].apply(_parse_state)
+    else:
+        return print(f'[없음] {p}')
     n_fail = df['inferred'].isna().sum()
     print(f'파싱 실패: {n_fail}/{len(df)} ({100*n_fail/len(df):.1f}%)')
     df = df.dropna(subset=['inferred'])
@@ -189,7 +219,7 @@ def load_listener_counts(model):
 
 
 def load_listener_logit_avg(model):
-    p = Path(f'results/listener_logit_{model}.csv')
+    p = Path(f'results/csv/listener_logit_{model}.csv')
     if not p.exists(): return print(f'[없음] {p}')
     df = pd.read_csv(p)
     out = np.zeros((N_rel, N_utt, N_sta))
@@ -208,7 +238,9 @@ def save_trace(trace, model_name, role, model_id):
     p = Path(f'results/traces/{model_name}')
     p.mkdir(parents=True, exist_ok=True)
     path = p / f'{role}_{model_id}.nc'
-    trace.to_netcdf(str(path))
+    if path.exists():
+        path.unlink()
+    trace.to_netcdf(str(path), overwrite_existing=True)
     print(f'saved → {path}')
 
 
