@@ -48,12 +48,12 @@ German social scenarios where person A created something and asks person B for f
 
 ## Models
 
-| Model | HuggingFace | Size |
-|-------|-------------|------|
-| `llama3-8b` | QuantFactory/Meta-Llama-3-8B-Instruct-GGUF | 8B |
-| `qwen3-8b` | Qwen/Qwen3-8B-GGUF | 8B |
-| `llama3-70b` | QuantFactory/Meta-Llama-3-70B-Instruct-GGUF | 70B |
-| `qwen3-32b` | Qwen/Qwen3-32B-GGUF | 32B |
+| Model | HuggingFace | Size | Status |
+|-------|-------------|------|--------|
+| `qwen3-8b` | Qwen/Qwen3-8B-GGUF | 8B | ✅ complete |
+| `llama3-8b` | QuantFactory/Meta-Llama-3-8B-Instruct-GGUF | 8B | ✅ complete |
+| `llama3-70b` | QuantFactory/Meta-Llama-3-70B-Instruct-GGUF | 70B | planned |
+| `qwen3-32b` | Qwen/Qwen3-32B-GGUF | 32B | planned |
 
 All models run locally via `llama-cpp-python` (GGUF Q4_K_M quantization).
 
@@ -86,25 +86,43 @@ Parameters are inferred via Bayesian MCMC (PyMC + NUTS sampler).
 
 ---
 
+## RSA Model Configurations
+
+| Config | Role input | RSA variant | Free (per-rel) | Fixed (shared) |
+|--------|------------|-------------|----------------|----------------|
+| A | choice | pRRSAc | φ_r | α, λ |
+| B | choice | pRRSAf | α_r | φ, λ |
+| C | logit  | pRRSAc | φ_r | α, λ |
+| D | logit  | pRRSAf | α_r | φ, λ |
+
+Models C and D (logit-based) show best convergence (R̂ < 1.01).
+
+---
+
 ## Project Structure
 
 ```
 .
-├── experiment.ipynb       # Data collection — run LLMs on the task
-├── scoring.py             # Log-prob scoring (chain-rule, multi-token safe)
+├── experiment.py          # Data collection — run LLMs on the task (CLI script)
+├── scoring.py             # Log-prob scoring (chain-rule, BPE-safe multi-token)
 ├── variables.py           # Stimuli, model configs, adjectives
 ├── prompts/               # Prompt templates (speaker/listener × logit/choice × shot)
 │
-├── rsa_speaker.ipynb      # RSA model fitting — Speaker role
-├── rsa_listener.ipynb     # RSA model fitting — Listener role
-├── rsa_models.py          # Shared RSA forward models & data loaders
-├── run_all.ipynb          # Batch fitting loop across all models & LLMs
+├── rsa_models.py          # RSA forward models, MCMC setup, data loaders
+├── run_all.ipynb          # Batch fitting loop across all LLMs & model configs
+│
+├── 01_anova.ipynb         # Statistical tests (ANOVA, chi-square, Bayesian t-test)
+├── 02_fitting.ipynb       # Model fit diagnostics (R̂, ESS, trace plots)
+├── 03_analysis.ipynb      # Main analysis & figures (behavioral + predicted means)
 │
 ├── results/
-│   ├── csv/               # Raw LLM outputs
-│   └── traces/            # MCMC traces (.nc) per LLM × role × model
+│   ├── csv/               # Raw LLM outputs (speaker/listener × logit/choice)
+│   ├── to_review/         # Manually verified choice responses (parsed column)
+│   └── traces/            # MCMC traces (.nc) per LLM × role × model config
+│       ├── qwen3-8b_zero/ # A.nc – D.nc for speaker & listener
+│       └── llama3-8b_zero/
 │
-└── plot.ipynb             # Visualizations
+└── plot.ipynb             # Additional visualizations
 ```
 
 ---
@@ -113,22 +131,32 @@ Parameters are inferred via Bayesian MCMC (PyMC + NUTS sampler).
 
 ### 1. Collect LLM data
 
-Open `experiment.ipynb`, set the config at the top:
-
-```python
-MODEL       = "qwen3-8b"   # "llama3-8b" | "qwen3-8b" | "llama3-70b" | "qwen3-32b"
-ROLE        = "speaker"    # "speaker" | "listener"
-MODE        = "logit"      # "logit" | "choice"
-REPETITIONS = 1            # logit → 1, choice → 5–10
-SHOT        = "zero"       # "zero" | "one"
+```bash
+python experiment.py --model qwen3-8b --role speaker --mode logit --shot zero
 ```
 
-Run all cells. Results are saved to `results/` incrementally (crash-safe).
+Key options:
+- `--model`: `llama3-8b` | `qwen3-8b` | `llama3-70b` | `qwen3-32b`
+- `--role`: `speaker` | `listener`
+- `--mode`: `logit` (log-prob extraction) | `choice` (free generation, use `--repetitions 5`)
+- `--shot`: `zero` | `one`
 
-### 2. Fit RSA models
+Results are saved to `results/csv/` incrementally (crash-safe).
 
-Run `run_all.ipynb` to fit all 8 RSA models (A–D × speaker/listener) across all LLMs.
+### 2. Review choice responses (choice mode only)
+
+Choice mode outputs natural-language responses that must be parsed to adjective/state labels. The `results/to_review/` CSVs contain auto-parsed results; correct the `parsed` column where needed. All downstream analysis reads from `parsed`.
+
+### 3. Fit RSA models
+
+Run `run_all.ipynb` to fit all 8 RSA model configs (A–D × speaker/listener) across all LLMs.
 Completed traces are skipped automatically (`SKIP_IF_EXISTS = True`).
+
+### 4. Analysis
+
+- **`01_anova.ipynb`** — listener two-way ANOVA, speaker chi-square test of independence (Cramér's V), Bayesian t-test (BF₁₀)
+- **`02_fitting.ipynb`** — convergence diagnostics per trace
+- **`03_analysis.ipynb`** — R² fits, behavioral vs. predicted mean state plots, Figure 1 style comparison
 
 ---
 
